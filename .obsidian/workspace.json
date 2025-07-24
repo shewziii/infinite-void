@@ -94,7 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "test.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for test"
             }
           },
           {
@@ -148,7 +149,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,17 +169,23 @@
   },
   "active": "62a161559c18a731",
   "lastOpenFiles": [
-    "archive",
-    "resources",
-    "areas",
-    "projects",
-    "Untitled.md",
-    "Untitled.md~",
-    "areas",
-    "resources",
-    "archive",
-    "resource",
-    "area",
-    "projects"
+    "3 resources/editing/edit like an artist.md",
+    "test.md",
+    "test.md~",
+    "3 resources/editing/edit like an artist.md~",
+    "1 projects/session tracker/definition.md~",
+    "3 resources/cs/cs links.md~",
+    "1 projects/session tracker/definition.md",
+    "3 resources/cs/cs links.md",
+    "3 resources/editing",
+    "3 resources/cs",
+    "2 areas/personal",
+    "2 areas/home",
+    "1 projects/100 days deserted island.md",
+    "1 projects/100 Days Deserted Island.md",
+    "1 projects/session tracker",
+    "1 projects/100 Days Deserted Island.md~",
+    "projects/100 Days Deserted Island.md",
+    "Untitled.md"
   ]
 }
