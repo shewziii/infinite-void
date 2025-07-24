@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "3 resources/editing/edit like an artist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "edit like an artist"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.50312423706055
   },
   "right": {
     "id": "32492073f9d91fc8",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "3 resources/editing/edit like an artist.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test"
+              "title": "Backlinks for edit like an artist"
             }
           },
           {
@@ -164,27 +164,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "62a161559c18a731",
   "lastOpenFiles": [
+    "1 projects/100 days deserted island/100 days deserted island.md",
     "3 resources/editing/edit like an artist.md",
+    "1 projects/session tracker/planning.md",
+    "1 projects/session tracker/session tracker kanban.md",
+    "1 projects/100 days deserted island/100 days deserted island.md~",
+    "1 projects/session tracker/session tracker flowchart.canvas",
+    "1 projects/100 days deserted island",
+    "1 projects/videos",
+    "1 projects/session tracker/session tracker kanban.md~",
+    "1 projects/session tracker/planning.md~",
+    "1 projects/session tracker/definition.md",
+    "1 projects/session tracker/definition.md~",
     "test.md",
     "test.md~",
     "3 resources/editing/edit like an artist.md~",
-    "1 projects/session tracker/definition.md~",
     "3 resources/cs/cs links.md~",
-    "1 projects/session tracker/definition.md",
     "3 resources/cs/cs links.md",
     "3 resources/editing",
-    "3 resources/cs",
-    "2 areas/personal",
-    "2 areas/home",
-    "1 projects/100 days deserted island.md",
     "1 projects/100 Days Deserted Island.md",
-    "1 projects/session tracker",
-    "1 projects/100 Days Deserted Island.md~",
     "projects/100 Days Deserted Island.md",
     "Untitled.md"
   ]

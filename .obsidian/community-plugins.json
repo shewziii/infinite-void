@@ -1,3 +1,7 @@
 [
-  "obsidian-style-settings"
+  "templater-obsidian",
+  "dataview",
+  "obsidian-style-settings",
+  "obsidian-relative-line-numbers",
+  "obsidian-kanban"
 ]

@@ -1,8 +1,8 @@
 {
-  "showLineNumber": true,
-  "vimMode": true,
-  "showInlineTitle": false,
-  "livePreview": false,
   "propertiesInDocument": "source",
+  "showInlineTitle": false,
+  "vimMode": true,
+  "showLineNumber": true,
+  "livePreview": true,
   "promptDelete": false
 }
