@@ -11,10 +11,14 @@
             "id": "62a161559c18a731",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -162,5 +166,18 @@
     }
   },
   "active": "62a161559c18a731",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "archive",
+    "resources",
+    "areas",
+    "projects",
+    "Untitled.md",
+    "Untitled.md~",
+    "areas",
+    "resources",
+    "archive",
+    "resource",
+    "area",
+    "projects"
+  ]
 }
