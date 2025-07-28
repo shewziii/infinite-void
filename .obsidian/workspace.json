@@ -11,10 +11,14 @@
             "id": "62a161559c18a731",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "daily notes/2025-07-28.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-07-28"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.50312423706055
+    "width": 203.50312423706055
   },
   "right": {
     "id": "32492073f9d91fc8",
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 resources/editing/edit like an artist.md",
+                "file": "daily notes/2025-07-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for edit like an artist"
+              "title": "Backlinks for 2025-07-28"
             }
           },
           {
@@ -109,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily notes/2025-07-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-07-28"
             }
           },
           {
@@ -137,21 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "daily notes/2025-07-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-07-28"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,20 +170,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bb4d69f032f0f09b",
+  "active": "62a161559c18a731",
   "lastOpenFiles": [
-    "uni",
-    "templates",
-    "film",
-    "recipes",
-    "projects",
-    "daily notes",
-    "books",
-    "1 projects/finish reading the name of the wind.md~",
+    "daily notes/2025-07-28.md~",
+    "templates/daily_note_template.md",
+    "daily notes/2025-07-28.md",
+    "cs/rust/01 cargo.md",
+    "templates/daily_note_template.md~",
+    "cs/git",
+    "cs/css",
+    "cs/html",
+    "cs/python",
+    "cs/java",
+    "cs/js",
+    "cs/cpp",
+    "editing",
     "projects/finish reading the name of the wind.md",
-    "1 projects/finish reading the name of the wind",
-    "3 resources/animation/animation links.md~",
-    "3 resources/art/art links.md~",
     "1 projects/100 days deserted island/100 days deserted island.md",
     "4 archive/100 days deserted island/100 days deserted island.md",
     "resources/art/art links.md",
