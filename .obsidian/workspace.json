@@ -11,14 +11,10 @@
             "id": "62a161559c18a731",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 projects/100 days deserted island/100 days deserted island.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "100 days deserted island"
+              "title": "New tab"
             }
           }
         ]
@@ -171,10 +167,18 @@
   },
   "active": "62a161559c18a731",
   "lastOpenFiles": [
+    "1 projects/100 days deserted island/100 days deserted island.md",
+    "4 archive/100 days deserted island/100 days deserted island.md",
+    "4 archive/100 days deserted island",
+    "3 resources/cs/cs links.md~",
+    "3 resources/art/art links.md",
+    "3 resources/art",
+    "1 projects/mayorga-creative/To Do.md",
+    "1 projects/mayorga-creative",
+    "3 resources/animation/animation links.md",
     "3 resources/editing/edit like an artist.md",
     "3 resources/animation/animation resources.md",
     "3 resources/animation",
-    "1 projects/100 days deserted island/100 days deserted island.md",
     "1 projects/session tracker/planning.md",
     "1 projects/session tracker/session tracker kanban.md",
     "1 projects/100 days deserted island/100 days deserted island.md~",
@@ -184,11 +188,7 @@
     "1 projects/session tracker/session tracker kanban.md~",
     "1 projects/session tracker/planning.md~",
     "1 projects/session tracker/definition.md",
-    "1 projects/session tracker/definition.md~",
     "test.md",
-    "test.md~",
-    "3 resources/editing/edit like an artist.md~",
-    "3 resources/cs/cs links.md~",
     "3 resources/cs/cs links.md",
     "1 projects/100 Days Deserted Island.md",
     "projects/100 Days Deserted Island.md",
