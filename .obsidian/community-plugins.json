@@ -3,5 +3,7 @@
   "dataview",
   "obsidian-style-settings",
   "obsidian-relative-line-numbers",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "calendar",
+  "auto-card-link"
 ]

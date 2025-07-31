@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2025-07-28.md",
+                "file": "daily notes/2025-07-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-28"
+              "title": "2025-07-31"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -85,8 +85,26 @@
     "type": "split",
     "children": [
       {
+        "id": "26620147bc6b33d9",
+        "type": "tabs",
+        "dimension": 35.58758314855876,
+        "children": [
+          {
+            "id": "cdbdc54b6f066696",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
         "id": "b84e291c3d8f22c6",
         "type": "tabs",
+        "dimension": 64.41241685144125,
         "children": [
           {
             "id": "cc90a49b3f7d7105",
@@ -113,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2025-07-28.md",
+                "file": "templates/daily_note_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-07-28"
+              "title": "Outgoing links from daily_note_template"
             }
           },
           {
@@ -142,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2025-07-28.md",
+                "file": "daily notes/2025-07-31.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-28"
+              "title": "Outline of 2025-07-31"
             }
           }
         ],
@@ -172,9 +190,28 @@
   },
   "active": "62a161559c18a731",
   "lastOpenFiles": [
-    "daily notes/2025-07-28.md~",
+    "daily notes/2025-07-31.md~",
+    "daily notes/2025-07-30.md~",
+    "daily notes/2025-07-30.md",
+    "daily notes/2025-07-31.md",
     "templates/daily_note_template.md",
+    "2025-07-31.md",
+    "daily notes/2025-07-29.md",
     "daily notes/2025-07-28.md",
+    "art/references.canvas",
+    "archive/GwGc2FpWAAAI63_.jpg",
+    "archive/GwcwadSbEAAcIDH.jpg",
+    "archive/Gv3NamXaoAASvjJ.jpg",
+    "archive/GsxmXJQasAABxKg.jpg",
+    "archive/Gsq3ta4bgAAOoTd.jpg",
+    "archive/GmQIoPQbIAA7QPn.jpg",
+    "archive/GvxtYG1XEAAM8-J.jpg",
+    "archive/GvFP9ZmXIAAXQvZ.jpg",
+    "archive/GtVUYSwbMAQKhVE.jpg",
+    "archive/GpmVa9qbUAALmds.jpg",
+    "art/resources.md",
+    "art",
+    "daily notes/2025-07-28.md~",
     "cs/rust/01 cargo.md",
     "templates/daily_note_template.md~",
     "cs/git",
@@ -183,8 +220,6 @@
     "cs/python",
     "cs/java",
     "cs/js",
-    "cs/cpp",
-    "editing",
     "projects/finish reading the name of the wind.md",
     "1 projects/100 days deserted island/100 days deserted island.md",
     "4 archive/100 days deserted island/100 days deserted island.md",
