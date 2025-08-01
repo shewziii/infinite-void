@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2025-07-31.md",
+                "file": "daily notes/2025-08-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-31"
+              "title": "2025-08-01"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2025-07-31.md",
+                "file": "daily notes/2025-08-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-31"
+              "title": "Outline of 2025-08-01"
             }
           }
         ],
@@ -190,10 +190,14 @@
   },
   "active": "62a161559c18a731",
   "lastOpenFiles": [
+    "daily notes/2025-07-31.md",
+    "daily notes/2025-08-01.md",
+    "art/head.md",
+    "art/perspective.canvas",
+    "archive/F1qHZTPacAACtwm.png",
     "daily notes/2025-07-31.md~",
     "daily notes/2025-07-30.md~",
     "daily notes/2025-07-30.md",
-    "daily notes/2025-07-31.md",
     "templates/daily_note_template.md",
     "2025-07-31.md",
     "daily notes/2025-07-29.md",
@@ -208,7 +212,6 @@
     "archive/GvxtYG1XEAAM8-J.jpg",
     "archive/GvFP9ZmXIAAXQvZ.jpg",
     "archive/GtVUYSwbMAQKhVE.jpg",
-    "archive/GpmVa9qbUAALmds.jpg",
     "art/resources.md",
     "art",
     "daily notes/2025-07-28.md~",
@@ -219,7 +222,6 @@
     "cs/html",
     "cs/python",
     "cs/java",
-    "cs/js",
     "projects/finish reading the name of the wind.md",
     "1 projects/100 days deserted island/100 days deserted island.md",
     "4 archive/100 days deserted island/100 days deserted island.md",
