@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2025-08-01.md",
+                "file": "daily notes/2025-08-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-01"
+              "title": "2025-08-05"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2025-08-01.md",
+                "file": "daily notes/2025-08-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-01"
+              "title": "Outline of 2025-08-05"
             }
           }
         ],
@@ -178,6 +178,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -190,8 +191,11 @@
   },
   "active": "62a161559c18a731",
   "lastOpenFiles": [
-    "daily notes/2025-07-31.md",
+    "daily notes/2025-08-05.md",
     "daily notes/2025-08-01.md",
+    "daily notes/2025-08-03.md",
+    "daily notes/2025-08-01.md~",
+    "daily notes/2025-07-31.md",
     "art/head.md",
     "art/perspective.canvas",
     "archive/F1qHZTPacAACtwm.png",
@@ -221,7 +225,6 @@
     "cs/css",
     "cs/html",
     "cs/python",
-    "cs/java",
     "projects/finish reading the name of the wind.md",
     "1 projects/100 days deserted island/100 days deserted island.md",
     "4 archive/100 days deserted island/100 days deserted island.md",
@@ -236,8 +239,6 @@
     "1 projects/session tracker/definition.md",
     "test.md",
     "resources/cs/cs links.md",
-    "1 projects/100 Days Deserted Island.md",
-    "projects/100 Days Deserted Island.md",
-    "Untitled.md"
+    "1 projects/100 Days Deserted Island.md"
   ]
 }
