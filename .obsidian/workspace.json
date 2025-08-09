@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2025-08-05.md",
+                "file": "daily notes/2025-08-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-05"
+              "title": "2025-08-09"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2025-08-05.md",
+                "file": "daily notes/2025-08-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-05"
+              "title": "Outline of 2025-08-09"
             }
           }
         ],
@@ -192,6 +192,13 @@
   "active": "62a161559c18a731",
   "lastOpenFiles": [
     "daily notes/2025-08-05.md",
+    "daily notes/2025-08-09.md",
+    "daily notes/2025-08-07.md",
+    "projects/burhan slasher/the rise and fall of burhan slasher.md",
+    "Pasted image 20250806112923.png",
+    "Pasted image 20250806111235.png",
+    "projects/burhan slasher",
+    "daily notes/2025-08-06.md",
     "daily notes/2025-08-01.md",
     "daily notes/2025-08-03.md",
     "daily notes/2025-08-01.md~",
@@ -214,8 +221,6 @@
     "archive/Gsq3ta4bgAAOoTd.jpg",
     "archive/GmQIoPQbIAA7QPn.jpg",
     "archive/GvxtYG1XEAAM8-J.jpg",
-    "archive/GvFP9ZmXIAAXQvZ.jpg",
-    "archive/GtVUYSwbMAQKhVE.jpg",
     "art/resources.md",
     "art",
     "daily notes/2025-07-28.md~",
@@ -224,7 +229,6 @@
     "cs/git",
     "cs/css",
     "cs/html",
-    "cs/python",
     "projects/finish reading the name of the wind.md",
     "1 projects/100 days deserted island/100 days deserted island.md",
     "4 archive/100 days deserted island/100 days deserted island.md",
@@ -235,10 +239,6 @@
     "3 resources/animation/animation resources.md",
     "projects/session tracker/planning.md",
     "projects/session tracker/session tracker kanban.md",
-    "1 projects/session tracker/session tracker flowchart.canvas",
-    "1 projects/session tracker/definition.md",
-    "test.md",
-    "resources/cs/cs links.md",
-    "1 projects/100 Days Deserted Island.md"
+    "1 projects/session tracker/session tracker flowchart.canvas"
   ]
 }
