@@ -4,5 +4,6 @@
   "vimMode": true,
   "showLineNumber": false,
   "livePreview": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "archive"
 }
