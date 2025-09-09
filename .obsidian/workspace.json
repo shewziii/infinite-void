@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uni/1. MKTG 437/9-8-25.md",
+                "file": "uni/2. MGMT 449/9-8-25.md",
                 "mode": "source",
                 "source": false
               },
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uni/1. MKTG 437/9-8-25.md",
+                "file": "uni/2. MGMT 449/9-8-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,15 +188,20 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "62a161559c18a731",
   "lastOpenFiles": [
+    "uni/2. MGMT 449/9-8-25.md~",
+    "uni/4. MKTG 333/9-9-25.md",
+    "Pasted image 20250908184326.png",
+    "Pasted image 20250908174628.png",
+    "uni/1. MKTG 437/9-8-25.md",
+    "daily notes/2025-09-08.md",
     "uni/2. MGMT 449/9-8-25.md",
     "uni/1. MKTG 437/9-8-25.md~",
-    "daily notes/2025-09-08.md",
-    "uni/1. MKTG 437/9-8-25.md",
     "uni/2. MGMT 449/9-3-25.md",
     "uni/4. MKTG 333/9-5-25.md~",
     "uni/3. MKTG 338/9-5-25.md~",
@@ -230,17 +235,12 @@
     "daily notes/2025-07-31.md~",
     "daily notes/2025-07-30.md~",
     "daily notes/2025-07-30.md",
-    "templates/daily_note_template.md",
-    "2025-07-31.md",
     "art/references.canvas",
     "archive/GwGc2FpWAAAI63_.jpg",
     "archive/GwcwadSbEAAcIDH.jpg",
     "archive/Gv3NamXaoAASvjJ.jpg",
     "archive/GsxmXJQasAABxKg.jpg",
     "archive/Gsq3ta4bgAAOoTd.jpg",
-    "archive/GmQIoPQbIAA7QPn.jpg",
-    "archive/GvxtYG1XEAAM8-J.jpg",
-    "art",
     "1 projects/session tracker/session tracker flowchart.canvas"
   ]
 }
