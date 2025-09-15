@@ -5,5 +5,11 @@
   "showLineNumber": false,
   "livePreview": true,
   "promptDelete": false,
-  "attachmentFolderPath": "archive"
+  "attachmentFolderPath": "archive",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

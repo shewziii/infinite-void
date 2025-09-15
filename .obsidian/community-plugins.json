@@ -9,5 +9,6 @@
   "obsidian-excalidraw-plugin",
   "fountain-editor",
   "omnisearch",
-  "callout-manager"
+  "callout-manager",
+  "obsidian-pandoc"
 ]
