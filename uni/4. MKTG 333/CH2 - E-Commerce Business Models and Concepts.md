@@ -1,11 +1,7 @@
 ---
-id: "9-11-25"
-aliases:
-  - "Chapter 2: Something Something"
-tags:
-  - MKTG 333
-  - Marketing
-  - Digital Marketing
+id: CH2 - E-Commerce Business Models and Concepts
+aliases: []
+tags: []
 ---
 
 

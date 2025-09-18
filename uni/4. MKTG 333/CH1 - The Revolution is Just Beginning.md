@@ -1,10 +1,7 @@
 ---
-id: "9-9-25"
-aliases:
-  - "Chapter 1: The Revolution is Just Beginning"
-tags:
-  - MKTG 333
-  - Digital Marketing
+id: CH1 - The Revolution is Just Beginning
+aliases: []
+tags: []
 ---
 
 # The first 30 seconds
