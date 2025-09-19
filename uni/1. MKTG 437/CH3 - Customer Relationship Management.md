@@ -1,12 +1,7 @@
 ---
-id: "9-15-25"
-aliases:
-  - Chapter 3:
-tags:
-  - B2B
-  - Business to Business
-  - Marketing
-  - MTKG 437
+id: CH3 - Customer Relationship Management
+aliases: []
+tags: []
 ---
 
 # Types of Relationships

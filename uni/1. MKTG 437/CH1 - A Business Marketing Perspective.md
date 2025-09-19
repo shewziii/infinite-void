@@ -1,11 +1,7 @@
 ---
-id: "9-8-25"
-aliases:
-  - "Chapter 1: A Business Marketing Perspective"
-tags:
-  - MKTG 437
-  - B2B
-  - Marketing
+id: CH1 - A Business Marketing Perspective
+aliases: []
+tags: []
 ---
 
 # Business Markets

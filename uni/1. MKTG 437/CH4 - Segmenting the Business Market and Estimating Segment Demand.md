@@ -1,10 +1,7 @@
 ---
-id: "9-17-25"
-aliases:
-  - "Chapter 4: Segmenting the Business Market and Estimating Segment Demand"
-tags:
-  - Marketing
-  - B2B
+id: CH4 - Segmenting the Business Market and Estimating Segment Demand
+aliases: []
+tags: []
 ---
 
 # Key to Successful High-Growth Companies

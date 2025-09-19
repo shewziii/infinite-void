@@ -1,10 +1,7 @@
 ---
-id: "9-17-25"
-aliases:
-  - "Chapter 3: Company, Industry, and Competitive Environment"
-tags:
-  - Management
-  - Strategy
+id: CH3 - Company, Industry, and Competitive Environment
+aliases: []
+tags: []
 ---
 
 # PESTEL

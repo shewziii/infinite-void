@@ -1,13 +1,7 @@
 ---
-id: "9-11-25"
-aliases:
-  - Company Information
-tags:
-  - Professional Selling
-  - MKTG 337
-  - Marketing
-  - Sales
-  - Selling
+id: Cintas Company Info
+aliases: []
+tags: []
 ---
 
 Customer: Wonder Mart

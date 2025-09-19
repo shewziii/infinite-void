@@ -1,11 +1,7 @@
 ---
-id: "9-10-25"
-aliases:
-  - Chapter 2 - Organizational Buying Behavior
-tags:
-  - Marketing
-  - MKTG 437
-  - B2B
+id: CH2 - Oranizational Buying Behavior
+aliases: []
+tags: []
 ---
 
 # Organizational Buying Process

@@ -1,10 +1,7 @@
 ---
-id: "9-8-25"
-aliases:
-  - Chapter 2: Direction - Mission, Vision, and Strategy
-tags:
-  - MGMT 449
-  - Management
+id: CH2 - Direction, Mission, Vision, and Strategy
+aliases: []
+tags: []
 ---
 
 # What is Strategy?

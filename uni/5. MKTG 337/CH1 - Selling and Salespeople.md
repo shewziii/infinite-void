@@ -1,10 +1,7 @@
 ---
-id: "9-9-25"
-aliases:
-  - Introduction to Sales
-tags:
-  - Professional Selling
-  - MKTG 337
+id: CH1 - Selling and Salespeople
+aliases: []
+tags: []
 ---
 
 # What is Selling?

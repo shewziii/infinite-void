@@ -1,10 +1,7 @@
 ---
-id: "9-16-25"
-aliases:
-  - "Chapter 4: Communication"
-tags:
-  - Marketing
-  - Selling
+id: CH4 - Communication Principles
+aliases: []
+tags: []
 ---
 
 # Pre-Call Information
