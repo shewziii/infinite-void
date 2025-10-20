@@ -27,7 +27,7 @@ Economic Exchange
 ---
 # Communication Methods
 "Go to Market Strategies"
-![[Pasted image 20250909141100.png]]
+![[Pasted image 20250909141100.png|649x383]]
 
 > [!NOTE] Sales force-intensive organizations rely heavily on salsepeople
 

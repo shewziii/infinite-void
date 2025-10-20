@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uni/5. MKTG 337/CH6 - Something.md",
-                "mode": "preview",
+                "file": "uni/1. MKTG 437/CH11 - Supply Chain Management.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH6 - Something"
+              "title": "CH11 - Supply Chain Management"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uni/5. MKTG 337/CH6 - Something.md",
+                "file": "uni/1. MKTG 437/CH11 - Supply Chain Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CH6 - Something"
+              "title": "Outline of CH11 - Supply Chain Management"
             }
           }
         ],
@@ -193,10 +193,24 @@
   },
   "active": "62a161559c18a731",
   "lastOpenFiles": [
+    "uni/1. MKTG 437/CH10 - Managing Business Marketing ChannelsH.md",
+    "uni/1. MKTG 437/CH11 - Supply Chain Management.md",
+    "cs/rust/01 cargo.md",
+    "uni/5. MKTG 337/Presentations - Value Selling.md",
+    "uni/2. MGMT 449/CH7 - Strategies for Competing in International Markets.md",
+    "archive/image-5.png",
+    "archive/image-4.png",
+    "archive/image-3.png",
+    "archive/image-2.png",
+    "archive/image-1.png",
+    "archive/image.png",
+    "archive/B2B Marketing Channels.png",
+    "uni/5. MKTG 337/CH6 - Something.md",
+    "daily notes/2025-10-04.md",
+    "daily notes",
     "uni/5. MKTG 337/CH6 - Something.md~",
     "uni/5. MKTG 337/CH7 - Planning the Sales Call.md",
     "uni/4. MKTG 333/CH6 - E-Commerce Marketing and Advertising Concepts.md",
-    "uni/5. MKTG 337/CH6 - Something.md",
     "uni/1. MKTG 437/CH5 - Business Marketing Planning: Strategic Perspectives.md~",
     "uni/1. MKTG 437/CH5 - Business Marketing Planning: Strategic Perspectives.md",
     "uni/3. MKTG 338/9-16-25.md~",
@@ -212,7 +226,6 @@
     "uni/1. MKTG 437/CH2 - Oranizational Buying Behavior.md",
     "uni/1. MKTG 437/CH1 - A Business Marketing Perspective.md~",
     "uni/1. MKTG 437/CH1 - A Business Marketing Perspective.md",
-    "uni/5. MKTG 337/Cintas Company Info.md~",
     "uni/5. MKTG 337/CH5 - Adaptive Selling for Relationship Building.md",
     "uni/5. MKTG 337/CH4 - Communication Principles.md",
     "uni/5. MKTG 337/Cintas Company Info.md",
@@ -223,23 +236,11 @@
     "uni/2. MGMT 449/9-17-25.md",
     "uni/5. MKTG 337/9-16-25.md",
     "daily notes/2025-09-17.md",
-    "uni/1. MKTG 437/9-15-25.md",
-    "daily notes/2025-09-16.md",
-    "uni/4. MKTG 333/9-16-25.md",
-    "uni/3. MKTG 338/9-16-25.md",
-    "uni/2. MGMT 449/9-15-25.md",
     "archive/Pasted image 20250909141522.png",
     "archive/Pasted image 20250909141100.png",
     "archive/Pasted image 20250908184326.png",
-    "archive/Pasted image 20250908174628.png",
-    "Pasted image 20250806112923.png",
-    "Pasted image 20250806111235.png",
     "art/perspective.canvas",
-    "archive/F1qHZTPacAACtwm.png",
     "art/references.canvas",
-    "archive/GwGc2FpWAAAI63_.jpg",
-    "archive/GwcwadSbEAAcIDH.jpg",
-    "archive/Gv3NamXaoAASvjJ.jpg",
     "1 projects/session tracker/session tracker flowchart.canvas"
   ]
 }

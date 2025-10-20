@@ -12,6 +12,7 @@ Ready for the work day
 - 2,000 employees
 - Sued for slipping accident
 - Running a hiring campaign
+- Takes employees 1-3 hours to clean every day
 
 How do we get cintas to be the only option for wander mart to buy from
 **Your value has to be extremely high** 
