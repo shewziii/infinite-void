@@ -1,9 +1,15 @@
+---
+id: chili
+aliases: []
+tags: []
+---
+
 # Chili
 ## Ingredients
 - 1 whole onion
 - 1 whole bell pepper
 - 1 jalapeno 
-- 2lbs ground beef
+- 2 lbs ground beef
 - 1 1/2 cups beef or chicken broth
 - 1 can tomato sauce 
 - 28 oz can diced tomatoes 
