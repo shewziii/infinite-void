@@ -12,7 +12,7 @@ The diamond of national advantage answers important questions about competing on
 - Identifying advantages of locating specific value shain activities in a particular country
 - highlighting foreign market opportunities where rivals are weak
 
-![[image-5.png]]
+![[image-5.png|951x737]]
 
 # Location-Based Value Chain Advantages
 - lower wage rates
