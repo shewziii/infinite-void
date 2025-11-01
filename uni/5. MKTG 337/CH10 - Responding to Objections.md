@@ -57,9 +57,9 @@ Show empathy and understanding
 - I can understand your concern
 - That makes a lot of sense, I can see why you'd want some clarification on that
 ## Assess
-Probe further with additional question if it's not clear. Don't make any assumptions about anything. be sure it's a valid objection and not a smoke screen.
+Probe further with additional question if it's not clear. Don't make any assumptions about anything. Be sure it's a valid objection and not a smoke screen.
 ## Response
 Respond to their objection the best you can. If they have a true concern that can be handled, be sure to use and appropriate response method. Support your response with evidence
 ## Confirm to ensure the buyer no longer has this concern
-
 Check back and ask if they still have the same hesitation as before. if they do, go further in-depth with your response. If they seem to feel better now, you can try to close the sale.
+
