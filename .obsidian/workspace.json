@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uni/1. MKTG 437/Unit 3/ch12 - Pricing Strategies for Business Markets.md",
+                "file": "uni/2. MGMT 449/Unit 3/CH10 - Building an Organization Capable of Good Strategy Execution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ch12 - Pricing Strategies for Business Markets"
+              "title": "CH10 - Building an Organization Capable of Good Strategy Execution"
             }
           }
         ],
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "32492073f9d91fc8",
@@ -96,8 +97,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -144,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uni/2. MGMT 449/CH8 - Diversification.md",
+                "file": "uni/2. MGMT 449/Unit 3/CH10 - Building an Organization Capable of Good Strategy Execution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CH8 - Diversification"
+              "title": "Outgoing links from CH10 - Building an Organization Capable of Good Strategy Execution"
             }
           },
           {
@@ -206,8 +207,13 @@
   },
   "active": "ced61bf1888ef835",
   "lastOpenFiles": [
-    "uni/5. MKTG 337/CH10 - Responding to Objections.md",
     "uni/1. MKTG 437/Unit 3/ch12 - Pricing Strategies for Business Markets.md",
+    "Indirect traceable costs.md",
+    "uni/2. MGMT 449/Unit 3/CH10 - Building an Organization Capable of Good Strategy Execution.md",
+    "uni/2. MGMT 449/Unit 3",
+    "uni/2. MGMT 449/Unit 2",
+    "uni/2. MGMT 449/Unit 1",
+    "uni/5. MKTG 337/CH10 - Responding to Objections.md",
     "uni/1. MKTG 437/Unit 1",
     "uni/1. MKTG 437/Unit 2",
     "uni/1. MKTG 437/Unit 3",
@@ -216,9 +222,9 @@
     "uni/4. MKTG 333/CH2 - E-Commerce Business Models and Concepts.md",
     "uni/4. MKTG 333/CH6 - E-Commerce Marketing and Advertising Concepts.md",
     "uni/4. MKTG 333/CH9 - Online Retail and Services.md",
-    "uni/2. MGMT 449/CH7 - Strategies for Competing in International Markets.md",
-    "uni/2. MGMT 449/CH8 - Diversification.md",
-    "uni/2. MGMT 449/CH6 - Strengthening Competitive Position.md",
+    "uni/2. MGMT 449/Unit 2/CH7 - Strategies for Competing in International Markets.md",
+    "uni/2. MGMT 449/Unit 2/CH8 - Diversification.md",
+    "uni/2. MGMT 449/Unit 2/CH6 - Strengthening Competitive Position.md",
     "uni/1. MKTG 437/Unit 2/exam-2-notes.md",
     "recipes/chili.md",
     "uni/atomic notes/Diversification.md",
@@ -244,11 +250,6 @@
     "uni/5. MKTG 337/CH7 - Planning the Sales Call.md",
     "uni/1. MKTG 437/CH5 - Business Marketing Planning: Strategic Perspectives.md~",
     "uni/1. MKTG 437/CH5 - Business Marketing Planning: Strategic Perspectives.md",
-    "uni/3. MKTG 338/9-16-25.md~",
-    "uni/2. MGMT 449/CH2 - Direction, Mission, Vision, and Strategy.md~",
-    "uni/2. MGMT 449/CH3 - Company, Industry, and Competitive Environment.md~",
-    "uni/2. MGMT 449/CH3 - Company, Industry, and Competitive Environment.md",
-    "uni/2. MGMT 449/CH2 - Direction, Mission, Vision, and Strategy.md",
     "archive/Pasted image 20250909141522.png",
     "archive/Pasted image 20250909141100.png",
     "archive/Pasted image 20250908184326.png",

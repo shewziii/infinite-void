@@ -1,26 +1,30 @@
 # The Pricing Process in Business Markets
 All pricing strategies demonstrate 3 principles:
 1. Value-Based
-	1. reflect a clear understanding of how a firm's products or services create value for customers
 2. Proactive
-	1. anticipate disruptive events
 3. Profit-Driven
-	1. judge success based on bottom-line performance, rather than the level of revenue generated
+
+Value-based pricing reflects a clear understanding of how a firm's products or services create value for customers. Proactive pricing anticipates disruptive events that could happen in the future. Profit-driven pricing judges success based on bottom-line performance, rather than the level of revenue generated.
 ## Price Objectives
-Setting pricing objectives helps in making pricing decisions. Principal pricing objectives and collateral pricing goals of the marketer are: achieving target return on investment, achieving market-share goal, and meeting competition. Other objectives include competition, channel relationships, and product-line considerations. 
+Setting pricing objectives helps in making pricing decisions. Principal pricing objectives and collateral pricing goals of the marketer are: 
+- achieving target return on investment
+- achieving market-share goal
+- meeting competition
+
+Other objectives include competition, channel relationships, and product-line considerations. 
 ## Demand Determinants
 There are many things that determine the demand of a product or service which includes, usage and importance of the product/service by various market segments, potential demand, price sensitivity, potential profitability, and assessing the value place by a customer on a product.
 ## Differentiating Through Value Creation
 Core Differentiators
-- service support
-- personal interactions
-- suppliers know-how
-- ability to improve customer's time to market
+- Service support
+- Personal interactions
+- Suppliers know-how
+- Ability to improve customer's time to market
 
 Moderate Differentiators
-- product Quality
-- delivery
-- acquisition and operation costs
+- Product Quality
+- Delivery
+- Acquisition and operation costs
 ## Capturing Value
 How organizational buyers evaluate the economic value of the total offering determines the appropriateness of a pricing strategy. [[Economic value]] represents cost saving and/or revenue gains when purchasing a product (instead of the next best alternative). [[Commodity value]] is value that customers assign to features that resemble competitive offerings.[[Differentiation value]] represents the value of features that are unique and different from that of the competitor's.
 # Identifying Value Drivers
@@ -40,9 +44,9 @@ Things that can influence price elasticity of demand include:
 [[Direct traceable or attributable costs]] are fixed or variable costs that are solely incurred for a particular product, territory, or customer (e.g., raw materials). [[Indirect traceable costs]] are fixed or variable costs that can be traced to a particular product, customer, or territory (e.g., general plant overhead). [[General costs]] are costs that support a number of activities not directly related to a particular product (e.g., administrative overhead).
 ## Competition
 Establishes an upper limit on price. Price is only one component of the cost/benefit equation. Other factors that help gain a differential advantage over competitors other than price are:
-- reputation
-- technical expertise
-- delivery reliability
+- Reputation
+- Technical expertise
+- Delivery reliability
 # Pricing Across the Product Life Cycle
 What price should be assigned to a distinctly new industrial product or service? When an item is added to an existing product line, how should it be priced in relation to products already on the line?
 ## Pricing New Products
