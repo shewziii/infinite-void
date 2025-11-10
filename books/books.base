@@ -1,0 +1,23 @@
+views:
+  - type: cards
+    name: Books
+    filters:
+      and:
+        - file.folder == "books"
+        - file.basename != "books"
+        - file.name != "bookshelf"
+    order:
+      - title
+      - author
+      - rating
+      - status
+      - category
+    sort:
+      - property: status
+        direction: DESC
+      - property: file.ctime
+        direction: DESC
+    image: note.coverUrl
+    imageFit: contain
+    imageAspectRatio: 1.5
+    cardSize: 140

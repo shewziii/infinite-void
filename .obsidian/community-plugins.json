@@ -11,5 +11,10 @@
   "omnisearch",
   "callout-manager",
   "obsidian-pandoc",
-  "image-converter"
+  "image-converter",
+  "obsidian-book-search-plugin",
+  "pretty-properties",
+  "obsidian-emoji-toolbar",
+  "emoji-shortcodes",
+  "custom-note-width"
 ]
