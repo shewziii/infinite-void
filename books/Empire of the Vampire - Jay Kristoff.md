@@ -5,7 +5,7 @@ subtitle: Book One
 author:
   - Jay Kristoff
 status:
-  - Want-To-Read
+  - Reading
 rating:
 category:
   - Fantasy
@@ -20,3 +20,6 @@ created: 2025-11-10 15:57:31
 updated: 2025-11-10 15:57:31
 ---
 # Empire of the Vampire
+Started listening to the book on Audible. I'm loving the commentary on God at the beginning. 
+> "Ask me not if God exists, but why he's such a prick"
+

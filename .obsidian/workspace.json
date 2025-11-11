@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/The Name of the Wind - Patrick Rothfuss.md",
-                "mode": "preview",
+                "file": "uni/2. MGMT 449/Unit 3/CH11 - Managing Internal Operations.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Name of the Wind - Patrick Rothfuss"
+              "title": "CH11 - Managing Internal Operations"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "32492073f9d91fc8",
@@ -195,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,10 +217,17 @@
   },
   "active": "7cb072e11883ab11",
   "lastOpenFiles": [
-    "bookshelf.md",
-    "books/Shot All to Hell - Mark Lee Gardner.md",
-    "books/The Name of the Wind - Patrick Rothfuss.md",
+    "archive/image-9.png",
+    "archive/image-8.png",
+    "archive/image-7.png",
+    "archive/image-6.png",
+    "uni/2. MGMT 449/Unit 3/CH10 - Building an Organization Capable of Good Strategy Execution.md",
+    "uni/2. MGMT 449/Unit 3/CH11 - Managing Internal Operations.md",
+    "uni/2. MGMT 449/Unit 3/CH12 - Corporate Culture & Firm Leadership.md",
     "books/Empire of the Vampire - Jay Kristoff.md",
+    "bookshelf.md",
+    "books/The Name of the Wind - Patrick Rothfuss.md",
+    "books/Shot All to Hell - Mark Lee Gardner.md",
     "books/The Flood - William C Dietz.md",
     "books/Halo First Strike - Eric Nylund.md",
     "books/The Fall of Reach - Eric S Nylund.md",
@@ -237,10 +246,6 @@
     "books/A Court of Thorns and Roses - Sarah J Maas.md",
     "books/Book Lovers - Emily Henry.md",
     "books/Beach Read - Emily Henry.md",
-    "books/People We Meet on Vacation - Emily Henry.md",
-    "books/Fahrenheit 451 - Ray Bradbury.md",
-    "books/Fourth Wing - Rebecca Yarros.md",
-    "books/The Lord of the Rings - jrr tolkien John Ronald Reuel Tolkien.md",
     "A Cast of Stones () - Patrick W Carr.jpg",
     "/A Cast of Stones () - Patrick W Carr.jpg",
     "books/books.base",
@@ -258,9 +263,6 @@
     "archive/image-4.png",
     "archive/image-3.png",
     "archive/image-2.png",
-    "archive/image-1.png",
-    "archive/image.png",
-    "archive/B2B Marketing Channels.png",
     "art/perspective.canvas",
     "art/references.canvas",
     "1 projects/session tracker/session tracker flowchart.canvas"
