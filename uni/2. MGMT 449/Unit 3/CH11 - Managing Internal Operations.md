@@ -1,3 +1,7 @@
+---
+noteID: c2fc479a-671f-4b58-8391-7b58a916e30f
+custom-width: .nan
+---
 # Promoting Good Strategy Execution Internally
 - Allocating ample resources to execution-critical value chain activities
 - Instituting policies and procedures that facilitate good strategy execution

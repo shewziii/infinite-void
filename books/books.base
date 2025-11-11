@@ -15,7 +15,7 @@ views:
     sort:
       - property: status
         direction: DESC
-      - property: file.ctime
+      - property: created
         direction: DESC
     image: note.coverUrl
     imageFit: contain

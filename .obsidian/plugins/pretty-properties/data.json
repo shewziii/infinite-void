@@ -12,7 +12,7 @@
   "iconProperty": "icon",
   "coverProperty": "cover",
   "extraCoverProperties": [],
-  "bannerHeight": 300,
+  "bannerHeight": 350,
   "bannerHeightMobile": 100,
   "bannerHeightPopover": 100,
   "bannerMargin": -20,

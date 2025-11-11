@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uni/2. MGMT 449/Unit 3/CH11 - Managing Internal Operations.md",
+                "file": "books/The Name of the Wind - Patrick Rothfuss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH11 - Managing Internal Operations"
+              "title": "The Name of the Wind - Patrick Rothfuss"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "32492073f9d91fc8",
@@ -196,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,16 +215,16 @@
   },
   "active": "7cb072e11883ab11",
   "lastOpenFiles": [
+    "bookshelf.md",
+    "uni/2. MGMT 449/Unit 3/CH11 - Managing Internal Operations.md",
+    "uni/2. MGMT 449/Unit 3/CH12 - Corporate Culture & Firm Leadership.md",
+    "books/The Name of the Wind - Patrick Rothfuss.md",
+    "books/Empire of the Vampire - Jay Kristoff.md",
     "archive/image-9.png",
     "archive/image-8.png",
     "archive/image-7.png",
     "archive/image-6.png",
     "uni/2. MGMT 449/Unit 3/CH10 - Building an Organization Capable of Good Strategy Execution.md",
-    "uni/2. MGMT 449/Unit 3/CH11 - Managing Internal Operations.md",
-    "uni/2. MGMT 449/Unit 3/CH12 - Corporate Culture & Firm Leadership.md",
-    "books/Empire of the Vampire - Jay Kristoff.md",
-    "bookshelf.md",
-    "books/The Name of the Wind - Patrick Rothfuss.md",
     "books/Shot All to Hell - Mark Lee Gardner.md",
     "books/The Flood - William C Dietz.md",
     "books/Halo First Strike - Eric Nylund.md",
@@ -262,7 +260,6 @@
     "archive/image-5.png",
     "archive/image-4.png",
     "archive/image-3.png",
-    "archive/image-2.png",
     "art/perspective.canvas",
     "art/references.canvas",
     "1 projects/session tracker/session tracker flowchart.canvas"
