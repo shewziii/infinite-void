@@ -6,6 +6,8 @@ views:
         - file.folder == "books"
         - file.basename != "books"
         - file.name != "bookshelf"
+        - file.basename != "TBR"
+        - '!status.contains("Want-To-Read")'
     order:
       - title
       - author

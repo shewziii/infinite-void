@@ -18,5 +18,6 @@ coverUrl: http://books.google.com/books/content?id=d_aBDwAAQBAJ&printsec=frontco
 localCover:
 created: 2025-11-10 15:55:55
 updated: 2025-11-10 15:55:55
+custom-width: .nan
 ---
 # Halo: First Strike

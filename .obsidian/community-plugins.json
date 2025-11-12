@@ -1,5 +1,4 @@
 [
-  "templater-obsidian",
   "dataview",
   "obsidian-style-settings",
   "obsidian-relative-line-numbers",
@@ -12,9 +11,9 @@
   "callout-manager",
   "obsidian-pandoc",
   "image-converter",
-  "obsidian-book-search-plugin",
-  "pretty-properties",
   "obsidian-emoji-toolbar",
   "emoji-shortcodes",
-  "custom-note-width"
+  "custom-note-width",
+  "obsidian-book-search-plugin",
+  "pretty-properties"
 ]

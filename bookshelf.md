@@ -5,3 +5,6 @@ custom-width: .nan
 ---
 # 📚 Library
 ![[books.base]]
+
+# 📖 TBR
+![[TBR.base]]

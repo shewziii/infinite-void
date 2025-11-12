@@ -27,5 +27,7 @@ Kvothe says this after the shoemaker gives him the used shoes for free. I just l
 
 Trapis is awesome. Even when Kvothe looked almost completely different, he had no trouble recognizing him. He cares about every single kid he's taking care of. He makes sure that only one kid takes their share and doesn't hesitate to help out someone who needs it, like the kid with the hurt leg. When Kvothe told Trapis he was leaving, there was no doubt in his mind that Kvothe would do well for himself, but also makes sure he knows that he is always welcome back if he needs it.
 
-At the end of chapter 37, Kvothe walks away from the arcanum after Ambrose belittles him. Kvothe doesn't feel discouraged or disheartened because it just serves as a reminder that
+At the end of chapter 37, Kvothe walks away from the arcanum after Ambrose belittles him. Kvothe doesn't feel discouraged or disheartened because it just serves as a reminder that:
+
 > "There wasn't much difference between the University and the streets of Tarbean. No matter where you are, people are basically the same. Besides, anger can keep you warm at night, and wounded pride can spur a man to wondrous things."
+

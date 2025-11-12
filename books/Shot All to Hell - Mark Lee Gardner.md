@@ -8,6 +8,7 @@ status:
   - Want-To-Read
 rating:
 category:
+  - History
 publisher: Harper Collins
 publish: 2013-07-23
 total: 274
@@ -17,5 +18,6 @@ coverUrl: http://books.google.com/books/content?id=k5-I7ljnq30C&printsec=frontco
 localCover:
 created: 2025-11-10 16:06:03
 updated: 2025-11-10 16:06:03
+custom-width: .nan
 ---
 # Shot All to Hell

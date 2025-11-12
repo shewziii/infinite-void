@@ -2,6 +2,7 @@
 id: SPIN
 aliases: []
 tags: []
+custom-width: .nan
 ---
 
 # SPIN 

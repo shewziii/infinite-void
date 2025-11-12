@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/The Name of the Wind - Patrick Rothfuss.md",
+                "file": "bookshelf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Name of the Wind - Patrick Rothfuss"
+              "title": "bookshelf"
             }
           }
         ]
@@ -215,19 +215,25 @@
   },
   "active": "7cb072e11883ab11",
   "lastOpenFiles": [
+    "books/Pachinko - Min Jin Lee.md",
+    "uni/5. MKTG 337/SPIN.md",
     "bookshelf.md",
+    "templates/book template.md",
+    "books/The Name of the Wind - Patrick Rothfuss.md",
+    "books/The Return of the King - JRR Tolkien.md",
+    "books/The Count of Monte Cristo - Alexandre Dumas.md",
+    "books/Empire of the Vampire - Jay Kristoff.md",
+    "books/Halo First Strike - Eric Nylund.md",
+    "books/Shot All to Hell - Mark Lee Gardner.md",
+    "books/TBR.base",
     "uni/2. MGMT 449/Unit 3/CH11 - Managing Internal Operations.md",
     "uni/2. MGMT 449/Unit 3/CH12 - Corporate Culture & Firm Leadership.md",
-    "books/The Name of the Wind - Patrick Rothfuss.md",
-    "books/Empire of the Vampire - Jay Kristoff.md",
     "archive/image-9.png",
     "archive/image-8.png",
     "archive/image-7.png",
     "archive/image-6.png",
     "uni/2. MGMT 449/Unit 3/CH10 - Building an Organization Capable of Good Strategy Execution.md",
-    "books/Shot All to Hell - Mark Lee Gardner.md",
     "books/The Flood - William C Dietz.md",
-    "books/Halo First Strike - Eric Nylund.md",
     "books/The Fall of Reach - Eric S Nylund.md",
     "books/Can't Hurt Me - David Goggins.md",
     "books/Atomic Habits - James Clear.md",
@@ -240,10 +246,6 @@
     "books/A Court of Silver Flames - Sarah J Maas.md",
     "books/A Court of Frost and Starlight - Sarah J Maas.md",
     "books/A Court of Wings and Ruin - Sarah J Maas.md",
-    "books/A Court of Mist and Fury - Sarah J Maas.md",
-    "books/A Court of Thorns and Roses - Sarah J Maas.md",
-    "books/Book Lovers - Emily Henry.md",
-    "books/Beach Read - Emily Henry.md",
     "A Cast of Stones () - Patrick W Carr.jpg",
     "/A Cast of Stones () - Patrick W Carr.jpg",
     "books/books.base",
@@ -256,7 +258,6 @@
     "uni/1. MKTG 437/Unit 1",
     "uni/1. MKTG 437/Unit 2",
     "uni/1. MKTG 437/Unit 3",
-    "uni/atomic notes",
     "archive/image-5.png",
     "archive/image-4.png",
     "archive/image-3.png",

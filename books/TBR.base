@@ -1,0 +1,15 @@
+views:
+  - type: cards
+    name: TBR
+    filters:
+      and:
+        - file.folder == "books"
+        - status == ["Want-To-Read"]
+    order:
+      - title
+      - author
+      - category
+    image: note.coverUrl
+    imageFit: ""
+    cardSize: 140
+    imageAspectRatio: 1.45
