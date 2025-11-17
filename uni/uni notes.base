@@ -1,0 +1,39 @@
+views:
+  - type: table
+    name: MKTG 437
+    filters:
+      and:
+        - file.folder.contains("uni/1. MKTG 437")
+    order:
+      - file.name
+      - unit
+    sort:
+      - property: unitNO.
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 637
+  - type: table
+    name: MGMT 449
+    filters:
+      and:
+        - file.folder.contains("uni/2. MGMT 449")
+    order:
+      - file.name
+      - unit
+  - type: table
+    name: MKTG 338
+    filters:
+      and:
+        - file.folder.contains("uni/3. MKTG 338")
+  - type: table
+    name: MKTG 333
+    filters:
+      and:
+        - file.folder.contains("uni/4. MKTG 333")
+  - type: table
+    name: MKTG 337
+    filters:
+      and:
+        - file.folder.contains("uni/5. MKTG 337")

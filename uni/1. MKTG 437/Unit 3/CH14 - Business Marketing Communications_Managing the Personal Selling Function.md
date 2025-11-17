@@ -1,5 +1,12 @@
 ---
+id: CH14 - Business Marketing Communications_Managing the Personal Selling Function
+aliases: []
+tags:
+  - uni
+  - b2b
+  - unit-3
 noteID: c992e91f-f1c9-42a5-93d0-cd37d8a69746
+unit: "3"
 ---
 # Managing the Sales Force
 Sales management refers to planning, organizing, directing, and controlling personal selling efforts.Decisions are tempered by overall marketing objectives and must be integrated with the other elements of the marketing mix.
@@ -43,7 +50,7 @@ In this form of organization, salespeople organize personal selling effort by cu
 ## Key Account Management
 Many firms find that about 20% of their customer base makes up about 80% of the business. 
 ### Unique Value Propositions
-Customer prioritization is the degree to which firms prioritize customers by developing different value propositions for its top-tier versus bottom-tier customers. Studies show that  customer prioritization leads to higher average customer profitability and a higher return on sales by:
+Customer prioritization is the degree to which firms prioritize customers by developing different value propositions for its top-tier versus bottom-tier customers. Studies show that *customer prioritization* leads to higher average customer profitability and a higher return on sales by:
 - positively affecting sales and profits from top-tier customers without affecting bottom-tier customers
 - reducing sales and marketing costs
 ### Key Accounts
@@ -77,18 +84,26 @@ Motivation is strongly related to the individual's perceptions of the types and 
 ## Evaluation and Control
 An ongoing sales management responsibility is to monitor and control the industrial sales force at all levels - national, regional, and district. Managers also need to determine if objectives are being achieved, identify problems and recommend corrective action, and keep salespeople informed about internal and external changes.
 ### Performance Measures
+Measures used by sales managers
 #### Behavior Based
+Sales manager monitors and directs activities. Uses subjective measure to evaluate performance and adopts a compensation system with a large fixed component.
 #### Outcome Based
+Involves less direct supervision of salesperson
 ### Performance Standards
+- Compare the performance of salespersons of sales units
+- Determine the overall productivity of the organization
+- Managerial experience and judgement help in setting appropriate standards
+	- standards consider sales territories
+		- vary based on aggressiveness of competitors, level of market potential, and workload.
 
 ---
 # Deployment Analysis
 Proper deployment requires a multistage approach to find the most effective and efficient way to assign sales resources across all of the [[planning and control units (PCUs)]] the firm serves.
 ## Territory Sales Response
 There are 3 sales territory traits that deserve particular attention in sales response studies:
-1. Potential
-2. Concentration
-3. Dispersed
+1. **Potential**: Measure of total business opportunity for all sellers in a particular market.
+2. **Concentration**: Degree to which potential is confined to a few larger accounts in a territory.
+3. **Dispersed**: Sales decrease due to time wasted in travel.
 
 A few determinants of territory sales responses include:
 - environmental factors
@@ -98,7 +113,3 @@ A few determinants of territory sales responses include:
 - field sales manager characteristics
 - salesperson characteristics
 - territory characteristics
-## Territory Alignment
-## Sales Resource Opportunity Grid
-## Using Sales Analytics to Uncover Lucrative Micromarkets
-## GE's Sales Force Effectiveness Initiative
