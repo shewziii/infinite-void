@@ -1,3 +1,6 @@
+---
+noteID: 02a06eae-1683-4e93-a2c9-5cc957e5cff8
+---
 # The Pricing Process in Business Markets
 All pricing strategies demonstrate 3 principles:
 1. Value-Based
