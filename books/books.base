@@ -20,6 +20,5 @@ views:
       - property: created
         direction: DESC
     image: note.coverUrl
-    imageFit: contain
     imageAspectRatio: 1.5
     cardSize: 150
