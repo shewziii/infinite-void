@@ -1,3 +1,6 @@
+---
+noteID: d505c296-7339-4e42-9e61-d24361df964c
+---
 # A Framework for Executing Strategy
 Strategy execution is operations-driven, involving management of both people and business processes. It's a job for the whole management team rather than just a few senior managers and can take years longer to develop as a real proficiency than implementing strategy. It requires a determined commitment to change, action, and performance.
 ## The Principle Components of the Strategy Execution Process

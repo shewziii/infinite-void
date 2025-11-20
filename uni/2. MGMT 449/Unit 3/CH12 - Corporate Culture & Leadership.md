@@ -76,6 +76,7 @@ Competent leadership at the top is necessary for culture-change efforts to be su
 - explain why and how certain behavioral norms and work practices are obstacles to good execution of strategic initiatives
 - explain how new behaviors and work practices will produce better results
 - cite reasons as to why the current strategy has to be changed, if the need for cultural change is due to a change in strategy
+
 ![[image-10.png|533x431]]
 ## Substantive Culture Changing Actions
 - Replace key executives who are resisting the needed organizational and cultural changes
