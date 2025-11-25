@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "comp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,12 +222,13 @@
   },
   "active": "f36cfa1d4ab74456",
   "lastOpenFiles": [
-    "templates/uni_note_template.md",
-    "uni/2. MGMT 449/Unit 3/CH10 - Building an Organization Capable of Good Strategy Execution.md",
-    "uni/2. MGMT 449/Unit 3/CH9 - Ethics and Corporate Responsibility.md",
-    "uni/2. MGMT 449/Unit 3/CH11 - Managing Internal Operations.md",
-    "bookshelf.md",
+    "uni/2. MGMT 449/Unit 2/CH6 - Strengthening Competitive Position.md",
     "uni/2. MGMT 449/Unit 3/CH12 - Corporate Culture & Leadership.md",
+    "uni/2. MGMT 449/Unit 3/CH10 - Building an Organization Capable of Good Strategy Execution.md",
+    "uni/2. MGMT 449/Unit 3/CH11 - Managing Internal Operations.md",
+    "templates/uni_note_template.md",
+    "uni/2. MGMT 449/Unit 3/CH9 - Ethics and Corporate Responsibility.md",
+    "bookshelf.md",
     "archive/image-10.png",
     "uni/Uni Homepage.md",
     "uni/1. MKTG 437/Unit 3/CH14 - Business Marketing Communications_Managing the Personal Selling Function.md",
@@ -249,7 +251,6 @@
     "books/The Shadow Rising - Robert Jordan.md",
     "books/The Dragon Reborn - Robert Jordan.md",
     "books/The Great Hunt - Robert Jordan.md",
-    "books/The Eye of the World - Robert Jordan.md",
     "books/TBR.base",
     "archive/image-9.png",
     "archive/image-8.png",

@@ -2,6 +2,7 @@
 id: CH6 - Something
 aliases: []
 tags: []
+noteID: b6879aa2-5b4d-4f43-b937-7733b86bef12
 ---
 
 # Blue Ocean Strategy
