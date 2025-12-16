@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "comp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uni/2. MGMT 449/CH8 - Diversification.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CH8 - Diversification"
+              "title": "Backlinks"
             }
           },
           {
@@ -190,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uni/2. MGMT 449/Unit 3/CH12 - Corporate Culture & Leadership.md",
+                "file": "Act One Creative Hub.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CH12 - Corporate Culture & Leadership"
+              "title": "Outline of Act One Creative Hub"
             }
           }
         ]
@@ -217,13 +215,16 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f36cfa1d4ab74456",
+  "active": "bb4d69f032f0f09b",
   "lastOpenFiles": [
-    "uni/2. MGMT 449/Unit 2/CH6 - Strengthening Competitive Position.md",
+    "Untitled.base",
+    "Act One Creative Hub.md",
     "uni/2. MGMT 449/Unit 3/CH12 - Corporate Culture & Leadership.md",
+    "uni/2. MGMT 449/Unit 2/CH6 - Strengthening Competitive Position.md",
     "uni/2. MGMT 449/Unit 3/CH10 - Building an Organization Capable of Good Strategy Execution.md",
     "uni/2. MGMT 449/Unit 3/CH11 - Managing Internal Operations.md",
     "templates/uni_note_template.md",
@@ -249,8 +250,6 @@
     "books/Lord of Chaos - Robert Jordan.md",
     "books/The Fires of Heaven - Robert Jordan.md",
     "books/The Shadow Rising - Robert Jordan.md",
-    "books/The Dragon Reborn - Robert Jordan.md",
-    "books/The Great Hunt - Robert Jordan.md",
     "books/TBR.base",
     "archive/image-9.png",
     "archive/image-8.png",
@@ -265,7 +264,6 @@
     "uni/2. MGMT 449/Unit 3",
     "uni/2. MGMT 449/Unit 2",
     "uni/2. MGMT 449/Unit 1",
-    "uni/1. MKTG 437/Unit 1",
     "archive/image-5.png",
     "archive/image-4.png",
     "art/perspective.canvas",
