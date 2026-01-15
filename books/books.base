@@ -21,4 +21,4 @@ views:
         direction: DESC
     image: note.coverUrl
     imageAspectRatio: 1.5
-    cardSize: 130
+    cardSize: 100

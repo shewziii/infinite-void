@@ -5,8 +5,8 @@ subtitle: ""
 author:
   - Patrick Rothfuss
 status:
-  - Reading
-rating:
+  - Read
+rating: ⭐⭐⭐⭐⭐
 category:
   - Fantasy
 publisher: Penguin
