@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Empire of the Vampire - Jay Kristoff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Empire of the Vampire - Jay Kristoff"
             }
           }
         ],
@@ -134,27 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Name of the Wind - Patrick Rothfuss.md",
+                "file": "Empire of the Vampire - Jay Kristoff.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Name of the Wind - Patrick Rothfuss"
-            }
-          },
-          {
-            "id": "f2d521c37797e491",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Empire of the Vampire - Jay Kristoff"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "366a1994cdfcd4ba",
@@ -176,10 +165,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "Empire of the Vampire - Jay Kristoff.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for Empire of the Vampire - Jay Kristoff"
             }
           },
           {
@@ -215,8 +204,7 @@
               "title": "Outgoing links from CH12 - Pricing Strategies for Business Markets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,53 +222,22 @@
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "obsidian-git:Open Git source control": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-git:Open Git source control": false
     }
-  },
-  "floating": {
-    "id": "2e91a0f24bdf459a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8b013be618199137",
-        "type": "window",
-        "children": [
-          {
-            "id": "63edd865275c17ae",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "add1f4bd04176b8c",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://viscouspotenti.al/posts/gitsync-all-devices-tutorial",
-                    "title": "How to Sync Obsidian Across All Devices Using Git, Automatically and for Free",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "How to Sync Obsidian Across All Devices Using Git, Automatically and for Free"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 409,
-        "y": 125,
-        "width": 1025,
-        "height": 801,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "5e816c96f447abf0",
   "lastOpenFiles": [
+    "97 Attachments/Empire of the Vampire - Jay Kristoff.jpg",
+    "Empire of the Vampire - Jay Kristoff.md",
     "README.md",
+    "98 Archive",
+    "40 Notes",
+    "20 Hobbies",
+    "10 Projects",
+    "00 Terminal",
+    "30 Journal/2026-01-16.md",
     "30 Journal/2026-01-15.md",
     "The Name of the Wind - Patrick Rothfuss.md",
     "books.md",

@@ -13,7 +13,7 @@
   "apiKey": "",
   "openPageOnCompletion": true,
   "showCoverImageInSearch": true,
-  "enableCoverImageSave": true,
+  "enableCoverImageSave": false,
   "enableCoverImageEdgeCurl": true,
   "coverImagePath": "97 Attachments",
   "askForLocale": true

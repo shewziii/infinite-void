@@ -251,12 +251,40 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 2
+        "line": 17,
+        "ch": 14
       },
       "to": {
-        "line": 7,
-        "ch": 2
+        "line": 17,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
+  },
+  "30 Journal/2026-01-16.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Empire of the Vampire - Jay Kristoff.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 83,
+        "ch": 9
+      },
+      "to": {
+        "line": 83,
+        "ch": 9
       }
     },
     "expandedKeys": []
