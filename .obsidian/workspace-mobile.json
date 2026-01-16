@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "3e7278ddb7e68b89",
+    "type": "split",
+    "children": [
+      {
+        "id": "294d4191f55e747e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a12b3810e32785c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Name of the Wind - Patrick Rothfuss.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Name of the Wind - Patrick Rothfuss"
+            }
+          },
+          {
+            "id": "0015b40899e9dcdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gallo test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gallo test"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13058364b65ee0b1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f61f72e65ced73e1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a96fe7da5f3534e3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "c026162c0ac8b685",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c201ac254b1a4557",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "2cf565c41023f404",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "da6febe029fe3197",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4ae599cc75451283",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Gallo test.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "27fce7ceb0580553",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Gallo test.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "44af651face9eb31",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Gallo test.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "0d17b5314afda6a9",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "0015b40899e9dcdc",
+  "lastOpenFiles": [
+    "Gallo test.md",
+    "The Name of the Wind - Patrick Rothfuss.md",
+    "Empire of the Vampire - Jay Kristoff.md",
+    "recipes/chili.md",
+    "recipes",
+    "README.md",
+    "97 Attachments/urban_architecture.jpg",
+    "97 Attachments/Empire of the Vampire - Jay Kristoff.jpg",
+    "97 Attachments",
+    "90 Resources/uni/1. MKTG 437/Unit 1/CH2 - Oranizational Buying Behavior.md",
+    "90 Resources/uni/1. MKTG 437/Unit 1/CH1 - A Business Marketing Perspective.md",
+    "90 Resources/uni/1. MKTG 437/Unit 1/CH3 - Customer Relationship Management.md",
+    "90 Resources/uni/1. MKTG 437/Unit 1/CH4 - Segmenting the Business Market and Estimating Segment Demand.md",
+    "90 Resources/uni/1. MKTG 437/Unit 2/CH9 - Managing Servies for Business Markets.md",
+    "90 Resources/uni/1. MKTG 437/Unit 2/CH7 - Managing Products for Business Markets.md",
+    "90 Resources/uni/1. MKTG 437/Unit 2/CH11 - Supply Chain Management.md",
+    "90 Resources/uni/1. MKTG 437/Unit 2/CH10 - Managing Business Marketing ChannelsH.md",
+    "90 Resources/uni/1. MKTG 437/Unit 3/CH13 - Something.md",
+    "90 Resources/uni/1. MKTG 437/Unit 3/CH12 - Pricing Strategies for Business Markets.md",
+    "90 Resources/uni/1. MKTG 437/Unit 3/CH14 - Business Marketing Communications_Managing the Personal Selling Function.md",
+    "90 Resources/uni/2. MGMT 449/Unit 1/CH3 - Company, Industry, and Competitive Environment.md",
+    "90 Resources/uni/2. MGMT 449/Unit 1/CH2 - Direction, Mission, Vision, and Strategy.md",
+    "90 Resources/uni/2. MGMT 449/Unit 2/CH6 - Strengthening Competitive Position.md",
+    "90 Resources/uni/2. MGMT 449/Unit 2/CH8 - Diversification.md",
+    "90 Resources/uni/2. MGMT 449/Unit 2/CH7 - Strategies for Competing in International Markets.md",
+    "90 Resources/uni/2. MGMT 449/Unit 3/CH9 - Ethics and Corporate Responsibility.md",
+    "90 Resources/uni/2. MGMT 449/Unit 3/CH12 - Corporate Culture & Leadership.md",
+    "90 Resources/uni/2. MGMT 449/Unit 3/CH10 - Building an Organization Capable of Good Strategy Execution.md",
+    "90 Resources/uni/2. MGMT 449/Unit 3/CH11 - Managing Internal Operations.md",
+    "90 Resources/uni/1. MKTG 437/Unit 1",
+    "90 Resources/uni/1. MKTG 437/Unit 2",
+    "90 Resources/uni/1. MKTG 437/Unit 3",
+    "90 Resources/uni/4. MKTG 333/CH6 - E-Commerce Marketing and Advertising Concepts.md",
+    "90 Resources/uni/2. MGMT 449/Unit 1",
+    "90 Resources/uni/2. MGMT 449/Unit 2",
+    "90 Resources/uni/2. MGMT 449/Unit 3",
+    "90 Resources/uni/1. MKTG 437",
+    "90 Resources/uni/4. MKTG 333"
+  ]
+}

@@ -160,7 +160,7 @@
     ]
   },
   "The Name of the Wind - Patrick Rothfuss.md": {
-    "scroll": 76.30287917455037,
+    "scroll": 74.24788411458333,
     "cursor": {
       "from": {
         "line": 87,
@@ -251,40 +251,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 14
+        "line": 7,
+        "ch": 2
       },
       "to": {
-        "line": 17,
-        "ch": 14
-      }
-    },
-    "expandedKeys": []
-  },
-  "Empire of the Vampire - Jay Kristoff.md": {
-    "scroll": 0,
-    "cursor": {
-      "from": {
-        "line": 78,
-        "ch": 0
-      },
-      "to": {
-        "line": 78,
-        "ch": 0
-      }
-    },
-    "expandedKeys": []
-  },
-  "30 Journal/2026-01-16.md": {
-    "scroll": 0,
-    "cursor": {
-      "from": {
-        "line": 14,
-        "ch": 0
-      },
-      "to": {
-        "line": 14,
-        "ch": 0
+        "line": 7,
+        "ch": 2
       }
     },
     "expandedKeys": []
