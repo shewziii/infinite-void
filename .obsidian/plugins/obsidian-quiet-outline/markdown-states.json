@@ -160,7 +160,7 @@
     ]
   },
   "The Name of the Wind - Patrick Rothfuss.md": {
-    "scroll": 76.30287917455037,
+    "scroll": 76.34454584121704,
     "cursor": {
       "from": {
         "line": 87,
@@ -279,14 +279,16 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 83,
-        "ch": 9
+        "line": 81,
+        "ch": 8
       },
       "to": {
-        "line": 83,
-        "ch": 9
+        "line": 81,
+        "ch": 8
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   }
 }
