@@ -1,0 +1,26 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "b2b": 1,
+    "book": 1,
+    "daily-note": 2,
+    "management": 3,
+    "marketing": 4,
+    "reading_as_a_hobby": 2,
+    "selling": 5,
+    "strategy": 6,
+    "uni": 7,
+    "unit-3": 8
+  },
+  "tagColors": {},
+  "_version": 4
+}

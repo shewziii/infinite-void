@@ -1,0 +1,16 @@
+{
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "border-theme-style-checkboxes",
+    "calendar-styling",
+    "minimal-header-space-fix",
+    "style-settings",
+    "tasks-styling-minimal",
+    "border-theme-checkboxes"
+  ],
+  "theme": "obsidian",
+  "accentColor": ""
+}
