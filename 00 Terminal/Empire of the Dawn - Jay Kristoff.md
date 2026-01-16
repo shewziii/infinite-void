@@ -1,25 +1,25 @@
 ---
 entry-date: 2026-01-16
-UID: 20260116010735
+UID: 20260116143532
 tags:
   - BOOK
   - READING_AS_A_HOBBY
 aliases:
-  - Empire of the Vampire
+  - Empire of the Dawn
 series: Empire of the Vampire
 author: Jay Kristoff
-pages: "747"
-published: 2021-09-14
-isbn: "9781250245298"
+pages: "826"
+published: 2025-11-04
+isbn: "9781250245380"
 genre:
   - DARK FANTASY
   - HORROR
   - VAMPIRES
-status: READ
-date-read: Jan 16, 2026
-rating: ⭐️⭐️⭐️⭐️⭐️
-goodreads: https://www.goodreads.com/book/show/56269205-empire-of-the-vampire
-banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1612450626i/56269205.jpg
+status: TBR
+date-read:
+rating:
+goodreads: https://www.goodreads.com/book/show/222376766-empire-of-the-dawn?from_search=true&from_srp=true&qid=IEBO7HKeJR&rank=1
+banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743484777i/222376766.jpg
 banner-y:
 banner-x:
 ---
@@ -72,25 +72,25 @@ dv.container.innerHTML = `
 `;
 ```
 
-# Empire of the Vampire
+# Empire of the Dawn
 
 ## About
-_From holy cup comes holy light;  
-The faithful hand sets world aright.  
-And in the Seven Martyrs’ sight,  
-Mere man shall end this endless night._  
-  
-It has been twenty-seven long years since the last sunrise. For nearly three decades, vampires have waged war against humanity; building their eternal empire even as they tear down our own. Now, only a few tiny sparks of light endure in a sea of darkness.  
-  
-Gabriel de León is a silversaint: a member of a holy brotherhood dedicated to defending realm and church from the creatures of the night. But even the Silver Order could not stem the tide once daylight failed us, and now, only Gabriel remains.  
-  
-Imprisoned by the very monsters he vowed to destroy, the last silversaint is forced to tell his story. A story of legendary battles and forbidden love, of faith lost and friendships won, of the Wars of the Blood and the Forever King and the quest for humanity’s last remaining hope:  
-  
-The Holy Grail.
+**From New York Times bestselling author of the _Empire of the Vampire_ and _Empire of the Damned_, Jay Kristoff, comes the epic conclusion to the #1 internationally bestselling series.  
+
+*From holy cup comes holy light;*  
+*The faithful hands sets world aright.*  
+*And in the Seven Martyrs’ sight,*  
+*Mere man shall end this endless night.*
+
+Gabriel de León has lost his family, his faith, and the last hope of ending the endless night—his surrogate daughter, Dior. With no thought left but vengeance, he and a band of loyal brothers journey into the war-torn heart of Elidaen to claim the life of the Forever King.  
+
+Unbeknownst to the Last Silversaint, the Grail still lives—speeding towards the besieged capital of Augustin in the frail hope of ending Daysdeath. But deadly treachery awaits within the halls of power, and the Forever King’s legions march ever closer. Gabriel and Dior will be drawn into a final battle that will shape the very fate of the Empire, but as the sun sets for what may the last time, there will be no one left for them to trust.  
+
+Not even each other.
 ## Annotations
 
 ## Review
 
 ## Notes
 
-[[10 Books|books]]
+[[10 Books|Books]]

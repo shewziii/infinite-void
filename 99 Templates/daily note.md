@@ -13,7 +13,8 @@ banner-fade: -30
 content-start: 451
 ---
 # <% tp.date.now("dddd") %>, <% tp.date.now("MMM Do, YYYY") %>
-<< [[<% tp.date.now("YYYY-MM-DD", -1) %>|Yesterday]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>|Next Day]] >>
+---
+<< [[<% tp.date.now("YYYY-MM-DD", -1) %>|Yesterday]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>|Next Day]] >> | 
 
 <% tp.web.daily_quote() %>
 

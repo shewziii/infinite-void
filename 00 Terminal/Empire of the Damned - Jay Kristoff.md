@@ -1,25 +1,25 @@
 ---
 entry-date: 2026-01-16
-UID: 20260116010735
+UID: 20260116141316
 tags:
   - BOOK
   - READING_AS_A_HOBBY
 aliases:
-  - Empire of the Vampire
+  - Empire of the Damned
 series: Empire of the Vampire
 author: Jay Kristoff
-pages: "747"
-published: 2021-09-14
-isbn: "9781250245298"
+pages: "725"
+published: 2024-03-12
+isbn: "9781250245342"
 genre:
   - DARK FANTASY
   - HORROR
   - VAMPIRES
-status: READ
-date-read: Jan 16, 2026
-rating: ⭐️⭐️⭐️⭐️⭐️
-goodreads: https://www.goodreads.com/book/show/56269205-empire-of-the-vampire
-banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1612450626i/56269205.jpg
+status: TBR
+date-read:
+rating:
+goodreads: https://www.goodreads.com/book/show/126918599-empire-of-the-damned?from_search=true&from_srp=true&qid=0JzNkYoWpA&rank=1
+banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1687870963i/126918599.jpg
 banner-y:
 banner-x:
 ---
@@ -72,25 +72,25 @@ dv.container.innerHTML = `
 `;
 ```
 
-# Empire of the Vampire
+# Empire of the Damned
 
 ## About
-_From holy cup comes holy light;  
-The faithful hand sets world aright.  
+From the New York Times bestselling author of the Nevernight Chronicle, Jay Kristoff, comes the much-anticipated sequel to the #1 international bestselling sensation EMPIRE OF THE VAMPIRE.  
+  
+From holy cup comes holy light;  
+The faithful hands sets world aright.  
 And in the Seven Martyrs’ sight,  
-Mere man shall end this endless night._  
+Mere man shall end this endless night.  
   
-It has been twenty-seven long years since the last sunrise. For nearly three decades, vampires have waged war against humanity; building their eternal empire even as they tear down our own. Now, only a few tiny sparks of light endure in a sea of darkness.  
+Gabriel de León has saved the Holy Grail from death, but his chance to end the endless night is lost. Drawn into an uneasy alliance with the mysterious vampire Liathe, Gabriel must now deliver the Grail to ancients of the Blood Esani, and learn the truth of how Daysdeath might be finally undone.  
   
-Gabriel de León is a silversaint: a member of a holy brotherhood dedicated to defending realm and church from the creatures of the night. But even the Silver Order could not stem the tide once daylight failed us, and now, only Gabriel remains.  
+But the Last Silversaint faces peril, within and without. Pursued by terrors of the Blood Voss, drawn into warfare between the Blood Dyvok and duskdancers of the frozen Highlands, and ravaged by his own rising bloodlust, Gabriel may not survive to see the Grail learn her truth.  
   
-Imprisoned by the very monsters he vowed to destroy, the last silversaint is forced to tell his story. A story of legendary battles and forbidden love, of faith lost and friendships won, of the Wars of the Blood and the Forever King and the quest for humanity’s last remaining hope:  
-  
-The Holy Grail.
+And that truth may be too awful for any to imagine.
 ## Annotations
 
 ## Review
 
 ## Notes
 
-[[10 Books|books]]
+[[10 Books|Books]]
