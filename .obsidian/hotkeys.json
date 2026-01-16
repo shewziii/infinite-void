@@ -1,11 +1,10 @@
 {
-  "omnisearch:show-modal": [
+  "editor:toggle-source": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
-      "key": "O"
+      "key": "S"
     }
   ]
 }

@@ -39,9 +39,6 @@
       "nldates-obsidian": {
         "startupType": "instant"
       },
-      "omnisearch": {
-        "startupType": "instant"
-      },
       "obsidian-outliner": {
         "startupType": "instant"
       },
@@ -67,6 +64,15 @@
         "startupType": "instant"
       },
       "obsidian-vimrc-support": {
+        "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "instant"
+      },
+      "quickadd": {
+        "startupType": "instant"
+      },
+      "obsidian-tasks-plugin": {
         "startupType": "instant"
       }
     }

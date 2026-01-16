@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "4307ee96719e1274",
+    "id": "bd77f7bbf619e307",
     "type": "split",
     "children": [
       {
-        "id": "201aca3853fcac1b",
+        "id": "fd4e777bc7c6db2a",
         "type": "tabs",
         "children": [
           {
-            "id": "219af9421ae74483",
+            "id": "5e816c96f447abf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,22 +21,22 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7b2d0637dace5f6e",
+    "id": "fbf5d82b3ce56cbc",
     "type": "split",
     "children": [
       {
-        "id": "96308ed4f9628c6a",
+        "id": "d792b1a70017cfc2",
         "type": "tabs",
-        "dimension": 59.32377049180327,
         "children": [
           {
-            "id": "bb4d69f032f0f09b",
+            "id": "8d18eccd8c856ee2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +49,7 @@
             }
           },
           {
-            "id": "88e1a599c7b52acb",
+            "id": "5dae7eaa69e8f0f8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "547cc05589f7b079",
+            "id": "0551ff11fba6ae2e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,66 +76,21 @@
             }
           }
         ]
-      },
-      {
-        "id": "9e4ebe670cc938cd",
-        "type": "tabs",
-        "dimension": 40.67622950819672,
-        "children": [
-          {
-            "id": "13214469bd7421be",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "README.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of README"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 200
   },
   "right": {
-    "id": "32492073f9d91fc8",
+    "id": "ac53ac83f79e3541",
     "type": "split",
     "children": [
       {
-        "id": "26620147bc6b33d9",
+        "id": "ffeee6218ce1bf07",
         "type": "tabs",
-        "dimension": 46.1764705882353,
         "children": [
           {
-            "id": "9e509d1ea53cb381",
+            "id": "e8248ad7f3c5ce90",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -145,7 +100,7 @@
             }
           },
           {
-            "id": "1b1726b13bf9ca98",
+            "id": "e1d9b37cab136f4d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -160,22 +115,36 @@
             }
           },
           {
-            "id": "1c236c5bfae558b3",
+            "id": "dfc4f6244fce1a51",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "62c33df3cc0c93e4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "The Name of the Wind - Patrick Rothfuss.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of The Name of the Wind - Patrick Rothfuss"
             }
           },
           {
-            "id": "c779bb4c87f43ed7",
+            "id": "f2d521c37797e491",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -185,25 +154,14 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
-        "id": "52d1bdc70421d5d7",
+        "id": "366a1994cdfcd4ba",
         "type": "tabs",
-        "dimension": 53.8235294117647,
         "children": [
           {
-            "id": "0443f41c8bfa8fc0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "24b66ceabc011b96",
+            "id": "8d392271ba64e77b",
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
@@ -213,12 +171,24 @@
             }
           },
           {
-            "id": "1574692da8612074",
+            "id": "b0dae7252840b26e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for README"
+            }
+          },
+          {
+            "id": "1163b9eca1cb44c3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "98 Archive/uni/1. MKTG 437/Unit 3/CH12 - Pricing Strategies for Business Markets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,96 +198,106 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for CH12 - Pricing Strategies for Business Markets"
             }
           },
           {
-            "id": "3c81bedacdeafdd3",
+            "id": "fca03524a0d9587a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "98 Archive/uni/1. MKTG 437/Unit 3/CH12 - Pricing Strategies for Business Markets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from CH12 - Pricing Strategies for Business Markets"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "219af9421ae74483",
+  "floating": {
+    "id": "2e91a0f24bdf459a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8b013be618199137",
+        "type": "window",
+        "children": [
+          {
+            "id": "63edd865275c17ae",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "add1f4bd04176b8c",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://viscouspotenti.al/posts/gitsync-all-devices-tutorial",
+                    "title": "How to Sync Obsidian Across All Devices Using Git, Automatically and for Free",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "How to Sync Obsidian Across All Devices Using Git, Automatically and for Free"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 409,
+        "y": 125,
+        "width": 1025,
+        "height": 801,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5e816c96f447abf0",
   "lastOpenFiles": [
-    "archive/thomas-kelley-hHL08lF7Ikc-unsplash-2-e1604869480330-4165956889.jpg",
     "README.md",
-    "archive/Pasted image 20250908174628.png",
-    "archive/image-1.png",
-    "archive/image.png",
-    "archive/B2B Marketing Channels.png",
-    "99 Templates/book note.md",
-    "99 Templates",
-    "98 Archive",
-    "97 Attachments",
-    "90 Recources",
-    "40 Notes",
-    "30 Journal",
-    "20 Hobbies",
-    "10 Projects",
-    "00 Terminal",
+    "30 Journal/2026-01-15.md",
+    "The Name of the Wind - Patrick Rothfuss.md",
+    "books.md",
+    "books.base",
+    "97 Attachments/Pasted image 20260115153315.png",
+    "97 Attachments/The Name of the Wind Cover.png",
+    "97 Attachments/The Name of the Wind - Patrick Rothfuss.jpg",
+    "99 Templates/book_notes.md",
+    "Library.md",
+    "99 Templates/daily note.md",
+    "99 Templates/book_note_md.md",
+    "97 Attachments/urban_architecture.jpg",
+    "The Name of the Wind 10th Anniversary Deluxe Edition - Patrick Rothfuss.md",
     "bookshelf.md",
-    "recipes/chili.md",
-    "books/The Name of the Wind - Patrick Rothfuss.md",
-    "socialshellswebinar.md",
-    "archive/Pasted image 20250908184326.png",
-    "archive/image-9.png",
-    "archive/image-5.png",
-    "archive/image-3.png",
-    "archive/GwGc2FpWAAAI63_.jpg",
-    "art/references.canvas",
-    "art/perspective.canvas",
-    "art/head.md",
-    "98 Archive/uni/2. MGMT 449/Unit 3/CH12 - Corporate Culture & Leadership.md",
-    "Untitled.base",
-    "Act One Creative Hub.md",
-    "98 Archive/uni/2. MGMT 449/Unit 2/CH6 - Strengthening Competitive Position.md",
-    "98 Archive/uni/2. MGMT 449/Unit 3/CH10 - Building an Organization Capable of Good Strategy Execution.md",
-    "98 Archive/uni/2. MGMT 449/Unit 3/CH11 - Managing Internal Operations.md",
-    "templates/uni_note_template.md",
-    "98 Archive/uni/2. MGMT 449/Unit 3/CH9 - Ethics and Corporate Responsibility.md",
-    "98 Archive/uni/Uni Homepage.md",
-    "98 Archive/uni/1. MKTG 437/Unit 3/CH14 - Business Marketing Communications_Managing the Personal Selling Function.md",
-    "uni/1. MKTG 437/Unit 2/exam-2-notes.md",
-    "98 Archive/uni/1. MKTG 437/Unit 3/CH13 - Something.md",
-    "98 Archive/uni/1. MKTG 437/Unit 3/CH12 - Pricing Strategies for Business Markets.md",
-    "planning and control units (PCUs).md",
-    "books/A Memory of Light - Robert Jordan Brandon Sanderson.md",
-    "books/Towers of Midnight - Robert Jordan Brandon Sanderson.md",
-    "books/The Gathering Storm - Kate Elliott.md",
-    "books/Knife of Dreams - Robert Jordan.md",
-    "books/Crossroads of Twilight - Robert Jordan.md",
-    "1 projects/session tracker/session tracker flowchart.canvas"
+    "books/A Cast of Stones () - Patrick W Carr.md",
+    "90 Resources/uni/1. MKTG 437/Unit 3/CH12 - Pricing Strategies for Business Markets.md",
+    "90 Resources/uni/Uni Homepage.md",
+    "90 Resources/uni/1. MKTG 437/Unit 2/CH7 - Managing Products for Business Markets.md"
   ]
 }

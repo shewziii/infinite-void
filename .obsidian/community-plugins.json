@@ -1,10 +1,8 @@
 [
-  "omnisearch",
-  "pexels-banner",
-  "obsidian-book-search-plugin",
   "dataview",
   "templater-obsidian",
-  "obsidian-git",
+  "obsidian-book-search-plugin",
+  "pexels-banner",
   "obsidian-quiet-outline",
   "obsidian-style-settings",
   "nldates-obsidian",
@@ -19,5 +17,9 @@
   "supercharged-links-obsidian",
   "calendar",
   "lazy-plugins",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "quickadd",
+  "obsidian-tasks-plugin",
+  "obsidian-icon-folder",
+  "obsidian-git"
 ]
