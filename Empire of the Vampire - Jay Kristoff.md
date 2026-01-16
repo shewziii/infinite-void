@@ -14,9 +14,9 @@ isbn: "9781250245298"
 genre:
 status:
 date-read:
-rating:
-goodreads:
-banner:
+rating: ⭐️⭐️⭐️⭐️⭐️
+goodreads: https://www.goodreads.com/book/show/56269205-empire-of-the-vampire
+banner: 
 banner-y:
 banner-x:
 ---
