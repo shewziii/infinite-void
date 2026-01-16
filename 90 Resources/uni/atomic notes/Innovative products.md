@@ -1,2 +1,0 @@
-# Innovative Products
-Products that have less predictable demand patterns, react to short life cycles, avoid shortages or excess supplies, and they take advantage of high profits during peak demand periods.
