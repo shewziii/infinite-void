@@ -25,7 +25,7 @@ views:
       and:
         - file.tags.contains("BOOK")
         - file.folder != "99 Templates"
-        - status == "READ"
+        - status == "TBR"
     order:
       - file.name
       - author

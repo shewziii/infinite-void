@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empire of the Vampire - Jay Kristoff.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Empire of the Vampire - Jay Kristoff"
+              "title": "README"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Empire of the Vampire - Jay Kristoff.md",
+            "file": "00 Terminal/Empire of the Vampire - Jay Kristoff.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -144,6 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -163,7 +164,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,6 +185,7 @@
   "active": "4a12b3810e32785c",
   "lastOpenFiles": [
     "30 Journal/2026-01-16.md",
+    "00 Terminal/10 Books.md",
     "recipes/chili.md",
     "recipes",
     "README.md",
@@ -214,7 +216,6 @@
     "90 Resources/uni/1. MKTG 437/Unit 3",
     "90 Resources/uni/4. MKTG 333/CH6 - E-Commerce Marketing and Advertising Concepts.md",
     "90 Resources/uni/4. MKTG 333/CH1 - The Revolution is Just Beginning.md",
-    "90 Resources/uni/4. MKTG 333/CH9 - Online Retail and Services.md",
     "90 Resources/uni/2. MGMT 449/Unit 1",
     "90 Resources/uni/2. MGMT 449/Unit 2",
     "90 Resources/uni/2. MGMT 449/Unit 3",

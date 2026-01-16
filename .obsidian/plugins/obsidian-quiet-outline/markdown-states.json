@@ -248,15 +248,15 @@
     "expandedKeys": []
   },
   "README.md": {
-    "scroll": 0,
+    "scroll": 0.08949416342412451,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 14
+        "line": 16,
+        "ch": 86
       },
       "to": {
-        "line": 17,
-        "ch": 14
+        "line": 16,
+        "ch": 86
       }
     },
     "expandedKeys": [
@@ -264,7 +264,7 @@
     ]
   },
   "30 Journal/2026-01-16.md": {
-    "scroll": 10.125604159590127,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 45,
@@ -395,7 +395,7 @@
     "expandedKeys": []
   },
   "00 Terminal/Empire of the Vampire - Jay Kristoff.md": {
-    "scroll": 0,
+    "scroll": 46.986520354941405,
     "cursor": {
       "from": {
         "line": 97,

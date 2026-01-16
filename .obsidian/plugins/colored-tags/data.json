@@ -14,14 +14,14 @@
     "book": 2,
     "cooking": 3,
     "daily-note": 3,
-    "management": 3,
-    "marketing": 4,
+    "management": 4,
+    "marketing": 5,
     "reading_as_a_hobby": 5,
     "recipe": 6,
-    "selling": 6,
-    "strategy": 7,
-    "uni": 8,
-    "unit-3": 9
+    "selling": 7,
+    "strategy": 8,
+    "uni": 9,
+    "unit-3": 10
   },
   "tagColors": {},
   "_version": 4
