@@ -5,18 +5,21 @@ tags:
   - BOOK
   - READING_AS_A_HOBBY
 aliases:
-  - "Empire of the Vampire"
-series:
-author: "Jay Kristoff"
+  - Empire of the Vampire
+series: Empire of the Vampire
+author: Jay Kristoff
 pages: "747"
-published: "2021-09-14"
+published: 2021-09-14
 isbn: "9781250245298"
 genre:
-status:
+  - DARK FANTASY
+  - HORROR
+  - VAMPIRES
+status: READING
 date-read:
 rating: ⭐️⭐️⭐️⭐️⭐️
 goodreads: https://www.goodreads.com/book/show/56269205-empire-of-the-vampire
-banner: 
+banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1612450626i/56269205.jpg
 banner-y:
 banner-x:
 ---
@@ -72,9 +75,20 @@ dv.container.innerHTML = `
 # Empire of the Vampire
 
 ## About
-
+_From holy cup comes holy light;  
+The faithful hand sets world aright.  
+And in the Seven Martyrs’ sight,  
+Mere man shall end this endless night._  
+  
+It has been twenty-seven long years since the last sunrise. For nearly three decades, vampires have waged war against humanity; building their eternal empire even as they tear down our own. Now, only a few tiny sparks of light endure in a sea of darkness.  
+  
+Gabriel de León is a silversaint: a member of a holy brotherhood dedicated to defending realm and church from the creatures of the night. But even the Silver Order could not stem the tide once daylight failed us, and now, only Gabriel remains.  
+  
+Imprisoned by the very monsters he vowed to destroy, the last silversaint is forced to tell his story. A story of legendary battles and forbidden love, of faith lost and friendships won, of the Wars of the Blood and the Forever King and the quest for humanity’s last remaining hope:  
+  
+The Holy Grail.
 ## Series
-
+Empire of the Vampire
 ## Annotations
 
 ## Review

@@ -10,7 +10,6 @@
   "nldates-obsidian",
   "obsidian-vimrc-support",
   "obsidian-list-callouts",
-  "obsidian-minimal-settings",
   "obsidian-outliner",
   "periodic-notes",
   "pexels-banner",
@@ -20,5 +19,6 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "darlal-switcher-plus",
-  "obsidian-quiet-outline"
+  "obsidian-quiet-outline",
+  "obsidian-minimal-settings"
 ]

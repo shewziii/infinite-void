@@ -1,16 +1,11 @@
 {
-  "cssTheme": "Minimal",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
-  "textFontFamily": "JetBrainsMono Nerd Font",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
   "enabledCssSnippets": [
-    "supercharged-links-gen",
-    "border-theme-style-checkboxes",
-    "calendar-styling",
-    "minimal-header-space-fix",
-    "style-settings",
-    "tasks-styling-minimal",
-    "border-theme-checkboxes"
+    "calendar-styling"
   ],
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 16
 }
