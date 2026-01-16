@@ -87,7 +87,7 @@ Gabriel de León has saved the Holy Grail from death, but his chance to end the 
 But the Last Silversaint faces peril, within and without. Pursued by terrors of the Blood Voss, drawn into warfare between the Blood Dyvok and duskdancers of the frozen Highlands, and ravaged by his own rising bloodlust, Gabriel may not survive to see the Grail learn her truth.  
   
 And that truth may be too awful for any to imagine.
-## Annotations
+## Quotes
 
 ## Review
 

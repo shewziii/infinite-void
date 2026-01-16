@@ -77,7 +77,7 @@ Told in Kvothe's own voice, this is the tale of the magically gifted young man w
 The intimate narrative of his childhood in a troupe of traveling players, his years spent as a near-feral orphan in a crime-ridden city, his daringly brazen yet successful bid to enter a legendary school of magic, and his life as a fugitive after the murder of a king form a gripping coming-of-age story unrivaled in recent literature.  
   
 A high-action story written with a poet's hand, _The Name of the Wind_ is a masterpiece that will transport readers into the body and mind of a wizard.
-## Annotations
+## Quotes
 
 ## Review
 

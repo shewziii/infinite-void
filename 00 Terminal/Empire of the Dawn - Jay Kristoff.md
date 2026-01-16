@@ -87,7 +87,7 @@ Gabriel de León has lost his family, his faith, and the last hope of ending the
 Unbeknownst to the Last Silversaint, the Grail still lives—speeding towards the besieged capital of Augustin in the frail hope of ending Daysdeath. But deadly treachery awaits within the halls of power, and the Forever King’s legions march ever closer. Gabriel and Dior will be drawn into a final battle that will shape the very fate of the Empire, but as the sun sets for what may the last time, there will be no one left for them to trust.  
 
 Not even each other.
-## Annotations
+## Quotes
 
 ## Review
 

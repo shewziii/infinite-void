@@ -42,10 +42,8 @@ content-start: 451
 >sort by due
 >```
 
-# Today's Log
-
-
 # Today's Notes
+
 
 >[!note]- Created and Modified
 >```dataview

@@ -93,7 +93,7 @@ Sex doesn't sell. In many cases, people in skimpy clothing and suggestive poses 
 Companies routinetly copy from the world of religion and create rituals – like drinking a Corona with a lime – to capture our hard-earned dollars.  
   
 Filled with entertaining inside stories about how we respond to such well-known brands as Marlboro, Nokia, Calvin Klein, Ford, and American Idol, BUYOLOGY is a fascinating and shocking journey into the mind of today’s consumer that will captivate anyone who’s been seduced – or turned off – by marketers’ relentless attempts to win our loyalty, our money, and our minds. Includes a foreword by Paco Underhill.
-## Annotations
+## Quotes
 
 ## Review
 

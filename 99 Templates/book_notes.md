@@ -73,7 +73,7 @@ dv.container.innerHTML = `
 
 ## About
 
-## Annotations
+## Quotes
 
 ## Review
 

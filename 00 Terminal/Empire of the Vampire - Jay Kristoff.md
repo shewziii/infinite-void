@@ -87,8 +87,8 @@ Gabriel de León is a silversaint: a member of a holy brotherhood dedicated to d
 Imprisoned by the very monsters he vowed to destroy, the last silversaint is forced to tell his story. A story of legendary battles and forbidden love, of faith lost and friendships won, of the Wars of the Blood and the Forever King and the quest for humanity’s last remaining hope:  
   
 The Holy Grail.
-## Annotations
-
+## Quotes
+[[Koreader Notes Empire of the Vampire]]
 ## Review
 
 ## Notes
