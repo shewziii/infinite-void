@@ -78,7 +78,7 @@ dv.container.innerHTML = `
 ## Annotations
 
 ## Review
-
+Great fucking book mate
 ## Notes
 
 [[books]]
