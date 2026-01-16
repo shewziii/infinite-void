@@ -207,12 +207,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 22,
-        "ch": 0
+        "line": 77,
+        "ch": 14
       },
       "to": {
-        "line": 22,
-        "ch": 0
+        "line": 77,
+        "ch": 14
       }
     },
     "expandedKeys": [
@@ -259,10 +259,201 @@
         "ch": 14
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   },
   "30 Journal/2026-01-16.md": {
-    "scroll": 9.014035087719298,
+    "scroll": 10.125604159590127,
+    "cursor": {
+      "from": {
+        "line": 45,
+        "ch": 0
+      },
+      "to": {
+        "line": 45,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-1-3"
+    ]
+  },
+  "Empire of the Vampire - Jay Kristoff.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 96,
+        "ch": 0
+      },
+      "to": {
+        "line": 96,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "10 Terminal/Library.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "10 Terminal/Books.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "10 Terminal/books.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "10 Projects/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "20 Hobbies/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "40 Notes/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "recipes/chili.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 21
+      },
+      "to": {
+        "line": 17,
+        "ch": 21
+      }
+    },
+    "expandedKeys": []
+  },
+  "00 Terminal/Empire of the Vampire - Jay Kristoff.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 97,
+        "ch": 0
+      },
+      "to": {
+        "line": 97,
+        "ch": 18
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "00 Terminal/The Name of the Wind - Patrick Rothfuss.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 82,
+        "ch": 0
+      },
+      "to": {
+        "line": 82,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "00 Terminal/10 books.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 15
+      },
+      "to": {
+        "line": 1,
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "00 Terminal/10 Books.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 15
+      },
+      "to": {
+        "line": 5,
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "30 Journal/2026-01-15.md": {
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 14,
@@ -275,16 +466,16 @@
     },
     "expandedKeys": []
   },
-  "Empire of the Vampire - Jay Kristoff.md": {
+  "00 Terminal/chili.md": {
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 82,
-        "ch": 257
+        "line": 22,
+        "ch": 17
       },
       "to": {
-        "line": 82,
-        "ch": 257
+        "line": 22,
+        "ch": 17
       }
     },
     "expandedKeys": [

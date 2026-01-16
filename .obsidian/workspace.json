@@ -8,21 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e816c96f447abf0",
+            "id": "ef092ff44e085c80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 Templates/book_notes.md",
+                "file": "30 Journal/2026-01-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "book_notes"
+              "title": "2026-01-16"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
       {
         "id": "ffeee6218ce1bf07",
         "type": "tabs",
-        "dimension": 33.23529411764706,
+        "dimension": 50.294117647058826,
         "children": [
           {
             "id": "e8248ad7f3c5ce90",
@@ -149,7 +148,7 @@
       {
         "id": "366a1994cdfcd4ba",
         "type": "tabs",
-        "dimension": 66.76470588235294,
+        "dimension": 49.705882352941174,
         "children": [
           {
             "id": "8d392271ba64e77b",
@@ -167,10 +166,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Empire of the Vampire - Jay Kristoff.md"
+                "file": "30 Journal/2026-01-16.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Empire of the Vampire - Jay Kristoff"
+              "title": "File properties for 2026-01-16"
             }
           },
           {
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "98 Archive/uni/1. MKTG 437/Unit 3/CH12 - Pricing Strategies for Business Markets.md",
+                "file": "30 Journal/2026-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CH12 - Pricing Strategies for Business Markets"
+              "title": "Backlinks for 2026-01-16"
             }
           },
           {
@@ -198,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "98 Archive/uni/1. MKTG 437/Unit 3/CH12 - Pricing Strategies for Business Markets.md",
+                "file": "30 Journal/2026-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CH12 - Pricing Strategies for Business Markets"
+              "title": "Outgoing links from 2026-01-16"
             }
           }
         ]
@@ -228,34 +227,42 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "5e816c96f447abf0",
+  "active": "ef092ff44e085c80",
   "lastOpenFiles": [
-    "Empire of the Vampire - Jay Kristoff.md",
-    "The Name of the Wind - Patrick Rothfuss.md",
-    "97 Attachments/Empire of the Vampire - Jay Kristoff.jpg",
     "README.md",
+    "00 Terminal/10 Books.md",
+    "00 Terminal/chili.md",
+    "30 Journal/2026-01-16.md",
+    "00 Terminal/The Name of the Wind - Patrick Rothfuss.md",
+    "00 Terminal/Empire of the Vampire - Jay Kristoff.md",
+    "30 Journal/2026-01-15.md",
+    "99 Templates/book_notes.md",
+    "00 Terminal/books.base",
+    "90 Resources/Untitled.md",
+    "20 Hobbies/Running.md",
+    "10 Projects/Act One Creative.md",
+    "40 Notes",
+    "20 Hobbies",
+    "10 Projects",
+    "00 Terminal",
+    "97 Attachments/Empire of the Vampire - Jay Kristoff.jpg",
     "98 Archive",
     "40 Notes",
     "20 Hobbies",
     "10 Projects",
     "00 Terminal",
-    "30 Journal/2026-01-16.md",
-    "30 Journal/2026-01-15.md",
     "books.md",
-    "books.base",
     "97 Attachments/Pasted image 20260115153315.png",
     "97 Attachments/The Name of the Wind Cover.png",
     "97 Attachments/The Name of the Wind - Patrick Rothfuss.jpg",
-    "99 Templates/book_notes.md",
-    "Library.md",
     "99 Templates/daily note.md",
     "99 Templates/book_note_md.md",
     "97 Attachments/urban_architecture.jpg",
     "The Name of the Wind 10th Anniversary Deluxe Edition - Patrick Rothfuss.md",
     "bookshelf.md",
     "books/A Cast of Stones () - Patrick W Carr.md",
-    "90 Resources/uni/1. MKTG 437/Unit 3/CH12 - Pricing Strategies for Business Markets.md",
-    "90 Resources/uni/Uni Homepage.md",
-    "90 Resources/uni/1. MKTG 437/Unit 2/CH7 - Managing Products for Business Markets.md"
+    "40 Notes/uni/1. MKTG 437/Unit 3/CH12 - Pricing Strategies for Business Markets.md",
+    "40 Notes/uni/Uni Homepage.md",
+    "40 Notes/uni/1. MKTG 437/Unit 2/CH7 - Managing Products for Business Markets.md"
   ]
 }

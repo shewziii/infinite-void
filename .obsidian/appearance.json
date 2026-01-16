@@ -3,7 +3,9 @@
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "enabledCssSnippets": [
-    "calendar-styling"
+    "calendar-styling",
+    "supercharged-links-gen",
+    "minimal-header-space-fix"
   ],
   "theme": "obsidian",
   "accentColor": "",

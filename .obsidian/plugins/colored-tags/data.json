@@ -12,10 +12,12 @@
   "knownTags": {
     "b2b": 1,
     "book": 2,
+    "cooking": 3,
     "daily-note": 3,
     "management": 3,
     "marketing": 4,
     "reading_as_a_hobby": 5,
+    "recipe": 6,
     "selling": 6,
     "strategy": 7,
     "uni": 8,
