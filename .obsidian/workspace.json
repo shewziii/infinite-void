@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Journal/2026-01-16.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-16"
+              "title": "README"
             }
           }
         ],
@@ -134,17 +134,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Journal/2026-01-16.md",
+                "file": "The Name of the Wind - Patrick Rothfuss.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-01-16"
+              "title": "Outline of The Name of the Wind - Patrick Rothfuss"
+            }
+          },
+          {
+            "id": "f2d521c37797e491",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "366a1994cdfcd4ba",
@@ -165,9 +175,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "README.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for README"
             }
           },
           {
@@ -202,19 +214,9 @@
               "icon": "links-going-out",
               "title": "Outgoing links from CH12 - Pricing Strategies for Business Markets"
             }
-          },
-          {
-            "id": "f04a85e0838bcca5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,12 +239,48 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
+  "floating": {
+    "id": "2e91a0f24bdf459a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8b013be618199137",
+        "type": "window",
+        "children": [
+          {
+            "id": "63edd865275c17ae",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "add1f4bd04176b8c",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://viscouspotenti.al/posts/gitsync-all-devices-tutorial",
+                    "title": "How to Sync Obsidian Across All Devices Using Git, Automatically and for Free",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "How to Sync Obsidian Across All Devices Using Git, Automatically and for Free"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 409,
+        "y": 125,
+        "width": 1025,
+        "height": 801,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "5e816c96f447abf0",
   "lastOpenFiles": [
-    "30 Journal/2026-01-16.md",
     "README.md",
-    "Empire of the Vampire - Jay Kristoff.md",
-    "97 Attachments/Empire of the Vampire - Jay Kristoff.jpg",
     "30 Journal/2026-01-15.md",
     "The Name of the Wind - Patrick Rothfuss.md",
     "books.md",

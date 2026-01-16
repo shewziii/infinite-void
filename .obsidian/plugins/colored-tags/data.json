@@ -11,15 +11,15 @@
   },
   "knownTags": {
     "b2b": 1,
-    "book": 1,
-    "daily-note": 2,
+    "book": 2,
+    "daily-note": 3,
     "management": 3,
     "marketing": 4,
-    "reading_as_a_hobby": 2,
-    "selling": 5,
-    "strategy": 6,
-    "uni": 7,
-    "unit-3": 8
+    "reading_as_a_hobby": 5,
+    "selling": 6,
+    "strategy": 7,
+    "uni": 8,
+    "unit-3": 9
   },
   "tagColors": {},
   "_version": 4
