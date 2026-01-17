@@ -26,13 +26,13 @@
 
 </div>
 
-</blockquote><div>
+</blockquote>
+<div>
 
 <h3>Chapter: <u>II. The Beginning of the End</u></h3>
 
-<blockquote><p><strong>2. Highlight</strong> - 2025-12-30 16:06:02 <br/>“Too much hate will burn a man to cinders, Chevalier.”\
-
-“Oui. But at least he’ll die warm.”
+<blockquote><p><strong>2. Highlight</strong> - 2025-12-30 16:06:02 <br/>“Too much hate will burn a man to cinders, Chevalier.”<br><br>
+“Oui. But at least he’ll die warm.”<br><br>
 
 <br><br>
 
@@ -154,13 +154,10 @@
 
 <h3>Chapter: <u>XXIV. This Endless Night</u></h3>
 
-<blockquote><p><strong>10. Highlight</strong> - 2026-01-15 11:12:34 <br/>And in returning to this place, I felt like a man who’d found an old coat he wore as a boy, slipping it onto his shoulders and discovering it no longer fits.\
-
-“Sad for youth lost.\
-
-“Proud that he has grown.\
-
-“But most of all, uncomfortable.
+<blockquote><p><strong>10. Highlight</strong> - 2026-01-15 11:12:34 <br>And in returning to this place, I felt like a man who’d found an old coat he wore as a boy, slipping it onto his shoulders and discovering it no longer fits.<br><br>
+“Sad for youth lost.<br><br>
+“Proud that he has grown.<br><br>
+“But most of all, uncomfortable.<br><br>
 
 <br><br>
 
