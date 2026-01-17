@@ -1,24 +1,27 @@
 ---
-entry-date: 2026-01-15
-UID: 20260115152143
+entry-date: 2026-01-16
+UID: 20260116141316
 tags:
   - BOOK
   - READING_AS_A_HOBBY
 aliases:
-  - The Name of the Wind
-series: Kingkiller Chronicles
-author: Patrick Rothfuss
-pages: "661"
-published: 2007-03-27
-isbn: "9781101147160"
+  - Empire of the Damned
+series: Empire of the Vampire
+author: Jay Kristoff
+pages: "725"
+published: 2024-03-12
+isbn: "9781250245342"
 genre:
-  - FANTASY
-  - FICTION
-status: READ
-date-read: Dec 29, 2025
-rating: ⭐⭐⭐⭐
-goodreads: https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind
-banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1704917687i/186074.jpg
+  - DARK FANTASY
+  - HORROR
+  - VAMPIRES
+status: TBR
+date-read:
+rating:
+goodreads: https://www.goodreads.com/book/show/126918599-empire-of-the-damned?from_search=true&from_srp=true&qid=0JzNkYoWpA&rank=1
+banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1687870963i/126918599.jpg
+banner-y:
+banner-x:
 ---
 
 ```dataviewjs
@@ -69,18 +72,25 @@ dv.container.innerHTML = `
 `;
 ```
 
-# The Name of the Wind
+# Empire of the Damned
 
 ## About
-Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ever seen.  
+From the New York Times bestselling author of the Nevernight Chronicle, Jay Kristoff, comes the much-anticipated sequel to the #1 international bestselling sensation EMPIRE OF THE VAMPIRE.  
   
-The intimate narrative of his childhood in a troupe of traveling players, his years spent as a near-feral orphan in a crime-ridden city, his daringly brazen yet successful bid to enter a legendary school of magic, and his life as a fugitive after the murder of a king form a gripping coming-of-age story unrivaled in recent literature.  
+From holy cup comes holy light;  
+The faithful hands sets world aright.  
+And in the Seven Martyrs’ sight,  
+Mere man shall end this endless night.  
   
-A high-action story written with a poet's hand, _The Name of the Wind_ is a masterpiece that will transport readers into the body and mind of a wizard.
+Gabriel de León has saved the Holy Grail from death, but his chance to end the endless night is lost. Drawn into an uneasy alliance with the mysterious vampire Liathe, Gabriel must now deliver the Grail to ancients of the Blood Esani, and learn the truth of how Daysdeath might be finally undone.  
+  
+But the Last Silversaint faces peril, within and without. Pursued by terrors of the Blood Voss, drawn into warfare between the Blood Dyvok and duskdancers of the frozen Highlands, and ravaged by his own rising bloodlust, Gabriel may not survive to see the Grail learn her truth.  
+  
+And that truth may be too awful for any to imagine.
 ## Quotes
 
 ## Review
 
 ## Notes
 
-[[10 Books|books]]
+[[Library|Books]]

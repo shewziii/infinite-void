@@ -1,27 +1,24 @@
 ---
-entry-date: 2026-01-16
-UID: 20260116010735
+entry-date: 2026-01-15
+UID: 20260115152143
 tags:
   - BOOK
   - READING_AS_A_HOBBY
 aliases:
-  - Empire of the Vampire
-series: Empire of the Vampire
-author: Jay Kristoff
-pages: "747"
-published: 2021-09-14
-isbn: "9781250245298"
+  - The Name of the Wind
+series: Kingkiller Chronicles
+author: Patrick Rothfuss
+pages: "661"
+published: 2007-03-27
+isbn: "9781101147160"
 genre:
-  - DARK FANTASY
-  - HORROR
-  - VAMPIRES
+  - FANTASY
+  - FICTION
 status: READ
-date-read: Jan 16, 2026
-rating: ⭐️⭐️⭐️⭐️⭐️
-goodreads: https://www.goodreads.com/book/show/56269205-empire-of-the-vampire
-banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1612450626i/56269205.jpg
-banner-y:
-banner-x:
+date-read: Dec 29, 2025
+rating: ⭐⭐⭐⭐
+goodreads: https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind
+banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1704917687i/186074.jpg
 ---
 
 ```dataviewjs
@@ -72,25 +69,18 @@ dv.container.innerHTML = `
 `;
 ```
 
-# Empire of the Vampire
+# The Name of the Wind
 
 ## About
-_From holy cup comes holy light;  
-The faithful hand sets world aright.  
-And in the Seven Martyrs’ sight,  
-Mere man shall end this endless night._  
+Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ever seen.  
   
-It has been twenty-seven long years since the last sunrise. For nearly three decades, vampires have waged war against humanity; building their eternal empire even as they tear down our own. Now, only a few tiny sparks of light endure in a sea of darkness.  
+The intimate narrative of his childhood in a troupe of traveling players, his years spent as a near-feral orphan in a crime-ridden city, his daringly brazen yet successful bid to enter a legendary school of magic, and his life as a fugitive after the murder of a king form a gripping coming-of-age story unrivaled in recent literature.  
   
-Gabriel de León is a silversaint: a member of a holy brotherhood dedicated to defending realm and church from the creatures of the night. But even the Silver Order could not stem the tide once daylight failed us, and now, only Gabriel remains.  
-  
-Imprisoned by the very monsters he vowed to destroy, the last silversaint is forced to tell his story. A story of legendary battles and forbidden love, of faith lost and friendships won, of the Wars of the Blood and the Forever King and the quest for humanity’s last remaining hope:  
-  
-The Holy Grail.
+A high-action story written with a poet's hand, _The Name of the Wind_ is a masterpiece that will transport readers into the body and mind of a wizard.
 ## Quotes
-[[Koreader Notes Empire of the Vampire]]
+
 ## Review
 
 ## Notes
 
-[[10 Books|books]]
+[[Library|books]]

@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiLayoutTemplate",
+      "LiPaperclip",
+      "LiBookmark",
+      "LiNotebookPen",
+      "LiPenSquare"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,13 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "00 Terminal": "LiTerminal",
+  "10 Projects": "LiInbox",
+  "20 Hobbies": "LiBookOpen",
+  "30 Journal": "LiPenSquare",
+  "40 Notes": "LiNotebookPen",
+  "90 Resources": "LiBookmark",
+  "97 Attachments": "LiPaperclip",
+  "99 Templates": "LiLayoutTemplate"
 }
