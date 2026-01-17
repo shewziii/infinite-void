@@ -98,6 +98,6 @@ Filled with entertaining inside stories about how we respond to such well-known 
 ## Review
 
 ## Notes
-
+[[Buyology - Truth and Lies About Why We Buy]]
 
 [[Library|Books]]
