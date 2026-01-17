@@ -5,3 +5,4 @@ In Martin Lindstrom's "Buyology: Truth and Lies About Why We Buy", he takes a lo
 In this post, I'll be taking you through some of the ideas and key takeaways from this book.
 
 ## What is Neuromarketing?
+E pluribis unum
