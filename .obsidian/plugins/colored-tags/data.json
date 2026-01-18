@@ -16,14 +16,14 @@
     "cooking": 3,
     "daily-note": 3,
     "draft": 4,
-    "management": 4,
-    "marketing": 5,
+    "management": 5,
+    "marketing": 6,
     "reading_as_a_hobby": 5,
-    "recipe": 6,
-    "selling": 7,
-    "strategy": 8,
-    "uni": 9,
-    "unit-3": 10
+    "recipe": 7,
+    "selling": 8,
+    "strategy": 9,
+    "uni": 10,
+    "unit-3": 11
   },
   "tagColors": {},
   "_version": 4
