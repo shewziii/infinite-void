@@ -94,6 +94,15 @@ Companies routinetly copy from the world of religion and create rituals – like
   
 Filled with entertaining inside stories about how we respond to such well-known brands as Marlboro, Nokia, Calvin Klein, Ford, and American Idol, BUYOLOGY is a fascinating and shocking journey into the mind of today’s consumer that will captivate anyone who’s been seduced – or turned off – by marketers’ relentless attempts to win our loyalty, our money, and our minds. Includes a foreword by Paco Underhill.
 ## Quotes
+14.
+> warning labels on the sides, fronts, and backs of cigarette packs had no effect on suppressing the smokers' cravings at all. Zero. In other words, all those gruesome photographs, government regulations, billions of dollars some 123 countries had invested in nonsmoking campaigns, all amounted, at the end of a day, to, well, a big waste of money.
+
+15.
+> In short, the fMRI results showed that cigarette warning labels not only failed to deter smoking, but by activating the nucleus accumbens, it appeared they actually encouraged smokers to light up. We couldn't help but conclude that those same cigarette warning labels intended to curb smoking, reduce cancer, and save lives had instead become a killer marketing tool for the tobacco industry.
+
+18.
+> We may think we know why we do the things we do—but a much closer look into the brain tells us otherwise
+
 
 ## Review
 
