@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("BLOG")
+        - file.folder != "99 Templates"
+    order:
+      - file.name
+      - date-started
+      - blog-status
+    sort:
+      - property: blog-status
+        direction: DESC
+    columnSize:
+      file.name: 350

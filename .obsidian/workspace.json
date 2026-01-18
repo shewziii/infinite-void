@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "bd77f7bbf619e307",
+    "type": "split",
+    "children": [
+      {
+        "id": "34298206f340116a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce3e9be0421ac916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 Hobbies/Reading/Books/Buyology - Martin Lindstrom.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Buyology - Martin Lindstrom"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbf5d82b3ce56cbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d792b1a70017cfc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d18eccd8c856ee2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5dae7eaa69e8f0f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0551ff11fba6ae2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ac53ac83f79e3541",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffeee6218ce1bf07",
+        "type": "tabs",
+        "dimension": 50.294117647058826,
+        "children": [
+          {
+            "id": "e8248ad7f3c5ce90",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e1d9b37cab136f4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dfc4f6244fce1a51",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "62c33df3cc0c93e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10 Projects/Act Once Creative/actonecreative.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of actonecreative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "366a1994cdfcd4ba",
+        "type": "tabs",
+        "dimension": 49.705882352941174,
+        "children": [
+          {
+            "id": "8d392271ba64e77b",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "b0dae7252840b26e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "20 Hobbies/Reading/Books/Buyology - Martin Lindstrom.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Buyology - Martin Lindstrom"
+            }
+          },
+          {
+            "id": "1163b9eca1cb44c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "30 Journal/2026-01-16.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-01-16"
+            }
+          },
+          {
+            "id": "fca03524a0d9587a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10 Projects/Act Once Creative/actonecreative.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from actonecreative"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "periodic-notes:Open today": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "ce3e9be0421ac916",
+  "lastOpenFiles": [
+    "99 Templates/book_notes.md",
+    "99 Templates/newproject.md",
+    "99 Templates/blogpost.md",
+    "99 Templates/daily note.md",
+    "10 Projects/Act Once Creative/Act One Creative.md",
+    "10 Projects/Act Once Creative/Todo.md",
+    "10 Projects/Act Once Creative/Blog/Buyology - Truth and Lies About Why We Buy.md",
+    "10 Projects/Project Home.md",
+    "30 Journal/2026-01-18.md",
+    "Untitled.md",
+    "20 Hobbies/Reading/Books/Buyology - Martin Lindstrom.md",
+    "00 Terminal/blogposts.base",
+    "40 Notes/uni/Uni Homepage.md",
+    "10 Projects/Act Once Creative/Blog",
+    "10 Projects/Act Once Creative",
+    "30 Journal/2026-01-17.md",
+    "20 Hobbies/Reading/Library.md",
+    "20 Hobbies/Running.md",
+    "10 Projects/Act One Creative.md",
+    "00 Terminal/The Name of the Wind - Patrick Rothfuss.md",
+    "00 Terminal/Empire of the Vampire - Jay Kristoff.md",
+    "00 Terminal/10 Books.md",
+    "10 Projects/Act One Creative/Blogs",
+    "10 Projects/Act One Creative",
+    "40 Notes/uni/5. MKTG 337/CH4 - Communication Principles.md",
+    "20 Hobbies/Reading/Book Notes/Koreader Highlights Empire of the Vampire.md",
+    "20 Hobbies/Reading/Books/Empire of the Vampire - Jay Kristoff.md",
+    "30 Journal/2026-01-16.md",
+    "Koreader Notes Empire of the Vampire.md",
+    "20 Hobbies/Reading/Book Notes",
+    "20 Hobbies/Reading/Books",
+    "20 Hobbies/Reading",
+    "00 Terminal/Books",
+    "README.md",
+    "Koreader Notes Empire of the Vampire - Fixed.html",
+    "20 Hobbies/Reading/Books/The Name of the Wind - Patrick Rothfuss.md",
+    "97 Attachments/Empire of the Vampire - Jay Kristoff.jpg",
+    "97 Attachments/Pasted image 20260115153315.png",
+    "97 Attachments/The Name of the Wind Cover.png",
+    "97 Attachments/The Name of the Wind - Patrick Rothfuss.jpg",
+    "97 Attachments/urban_architecture.jpg"
+  ]
+}
