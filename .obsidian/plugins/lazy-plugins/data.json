@@ -80,6 +80,9 @@
       },
       "callout-manager": {
         "startupType": "instant"
+      },
+      "obsidian-columns": {
+        "startupType": "instant"
       }
     }
   }

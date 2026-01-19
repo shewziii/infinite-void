@@ -25,3 +25,4 @@ banner-y: 100
 > - [ ] [[The Importance of Video Editing]]
 > - [ ] [[How to Create an Effective Social Media Content Calendar]]
 > - [ ] [[How to Leverage UGC for Marketing]]
+> - [ ] [[The Art of Repurposing Content]]
