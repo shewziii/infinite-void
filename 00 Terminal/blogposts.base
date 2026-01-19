@@ -11,6 +11,10 @@ views:
       - blog-status
     sort:
       - property: blog-status
+        direction: ASC
+      - property: date-started
         direction: DESC
     columnSize:
-      file.name: 350
+      file.name: 432
+      note.date-started: 129
+    rowHeight: medium

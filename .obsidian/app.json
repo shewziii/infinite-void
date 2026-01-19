@@ -7,5 +7,7 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "autoConvertHtml": true,
-  "vimMode": true
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Terminal"
 }

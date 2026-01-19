@@ -1,8 +1,39 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "7d00a288-44fc-4172-8f2b-73fd4de70aec",
+      "name": "blogpost",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99 Templates/blogpost.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "10 Projects/Act Once Creative/Blog"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "99 Templates",
   "announceUpdates": "all",
   "version": "2.9.4",
   "globalVariables": {},

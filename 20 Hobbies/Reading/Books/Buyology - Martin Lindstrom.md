@@ -81,7 +81,6 @@ In BUYOLOGY, Lindstrom presents the astonishing findings from his groundbreaking
   
 Gruesome health warnings on cigarette packages not only fail to discourage smoking, they actually make smokers want to light up.  
   
-  
 Despite government bans, subliminal advertising still surrounds us – from bars to highway billboards to supermarket shelves.  
   
 "Cool” brands, like iPods trigger our mating instincts.  
@@ -93,6 +92,8 @@ Sex doesn't sell. In many cases, people in skimpy clothing and suggestive poses 
 Companies routinetly copy from the world of religion and create rituals – like drinking a Corona with a lime – to capture our hard-earned dollars.  
   
 Filled with entertaining inside stories about how we respond to such well-known brands as Marlboro, Nokia, Calvin Klein, Ford, and American Idol, BUYOLOGY is a fascinating and shocking journey into the mind of today’s consumer that will captivate anyone who’s been seduced – or turned off – by marketers’ relentless attempts to win our loyalty, our money, and our minds. Includes a foreword by Paco Underhill.
+
+---
 ## Quotes
 ### Chapter I
 > warning labels on the sides, fronts, and backs of cigarette packs had no effect on suppressing the smokers' cravings at all. Zero. In other words, all those gruesome photographs, government regulations, billions of dollars some 123 countries had invested in nonsmoking campaigns, all amounted, at the end of a day, to, well, a big waste of money.
@@ -107,7 +108,7 @@ Filled with entertaining inside stories about how we respond to such well-known 
 
 ---
 ## Notes
-### Chapter 1
+### Chapter I
 Chapter 1 touches on who Martin Lindstrom is, information about the study, what the parameters were, his subjects, the reach of the study, and gave some foreshadowing conclusions, including:
 - warning labels are a waste of money
 - fMRI and SST used together can paint a clear picture of what’s going on in consumers brains
@@ -115,6 +116,8 @@ Chapter 1 touches on who Martin Lindstrom is, information about the study, what 
 - Appealing to emotions will win out over logical reasoning and value every single time
 
 Based on a study done in Princeton university, students were asked to choose between a $15 Amazon gift card now, or a $20 gift card a week from now. Most of the students chose immediate gratification because of that emotional response to getting something they deem valuable *now*.
+### Chapter II
+
 
 ---
 ## Review

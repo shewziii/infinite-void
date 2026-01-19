@@ -8,21 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce3e9be0421ac916",
+            "id": "5dc6c2a875249189",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Hobbies/Reading/Books/Buyology - Martin Lindstrom.md",
+                "file": "30 Journal/2026-01-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Buyology - Martin Lindstrom"
+              "title": "2026-01-19"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -42,7 +43,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -167,10 +168,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20 Hobbies/Reading/Books/Buyology - Martin Lindstrom.md"
+                "file": "30 Journal/2026-01-19.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Buyology - Martin Lindstrom"
+              "title": "File properties for 2026-01-19"
             }
           },
           {
@@ -206,8 +207,7 @@
               "title": "Outgoing links from actonecreative"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,48 +228,48 @@
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "periodic-notes:Open today": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "ce3e9be0421ac916",
+  "active": "5dc6c2a875249189",
   "lastOpenFiles": [
-    "99 Templates/book_notes.md",
-    "99 Templates/newproject.md",
-    "99 Templates/blogpost.md",
-    "99 Templates/daily note.md",
-    "10 Projects/Act Once Creative/Act One Creative.md",
-    "10 Projects/Act Once Creative/Todo.md",
-    "10 Projects/Act Once Creative/Blog/Buyology - Truth and Lies About Why We Buy.md",
-    "10 Projects/Project Home.md",
-    "30 Journal/2026-01-18.md",
-    "Untitled.md",
-    "20 Hobbies/Reading/Books/Buyology - Martin Lindstrom.md",
-    "00 Terminal/blogposts.base",
-    "40 Notes/uni/Uni Homepage.md",
-    "10 Projects/Act Once Creative/Blog",
-    "10 Projects/Act Once Creative",
-    "30 Journal/2026-01-17.md",
+    "10 Projects/Act One Creative/Act One Creative.md",
+    "10 Projects/Act One Creative/Blog/Buyology - Truth and Lies About Why We Buy.md",
+    "30 Journal/2026-01-19.md",
     "20 Hobbies/Reading/Library.md",
-    "20 Hobbies/Running.md",
-    "10 Projects/Act One Creative.md",
-    "00 Terminal/The Name of the Wind - Patrick Rothfuss.md",
-    "00 Terminal/Empire of the Vampire - Jay Kristoff.md",
-    "00 Terminal/10 Books.md",
+    "20 Hobbies/Reading/Books/Buyology - Martin Lindstrom.md",
+    "99 Templates/blogpost.md",
+    "10 Projects/Act One Creative/Blog/Untitled.md",
+    "10 Projects/Blog/Untitled.md",
+    "10 Projects/Blog",
+    "10 Projects/BlogUntitled.md",
+    "Meetings/Untitled.md",
+    "Meetings",
+    "10 Projects/Act Once Creative/Blog/test.md",
+    "10 Projects/Projects.md",
+    "30 Journal/2026-01-18.md",
+    "00 Terminal/2026-01-19.md",
+    "99 Templates/daily note.md",
+    "00 Terminal/Project Home.md",
+    "10 Projects/Act One Creative/Blog/How A Comprehensive Marketing Plan Helped Raise Money for Some Furry Friends - Case Study.md",
+    "Home.md",
+    "99 Templates/book_notes.md",
+    "10 Projects/Act One Creative/Blog/How We Helped a Local Restaurant Boost Traffic & Customer Loyalty - Case Study.md",
+    "10 Projects/Act One Creative/Blog/A Strategic Social Media Growth Plan for a Regional Jewelry Brand - Case Study.md",
+    "30 Journal/2026-01-17.md",
+    "20 Hobbies/Reading/Book Notes/Koreader Highlights - Empire of the Vampire.md",
+    "README.md",
+    "20 Hobbies/conventional git messages.md",
+    "99 Templates/newproject.md",
+    "00 Terminal/blogposts.base",
+    "10 Projects/Act One Creative/Blog",
+    "10 Projects/Act One Creative",
     "10 Projects/Act One Creative/Blogs",
     "10 Projects/Act One Creative",
-    "40 Notes/uni/5. MKTG 337/CH4 - Communication Principles.md",
-    "20 Hobbies/Reading/Book Notes/Koreader Highlights Empire of the Vampire.md",
-    "20 Hobbies/Reading/Books/Empire of the Vampire - Jay Kristoff.md",
-    "30 Journal/2026-01-16.md",
-    "Koreader Notes Empire of the Vampire.md",
     "20 Hobbies/Reading/Book Notes",
     "20 Hobbies/Reading/Books",
     "20 Hobbies/Reading",
-    "00 Terminal/Books",
-    "README.md",
-    "Koreader Notes Empire of the Vampire - Fixed.html",
-    "20 Hobbies/Reading/Books/The Name of the Wind - Patrick Rothfuss.md",
     "97 Attachments/Empire of the Vampire - Jay Kristoff.jpg",
     "97 Attachments/Pasted image 20260115153315.png",
     "97 Attachments/The Name of the Wind Cover.png",

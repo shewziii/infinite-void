@@ -1,7 +1,34 @@
 {
   "callouts": {
-    "custom": [],
-    "settings": {}
+    "custom": [
+      "button",
+      "previous",
+      "next"
+    ],
+    "settings": {
+      "button": [
+        {
+          "changes": {
+            "icon": "lucide-square-arrow-out-up-right",
+            "color": "137, 220, 235"
+          }
+        }
+      ],
+      "previous": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-left-circle"
+          }
+        }
+      ],
+      "next": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-right-circle"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidian": true,

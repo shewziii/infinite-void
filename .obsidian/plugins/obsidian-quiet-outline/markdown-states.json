@@ -74,18 +74,20 @@
     "expandedKeys": []
   },
   "99 Templates/daily note.md": {
-    "scroll": 10.782456140350877,
+    "scroll": 3.1884057971014492,
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 26
+        "line": 32,
+        "ch": 0
       },
       "to": {
-        "line": 18,
-        "ch": 26
+        "line": 32,
+        "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   },
   "2026-01-15.md": {
     "scroll": 19.76041539510091,
@@ -119,11 +121,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 4,
+        "line": 0,
         "ch": 0
       }
     },
@@ -204,7 +206,7 @@
     "expandedKeys": []
   },
   "99 Templates/book_notes.md": {
-    "scroll": 23.74222734002303,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 72,
@@ -607,7 +609,7 @@
     "expandedKeys": []
   },
   "30 Journal/2026-01-17.md": {
-    "scroll": 18.79312546093986,
+    "scroll": 2.550724637681159,
     "cursor": {
       "from": {
         "line": 48,
@@ -710,19 +712,21 @@
     "expandedKeys": []
   },
   "20 Hobbies/Reading/Books/Buyology - Martin Lindstrom.md": {
-    "scroll": 100.25260416666667,
+    "scroll": 106.06969631735758,
     "cursor": {
       "from": {
-        "line": 123,
+        "line": 126,
         "ch": 17
       },
       "to": {
-        "line": 123,
+        "line": 126,
         "ch": 17
       }
     },
     "expandedKeys": [
-      "item-1-0"
+      "item-1-0",
+      "item-2-2",
+      "item-2-5"
     ]
   },
   "20 Hobbies/Reading/Book Notes/Koreader Highlights Empire of the Vampire.md": {
@@ -824,7 +828,7 @@
     "expandedKeys": []
   },
   "30 Journal/2026-01-18.md": {
-    "scroll": 18.455882352941178,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 22,
@@ -900,12 +904,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 5,
-        "ch": 29
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 5,
-        "ch": 29
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -956,40 +960,42 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 3,
+        "line": 12,
         "ch": 0
       },
       "to": {
-        "line": 3,
+        "line": 12,
         "ch": 0
       }
     },
     "expandedKeys": []
   },
   "10 Projects/Act Once Creative/Act One Creative.md": {
-    "scroll": 8.41139240506329,
+    "scroll": 11.410384241920786,
     "cursor": {
       "from": {
-        "line": 22,
+        "line": 27,
         "ch": 0
       },
       "to": {
-        "line": 22,
+        "line": 27,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-0"
+    ]
   },
   "99 Templates/blogpost.md": {
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 45
+        "line": 6,
+        "ch": 0
       },
       "to": {
-        "line": 2,
-        "ch": 45
+        "line": 6,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -1018,6 +1024,254 @@
       "to": {
         "line": 9,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "20 Hobbies/conventional git messages.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 58
+      },
+      "to": {
+        "line": 18,
+        "ch": 58
+      }
+    },
+    "expandedKeys": []
+  },
+  "00 Terminal/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "00 Terminal/A Strategic Social Media Growth Plan for a Regional Jewelry Brand - Case Study.md": {
+    "scroll": 7.7644096374511715,
+    "cursor": {
+      "from": {
+        "line": 35,
+        "ch": 255
+      },
+      "to": {
+        "line": 35,
+        "ch": 255
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "30 Journal/2026-01-19.md": {
+    "scroll": 39.09575240766027,
+    "cursor": {
+      "from": {
+        "line": 81,
+        "ch": 0
+      },
+      "to": {
+        "line": 81,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "00 Terminal/How We Helped a Local Restaurant Boost Traffic & Customer Loyalty - Case Study.md": {
+    "scroll": 38.20138764381409,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 83
+      },
+      "to": {
+        "line": 16,
+        "ch": 83
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "00 Terminal/How A Comprehensive Marketing Plan Helped Raise Money for Some Furry Friends - Case Study.md": {
+    "scroll": 5.876029331432373,
+    "cursor": {
+      "from": {
+        "line": 46,
+        "ch": 304
+      },
+      "to": {
+        "line": 46,
+        "ch": 304
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Home.md": {
+    "scroll": 2.3772609819121446,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "10 Projects/Project.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "10 Projects/Projects.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "00 Terminal/2026-01-19.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "10 Projects/Act Once Creative/Blog/test.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Meetings/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "10 Projects/BlogUntitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "10 Projects/Blog/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "10 Projects/Act One Creative/Blog/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "10 Projects/Act One Creative/Act One Creative.md": {
+    "scroll": 4.635658796443495,
+    "cursor": {
+      "from": {
+        "line": 27,
+        "ch": 0
+      },
+      "to": {
+        "line": 27,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "10 Projects/Act One Creative/Blog/Buyology - Truth and Lies About Why We Buy.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 13
+      },
+      "to": {
+        "line": 11,
+        "ch": 13
       }
     },
     "expandedKeys": []
