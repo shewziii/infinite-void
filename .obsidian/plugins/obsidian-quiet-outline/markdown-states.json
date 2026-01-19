@@ -74,15 +74,15 @@
     "expandedKeys": []
   },
   "99 Templates/daily note.md": {
-    "scroll": 0,
+    "scroll": 10.782456140350877,
     "cursor": {
       "from": {
-        "line": 45,
-        "ch": 0
+        "line": 18,
+        "ch": 26
       },
       "to": {
-        "line": 45,
-        "ch": 0
+        "line": 18,
+        "ch": 26
       }
     },
     "expandedKeys": []
@@ -204,15 +204,15 @@
     "expandedKeys": []
   },
   "99 Templates/book_notes.md": {
-    "scroll": 59.53968447730655,
+    "scroll": 23.74222734002303,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 12
+        "line": 72,
+        "ch": 0
       },
       "to": {
-        "line": 1,
-        "ch": 12
+        "line": 72,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -666,7 +666,7 @@
     "expandedKeys": []
   },
   "20 Hobbies/Reading/Books/Empire of the Vampire - Jay Kristoff.md": {
-    "scroll": 67.23682791619979,
+    "scroll": 85.138671875,
     "cursor": {
       "from": {
         "line": 86,
@@ -685,11 +685,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 2,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 2,
         "ch": 0
       }
     },
@@ -710,15 +710,15 @@
     "expandedKeys": []
   },
   "20 Hobbies/Reading/Books/Buyology - Martin Lindstrom.md": {
-    "scroll": 93.6649300257365,
+    "scroll": 100.25260416666667,
     "cursor": {
       "from": {
-        "line": 104,
-        "ch": 0
+        "line": 123,
+        "ch": 17
       },
       "to": {
-        "line": 104,
-        "ch": 0
+        "line": 123,
+        "ch": 17
       }
     },
     "expandedKeys": [
@@ -729,12 +729,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 15
+        "line": 2,
+        "ch": 0
       },
       "to": {
-        "line": 0,
-        "ch": 15
+        "line": 2,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -824,7 +824,7 @@
     "expandedKeys": []
   },
   "30 Journal/2026-01-18.md": {
-    "scroll": 0,
+    "scroll": 18.455882352941178,
     "cursor": {
       "from": {
         "line": 22,
@@ -956,25 +956,25 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 13,
+        "line": 3,
         "ch": 0
       },
       "to": {
-        "line": 13,
+        "line": 3,
         "ch": 0
       }
     },
     "expandedKeys": []
   },
   "10 Projects/Act Once Creative/Act One Creative.md": {
-    "scroll": 0,
+    "scroll": 8.41139240506329,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 22,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 22,
         "ch": 0
       }
     },

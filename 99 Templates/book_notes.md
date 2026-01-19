@@ -73,11 +73,14 @@ dv.container.innerHTML = `
 
 ## About
 
+---
 ## Quotes
 
-## Review
-
+---
 ## Notes
 
+---
+## Review
 
+---
 [[Library|Books]]
