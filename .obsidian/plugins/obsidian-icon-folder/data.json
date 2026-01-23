@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArchive",
       "LiLayoutTemplate",
       "LiPaperclip",
       "LiBookmark",
-      "LiNotebookPen",
-      "LiPenSquare"
+      "LiNotebookPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "40 Notes": "LiNotebookPen",
   "90 Resources": "LiBookmark",
   "97 Attachments": "LiPaperclip",
-  "99 Templates": "LiLayoutTemplate"
+  "99 Templates": "LiLayoutTemplate",
+  "98 Archive": "LiArchive"
 }
