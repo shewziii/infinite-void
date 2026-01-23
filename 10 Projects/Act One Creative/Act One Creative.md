@@ -10,8 +10,12 @@ banner-y: 100
 # Act One Creative
 ---
 ## To Do
-- [ ] Schedule IG Story📅 2026-01-26
-- [ ] Schedule IG Website Launch Post📅 2026-01-26 
+- [x] Schedule IG Story 🛫 2026-01-23 📅 2026-01-26 ✅ 2026-01-23
+- [ ] Schedule IG Website Launch Post📅 2026-01-26🛫 2026-01-23 
+- [x] Remove keyword meta tag from website pages 📅 2026-01-23 ✅ 2026-01-23
+- [ ] Write video editing blog 📅 2026-01-26 
+- [ ] Write [[Buyology - Martin Lindstrom|Buyology]] notes blog 🛫 2026-01-17
+	- [ ] Read [[Buyology - Martin Lindstrom|Buyology]]
 
 ---
 ## Blogs

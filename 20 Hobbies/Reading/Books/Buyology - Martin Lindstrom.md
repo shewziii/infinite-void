@@ -102,7 +102,7 @@ Filled with entertaining inside stories about how we respond to such well-known 
 
 > We may think we know why we do the things we do—but a much closer look into the brain tells us otherwise.
 
-> Because emotions are the way in which our brains encode things of value, and a brand that engages us emotionally—think Apple,Harley Davidson, and L’Oreal, just for starters—will win every single time.
+> Because emotions are the way in which our brains encode things of value, and a brand that engages us emotionally—think Apple, Harley-Davidson, and L'Oréal, just for starters—will win every single time.
 
 ### Chapter II
 > Unless the brand in question plays a fundamental party of the storyline, we won’t remember it, period.
@@ -111,6 +111,12 @@ Filled with entertaining inside stories about how we respond to such well-known 
 > *Yawn*. Are you yawning now, or feeling the initial stirrings of yawning? I am, and not because I’m bored, or tired of writing about the brain, but simply because I just typed the word *yawn*. You see, mirror neurons become activated not only when we’re *observing* other people’s behavior, they even fire when we’re *reading* about someone performing it.
 
 > The results found that the subject’ orbitofrontal cortices—the region of the brain associated with rest processing—were more active when the subject were learning and recalling the names of smiling individuals.
+
+### Chapter IV
+> The researchers termed this effect "unconscious emotion," meaning that a minute emotional change had taken place without the subjects being aware of either the stimulus that caused it or any shift in their emotional states. In other words, smiling faces can subconsciously get us to buy more stuff, suggesting that store managers who instruct their employees to smile are on the right track.
+
+### Chapter V
+> 
 
 ---
 ## Notes
@@ -121,7 +127,7 @@ Chapter 1 touches on who Martin Lindstrom is, information about the study, what 
 - Traditional research methods such as focus groups, surveys, and quantitative and qualitative research are not as effective as we think because while we believe we are telling the truth, our brains tell another story
 - Appealing to emotions will win out over logical reasoning and value every single time
 
-Based on a study done in Princeton university, students were asked to choose between a $15 Amazon gift card now, or a $20 gift card a week from now. Most of the students chose immediate gratification because of that emotional response to getting something they deem valuable *now*.
+Based on a study done in Princeton University, students were asked to choose between a $15 Amazon gift card now, or a $20 gift card a week from now. Most of the students chose immediate gratification because of that emotional response to getting something they deem valuable *now*.
 
 ### Chapter II
 This chapter explored the concept of product placement in media, such as Coke’s strategic product placement on American Idol, Ford’s not so effective use of ad spots on the network of the same show, or Reese’s Pieces incredibly culture changing placement in Stephen Spielberg’s E.T., which caused theaters around the nation to carry the peanut butter chocolate candy. 
@@ -129,9 +135,12 @@ This chapter explored the concept of product placement in media, such as Coke’
 Based on a study he did, Lindstrom concludes that product placement is only effective if the product or brand plays a critical role in the media it’s placed in. 
 
 ### Chapter III
-This chapter explores the role of mirror neurons and dopamine in our buying decisions. Lindstrom voices the idea that a lot of what we do and why we buy is to increase our status in society. This is because we—humans, who at the base level are just animals—attribute status to higher levels of attraction, and the more status we have, the more likely it is for us to find a mate. Where mirror neurons and dopamine come into play is in the consumer journey. Martin Lindstrom talked about Abercrombie and Fitch, which makes use of young, attractive clerks, pictures of models, and even positions groups of models sporting their apparel outside of stores. Consumers who walked into or around the stores felt their status improved just by observing and being around those models. It made them feel good. They walk into the store and they see clothes on mannequins and on the models and think “that could be me if I wore these clothes”, so they move to buy. Dopamine is released when we make buying decisions. 
+This chapter explores the role of mirror neurons and dopamine in our buying decisions. Lindstrom voices the idea that a lot of what we do and why we buy is to increase our status in society. This is because we—humans, who at the base level are just animals—attribute status to higher levels of attraction, and the more status we have, the more likely it is for us to find a mate. Where mirror neurons and dopamine come into play is in the consumer journey. Martin Lindstrom talked about Abercrombie and Fitch, which makes use of young, attractive clerks, pictures of models, and even positions groups of models sporting their apparel outside of stores. Consumers who walked into or around the stores felt their status improved just by observing and being around those models. It made them feel good. They walk into the store, and they see clothes on mannequins and on the models and think “that could be me if I wore these clothes”, so they move to buy. Dopamine is released when we make buying decisions. 
 
 ### Chapter IV
+Subliminal messaging has been a controversial topic in advertising for a long time, with many consumers believing it to be a malicious and manipulative practice. Subliminal messaging is the use of imagery, audio cues, and visual cues that lie just below the threshold of conscious awareness to influence decision-making. Though it isn’t as concrete as people used to believe, there is evidence that points to effective use of subliminal messaging in marketing—just in different ways. When showed images of people smiling vs people frowning for a fraction of a second, subjects of an experiment seemed to be more willing to buy and spend more from the messaging that showed the smiling faces. Lindstrom also explains—in regard to cigarette smokers—that when smokers see the logos of cigarette companies explicitly, they put their guards up because they know it’s bad for them. However, when put through an experiment where only imagery, colors, and visual cues that were used by the companies (and not logos), the parts of the subjects’ brains that are associated with craving became more active than when they were explicitly shown the logos. Lindstrom explains that this happens because the smokers had their guards down. With no explicit signals to tell them that what they were seeing was related to the cigarette brands, their brains were free to take in the subliminal messaging even more.
+
+### Chapter V
 
 
 ---

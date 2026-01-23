@@ -83,6 +83,9 @@
       },
       "obsidian-columns": {
         "startupType": "instant"
+      },
+      "obsidian-languagetool-plugin": {
+        "startupType": "instant"
       }
     }
   }
