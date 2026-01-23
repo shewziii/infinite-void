@@ -24,5 +24,6 @@
   "omnisearch",
   "callout-manager",
   "obsidian-columns",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "obsidian-pandoc"
 ]

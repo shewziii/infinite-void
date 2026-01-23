@@ -25,7 +25,7 @@ banner-y: 100
 ---
 ## Blog Ideas
 > [!example]+ Ideas
-> - [ ] [[The Importance of Video Editing]]
+> - [ ] [[What 5 Years of Freelance Video Editing Taught Me]]
 > - [ ] [[How to Create an Effective Social Media Content Calendar]]
 > - [ ] [[How to Leverage UGC for Marketing]]
 > - [ ] [[The Art of Repurposing Content]]
