@@ -105,6 +105,12 @@ Filled with entertaining inside stories about how we respond to such well-known 
 > Because emotions are the way in which our brains encode things of value, and a brand that engages us emotionally—think Apple,Harley Davidson, and L’Oreal, just for starters—will win every single time.
 
 ### Chapter II
+> Unless the brand in question plays a fundamental party of the storyline, we won’t remember it, period.
+
+### Chapter III
+> *Yawn*. Are you yawning now, or feeling the initial stirrings of yawning? I am, and not because I’m bored, or tired of writing about the brain, but simply because I just typed the word *yawn*. You see, mirror neurons become activated not only when we’re *observing* other people’s behavior, they even fire when we’re *reading* about someone performing it.
+
+> The results found that the subject’ orbitofrontal cortices—the region of the brain associated with rest processing—were more active when the subject were learning and recalling the names of smiling individuals.
 
 ---
 ## Notes
@@ -116,7 +122,16 @@ Chapter 1 touches on who Martin Lindstrom is, information about the study, what 
 - Appealing to emotions will win out over logical reasoning and value every single time
 
 Based on a study done in Princeton university, students were asked to choose between a $15 Amazon gift card now, or a $20 gift card a week from now. Most of the students chose immediate gratification because of that emotional response to getting something they deem valuable *now*.
+
 ### Chapter II
+This chapter explored the concept of product placement in media, such as Coke’s strategic product placement on American Idol, Ford’s not so effective use of ad spots on the network of the same show, or Reese’s Pieces incredibly culture changing placement in Stephen Spielberg’s E.T., which caused theaters around the nation to carry the peanut butter chocolate candy. 
+
+Based on a study he did, Lindstrom concludes that product placement is only effective if the product or brand plays a critical role in the media it’s placed in. 
+
+### Chapter III
+This chapter explores the role of mirror neurons and dopamine in our buying decisions. Lindstrom voices the idea that a lot of what we do and why we buy is to increase our status in society. This is because we—humans, who at the base level are just animals—attribute status to higher levels of attraction, and the more status we have, the more likely it is for us to find a mate. Where mirror neurons and dopamine come into play is in the consumer journey. Martin Lindstrom talked about Abercrombie and Fitch, which makes use of young, attractive clerks, pictures of models, and even positions groups of models sporting their apparel outside of stores. Consumers who walked into or around the stores felt their status improved just by observing and being around those models. It made them feel good. They walk into the store and they see clothes on mannequins and on the models and think “that could be me if I wore these clothes”, so they move to buy. Dopamine is released when we make buying decisions. 
+
+### Chapter IV
 
 
 ---

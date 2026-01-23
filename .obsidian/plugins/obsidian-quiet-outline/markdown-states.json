@@ -712,15 +712,15 @@
     "expandedKeys": []
   },
   "20 Hobbies/Reading/Books/Buyology - Martin Lindstrom.md": {
-    "scroll": 106.06969631735758,
+    "scroll": 131.32049851190476,
     "cursor": {
       "from": {
-        "line": 126,
-        "ch": 17
+        "line": 133,
+        "ch": 14
       },
       "to": {
-        "line": 126,
-        "ch": 17
+        "line": 133,
+        "ch": 14
       }
     },
     "expandedKeys": [
@@ -1073,7 +1073,7 @@
     ]
   },
   "30 Journal/2026-01-19.md": {
-    "scroll": 34.37179070523237,
+    "scroll": 4.347368421052631,
     "cursor": {
       "from": {
         "line": 29,
@@ -1247,15 +1247,15 @@
     "expandedKeys": []
   },
   "10 Projects/Act One Creative/Act One Creative.md": {
-    "scroll": 19.156726999749772,
+    "scroll": 16.580115105513386,
     "cursor": {
       "from": {
-        "line": 27,
-        "ch": 40
+        "line": 28,
+        "ch": 11
       },
       "to": {
-        "line": 27,
-        "ch": 40
+        "line": 28,
+        "ch": 11
       }
     },
     "expandedKeys": [
@@ -1272,6 +1272,62 @@
       "to": {
         "line": 11,
         "ch": 13
+      }
+    },
+    "expandedKeys": []
+  },
+  "30 Journal/2026-01-20.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 48,
+        "ch": 0
+      },
+      "to": {
+        "line": 48,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "00 Terminal/2026-01-21.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "30 Journal/2026-01-21.md": {
+    "scroll": 28.041666666666668,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "30 Journal/2026-01-22.md": {
+    "scroll": 28.041666666666668,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
       }
     },
     "expandedKeys": []
