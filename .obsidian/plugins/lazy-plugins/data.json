@@ -86,6 +86,9 @@
       },
       "obsidian-languagetool-plugin": {
         "startupType": "instant"
+      },
+      "obsidian-pandoc": {
+        "startupType": "instant"
       }
     }
   }
