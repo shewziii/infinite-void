@@ -1,7 +1,7 @@
 ---
 tags: BLOG
 date-started: 2026-01-23
-blog-status:
+blog-status: draft
 ---
 # What 5 Years of Freelance Video Editing Taught Me About Marketing
 I'd just gotten home after a 10-hour shift at my serving job. The Saturday night dinner crowd left me utterly exhausted. The worst part of it all was I still had homework to do. So I lugged myself to my bed, opened my Microsoft Surface tablet that I was using as my laptop, and got to work.

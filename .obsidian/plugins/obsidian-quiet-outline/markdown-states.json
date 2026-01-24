@@ -1247,15 +1247,15 @@
     "expandedKeys": []
   },
   "10 Projects/Act One Creative/Act One Creative.md": {
-    "scroll": 16.696132363139323,
+    "scroll": 4.632911392405063,
     "cursor": {
       "from": {
-        "line": 33,
-        "ch": 0
+        "line": 13,
+        "ch": 6
       },
       "to": {
-        "line": 33,
-        "ch": 0
+        "line": 13,
+        "ch": 6
       }
     },
     "expandedKeys": [
@@ -1379,7 +1379,7 @@
     "expandedKeys": []
   },
   "30 Journal/2026-01-23.md": {
-    "scroll": 14.77981491540662,
+    "scroll": 10.659649122807018,
     "cursor": {
       "from": {
         "line": 32,
@@ -1412,12 +1412,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 14,
-        "ch": 264
+        "line": 5,
+        "ch": 0
       },
       "to": {
-        "line": 14,
-        "ch": 264
+        "line": 5,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -1434,6 +1434,20 @@
       "to": {
         "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "30 Journal/2026-01-24.md": {
+    "scroll": 11.249122807017544,
+    "cursor": {
+      "from": {
+        "line": 32,
+        "ch": 13
+      },
+      "to": {
+        "line": 32,
+        "ch": 13
       }
     },
     "expandedKeys": []
