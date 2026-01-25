@@ -116,7 +116,11 @@ Filled with entertaining inside stories about how we respond to such well-known 
 > The researchers termed this effect "unconscious emotion," meaning that a minute emotional change had taken place without the subjects being aware of either the stimulus that caused it or any shift in their emotional states. In other words, smiling faces can subconsciously get us to buy more stuff, suggesting that store managers who instruct their employees to smile are on the right track.
 
 ### Chapter V
-> 
+> Whether you know it or not, you don't want to tamper with the region of your brain made up of your "implicit" memory, which encompasses everything you know how to do without thinking about it, from riding a bike to parallel-parking to tying your shoelaces to buying a book effortlessly on Amazon.
+
+> And in many ways, brand obsession has a lot in common with rituals and superstitious behavior—both involve habitual, repeated actions that have little or no logical basis, and both stem from the need for a sense of control in an overwhelming and complex world.
+
+### Chapter VI
 
 ---
 ## Notes
@@ -141,7 +145,9 @@ This chapter explores the role of mirror neurons and dopamine in our buying deci
 Subliminal messaging has been a controversial topic in advertising for a long time, with many consumers believing it to be a malicious and manipulative practice. Subliminal messaging is the use of imagery, audio cues, and visual cues that lie just below the threshold of conscious awareness to influence decision-making. Though it isn’t as concrete as people used to believe, there is evidence that points to effective use of subliminal messaging in marketing—just in different ways. When showed images of people smiling vs people frowning for a fraction of a second, subjects of an experiment seemed to be more willing to buy and spend more from the messaging that showed the smiling faces. Lindstrom also explains—in regard to cigarette smokers—that when smokers see the logos of cigarette companies explicitly, they put their guards up because they know it’s bad for them. However, when put through an experiment where only imagery, colors, and visual cues that were used by the companies (and not logos), the parts of the subjects’ brains that are associated with craving became more active than when they were explicitly shown the logos. Lindstrom explains that this happens because the smokers had their guards down. With no explicit signals to tell them that what they were seeing was related to the cigarette brands, their brains were free to take in the subliminal messaging even more.
 
 ### Chapter V
+This chapter explores superstitions and rituals. Although we know that many of the superstitions we perform regularly—knocking on wood so you don’t jinx yourself, walking around a ladder rather than underneath—don’t have any rational roots or logical reasoning behind them, we still perform them. Why? Lindstrom believes this comes from the innate need to feel in control. Animals, including humans, exhibit elevated levels of stress when put in any situation where they feel they aren’t in control. Your implicit memory is in charge of doing things automatically. You don’t think about riding a bike, tying your shoelaces, or washing your hands. You just do it. There’s a certain degree of comfort in ritualistic behavior. Regarding companies, things like dipping Oreos in milk, waiting for a glass of Guinness to be poured perfectly, or even just buying the same brand of toothpaste are all examples of rituals we do.
 
+### Chapter VI
 
 ---
 ## Review

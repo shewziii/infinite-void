@@ -10,7 +10,7 @@ I opened the dashboard for my graphic design class and saw that we were moving f
 
 What started as curiosity turned into a second job and hundreds of projects. I went from a clueless 18-year old watching every tutorial I could find, to getting paid to help brands and creators tell stories that in 2025, on one client's channel alone, came out to a total of almost 8 million hours of watch time. 
 
-[2025 analytics graph here]
+![[Pasted image 20260124200850.jpg]]
 
 And somewhere in those hundreds of hours of cutting, sound designing, and trying to hold people's attention, along with my time studying for my Bachelor's degree in marketing, I started noticing patterns that I have everything to do with getting people to consume. 
 
