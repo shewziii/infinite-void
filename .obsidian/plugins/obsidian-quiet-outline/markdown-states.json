@@ -712,7 +712,7 @@
     "expandedKeys": []
   },
   "20 Hobbies/Reading/Books/Buyology - Martin Lindstrom.md": {
-    "scroll": 127.16826923076923,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 109,
@@ -726,7 +726,7 @@
     "expandedKeys": [
       "item-1-0",
       "item-2-2",
-      "item-2-8"
+      "item-2-9"
     ]
   },
   "20 Hobbies/Reading/Book Notes/Koreader Highlights Empire of the Vampire.md": {
@@ -1247,15 +1247,15 @@
     "expandedKeys": []
   },
   "10 Projects/Act One Creative/Act One Creative.md": {
-    "scroll": 4.632911392405063,
+    "scroll": 8.744186046511627,
     "cursor": {
       "from": {
-        "line": 13,
-        "ch": 6
+        "line": 16,
+        "ch": 48
       },
       "to": {
-        "line": 13,
-        "ch": 6
+        "line": 16,
+        "ch": 48
       }
     },
     "expandedKeys": [
@@ -1409,15 +1409,15 @@
     "expandedKeys": []
   },
   "10 Projects/Act One Creative/Blog/What 5 Years of Freelance Video Editing Taught Me.md": {
-    "scroll": 0,
+    "scroll": 63.57551638285319,
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 36
+        "line": 58,
+        "ch": 318
       },
       "to": {
-        "line": 12,
-        "ch": 36
+        "line": 58,
+        "ch": 318
       }
     },
     "expandedKeys": [
@@ -1451,5 +1451,21 @@
       }
     },
     "expandedKeys": []
+  },
+  "30 Journal/2026-01-25.md": {
+    "scroll": 14.144921277683595,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
   }
 }
