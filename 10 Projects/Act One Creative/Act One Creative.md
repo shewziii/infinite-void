@@ -11,9 +11,9 @@ banner-y: 100
 ---
 ## To Do
 - [x] Schedule IG Story 🛫 2026-01-23 📅 2026-01-26 ✅ 2026-01-23
-- [ ] Schedule IG Website Launch Post📅 2026-01-26🛫 2026-01-23 
+- [x] Schedule IG Blog Launch Post 🛫 2026-01-23 📅 2026-01-26 ✅ 2026-01-26
 - [x] Remove keyword meta tag from website pages 📅 2026-01-23 ✅ 2026-01-23
-- [ ] Write video editing blog 📅 2026-01-26 
+- [x] Write video editing blog 📅 2026-01-26 ✅ 2026-01-26
 - [ ] Write [[Buyology - Martin Lindstrom|Buyology]] notes blog 🛫 2026-01-17
 	- [ ] Read [[Buyology - Martin Lindstrom|Buyology]]
 
@@ -25,7 +25,8 @@ banner-y: 100
 ---
 ## Blog Ideas
 > [!example]+ Ideas
-> - [ ] [[What 5 Years of Freelance Video Editing Taught Me]]
+> - [x] [[What 5 Years of Freelance Video Editing Taught Me]]
+> - [ ] [[Cold Outreach in 2026]]
 > - [ ] [[How to Create an Effective Social Media Content Calendar]]
 > - [ ] [[How to Leverage UGC for Marketing]]
 > - [ ] [[The Art of Repurposing Content]]

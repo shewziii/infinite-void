@@ -1236,26 +1236,26 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 5,
+        "line": 6,
         "ch": 0
       },
       "to": {
-        "line": 5,
+        "line": 6,
         "ch": 0
       }
     },
     "expandedKeys": []
   },
   "10 Projects/Act One Creative/Act One Creative.md": {
-    "scroll": 8.744186046511627,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 16,
-        "ch": 48
+        "line": 34,
+        "ch": 0
       },
       "to": {
-        "line": 16,
-        "ch": 48
+        "line": 34,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -1409,15 +1409,15 @@
     "expandedKeys": []
   },
   "10 Projects/Act One Creative/Blog/What 5 Years of Freelance Video Editing Taught Me.md": {
-    "scroll": 63.57551638285319,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 58,
-        "ch": 318
+        "line": 11,
+        "ch": 53
       },
       "to": {
-        "line": 58,
-        "ch": 318
+        "line": 11,
+        "ch": 53
       }
     },
     "expandedKeys": [
@@ -1467,5 +1467,35 @@
     "expandedKeys": [
       "item-1-0"
     ]
+  },
+  "30 Journal/2026-01-26.md": {
+    "scroll": 8.753623188405797,
+    "cursor": {
+      "from": {
+        "line": 55,
+        "ch": 0
+      },
+      "to": {
+        "line": 55,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "10 Projects/Act One Creative/Blog/Cold Outreach in 2026.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
