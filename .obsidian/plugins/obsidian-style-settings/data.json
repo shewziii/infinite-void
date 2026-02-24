@@ -3,5 +3,7 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
   "anuppuccin-theme-settings@@anp-callout-select": "none",
-  "anuppuccin-theme-settings@@callout-radius": 6
+  "anuppuccin-theme-settings@@callout-radius": 6,
+  "minimal-style@@checkbox-shape": "checkbox-square",
+  "minimal-style@@minimal-strike-lists": false
 }
