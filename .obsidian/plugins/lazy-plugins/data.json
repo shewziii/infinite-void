@@ -89,6 +89,9 @@
       },
       "obsidian-pandoc": {
         "startupType": "instant"
+      },
+      "notebook-navigator": {
+        "startupType": "instant"
       }
     }
   }
