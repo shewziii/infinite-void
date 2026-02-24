@@ -384,10 +384,18 @@
   "folderTreeSortOverrides": {},
   "folderAppearances": {
     "00 Terminal": {
-      "previewRows": 1
+      "previewRows": 1,
+      "groupBy": "folder"
     },
     "20 Hobbies": {
       "groupBy": "folder"
+    },
+    "10 Projects": {
+      "groupBy": "folder"
+    },
+    "40 Notes": {
+      "groupBy": "folder",
+      "previewRows": 1
     }
   },
   "tagIcons": {},
