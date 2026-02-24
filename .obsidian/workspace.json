@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5dc6c2a875249189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30 Journal/2026-02-24.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-24"
-            }
-          },
-          {
             "id": "5e69653a0901153f",
             "type": "leaf",
             "state": {
@@ -35,6 +20,21 @@
               },
               "icon": "lucide-file",
               "title": "Untitled"
+            }
+          },
+          {
+            "id": "5876693e35b3199d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5
   },
   "right": {
     "id": "ac53ac83f79e3541",
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Terminal/Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ],
@@ -263,10 +263,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "5c5387345b77a06e",
+  "active": "5876693e35b3199d",
   "lastOpenFiles": [
-    "30 Journal/2026-02-24.md",
     "00 Terminal/Untitled.md",
+    "30 Journal/2026-02-24.md",
+    "conflict-files-obsidian-git.md",
     "10 Projects/Act One Creative/Blog/Cold Outreach in 2026.md",
     "10 Projects/Act One Creative/Act One Creative.md",
     "10 Projects/Act One Creative/Blog/What 5 Years of Freelance Video Editing Taught Me.md",
@@ -294,7 +295,6 @@
     "Meetings",
     "10 Projects/Act Once Creative/Blog/test.md",
     "30 Journal/2026-01-18.md",
-    "00 Terminal/2026-01-19.md",
     "00 Terminal/blogposts.base",
     "10 Projects/Act One Creative/Blog",
     "10 Projects/Act One Creative",
