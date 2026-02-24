@@ -2,10 +2,10 @@
 ## Files to Delete
 - [x] `unsubscribe.ts`
 - [x] `WelcomeTemplate` and all files in `emails/` folder
-- [ ] Uninstall `@react-email/render` and `react` dependencies
+- [x] Uninstall `@react-email/render`
 
 ## Resend Dashboard
-- [ ] Create welcome email template with `{{email}}` variable
+- [x] Create welcome email template with `{{email}}` variable
 - [ ] Create contact notification template with `{{name}}`, `{{email}}`, `{{subject}}`, `{{message}}` variables
 - [ ] Create contact auto-reply template with `{{name}}`, `{{subject}}`, `{{message}}` variables
 - [ ] Copy all three template IDs
