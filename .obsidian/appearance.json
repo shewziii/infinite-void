@@ -1,5 +1,5 @@
 {
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "enabledCssSnippets": [
@@ -7,7 +7,7 @@
     "supercharged-links-gen",
     "minimal-header-space-fix"
   ],
-  "theme": "obsidian",
+  "theme": "moonstone",
   "accentColor": "",
   "baseFontSize": 16
 }

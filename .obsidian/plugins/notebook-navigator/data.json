@@ -382,7 +382,11 @@
   "folderBackgroundColors": {},
   "folderSortOverrides": {},
   "folderTreeSortOverrides": {},
-  "folderAppearances": {},
+  "folderAppearances": {
+    "00 Terminal": {
+      "previewRows": 1
+    }
+  },
   "tagIcons": {},
   "tagColors": {},
   "tagBackgroundColors": {},
