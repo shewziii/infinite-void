@@ -251,14 +251,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "periodic-notes:Open today": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "omnisearch:Omnisearch": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "5e69653a0901153f",
