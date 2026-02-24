@@ -6,7 +6,7 @@
 
 ## Resend Dashboard
 - [ ] Create welcome email template with `{{email}}` variable
-- [ ] Create contact notification tamplate with `{{name}}, {{email}}, {{subject}}, {{message}}` variables
+- [ ] Create contact notification template with `{{name}}, {{email}}, {{subject}}, {{message}}` variables
 - [ ] Create contact auto-reply template with `{{name}}, {{email}}, {{subject}}, {{message}}` variables
 
 ## Code Changes
