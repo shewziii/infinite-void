@@ -11,7 +11,7 @@
 - [x] Copy all three template IDs
 
 ## Code Changes
-- [ ] Add `export const prerender = false` to `subscribe.ts`
-- [ ] Refactor `subscribe.ts` to use welcome template ID
-- [ ] Refactor `contact.ts` to use both contact template IDs
-- [ ] Add template IDs to `.env` file as environment variables
+- [x] Add `export const prerender = false` to `subscribe.ts`
+- [x] Refactor `subscribe.ts` to use welcome template ID
+- [x] Refactor `contact.ts` to use both contact template IDs
+- [x] Add template IDs to `.env` file as environment variables
