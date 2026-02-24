@@ -1,7 +1,7 @@
 # Resend API Refactor
 ## Files to Delete
-- [ ] `unsubscribe.ts`
-- [ ] `WelcomeTemplate` and all files in `emails/` folder
+- [x] `unsubscribe.ts`
+- [x] `WelcomeTemplate` and all files in `emails/` folder
 - [ ] Uninstall `@react-email/render` and `react` dependencies
 
 ## Resend Dashboard
