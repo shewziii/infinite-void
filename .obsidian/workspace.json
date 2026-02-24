@@ -91,8 +91,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "5c5387345b77a06e",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,16 +181,6 @@
         "dimension": 49.705882352941174,
         "children": [
           {
-            "id": "8d392271ba64e77b",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "quiet-outline"
-            }
-          },
-          {
             "id": "b0dae7252840b26e",
             "type": "leaf",
             "state": {
@@ -235,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -258,10 +259,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "omnisearch:Omnisearch": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "5e69653a0901153f",
+  "active": "5c5387345b77a06e",
   "lastOpenFiles": [
     "30 Journal/2026-02-24.md",
     "00 Terminal/Untitled.md",
