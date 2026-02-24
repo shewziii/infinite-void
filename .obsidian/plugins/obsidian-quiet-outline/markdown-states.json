@@ -1046,12 +1046,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 0
+        "line": 3,
+        "ch": 10
       },
       "to": {
-        "line": 1,
-        "ch": 0
+        "line": 3,
+        "ch": 10
       }
     },
     "expandedKeys": []
@@ -1493,6 +1493,20 @@
       },
       "to": {
         "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "30 Journal/2026-02-24.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
         "ch": 0
       }
     },

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Hobbies/Reading/Books/Buyology - Martin Lindstrom.md",
+                "file": "00 Terminal/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Buyology - Martin Lindstrom"
+              "title": "Untitled"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "callout-manager:Insert Callout": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -189,6 +190,9 @@
   },
   "active": "7e5eec22c6a38eb7",
   "lastOpenFiles": [
+    "/00 Terminal/Untitled.md",
+    "/00 Terminal",
+    "30 Journal/2026-02-24.md",
     "20 Hobbies/Reading/Library.md",
     "30 Journal/2026-01-24.md",
     "10 Projects/Act One Creative/Blog/What 5 Years of Freelance Video Editing Taught Me.md",
