@@ -137,7 +137,7 @@
   "propertySortOrder": "alpha-asc",
   "showAllPropertiesFolder": true,
   "defaultListMode": "standard",
-  "includeDescendantNotes": false,
+  "includeDescendantNotes": true,
   "defaultFolderSort": "modified-desc",
   "propertySortKey": "",
   "propertySortSecondary": "title",
@@ -385,6 +385,9 @@
   "folderAppearances": {
     "00 Terminal": {
       "previewRows": 1
+    },
+    "20 Hobbies": {
+      "groupBy": "folder"
     }
   },
   "tagIcons": {},
