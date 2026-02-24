@@ -8,7 +8,7 @@
 - [x] Create welcome email template with `{{email}}` variable
 - [x] Create contact notification template with `{{name}}`, `{{email}}`, `{{subject}}`, `{{message}}` variables
 - [x] Create contact auto-reply template with `{{name}}`, `{{subject}}`, `{{message}}` variables
-- [ ] Copy all three template IDs
+- [x] Copy all three template IDs
 
 ## Code Changes
 - [ ] Add `export const prerender = false` to `subscribe.ts`
