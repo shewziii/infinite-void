@@ -136,27 +136,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Projects/Act Once Creative/actonecreative.md",
+                "file": "30 Journal/2026-02-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of actonecreative"
-            }
-          },
-          {
-            "id": "daeab53ce3b23fad",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of 2026-02-24"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "366a1994cdfcd4ba",
@@ -217,12 +207,23 @@
               "icon": "links-going-out",
               "title": "Outgoing links from actonecreative"
             }
+          },
+          {
+            "id": "daeab53ce3b23fad",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,7 +245,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5dc6c2a875249189",
+  "active": "8d18eccd8c856ee2",
   "lastOpenFiles": [
     "10 Projects/Act One Creative/Blog/Cold Outreach in 2026.md",
     "30 Journal/2026-02-24.md",
