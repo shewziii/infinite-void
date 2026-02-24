@@ -25,5 +25,6 @@
   "callout-manager",
   "obsidian-columns",
   "obsidian-languagetool-plugin",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-git"
 ]
