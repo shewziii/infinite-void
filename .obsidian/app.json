@@ -36,5 +36,6 @@
   "spellcheckDictionary": [
     "Lindstrom",
     "Lindstrom"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

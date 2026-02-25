@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("10 Projects/Blog")
+    order:
+      - file.name
+    sort:
+      - property: pubDate
+        direction: DESC
+    columnSize:
+      file.name: 478
