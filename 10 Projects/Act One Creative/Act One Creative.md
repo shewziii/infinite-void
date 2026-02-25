@@ -8,3 +8,9 @@ tags: Project
 
 ## Newsletters
 ![[Newsletters.base]]
+
+---
+## Resources
+
+![[News]]
+
