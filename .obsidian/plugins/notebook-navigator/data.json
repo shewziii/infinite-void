@@ -383,6 +383,10 @@
   "folderSortOverrides": {},
   "folderTreeSortOverrides": {},
   "folderAppearances": {
+    "00 Terminal": {
+      "previewRows": 1,
+      "groupBy": "folder"
+    },
     "20 Hobbies": {
       "groupBy": "folder"
     },
