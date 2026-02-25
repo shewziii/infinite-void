@@ -7,25 +7,20 @@ The goal is consistency, readability, and a clean project history.
 
 ---
 # 1) Project Structure
-
 ## Source code
-
 * `src/` contains all application code
 * `src/components/` for reusable UI components
 * `src/pages/` for Astro routes
 * `src/layouts/` for page layouts
 
 ## Content
-
 * `src/content/blog/` for blog posts
 * `src/content/newsletters/` for newsletters
 * Markdown content is treated as first-class product surface
 
 ---
 # 2) Branching Strategy
-
 ## Main branch
-
 * `main` is always production-ready
 * All work happens in short-lived branches
 
