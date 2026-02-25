@@ -1,6 +1,7 @@
-# News Articles 
 ---
-## Week of February 23
+---
+---
+## Week of Feb 23
 ```embed
 title: "What Gen Z search behaviour reveals about the future of intent"
 image: "https://marketingweek.imgix.net/uploads/2026/02/175x175-3-1.png?auto=compress,format&crop=faces,entropy,edges&fit=crop&q=60&w=175&h=175"
@@ -17,5 +18,14 @@ description: "There are various reasons why spending in the U.S. remains strong 
 url: "https://www.marketingdive.com/news/us-retail-consumer-fractured-fragile-shopper-behavior/812941/"
 favicon: ""
 aspectRatio: "56.493506493506494"
+```
+
+```embed
+title: "If it looks like a B2B ad, burn it"
+image: "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/adobestock-270161338.png?w=1280&ar=default&fit=crop&crop=faces&auto=format"
+description: ""
+url: "https://www.thedrum.com/opinion/if-it-looks-like-a-b2b-ad-burn-it"
+favicon: ""
+aspectRatio: "67.03125"
 ```
 
