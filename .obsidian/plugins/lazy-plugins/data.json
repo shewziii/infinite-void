@@ -92,6 +92,15 @@
       },
       "notebook-navigator": {
         "startupType": "instant"
+      },
+      "auto-card-link": {
+        "startupType": "instant"
+      },
+      "obsidian-auto-link-title": {
+        "startupType": "disabled"
+      },
+      "obsidian-link-embed": {
+        "startupType": "disabled"
       }
     }
   }
