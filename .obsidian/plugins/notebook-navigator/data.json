@@ -396,6 +396,9 @@
     "40 Notes": {
       "groupBy": "folder",
       "previewRows": 1
+    },
+    "/": {
+      "groupBy": "folder"
     }
   },
   "tagIcons": {},
