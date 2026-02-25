@@ -1,31 +1,38 @@
 ---
+aliases:
+  - news
+  - news artilces
+note_type: research
+tags:
+  - research
+  - news
+  - current-events
 ---
 ---
 ## Week of Feb 23
-```embed
+```cardlink
+url: https://www.marketingweek.com/what-gen-z-search-behaviour-reveals-about-the-future-of-intent/
 title: "What Gen Z search behaviour reveals about the future of intent"
-image: "https://marketingweek.imgix.net/uploads/2026/02/175x175-3-1.png?auto=compress,format&crop=faces,entropy,edges&fit=crop&q=60&w=175&h=175"
-description: "Younger generations are rewriting the rules of Search for everyone. Discover what Gen Z search behaviour reveals about how intent is forming, and why AI is becoming essential to interpreting it. "
-url: "https://www.marketingweek.com/what-gen-z-search-behaviour-reveals-about-the-future-of-intent/"
-favicon: ""
-aspectRatio: "100"
+description: "Younger generations are rewriting the rules of Search for everyone. Discover what Gen Z search behaviour reveals about how intent is forming, and why AI is becoming essential to interpreting it."
+host: www.marketingweek.com
+favicon: https://marketingweek.imgix.net/uploads/2019/06/24112223/MW_2019_FAVICON_32-1.png?auto=compress,format&crop=faces,entropy,edges&fit=crop&q=60&w=32&h=32
+image: https://marketingweek.imgix.net/uploads/2026/02/175x175-3-1.png?auto=compress,format&crop=faces,entropy,edges&fit=crop&q=60&w=175&h=175
 ```
 
-```embed
+```cardlink
+url: https://www.marketingdive.com/news/us-retail-consumer-fractured-fragile-shopper-behavior/812941/
 title: "The fractured, fragile US consumer"
-image: "https://imgproxy.divecdn.com/QWNePPlzfQhJMISDxn_qDvWS7iSt50XQV2ANflNwC-0/g:nowe:0:14/c:1280:723/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wbGFuZF9pbmRpZS0yLmpwZWc=.webp"
 description: "There are various reasons why spending in the U.S. remains strong despite low consumer confidence, and it’s not just about having higher incomes."
-url: "https://www.marketingdive.com/news/us-retail-consumer-fractured-fragile-shopper-behavior/812941/"
-favicon: ""
-aspectRatio: "56.493506493506494"
+host: www.marketingdive.com
+favicon: https://www.marketingdive.com/favicon.ico?v=3
+image: https://imgproxy.divecdn.com/QWNePPlzfQhJMISDxn_qDvWS7iSt50XQV2ANflNwC-0/g:nowe:0:14/c:1280:723/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wbGFuZF9pbmRpZS0yLmpwZWc=.webp
 ```
 
-```embed
+```cardlink
+url: https://www.thedrum.com/opinion/if-it-looks-like-a-b2b-ad-burn-it
 title: "If it looks like a B2B ad, burn it"
-image: "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/adobestock-270161338.png?w=1280&ar=default&fit=crop&crop=faces&auto=format"
-description: ""
-url: "https://www.thedrum.com/opinion/if-it-looks-like-a-b2b-ad-burn-it"
-favicon: ""
-aspectRatio: "67.03125"
+host: www.thedrum.com
+favicon: https://thedrum-static.imgix.net/assets/images/favicon/favicon-96x96.png?auto=format
+image: https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/adobestock-270161338.png?w=1280&ar=default&fit=crop&crop=faces&auto=format
 ```
 
