@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("10 Projects/Blog")
+        - file.inFolder("10 Projects/Act One Creative/Blog")
     order:
       - file.name
     sort:
