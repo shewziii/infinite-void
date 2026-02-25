@@ -15,5 +15,6 @@
   "obsidian-columns",
   "obsidian-pandoc",
   "obsidian-git",
-  "notebook-navigator"
+  "notebook-navigator",
+  "obsidian-link-embed"
 ]
