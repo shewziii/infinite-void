@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("10 Projects/Newsletter")
+        - file.inFolder("10 Projects/Act One Creative/Newsletter")
     sort:
       - property: pubDate
         direction: DESC
