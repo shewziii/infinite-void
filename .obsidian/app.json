@@ -1,6 +1,6 @@
 {
   "openBehavior": "",
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "attachmentFolderPath": "97 Attachments",
   "promptDelete": false,
   "propertiesInDocument": "source",

@@ -24,5 +24,14 @@
       "key": "O"
     }
   ],
-  "editor:open-search": []
+  "editor:open-search": [],
+  "notebook-navigator:move-files": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ]
 }
