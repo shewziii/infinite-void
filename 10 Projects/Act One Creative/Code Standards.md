@@ -1,7 +1,6 @@
 # CODE STANDARDS
 ---
 ## Purpose
-
 This document defines coding, content, and Git practices for this repository.
 The goal is consistency, readability, and a clean project history.
 
