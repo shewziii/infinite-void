@@ -16,5 +16,6 @@
   "obsidian-pandoc",
   "obsidian-git",
   "notebook-navigator",
-  "auto-card-link"
+  "auto-card-link",
+  "obsidian-auto-link-title"
 ]

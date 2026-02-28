@@ -57,7 +57,7 @@ Persona's are become more helpful the more specific they are. *25-30 year old ma
 Personas are not one and done. You and your customers are always changing, so it stands that the personas you create should too. Update the persona often to keep up with your ideal customer base.
 
 ## 🎯 Why Personas Matter
-Personas prevent your messaging from being generic. Without them you end up trying to appeal to everyone, which—unless you're go for an undifferentiated strategy—isn't the best way approac marketing. With a persona, things like targeting, content, packaging, and messaging become easier and more effective.
+Personas prevent your messaging from being generic. Without them you end up trying to appeal to everyone, which—unless you're go for an undifferentiated strategy—isn't the best way approach marketing. With a persona, things like targeting, content, packaging, and messaging become easier and more effective.
 
 No matter what stage your business is in, personas prove to be a valuable tool in target marketing,
 
@@ -67,3 +67,5 @@ No matter what stage your business is in, personas prove to be a valuable tool i
 > [Read more about it here!](/blog/the-sales-funnel-is-dead)
 
 ## 📖 More Reading for You
+[The authority deficit: Does your brand lack content, or courage?](https://salt.agency/blog/brand-authority-deficit-content-courage/?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%8E%AC%20The%20conviction%20advantage%20[MM%2009%272026]%20-%2020860534) - So many businesses are playing it safe when it comes to content, and with the rise of AI, everybody seems to be a thought leader, but nobody is standing out. Even with the ability to churn out content faster than ever.
+
