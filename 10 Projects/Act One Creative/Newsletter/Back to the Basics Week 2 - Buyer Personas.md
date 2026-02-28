@@ -73,4 +73,4 @@ No matter what stage your business is in, personas prove to be a valuable tool i
 
 [The fractured, fragile US consumer](https://www.marketingdive.com/news/us-retail-consumer-fractured-fragile-shopper-behavior/812941/) - Despite economic downturns in the U.S., spending remains strong among consumers, and not just among those with higher incomes.
 
-[What Gen Z search behaviour reveals about the future of intent](https://www.marketingweek.com/what-gen-z-search-behaviour-reveals-about-the-future-of-intent/) - Gen Z 
+[What Gen Z search behaviour reveals about the future of intent](https://www.marketingweek.com/what-gen-z-search-behaviour-reveals-about-the-future-of-intent/) - Gen Z grew up with the internet, and are often said to be a generation that will change things for society in impactful ways. This is already tur for the way 
