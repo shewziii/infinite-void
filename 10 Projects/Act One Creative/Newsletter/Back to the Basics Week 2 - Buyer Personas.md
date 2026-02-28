@@ -69,3 +69,4 @@ No matter what stage your business is in, personas prove to be a valuable tool i
 ## 📖 More Reading for You
 [The authority deficit: Does your brand lack content, or courage?](https://salt.agency/blog/brand-authority-deficit-content-courage/?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%8E%AC%20The%20conviction%20advantage%20[MM%2009%272026]%20-%2020860534) - So many businesses are playing it safe when it comes to content, and with the rise of AI, everybody seems to be a thought leader, but nobody is standing out. Even with the ability to churn out content faster than ever.
 
+[If it looks like a B2B ad, burn it](https://www.thedrum.com/opinion/if-it-looks-like-a-b2b-ad-burn-it) - 
