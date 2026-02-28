@@ -1,11 +1,5 @@
 ---
-title: "Back to the Basics Week 2: Buyer Personas"
-description: "Understanding your customer base is important in determining how to market to them. Creating buyer personas helps you to build that understanding and use messageing that speaks directly to them."
-image:
-  url: "../../src/assets/newsletter/personas/cover.png"
-  alt: "Back to the basics: Personas Cover"
-pubDate: 2026-03-03T12:14:42Z
-issue: 4
+
 ---
 Hey!
 Weclome back to Back to the Basics!
