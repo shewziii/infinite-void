@@ -71,4 +71,4 @@ No matter what stage your business is in, personas prove to be a valuable tool i
 
 [If it looks like a B2B ad, burn it](https://www.thedrum.com/opinion/if-it-looks-like-a-b2b-ad-burn-it) - If you're in B2B, I'm sure you've seen plenty of ads that seem just... soulless. So many people think that B2B is boring and full of people who only respond to "professional" media. But the thing is, engineers, scientists, and buyers are people too. They also laugh and feel.
 
-[The fractured, fragile US consumer](https://www.marketingdive.com/news/us-retail-consumer-fractured-fragile-shopper-behavior/812941/) - Despite economic downturns in the U.S., spending remains strong among consumers, and not just among the wealthy. 
+[The fractured, fragile US consumer](https://www.marketingdive.com/news/us-retail-consumer-fractured-fragile-shopper-behavior/812941/) - Despite economic downturns in the U.S., spending remains strong among consumers, and not just among those with higher incomes. 
