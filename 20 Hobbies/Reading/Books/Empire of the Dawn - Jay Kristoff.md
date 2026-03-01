@@ -6,6 +6,7 @@ tags:
 aliases:
   - Empire of the Dawn
 series: Empire of the Vampire
+entry: 3
 author: Jay Kristoff
 pages: "826"
 published: 2025-11-04

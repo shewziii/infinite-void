@@ -15,6 +15,8 @@ views:
     sort:
       - property: series
         direction: ASC
+      - property: entry
+        direction: ASC
     image: note.banner
     imageFit: contain
     imageAspectRatio: 1.5

@@ -6,6 +6,7 @@ tags:
 aliases:
   - Empire of the Damned
 series: Empire of the Vampire
+entry: 2
 author: Jay Kristoff
 pages: "725"
 published: 2024-03-12
