@@ -1,5 +1,9 @@
 ---
-title: <%* await tp.file.move("10 Projects/Act One Creative/Newsletter/" + tp.file.title) %>
+<%*
+const fileName = await tp.system.prompt("Newsletter title");
+await tp.file.move("10 Projects/Act One Creative/Newsletter/" + fileName);
+-%>
+title: <% fileName %>
 series: 
 episode: 
 type: newsletter
