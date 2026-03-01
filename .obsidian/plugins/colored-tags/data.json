@@ -25,10 +25,12 @@
     "book/read": 2,
     "book/reading": 3,
     "book/tbr": 4,
+    "content/blog": 1,
     "content/newsletter": 1,
     "content/social": 2,
     "dev/git": 1,
     "recipe/chili": 1,
+    "content/blog/email-marketing": 1,
     "content/newsletter/back-to-the-basics": 1,
     "content/social/idea": 1
   },

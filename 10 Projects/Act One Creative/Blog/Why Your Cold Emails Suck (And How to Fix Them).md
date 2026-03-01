@@ -1,14 +1,17 @@
 ---
-title: Why Your Cold Emails Suck (And How to Fix Them)
-readTime: "10"
-author: Rudy Mayorga
-description: Many people struggle with cold outreach. Specifically, they struggle with writing cold emails. In this post, I'll be going over how to write emails that are more effective and increase your chances of having those emails opened.
-image:
-  url: ../../src/assets/blog/coldEmails/cover.jpg
-  alt: Closeup of a person typing on a laptop.
-pubDate: 2026-02-10T15:28:26Z
-featured: true
+title: Why your cold emails suck (and how to fix them)
+type: blog
+status: idea
+topic:
+publish_date:
+created: 2026-03-01
+tags:
+  - content/blog/email-marketing
+related:
+  - 
 ---
+
+
  I’d just sat down with my coffee to start brainstorming ideas for my next blog post. I opened my laptop, started up Word, and began researching my next topic.
 
 *DINGGGG*
