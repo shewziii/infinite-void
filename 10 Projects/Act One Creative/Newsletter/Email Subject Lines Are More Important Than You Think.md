@@ -1,5 +1,5 @@
 ---
-title: 
+title: Email sub
 series: 
 episode: 
 type: newsletter
