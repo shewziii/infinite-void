@@ -6,7 +6,6 @@ note_type: research
 tags:
   - research
   - news
-  - current-events
 ---
 ---
 ## Week of Feb 23

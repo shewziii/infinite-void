@@ -7,9 +7,6 @@ image:
   url: ../../src/assets/blog/subjectLines/cover.jpg
   alt: Closeup of Apple Email app with 6 notifications
 pubDate: 2026-02-17T15:59:52Z
-tags:
-  - Email-Marketing
-  - Copywriting
 featured: true
 ---
 Subject lines are grossly underestimated. The whole point of a subject line is to get someone to open your email, yet so many people tend to just write whatever and call it a day. Let’s take a look at my inbox:

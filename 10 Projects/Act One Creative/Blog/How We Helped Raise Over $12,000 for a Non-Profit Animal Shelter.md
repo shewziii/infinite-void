@@ -7,8 +7,6 @@ image:
   url: ../../src/assets/blog/fidoAndFriends/cover.png
   alt: Vector art dog on the left with the text,"Fido and Friends 5k"
 pubDate: 2026-01-13T10:00:00Z
-tags:
-  - Case-Study
 ---
 Throughout my career, I've seen so many people talk about marketing with the mindset that its all about selling. It's all about making money. To that I say, no. Sales revenue and profit are a side effect of successful marketing and CAN be the driving factor behind a marketing campaign. Marketing at its core is about people. More specifically, its about connections.
 

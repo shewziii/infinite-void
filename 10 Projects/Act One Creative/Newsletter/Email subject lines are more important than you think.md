@@ -1,10 +1,10 @@
 ---
 title: Email subject lines are more important than you think
-series: 
-episode: 
+series:
+episode:
 type: newsletter
 status: idea
-topic: 
+topic:
 publish_date:
 tags:
   - content/newsletter

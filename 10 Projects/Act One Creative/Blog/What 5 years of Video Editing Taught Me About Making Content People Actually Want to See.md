@@ -1,13 +1,15 @@
 ---
-title: "What 5 years of Video Editing Taught Me About Making Content People Actually Want to See"
+title: What 5 years of Video Editing Taught Me About Making Content People Actually Want to See
 readTime: "9"
 author: Rudy Mayorga
-description: "After 5 years of working as a freelance video editor, I've learned a thing or two about making content that people want to consume."
+description: After 5 years of working as a freelance video editor, I've learned a thing or two about making content that people want to consume.
 image:
-  url: "../../src/assets/blog/videoEditing/cover.jpg"
-  alt: "Closeup of a computer monitor with an editing software open to an active project."
+  url: ../../src/assets/blog/videoEditing/cover.jpg
+  alt: Closeup of a computer monitor with an editing software open to an active project.
 pubDate: 2026-02-03T14:43:36Z
-tags: [Content, Strategy]
+tags:
+  - content
+  - Strategy
 featured: true
 ---
 I had just come home after a 10-hour shift at my job. The Saturday night dinner crowd left me utterly exhausted. The worst part of it all was that I still had homework to do. So, I lugged myself to my bed, opened my Microsoft Surface tablet that I was using as my laptop, and got to work.
