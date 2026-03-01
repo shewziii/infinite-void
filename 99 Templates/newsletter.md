@@ -19,6 +19,6 @@ related:
 ---
 
 <%*
-await tp.system.sleep(300);
-await tp.file.cursor() 
+await new Promise(resolve => setTimeout(resolve, 300));
 -%>
+<% tp.file.cursor() %>
