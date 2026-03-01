@@ -19,6 +19,6 @@ Last week we covered buyer personas, which are incredibly useful tools when it c
 
 This week we'll focus on bringing the fundamentals together in one topic...
 ## The marketing mix
-The marketing mix
+The marketing mix is 
 
 ## 📖 More Reading for You
