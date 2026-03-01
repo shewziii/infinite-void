@@ -1,5 +1,6 @@
 ---
-
+tags:
+  - reference/news
 ---
 ---
 ## Week of Feb 23
