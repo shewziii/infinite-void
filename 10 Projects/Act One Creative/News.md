@@ -1,10 +1,5 @@
 ---
-aliases:
-  - news
-  - news artilces
-note_type: research
-tags:
-  - research
+
 ---
 ---
 ## Week of Feb 23

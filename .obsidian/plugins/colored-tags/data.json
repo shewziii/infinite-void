@@ -16,7 +16,6 @@
     "dev": 8,
     "moc": 9,
     "recipe": 12,
-    "research": 11,
     "selling": 11,
     "strategy": 12,
     "uni": 13,
@@ -33,6 +32,7 @@
     "content/blog/case-study": 1,
     "content/blog/content-creation": 1,
     "content/blog/email-marketing": 1,
+    "content/newsletter/email-marketing": 1,
     "content/newsletter/series": 2,
     "content/social/idea": 1,
     "content/newsletter/series/back-to-the-basics": 1

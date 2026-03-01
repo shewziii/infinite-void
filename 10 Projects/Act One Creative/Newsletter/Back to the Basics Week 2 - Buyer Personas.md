@@ -11,6 +11,7 @@ tags:
   - content/newsletter/series/back-to-the-basics
 related:
   - "[[Back to the Basics Week 1 - STP]]"
+  - "[[Back to the basics week 3 - The marketing mix]]"
 ---
 
 Hey!

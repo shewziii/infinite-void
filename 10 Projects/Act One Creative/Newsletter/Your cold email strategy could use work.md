@@ -8,9 +8,9 @@ topic:
 publish_date:
 created: 2026-03-01
 tags:
-  - content/newsletter
+  - content/newsletter/email-marketing
 related:
-  - - - Email Subject Lines Are More Important Than You Think
+  - "[[Email subject lines are more important than you think]]"
 ---
 
 I was sitting down with my coffee the other morning when my phone buzzed.

@@ -7,9 +7,9 @@ status: idea
 topic:
 publish_date:
 tags:
-  - content/newsletter
+  - content/newsletter/email-marketing
 related:
-  - 
+  - "[[Your cold email strategy could use work]]"
 ---
 
 I was scrolling through my inbox this morning. Cluttered as usual, nothing super interesting to report. I only opened 3.
