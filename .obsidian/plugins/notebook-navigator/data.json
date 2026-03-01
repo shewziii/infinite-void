@@ -100,7 +100,7 @@
   "collapseBehavior": "all",
   "smartCollapse": true,
   "autoSelectFirstFileOnFocusChange": false,
-  "autoExpandNavItems": false,
+  "autoExpandNavItems": true,
   "springLoadedFolders": true,
   "springLoadedFoldersInitialDelay": 0.5,
   "springLoadedFoldersSubsequentDelay": 0.5,
@@ -114,7 +114,7 @@
   "recentNotesCount": 5,
   "showFolderIcons": true,
   "showRootFolder": true,
-  "inheritFolderColors": false,
+  "inheritFolderColors": true,
   "folderSortOrder": "alpha-asc",
   "enableFolderNotes": false,
   "folderNoteType": "markdown",
@@ -381,41 +381,23 @@
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {
-    "20 Hobbies": "created-desc"
+    "/": "created-desc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {
-    "20 Hobbies": {
-      "groupBy": "folder"
-    },
-    "40 Notes": {
-      "groupBy": "folder",
-      "previewRows": 1
-    },
     "/": {
-      "groupBy": "folder"
-    },
-    "10 Projects": {
-      "groupBy": "folder",
-      "titleRows": 2
-    },
-    "10 Projects/Act One Creative": {
       "groupBy": "folder"
     }
   },
   "tagIcons": {},
   "tagColors": {},
-  "tagBackgroundColors": {},
-  "tagSortOverrides": {
-    "content/newsletter/back-to-the-basics": "created-desc"
+  "tagBackgroundColors": {
+    "book": "#06b6d429",
+    "content": "#8b5cf640"
   },
+  "tagSortOverrides": {},
   "tagTreeSortOverrides": {},
-  "tagAppearances": {
-    "content/newsletter/back-to-the-basics": {
-      "groupBy": "none",
-      "titleRows": 2
-    }
-  },
+  "tagAppearances": {},
   "propertyIcons": {},
   "propertyColors": {},
   "propertyBackgroundColors": {},
