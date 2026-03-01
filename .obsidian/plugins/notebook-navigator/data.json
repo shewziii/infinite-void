@@ -19,7 +19,7 @@
         },
         {
           "type": "note",
-          "path": "20 Hobbies/Reading/Library.md"
+          "path": "20 Knowledge/Reading/Library.md"
         }
       ]
     }
@@ -385,22 +385,19 @@
   "customVaultName": "",
   "pinnedNotes": {},
   "fileIcons": {
-    "20 Hobbies/Reading/Library.md": "book-open"
+    "20 Knowledge/Reading/Library.md": "book-open"
   },
   "fileColors": {},
   "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {
-    "20 Hobbies": "created-desc",
     "/": "created-desc",
-    "01 Work/Act One Creative": "created-desc"
+    "01 Work/Act One Creative": "created-desc",
+    "20 Knowledge": "created-desc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {
-    "20 Hobbies": {
-      "groupBy": "folder"
-    },
     "40 Notes": {
       "groupBy": "folder",
       "previewRows": 1
@@ -413,6 +410,9 @@
       "titleRows": 2
     },
     "01 Work/Act One Creative": {
+      "groupBy": "folder"
+    },
+    "20 Knowledge": {
       "groupBy": "folder"
     }
   },
