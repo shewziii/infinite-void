@@ -20,4 +20,5 @@ related:
 
 <%*
 await tp.system.sleep(300);
-%><% tp.file.cursor() %>
+await tp.file.cursor() 
+-%>
