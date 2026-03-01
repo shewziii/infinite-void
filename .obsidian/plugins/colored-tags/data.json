@@ -28,13 +28,15 @@
     "project": 8,
     "reading": 11,
     "reading_as_a_hobby": 9,
+    "recipe": 12,
     "research": 11,
     "segmentation": 12,
     "selling": 11,
     "stp": 13,
     "strategy": 12,
     "uni": 13,
-    "unit-3": 14
+    "unit-3": 14,
+    "recipe/chili": 1
   },
   "tagColors": {},
   "_version": 4

@@ -1,3 +1,7 @@
+---
+tags:
+  - recipe/chili
+---
 # Chili
 ## Ingredients
 - 1 whole onion
