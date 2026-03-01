@@ -7,7 +7,6 @@ title: <% fileName %>
 type: blog
 status: idea
 topic: 
-description: 
 published: false
 publish_date:
 created: <% tp.date.now("YYYY-MM-DD") %>
