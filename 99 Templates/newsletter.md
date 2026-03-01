@@ -18,3 +18,5 @@ tags:
 related:
   - 
 ---
+
+<% tp.file.cursor() %>
