@@ -15,6 +15,8 @@ date-read: Dec 29, 2025
 rating: ⭐⭐⭐⭐
 goodreads: https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind
 banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1704917687i/186074.jpg
+tags:
+  - book/read
 ---
 
 ```dataviewjs
