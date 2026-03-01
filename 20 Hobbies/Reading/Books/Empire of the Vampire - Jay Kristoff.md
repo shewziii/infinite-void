@@ -2,8 +2,7 @@
 entry-date: 2026-01-16
 UID: 20260116010735
 tags:
-  - BOOK
-  - READING_AS_A_HOBBY
+  - book/read
 aliases:
   - Empire of the Vampire
 series: Empire of the Vampire
