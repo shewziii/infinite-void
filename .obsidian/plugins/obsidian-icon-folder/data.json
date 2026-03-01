@@ -34,10 +34,9 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "20 Hobbies": "LiBookOpen",
-  "40 Notes": "LiNotebookPen",
   "90 Resources": "LiBookmark",
   "97 Attachments": "LiPaperclip",
   "99 Templates": "LiLayoutTemplate",
-  "98 Archive": "LiArchive"
+  "98 Archive": "LiArchive",
+  "30 Hobbies": "LiBookOpen"
 }

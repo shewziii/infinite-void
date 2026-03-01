@@ -381,18 +381,14 @@
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {
-    "20 Hobbies": "created-desc"
+    "30 Hobbies": "created-desc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {
-    "20 Hobbies": {
+    "/": {
       "groupBy": "folder"
     },
-    "40 Notes": {
-      "groupBy": "folder",
-      "previewRows": 1
-    },
-    "/": {
+    "30 Hobbies": {
       "groupBy": "folder"
     }
   },
