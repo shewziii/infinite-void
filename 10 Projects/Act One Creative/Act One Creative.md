@@ -9,8 +9,3 @@ tags:
 
 ## Newsletters
 ![[Newsletters.base]]
-
----
-## Resources
-
-![[News]]

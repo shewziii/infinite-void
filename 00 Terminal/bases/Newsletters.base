@@ -12,6 +12,10 @@ views:
     sort:
       - property: status
         direction: ASC
+      - property: file.ctime
+        direction: DESC
+      - property: file.name
+        direction: ASC
       - property: topic
         direction: ASC
       - property: pubDate
