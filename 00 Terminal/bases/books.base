@@ -1,3 +1,6 @@
+properties:
+  note.tags:
+    displayName: tags
 views:
   - type: cards
     name: Books
@@ -5,12 +8,11 @@ views:
       and:
         - file.tags.contains("BOOK")
         - file.folder != "99 Templates"
-        - '!file.hasTag("book/highlight")'
+        - '!file.hasTag("book/highlights")'
     order:
       - file.name
       - author
       - genre
-      - status
       - rating
     sort:
       - property: status
