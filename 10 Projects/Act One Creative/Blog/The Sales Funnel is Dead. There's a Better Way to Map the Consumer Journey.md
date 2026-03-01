@@ -1,15 +1,3 @@
----
-title: "The Sales Funnel is Dead. There's a Better Way to Map the Consumer Journey"
-readTime: "6"
-author: Rudy Mayorga
-description: "The traditional sales funnel model used to be great, but with the increasing shift to the digital space, the consumer journey has changed, and there is a better model to map the consumer buying journey."
-image:
-  url: "../../src/assets/blog/loyaltyLoop/cover.png"
-  alt: "Graphic depicting the loyalty loop and the sales funnel with a large red X through it."
-pubDate: 2026-02-24T21:59:38Z
-tags: ["Strategy"]
-featured: true
----
 We’ve all heard of the sales funnel. You run a few ads to hopefully create awareness for your product, your audience takes interest in the product, you offer a promotion or sale to create desire and encourage them to take action, and then the customer is guided through the store which leads to a purchase.
 
 The funnel is simple, straightforward, and linear, which was great for a traditional sales and marketing model. However, with the growing use of digital tools and the shift to online retail, the way consumers go through the sales process has changed drastically in the last few decades.
