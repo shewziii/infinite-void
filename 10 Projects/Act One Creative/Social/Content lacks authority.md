@@ -2,6 +2,7 @@
 tags:
   - content/social/idea
 ---
+
 **Post 2: The AI Problem** The hook writes itself: "If everyone sounds like a thought leader, no one is." Cover how AI flooded feeds with readable but forgettable content, and that audiences can now spot it immediately. The payoff slide: originality is the only thing that cuts through now.
 
 **Post 3: Why Your Content Strategy Is Designed to Fail** This one stings in a good way. The premise is that most strategies are built to avoid friction, not create impact. Use the four uncomfortable questions from the article as individual slides, one question per card. That format works well as a carousel stopper.
