@@ -11,6 +11,11 @@ created: 2026-02-28
 tags:
   - newsletter
   - act-one-creative
+  - back-to-the-basics
+  - marketing
+  - buyer-personas
+  - segmentation
+  - content
 related:
   - "[[Back to the Basics Week 1 - STP]]"
 ---
