@@ -1,6 +1,6 @@
 ---
 tags:
-  - book/highlight
+  - book/highlights
 ---
 <!DOCTYPE html>
 
@@ -33,7 +33,7 @@ tags:
 
 <h3>Chapter: <u>II. The Beginning of the End</u></h3>
 
-<blockquote><p><strong>2. Highlight</strong> - 2025-12-30 16:06:02 <br/>“Too much hate will burn a man to cinders, Chevalier.”\
+<blockquote><p><strong>2. Highlight</strong> - 2025-12-30 16:06:02 <br/>“Too much hate will burn a man to cinders, Chevalier.”
 
 “Oui. But at least he’ll die warm.”
 
