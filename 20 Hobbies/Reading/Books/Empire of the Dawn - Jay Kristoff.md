@@ -16,6 +16,7 @@ genre:
   - vampires
 date-read:
 rating:
+status: tbr
 goodreads: https://www.goodreads.com/book/show/222376766-empire-of-the-dawn?from_search=true&from_srp=true&qid=IEBO7HKeJR&rank=1
 banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743484777i/222376766.jpg
 banner-y:

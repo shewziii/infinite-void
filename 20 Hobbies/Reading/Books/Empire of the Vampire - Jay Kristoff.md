@@ -14,8 +14,9 @@ genre:
   - dark fantasy
   - horror
   - vampires
-date-read: Jan 16, 2026
+date-read: 2026-01-16
 rating: ⭐️⭐️⭐️⭐️⭐️
+status: read
 goodreads: https://www.goodreads.com/book/show/56269205-empire-of-the-vampire
 banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1612450626i/56269205.jpg
 banner-y:

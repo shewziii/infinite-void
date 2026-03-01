@@ -14,8 +14,12 @@
       "periodicNotesFolder": "",
       "shortcuts": [
         {
-          "type": "tag",
-          "tagPath": "moc"
+          "type": "note",
+          "path": "10 Projects/Act One Creative/Act One Creative.md"
+        },
+        {
+          "type": "note",
+          "path": "20 Hobbies/Reading/Library.md"
         }
       ]
     }

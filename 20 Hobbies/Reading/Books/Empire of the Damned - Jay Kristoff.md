@@ -16,6 +16,7 @@ genre:
   - vampires
 date-read:
 rating:
+status: reading
 goodreads: https://www.goodreads.com/book/show/126918599-empire-of-the-damned?from_search=true&from_srp=true&qid=0JzNkYoWpA&rank=1
 banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1687870963i/126918599.jpg
 banner-y:

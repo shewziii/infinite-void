@@ -3,6 +3,8 @@ entry-date: 2026-01-15
 UID: 20260115152143
 aliases:
   - The Name of the Wind
+tags:
+  - book/read
 series: Kingkiller Chronicles
 author: Patrick Rothfuss
 pages: "661"
@@ -12,10 +14,9 @@ genre:
   - fantasy
 date-read: Dec 29, 2025
 rating: ⭐⭐⭐⭐
+status: read
 goodreads: https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind
 banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1704917687i/186074.jpg
-tags:
-  - book/read
 ---
 
 ```dataviewjs
