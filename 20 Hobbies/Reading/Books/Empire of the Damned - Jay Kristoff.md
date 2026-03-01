@@ -11,9 +11,9 @@ pages: "725"
 published: 2024-03-12
 isbn: "9781250245342"
 genre:
-  - DARK FANTASY
-  - HORROR
-  - VAMPIRES
+  - dark fantasy
+  - horror
+  - vampires
 status: reading
 date-read:
 rating:

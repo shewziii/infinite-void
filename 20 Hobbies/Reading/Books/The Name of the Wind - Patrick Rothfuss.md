@@ -9,8 +9,7 @@ pages: "661"
 published: 2007-03-27
 isbn: "9781101147160"
 genre:
-  - FANTASY
-  - FICTION
+  - fantasy
 date-read: Dec 29, 2025
 rating: ⭐⭐⭐⭐
 goodreads: https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind
