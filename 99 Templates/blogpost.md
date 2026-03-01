@@ -16,3 +16,8 @@ tags:
 related:
   - 
 ---
+
+<%*
+await new Promise(resolve => setTimeout(resolve, 300));
+-%>
+<% tp.file.cursor() %>
