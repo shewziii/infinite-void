@@ -1,7 +1,6 @@
 ---
 title: Why your cold emails suck (and how to fix them)
 type: blog
-status: idea
 topic:
 publish_date:
 created: 2026-03-01

@@ -10,7 +10,6 @@ pages: "{{totalPage}}"
 published: "{{publishDate}}"
 isbn: "{{isbn13}}"
 genre:
-status:
 date-read:
 rating:
 goodreads:

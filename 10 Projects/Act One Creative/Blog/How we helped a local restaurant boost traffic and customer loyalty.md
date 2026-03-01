@@ -1,7 +1,6 @@
 ---
 title: How we helped a local restaurant boost traffic and customer loyalty
 type: blog
-status: idea
 topic:
 publish_date:
 created: 2026-03-01

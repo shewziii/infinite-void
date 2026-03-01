@@ -3,7 +3,6 @@ title: Back to the Basics Week 2 - Buyer personas
 series: back to the basics
 episode: "2"
 type: newsletter
-status: published
 topic: buyer-personas
 publish_date: 2026-02-10
 created: 2026-02-10

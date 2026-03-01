@@ -3,7 +3,6 @@ title: Your cold email strategy could use work
 series:
 episode:
 type: newsletter
-status: idea
 topic:
 publish_date:
 created: 2026-03-01

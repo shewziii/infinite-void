@@ -3,7 +3,6 @@ title: Email subject lines are more important than you think
 series:
 episode:
 type: newsletter
-status: idea
 topic:
 publish_date:
 tags:

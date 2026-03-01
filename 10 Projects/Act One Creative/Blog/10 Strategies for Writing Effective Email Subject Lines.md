@@ -1,7 +1,6 @@
 ---
 title: 10 strategies for writing effective email subject lines
 type: blog
-status: idea
 topic:
 publish_date:
 created: 2026-03-01

@@ -14,7 +14,6 @@ genre:
   - dark fantasy
   - horror
   - vampires
-status: reading
 date-read:
 rating:
 goodreads: https://www.goodreads.com/book/show/126918599-empire-of-the-damned?from_search=true&from_srp=true&qid=0JzNkYoWpA&rank=1

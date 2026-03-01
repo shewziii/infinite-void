@@ -1,7 +1,6 @@
 ---
 title: How we helped raise over $12,000 for a non-profit animal shelter
 type: blog
-status: idea
 topic:
 publish_date:
 created: 2026-03-01

@@ -1,7 +1,6 @@
 ---
 title: A strategic social media growth plan for a regional jewlery store
 type: blog
-status: idea
 topic:
 publish_date:
 created: 2026-03-01

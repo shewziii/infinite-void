@@ -1,7 +1,6 @@
 ---
 title: What 5 years of video editing taught me about creating content people want to see
 type: blog
-status: idea
 topic:
 publish_date:
 created: 2026-03-01

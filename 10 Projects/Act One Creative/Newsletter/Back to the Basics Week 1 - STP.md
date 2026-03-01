@@ -3,7 +3,6 @@ title: Back to the Basics Week 1 - STP
 series: back to the basics
 episode: "1"
 type: newsletter
-status: published
 topic: stp
 publish_date: 2026-02-24
 created: 2026-02-24

@@ -3,7 +3,6 @@ title: Back to the Basics Week 3 - The marketing mix
 series: back to the basics
 episode: "3"
 type: newsletter
-status: idea
 topic: marketing mix
 publish_date:
 created: 2026-02-28
