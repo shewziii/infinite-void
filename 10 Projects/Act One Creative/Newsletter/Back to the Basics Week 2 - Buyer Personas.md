@@ -5,8 +5,8 @@ episode: "2"
 type: newsletter
 status: published
 topic: buyer-personas
-publish_date:
-created: 2026-02-28
+publish_date: 2026-02-10
+created: 2026-02-10
 tags:
   - content/newsletter/series/back-to-the-basics
 related:
