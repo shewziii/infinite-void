@@ -1,4 +1,15 @@
 ---
+project: Act One Creative
+content_type: newsletter
+series: Back to the Basics
+episode: 2
+title: Buyer Personas
+status: editing
+publish_date:
+topics:
+- marketing
+- personas
+- strategy
 
 ---
 Hey!
