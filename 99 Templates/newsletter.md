@@ -13,3 +13,4 @@ tags:
 related:
   - 
 ---
+<% tp.file. %>
