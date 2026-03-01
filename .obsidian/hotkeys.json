@@ -35,13 +35,13 @@
     }
   ],
   "obsidian-auto-link-title:enhance-url-with-title": [],
-  "templater-obsidian:create-99 Templates/new note.md": [
+  "file-explorer:new-file": [],
+  "notebook-navigator:new-note": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "N"
     }
-  ],
-  "file-explorer:new-file": []
+  ]
 }
