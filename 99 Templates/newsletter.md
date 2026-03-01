@@ -1,18 +1,19 @@
 ---
 <%*
-const fileName = await tp.system.prompt("Blog post title");
-await tp.file.move("10 Projects/Act One Creative/Blog/" + fileName);
+const fileName = await tp.system.prompt("Newsletter title");
+await tp.file.move("10 Projects/Act One Creative/Newsletter/" + fileName);
 -%>
 title: <% fileName %>
-type: blog
+series: 
+episode: 
+type: newsletter
 status: idea
 topic: 
-description: 
 published: false
 publish_date:
 created: <% tp.date.now("YYYY-MM-DD") %>
 tags:
-  - blog
+  - newsletter
   - act-one-creative
 related:
   - 
@@ -22,3 +23,5 @@ related:
 await new Promise(resolve => setTimeout(resolve, 300));
 -%>
 <% tp.file.cursor() %>
+
+## 📖 More Reading for You
