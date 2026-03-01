@@ -1,5 +1,5 @@
 ---
-title: Email sub
+title: Email subject lines are more important than you think
 series: 
 episode: 
 type: newsletter
