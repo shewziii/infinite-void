@@ -41,7 +41,9 @@
     "book/tbr": 4,
     "content/newsletter": 1,
     "dev/git": 1,
-    "recipe/chili": 1
+    "recipe/chili": 1,
+    "content/newsletter/series": 1,
+    "content/newsletter/series/back-to-the-basics": 1
   },
   "tagColors": {},
   "_version": 4

@@ -8,7 +8,7 @@ topic: stp
 publish_date:
 created: 2026-02-28
 tags:
-  - content/newsletter
+  - content/newsletter/series/back-to-the-basics
   - marketing
 related:
   - 
