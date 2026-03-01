@@ -1,14 +1,17 @@
 ---
-title: 10 Strategies for Writing Effective Email Subject Lines
-readTime: "5"
-author: Rudy Mayorga
-description: One of the biggest factors affecting your email open rate is your subject lines. Subject lines are your first impression and what grabs the recipeint's interest, so if you skip out on this, people will skip out on you.
-image:
-  url: ../../src/assets/blog/subjectLines/cover.jpg
-  alt: Closeup of Apple Email app with 6 notifications
-pubDate: 2026-02-17T15:59:52Z
-featured: true
+title: 10 strategies for writing effective email subject lines
+type: blog
+status: idea
+topic: 
+publish_date:
+created: 2026-03-01
+tags:
+  - blog
+  - act-one-creative
+related:
+  -
 ---
+
 Subject lines are grossly underestimated. The whole point of a subject line is to get someone to open your email, yet so many people tend to just write whatever and call it a day. Let’s take a look at my inbox:
 
 ![My inbox, a variety of different subject lines visible.](../../assets/blog/subjectLines/inbox.png)

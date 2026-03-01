@@ -10,6 +10,8 @@
     "highTextContrast": false
   },
   "knownTags": {
+    "act-one-creative": 1,
+    "blog": 2,
     "book": 3,
     "content": 5,
     "daily-note": 5,
