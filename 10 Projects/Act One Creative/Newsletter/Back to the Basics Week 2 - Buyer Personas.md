@@ -14,7 +14,7 @@ related:
 ---
 
 Hey!
-Weclome back to Back to the Basics!
+Welcome back to Back to the Basics!
 
 Last Week we covered STP (segmentation, targeting, and positioning), which helped you figure out who your target market is and who you should be focusing on. This week we'll talk about getting to know your selected segments.
 
