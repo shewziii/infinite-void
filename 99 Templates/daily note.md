@@ -3,7 +3,7 @@ banner: "![[urban_architecture.jpg]]"
 entry-date: <% tp.date.now("YYYY-MM-DD") %>
 UID: <% tp.date.now("YYYYMMDDHHmm") %>-303101
 tags:
-  - DAILY-NOTE
+  - daily
 related:
   - '[[<% tp.date.now("YYYY-[W]ww") %>]]'
 banner-x: 50
