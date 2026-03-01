@@ -10,7 +10,8 @@ created: 2026-02-28
 tags:
   - content/newsletter/back-to-the-basics
 related:
-  - 
+  - "[[Back to the Basics Week 2 - Buyer Personas]]"
+  - "[[Back to the basics week 3 - The marketing mix]]"
 ---
 
 Hey!
