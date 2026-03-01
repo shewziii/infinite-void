@@ -1,3 +1,17 @@
+---
+title: Your cold email strategy could use work
+series: 
+episode: 
+type: newsletter
+status: idea
+topic: 
+publish_date:
+created: <% tp.date.now("YYYY-MM-DD") %>
+tags:
+  - content/newsletter
+related:
+  - [[Email Subject Lines Are More Important Than You Think]]
+---
 
 I was sitting down with my coffee the other morning when my phone buzzed.
 
