@@ -1,8 +1,6 @@
 ---
 entry-date: 2026-01-15
 UID: 20260115152143
-tags:
-  - book/read
 aliases:
   - The Name of the Wind
 series: Kingkiller Chronicles
