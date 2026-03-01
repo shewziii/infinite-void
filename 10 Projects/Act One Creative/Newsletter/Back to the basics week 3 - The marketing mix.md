@@ -5,7 +5,6 @@ episode: "3"
 type: newsletter
 status: idea
 topic: marketing mix
-published: false
 publish_date:
 created: 2026-02-28
 tags:

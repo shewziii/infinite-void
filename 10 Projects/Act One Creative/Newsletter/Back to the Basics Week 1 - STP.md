@@ -5,8 +5,8 @@ episode: "1"
 type: newsletter
 status: published
 topic: stp
-publish_date:
-created: 2026-02-28
+publish_date: 2026-02-24
+created: 2026-02-24
 tags:
   - content/newsletter/series/back-to-the-basics
 related:
