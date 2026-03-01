@@ -394,13 +394,6 @@
     },
     "/": {
       "groupBy": "folder"
-    },
-    "10 Projects": {
-      "groupBy": "folder",
-      "titleRows": 2
-    },
-    "10 Projects/Act One Creative": {
-      "groupBy": "folder"
     }
   },
   "tagIcons": {},
