@@ -15,4 +15,3 @@ related:
   - 
 ---
 
-<% tp.file.cursor() %>
