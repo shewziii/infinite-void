@@ -1,13 +1,16 @@
 ---
-title: How We Helped Raise Over $12,000 for a Non-Profit Animal Shelter
-readTime: "5"
-author: Rudy Mayorga
-description: A case study that outlines the strategy used to help a non-profit animal shelter raise money for an event.
-image:
-  url: ../../src/assets/blog/fidoAndFriends/cover.png
-  alt: Vector art dog on the left with the text,"Fido and Friends 5k"
-pubDate: 2026-01-13T10:00:00Z
+title: How we helped raise over $12,000 for a non-profit animal shelter
+type: blog
+status: idea
+topic:
+publish_date:
+created: 2026-03-01
+tags:
+  - content/blog/case-study
+related:
+  - 
 ---
+
 Throughout my career, I've seen so many people talk about marketing with the mindset that its all about selling. It's all about making money. To that I say, no. Sales revenue and profit are a side effect of successful marketing and CAN be the driving factor behind a marketing campaign. Marketing at its core is about people. More specifically, its about connections.
 
 This case study will take a look at that idea in action by dissecting our process in raising awareness for a fundraising event from a nonprofit organization focusing on animals.

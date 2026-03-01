@@ -33,8 +33,9 @@
     "content/blog/case-study": 1,
     "content/blog/content-creation": 1,
     "content/blog/email-marketing": 1,
-    "content/newsletter/back-to-the-basics": 1,
-    "content/social/idea": 1
+    "content/newsletter/series": 2,
+    "content/social/idea": 1,
+    "content/newsletter/series/back-to-the-basics": 1
   },
   "tagColors": {},
   "_version": 4
