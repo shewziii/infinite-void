@@ -1,12 +1,22 @@
 ---
-title: "Back to the Basics Week 1: STP"
-description: "This week is the start of a new series called Back to the Basics, where I'll be going over the fundamentals of marketing. This week we'll talk about STP."
-image:
-  url: "../../src/assets/newsletter/stp/cover.png"
-  alt: "Back to the basics: STP cover"
-pubDate: 2026-02-24T13:13:31Z
-issue: 3
+title: Back to the Basics Week 1 - STP
+series: back to the basics
+episode: "1"
+type: newsletter
+status: published
+topic: stp
+publish_date:
+created: 2026-02-28
+tags:
+  - newsletter
+  - act-one-creative
+  - back-to-the-basics
+  - Marketing
+  - stp
+related:
+  -
 ---
+
 Hey!
 
 This week will be the start of a new series called Back to the Basics.
