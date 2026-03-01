@@ -1,5 +1,5 @@
 ---
-title: <%* await tp.file.move("10 Projects/Act One Creative/Newsletter/" + await tp.file.title) %>
+title: <%* await tp.file.move("10 Projects/Act One Creative/Newsletter/" + tp.file.title) %>
 series: 
 episode: 
 type: newsletter
