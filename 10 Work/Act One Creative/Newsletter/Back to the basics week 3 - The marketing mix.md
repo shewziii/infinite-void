@@ -12,7 +12,7 @@ tags:
   - content/newsletter/back-to-the-basics
 related:
   - "[[Back to the Basics Week 1 - STP]]"
-  - "[[Back to the Basics Week 2 - Buyer personas]]"
+  - "[[Back to the Basics Week 2 - Buyer Personas]]"
 ---
 
 
