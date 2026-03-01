@@ -7,8 +7,7 @@ status: idea
 topic: 
 publish_date:
 tags:
-  - newsletter
-  - act-one-creative
+  - content/newsletter
 related:
   - 
 ---
