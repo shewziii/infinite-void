@@ -12,7 +12,7 @@ tags:
   - newsletter
   - act-one-creative
 related:
-  -
+  - "[[Back to the Basics Week 1 - STP]]"
 ---
 
 Hey!
