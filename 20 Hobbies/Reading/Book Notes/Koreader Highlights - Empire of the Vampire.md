@@ -1,3 +1,7 @@
+---
+tags:
+  - book/highlight
+---
 <!DOCTYPE html>
 
 <html>
