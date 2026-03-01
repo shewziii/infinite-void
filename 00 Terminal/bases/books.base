@@ -1,0 +1,22 @@
+views:
+  - type: cards
+    name: Books
+    filters:
+      and:
+        - file.tags.contains("BOOK")
+        - file.folder != "99 Templates"
+    order:
+      - file.name
+      - author
+      - genre
+      - status
+      - rating
+    sort:
+      - property: status
+        direction: DESC
+      - property: date-read
+        direction: DESC
+    image: note.banner
+    imageFit: contain
+    imageAspectRatio: 1.5
+    cardSize: 140

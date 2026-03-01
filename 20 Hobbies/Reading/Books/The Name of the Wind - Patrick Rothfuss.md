@@ -1,22 +1,23 @@
 ---
-entry-date: <% tp.date.now("YYYY-MM-DD") %>
-UID: <% tp.date.now("YYYYMMDDHHmmss") %>
+entry-date: 2026-01-15
+UID: 20260115152143
 tags:
+  - book/read
 aliases:
-  - "{{title}}"
-series:
-author: "{{author}}"
-pages: "{{totalPage}}"
-published: "{{publishDate}}"
-isbn: "{{isbn13}}"
+  - The Name of the Wind
+series: Kingkiller Chronicles
+author: Patrick Rothfuss
+pages: "661"
+published: 2007-03-27
+isbn: "9781101147160"
 genre:
-status:
-date-read:
-rating:
-goodreads:
-banner:
-banner-y:
-banner-x:
+  - FANTASY
+  - FICTION
+status: READ
+date-read: Dec 29, 2025
+rating: ⭐⭐⭐⭐
+goodreads: https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind
+banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1704917687i/186074.jpg
 ---
 
 ```dataviewjs
@@ -67,18 +68,18 @@ dv.container.innerHTML = `
 `;
 ```
 
-# {{title}}
+# The Name of the Wind
 
 ## About
-
----
+Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ever seen.  
+  
+The intimate narrative of his childhood in a troupe of traveling players, his years spent as a near-feral orphan in a crime-ridden city, his daringly brazen yet successful bid to enter a legendary school of magic, and his life as a fugitive after the murder of a king form a gripping coming-of-age story unrivaled in recent literature.  
+  
+A high-action story written with a poet's hand, _The Name of the Wind_ is a masterpiece that will transport readers into the body and mind of a wizard.
 ## Quotes
 
----
-## Notes
-
----
 ## Review
 
----
-[[Library|Books]]
+## Notes
+
+[[Library|books]]

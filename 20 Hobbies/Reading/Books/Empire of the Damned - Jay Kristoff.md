@@ -1,20 +1,24 @@
 ---
-entry-date: <% tp.date.now("YYYY-MM-DD") %>
-UID: <% tp.date.now("YYYYMMDDHHmmss") %>
+entry-date: 2026-01-16
+UID: 20260116141316
 tags:
+  - book/reading
 aliases:
-  - "{{title}}"
-series:
-author: "{{author}}"
-pages: "{{totalPage}}"
-published: "{{publishDate}}"
-isbn: "{{isbn13}}"
+  - Empire of the Damned
+series: Empire of the Vampire
+author: Jay Kristoff
+pages: "725"
+published: 2024-03-12
+isbn: "9781250245342"
 genre:
-status:
+  - DARK FANTASY
+  - HORROR
+  - VAMPIRES
+status: reading
 date-read:
 rating:
-goodreads:
-banner:
+goodreads: https://www.goodreads.com/book/show/126918599-empire-of-the-damned?from_search=true&from_srp=true&qid=0JzNkYoWpA&rank=1
+banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1687870963i/126918599.jpg
 banner-y:
 banner-x:
 ---
@@ -67,18 +71,25 @@ dv.container.innerHTML = `
 `;
 ```
 
-# {{title}}
+# Empire of the Damned
 
 ## About
-
----
+From the New York Times bestselling author of the Nevernight Chronicle, Jay Kristoff, comes the much-anticipated sequel to the #1 international bestselling sensation EMPIRE OF THE VAMPIRE.  
+  
+From holy cup comes holy light;  
+The faithful hands sets world aright.  
+And in the Seven Martyrs’ sight,  
+Mere man shall end this endless night.  
+  
+Gabriel de León has saved the Holy Grail from death, but his chance to end the endless night is lost. Drawn into an uneasy alliance with the mysterious vampire Liathe, Gabriel must now deliver the Grail to ancients of the Blood Esani, and learn the truth of how Daysdeath might be finally undone.  
+  
+But the Last Silversaint faces peril, within and without. Pursued by terrors of the Blood Voss, drawn into warfare between the Blood Dyvok and duskdancers of the frozen Highlands, and ravaged by his own rising bloodlust, Gabriel may not survive to see the Grail learn her truth.  
+  
+And that truth may be too awful for any to imagine.
 ## Quotes
 
----
-## Notes
-
----
 ## Review
 
----
+## Notes
+
 [[Library|Books]]

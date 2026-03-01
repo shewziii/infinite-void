@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTerminalSquare",
+      "LiTerminal",
       "LiArchive",
       "LiLayoutTemplate",
-      "LiPaperclip",
-      "LiBookmark",
-      "LiNotebookPen"
+      "LiPaperclip"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,9 +34,13 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "98 Archive": "LiArchive",
+  "10 Projects": "LiInbox",
+  "20 Hobbies": "LiBookOpen",
+  "30 Journal": "LiPenSquare",
+  "40 Notes": "LiNotebookPen",
+  "90 Resources": "LiBookmark",
+  "97 Attachments": "LiPaperclip",
   "99 Templates": "LiLayoutTemplate",
-  "01 Work": "LiInbox",
-  "02 Knowledge": "LiBookOpen",
-  "03 Hobbies": "LiNotebookPen"
+  "98 Archive": "LiArchive",
+  "00 Terminal": "LiTerminalSquare"
 }

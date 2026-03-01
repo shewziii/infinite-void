@@ -4,7 +4,7 @@
   "attachmentFolderPath": "97 Attachments",
   "promptDelete": false,
   "propertiesInDocument": "source",
-  "readableLineLength": false,
+  "readableLineLength": true,
   "strictLineBreaks": false,
   "autoConvertHtml": true,
   "vimMode": true,
