@@ -13,13 +13,6 @@ related:
   - 
 ---
 
-<%*
-await new Promise(resolve => setTimeout(resolve, 300));
--%>
-<% tp.file.cursor() %>
-
-## 📖 More Reading for You
-
 I was scrolling through my inbox this morning. Cluttered as usual, nothing super interesting to report. I only opened 3.
 
 It's embarrassing.
