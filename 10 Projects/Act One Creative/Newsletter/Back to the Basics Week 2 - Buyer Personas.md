@@ -4,7 +4,7 @@ series: " back to the basics"
 episode: "2"
 type: newsletter
 status: idea
-topic: buyer personas
+topic: buyer-personas
 published: false
 publish_date:
 created: 2026-02-28
@@ -15,7 +15,6 @@ tags:
   - marketing
   - buyer-personas
   - segmentation
-  - content
 related:
   - "[[Back to the Basics Week 1 - STP]]"
 ---
