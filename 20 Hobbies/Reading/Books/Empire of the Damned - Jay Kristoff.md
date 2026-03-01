@@ -2,8 +2,8 @@
 entry-date: 2026-01-16
 UID: 20260116141316
 tags:
-  - BOOK
-  - READING_AS_A_HOBBY
+  - book
+  - reading
 aliases:
   - Empire of the Damned
 series: Empire of the Vampire
@@ -15,7 +15,7 @@ genre:
   - DARK FANTASY
   - HORROR
   - VAMPIRES
-status: TBR
+status: reading
 date-read:
 rating:
 goodreads: https://www.goodreads.com/book/show/126918599-empire-of-the-damned?from_search=true&from_srp=true&qid=0JzNkYoWpA&rank=1
