@@ -4,6 +4,15 @@ views:
     filters:
       and:
         - file.inFolder("10 Projects/Act One Creative/Newsletter")
+    order:
+      - file.name
+      - status
+      - topic
+      - published
     sort:
+      - property: status
+        direction: ASC
+      - property: topic
+        direction: ASC
       - property: pubDate
         direction: DESC
