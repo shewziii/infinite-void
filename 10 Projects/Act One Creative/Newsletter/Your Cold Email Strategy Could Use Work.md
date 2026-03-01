@@ -1,14 +1,4 @@
----
-title: Your Cold Email Strategy Could Use Work
-description: Cold emails often go unnoticed at best, and get sent to trash at worst. In this issue, I go over how you can write better cold emails that don't end with someone rolling their eyes.
-image:
-  url: ../../src/assets/newsletter/coldEmails/cover.jpg
-  alt: Closeup of a person typing on a laptop.
-pubDate: 2026-02-10T13:47:27Z
-issue: 1
-ps: What are some things you've done to improve your email open rates? I'd love to hear about what worked for you!
-published: true
----
+
 I was sitting down with my coffee the other morning when my phone buzzed.
 
 Another cold email.
