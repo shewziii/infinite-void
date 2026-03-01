@@ -1,6 +1,6 @@
 ---
 tags:
-  - content/social/idea
+  - content/idea/social
 ---
 
 **Post 2: The AI Problem** The hook writes itself: "If everyone sounds like a thought leader, no one is." Cover how AI flooded feeds with readable but forgettable content, and that audiences can now spot it immediately. The payoff slide: originality is the only thing that cuts through now.
