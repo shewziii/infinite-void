@@ -1,3 +1,7 @@
+---
+tags:
+  - dev/git
+---
 # Best Practices
 ```
 <type>[optional scope]: <description>

@@ -20,6 +20,7 @@
     "copywriting": 6,
     "current-events": 7,
     "daily-note": 5,
+    "dev": 8,
     "email-marketing": 8,
     "management": 6,
     "marketing": 7,
@@ -36,6 +37,7 @@
     "strategy": 12,
     "uni": 13,
     "unit-3": 14,
+    "dev/git": 1,
     "recipe/chili": 1
   },
   "tagColors": {},
