@@ -6,7 +6,7 @@ topic:
 publish_date:
 created: 2026-03-01
 tags:
-  - content/blog/
+  - content/blog/content-creation
 related:
   - 
 ---
