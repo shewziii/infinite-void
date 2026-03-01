@@ -386,7 +386,8 @@
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {
-    "20 Hobbies": "created-desc"
+    "20 Hobbies": "created-desc",
+    "/": "created-desc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {
