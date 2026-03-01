@@ -28,16 +28,9 @@
     "recipe": 10,
     "research": 11,
     "selling": 11,
-    "series": 12,
-    "status": 12,
     "strategy": 12,
-    "type": 13,
     "uni": 13,
-    "unit-3": 14,
-    "project/act-one-creative": 1,
-    "series/back-to-the-basics": 1,
-    "status/editing": 1,
-    "type/newsletter": 1
+    "unit-3": 14
   },
   "tagColors": {},
   "_version": 4

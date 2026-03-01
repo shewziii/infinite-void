@@ -1,23 +1,3 @@
----
-project: Act One Creative
-content_type: newsletter
-series: Back to the Basics
-episode: 2
-title: Buyer Personas
-status: editing
-publish_date:
-topics:
-  - marketing
-  - personas
-  - strategy
-related:
-  - segmentation-targetin-positioning
-tags:
-  - project/act-one-creative
-  - type/newsletter
-  - status/editing
-  - series/back-to-the-basics
----
 Hey!
 Weclome back to Back to the Basics!
 
