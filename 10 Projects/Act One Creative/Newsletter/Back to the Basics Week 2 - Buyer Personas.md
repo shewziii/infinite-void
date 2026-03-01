@@ -10,7 +10,8 @@ topics:
 - marketing
 - personas
 - strategy
-
+related: 
+- segmentation-targetin-positioning
 ---
 Hey!
 Weclome back to Back to the Basics!
