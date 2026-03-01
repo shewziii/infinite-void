@@ -12,14 +12,9 @@ views:
     order:
       - file.name
       - author
-      - genre
-      - rating
-      - status
     sort:
-      - property: status
-        direction: DESC
-      - property: date-read
-        direction: DESC
+      - property: series
+        direction: ASC
     image: note.banner
     imageFit: contain
     imageAspectRatio: 1.5
