@@ -123,7 +123,7 @@
   "recentNotesCount": 5,
   "showFolderIcons": true,
   "showRootFolder": true,
-  "inheritFolderColors": false,
+  "inheritFolderColors": true,
   "folderSortOrder": "alpha-asc",
   "enableFolderNotes": false,
   "folderNoteType": "markdown",
@@ -384,7 +384,9 @@
   },
   "customVaultName": "",
   "pinnedNotes": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "20 Hobbies/Reading/Library.md": "book-open"
+  },
   "fileColors": {},
   "folderIcons": {},
   "folderColors": {},
@@ -416,7 +418,10 @@
   },
   "tagIcons": {},
   "tagColors": {},
-  "tagBackgroundColors": {},
+  "tagBackgroundColors": {
+    "book": "#06b6d429",
+    "content": "#f973163e"
+  },
   "tagSortOverrides": {},
   "tagTreeSortOverrides": {},
   "tagAppearances": {},
