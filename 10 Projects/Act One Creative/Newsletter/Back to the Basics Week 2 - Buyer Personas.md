@@ -5,7 +5,6 @@ episode: "2"
 type: newsletter
 status: published
 topic: buyer-personas
-published: true
 publish_date:
 created: 2026-02-28
 tags:

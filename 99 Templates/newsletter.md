@@ -9,7 +9,6 @@ episode:
 type: newsletter
 status: idea
 topic: 
-published: false
 publish_date:
 created: <% tp.date.now("YYYY-MM-DD") %>
 tags:
