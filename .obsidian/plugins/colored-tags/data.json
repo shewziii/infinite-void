@@ -40,6 +40,7 @@
     "book/highlight": 1,
     "book/read": 2,
     "book/reading": 3,
+    "book/tbr": 4,
     "dev/git": 1,
     "recipe/chili": 1
   },

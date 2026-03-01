@@ -2,8 +2,7 @@
 entry-date: 2026-01-16
 UID: 20260116131621
 tags:
-  - BOOK
-  - READING_AS_A_HOBBY
+  - book/read
 aliases:
   - Buyology
 series:

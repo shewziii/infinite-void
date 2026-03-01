@@ -2,8 +2,7 @@
 entry-date: 2026-01-16
 UID: 20260116143532
 tags:
-  - BOOK
-  - READING_AS_A_HOBBY
+  - book/tbr
 aliases:
   - Empire of the Dawn
 series: Empire of the Vampire
