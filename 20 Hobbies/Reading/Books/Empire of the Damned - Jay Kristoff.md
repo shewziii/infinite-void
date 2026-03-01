@@ -2,8 +2,7 @@
 entry-date: 2026-01-16
 UID: 20260116141316
 tags:
-  - book
-  - reading
+  - book/reading
 aliases:
   - Empire of the Damned
 series: Empire of the Vampire

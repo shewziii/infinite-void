@@ -380,7 +380,9 @@
   "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
-  "folderSortOverrides": {},
+  "folderSortOverrides": {
+    "20 Hobbies": "created-desc"
+  },
   "folderTreeSortOverrides": {},
   "folderAppearances": {
     "20 Hobbies": {
