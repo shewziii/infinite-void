@@ -1,10 +1,3 @@
----
-id: chili
-aliases: [Chili]
-tags:
-- RECIPE
-- COOKING
----
 # Chili
 ## Ingredients
 - 1 whole onion
