@@ -5,7 +5,6 @@ aliases:
 note_type: research
 tags:
   - research
-  - news
 ---
 ---
 ## Week of Feb 23

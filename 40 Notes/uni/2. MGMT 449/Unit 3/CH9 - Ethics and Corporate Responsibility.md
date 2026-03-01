@@ -4,6 +4,5 @@ aliases: []
 tags:
   - uni
   - strategy
-  - management
 unit:
 ---
