@@ -13,7 +13,6 @@ isbn: "9781101147160"
 genre:
   - FANTASY
   - FICTION
-status: READ
 date-read: Dec 29, 2025
 rating: ⭐⭐⭐⭐
 goodreads: https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind

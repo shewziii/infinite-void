@@ -11,10 +11,9 @@ pages: "274"
 published: 2010-02-02
 isbn: "9780385523899"
 genre:
-  - BUSINESS
-  - PSYCHOLOGY
-  - SCIENCE
-status: READING
+  - business
+  - psychology
+  - science
 date-read:
 rating:
 goodreads: https://www.goodreads.com/book/show/2848658-buyology

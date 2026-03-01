@@ -11,10 +11,9 @@ pages: "826"
 published: 2025-11-04
 isbn: "9781250245380"
 genre:
-  - DARK FANTASY
-  - HORROR
-  - VAMPIRES
-status: TBR
+  - dark fantasy
+  - horror
+  - vampires
 date-read:
 rating:
 goodreads: https://www.goodreads.com/book/show/222376766-empire-of-the-dawn?from_search=true&from_srp=true&qid=IEBO7HKeJR&rank=1
