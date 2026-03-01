@@ -1,17 +1,16 @@
 ---
-title: What 5 years of Video Editing Taught Me About Making Content People Actually Want to See
-readTime: "9"
-author: Rudy Mayorga
-description: After 5 years of working as a freelance video editor, I've learned a thing or two about making content that people want to consume.
-image:
-  url: ../../src/assets/blog/videoEditing/cover.jpg
-  alt: Closeup of a computer monitor with an editing software open to an active project.
-pubDate: 2026-02-03T14:43:36Z
+title: What 5 years of video editing taught me about creating content people want to see
+type: blog
+status: idea
+topic:
+publish_date:
+created: 2026-03-01
 tags:
-  - content
-  - Strategy
-featured: true
+related:
+  -
 ---
+
+
 I had just come home after a 10-hour shift at my job. The Saturday night dinner crowd left me utterly exhausted. The worst part of it all was that I still had homework to do. So, I lugged myself to my bed, opened my Microsoft Surface tablet that I was using as my laptop, and got to work.
 
 I opened the dashboard for my graphic design class and saw that we were moving from theory to hands-on work, so I opened Adobe Creative Cloud and looked for the software I would need for the next few weeks. While I was waiting for the apps to download, I decided to explore a little. What caught my eye were two apps that would prove to be my most valuable tools for the next 5 years: Premiere Pro and After Effects. I read the descriptions, hit download, and made a mental note to check them out the next day.
