@@ -1,5 +1,5 @@
 ---
-title: Back to the basics week 2 - Buyer personas
+title: Back to the Basics Week 2 - Buyer personas
 series: " back to the basics"
 episode: "2"
 type: newsletter

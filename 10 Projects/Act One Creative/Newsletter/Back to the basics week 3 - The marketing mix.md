@@ -1,5 +1,5 @@
 ---
-title: Back to the basics week 3 - The marketing mix
+title: Back to the Basics Week 3 - The marketing mix
 series: 
 episode: 
 type: newsletter
