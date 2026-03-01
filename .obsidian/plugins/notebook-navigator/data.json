@@ -109,7 +109,7 @@
   "collapseBehavior": "all",
   "smartCollapse": true,
   "autoSelectFirstFileOnFocusChange": false,
-  "autoExpandNavItems": false,
+  "autoExpandNavItems": true,
   "springLoadedFolders": true,
   "springLoadedFoldersInitialDelay": 0.5,
   "springLoadedFoldersSubsequentDelay": 0.5,
@@ -420,7 +420,7 @@
   "tagColors": {},
   "tagBackgroundColors": {
     "book": "#06b6d429",
-    "content": "#f973163e"
+    "content": "#8b5cf640"
   },
   "tagSortOverrides": {},
   "tagTreeSortOverrides": {},

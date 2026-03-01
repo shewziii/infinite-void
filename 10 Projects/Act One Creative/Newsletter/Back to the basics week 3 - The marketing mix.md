@@ -13,6 +13,11 @@ related:
   - "[[Back to the Basics Week 2 - Buyer personas]]"
 ---
 
+Welcome back to Back to the Basics!
 
+Last week we covered buyer personas, which are incredibly useful tools when it comes to creating messages for your selected segments and target market. If you missed that, you can find catch up on that here: [[Back to the Basics Week 2 - Buyer Personas]]
+
+This week we'll focus on bringing the fundamentals together in one topic...
+# The 
 
 ## 📖 More Reading for You
