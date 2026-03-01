@@ -25,7 +25,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "99 Templates/book_note_md.md",
-    "99 Templates/blogpost.md"
+    "99 Templates/blogpost.md",
+    ""
   ],
   "startup_templates": [
     ""
