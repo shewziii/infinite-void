@@ -8,7 +8,8 @@ topic: stp
 publish_date:
 created: 2026-02-28
 tags:
-  - newsletter
+  - content/newsletter
+  - marketing
 related:
   - 
 ---

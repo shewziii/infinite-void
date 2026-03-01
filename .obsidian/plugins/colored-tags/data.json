@@ -39,6 +39,7 @@
     "book/read": 2,
     "book/reading": 3,
     "book/tbr": 4,
+    "content/newsletter": 1,
     "dev/git": 1,
     "recipe/chili": 1
   },
