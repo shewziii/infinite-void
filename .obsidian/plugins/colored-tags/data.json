@@ -10,11 +10,8 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "act-one-creative": 1,
     "b2b": 1,
-    "back-to-the-basics": 2,
     "book": 3,
-    "buyer-personas": 4,
     "case-study": 4,
     "content": 5,
     "copywriting": 6,
@@ -26,11 +23,9 @@
     "marketing": 7,
     "moc": 9,
     "news": 9,
-    "newsletter": 10,
     "project": 8,
     "recipe": 12,
     "research": 11,
-    "segmentation": 12,
     "selling": 11,
     "strategy": 12,
     "uni": 13,
@@ -39,8 +34,10 @@
     "book/read": 2,
     "book/reading": 3,
     "book/tbr": 4,
+    "content/newsletter": 1,
     "dev/git": 1,
-    "recipe/chili": 1
+    "recipe/chili": 1,
+    "content/newsletter/back-to-the-basics": 1
   },
   "tagColors": {},
   "_version": 4

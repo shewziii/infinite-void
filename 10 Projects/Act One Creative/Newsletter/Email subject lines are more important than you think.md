@@ -1,13 +1,17 @@
 ---
-title: Email Subject Lines Are More Important Than You Think
-description: One of the biggest reasons so many of your emails get sent straight to trash is because your subject lines are subpar. In this issue, I go over how to write better subject lines, plus a bonus for subscribers.
-image:
-  url: ../../src/assets/newsletter/subjectLines/cover.jpg
-  alt: Apple mail icon in a bubble style.
-pubDate: 2026-02-19T13:30:37Z
-issue: 2
-published: true
+title: Email subject lines are more important than you think
+series: 
+episode: 
+type: newsletter
+status: idea
+topic: 
+publish_date:
+tags:
+  - content/newsletter
+related:
+  - 
 ---
+
 I was scrolling through my inbox this morning. Cluttered as usual, nothing super interesting to report. I only opened 3.
 
 It's embarrassing.
