@@ -5,8 +5,8 @@ episode: 2
 type: newsletter
 status: draft
 topic: buyer-personas
-date: 
 published: false
+publish_date:
 tags:
   - newsletter
   - act-one-creative
