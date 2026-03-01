@@ -12,7 +12,12 @@
       "hiddenFileProperties": [],
       "navigationBanner": null,
       "periodicNotesFolder": "",
-      "shortcuts": []
+      "shortcuts": [
+        {
+          "type": "tag",
+          "tagPath": "moc"
+        }
+      ]
     }
   ],
   "vaultProfile": "default",
