@@ -2,7 +2,6 @@
 id: CH14 - Business Marketing Communications_Managing the Personal Selling Function
 aliases: []
 tags:
-  - uni
   - unit-3
 noteID: c992e91f-f1c9-42a5-93d0-cd37d8a69746
 unit: "3"
