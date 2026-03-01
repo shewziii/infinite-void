@@ -1,7 +1,6 @@
 [
   "obsidian-book-search-plugin",
   "calendar",
-  "colored-tags",
   "dataview",
   "obsidian-icon-folder",
   "lazy-plugins",
@@ -16,7 +15,5 @@
   "obsidian-pandoc",
   "obsidian-git",
   "notebook-navigator",
-  "auto-card-link",
-  "obsidian-auto-link-title",
-  "pexels-banner"
+  "auto-card-link"
 ]
