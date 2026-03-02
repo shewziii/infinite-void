@@ -1,13 +1,13 @@
 ---
 title: How we raised over $12,000 for a non-profit animal shelter
 type: blogpost
-writing-status: idea
-topic: 
-publish_date:
+writing-status: published
+topic: case-study
+publish_date: 2026-01-13
 tags:
   - content/blog
 related:
-  - 
+  - "[[How we helped a local restaurant boost traffic and customer loyalty]]"
 created: 2026-03-02
 ---
 
