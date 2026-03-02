@@ -3,4 +3,6 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("10 Work/Blog")
+        - type == "blog"
+    order:
+      - file.name
