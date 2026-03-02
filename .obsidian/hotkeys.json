@@ -91,5 +91,11 @@
       ],
       "key": "5"
     }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
   ]
 }
