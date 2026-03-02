@@ -14,7 +14,7 @@ status:
 date-read:
 rating:
 goodreads:
-banner:
+cover:
 banner-y:
 banner-x:
 ---
@@ -23,8 +23,8 @@ banner-x:
 const page = dv.current();
 
 // cover
-let coverImageHTML = page.banner
-  ? `<img src="${page.banner}" alt="Cover Image" style="width:100%; height:auto; display:block;">`
+let coverImageHTML = page.cover
+  ? `<img src="${page.cover}" alt="Cover Image" style="width:100%; height:auto; display:block;">`
   : "No cover";
 
 // date-read format to YYYY-MM-DD
