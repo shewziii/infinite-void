@@ -17,7 +17,10 @@ Welcome back to Act One Insights!
 
 This week we'll continue with our series: Back to the Basics.
 
-In this issue, we'll be using what we learned the last two weeks together in a framework that ties the fundamentals together in whats
+In this issue, we'll be using what we learned the last two weeks together in a framework that ties the fundamentals together in what's called...
+
+## The marketing mix
+
 
 ---
 📖 More Reading for You
