@@ -3,7 +3,7 @@ title: How we helped a local restaurant boost traffic and customer loyalty
 type: blogpost
 writing-status: idea
 topic: case-study
-publish_date:
+publish_date: 2026-01-20
 tags:
   - content/blog
 related:

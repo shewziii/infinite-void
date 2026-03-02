@@ -1,13 +1,17 @@
 ---
-title: A Strategic Social Media Growth Plan for a Regional Jewelry Brand
-readTime: "8"
-author: Rudy Mayorga
-pubDate: 2026-01-27T14:33:09Z
-description: A case study outlining a social media marketing strategy used to optimize a Jewwlry store's SMM plan.
-image:
-  url: ../src/assets/blog/helloAdorn/cover.png
-  alt: Closeup of a woman's torso wearing minimalist jewelry
+title: A strategic social media growth plan for a regional jewelry brand
+type: blogpost
+writing-status: idea
+topic: case-study
+publish_date: 2026-01-27
+tags:
+  - content/blog
+related:
+  - "[[How we raised over $12,000 for a non-profit animal shelter]]"
+  - "[[How we helped a local restaurant boost traffic and customer loyalty]]"
+created: 2026-03-02
 ---
+
 In my line of work, companies don't always need a complete overhaul of their strategy or marketing approach. Sometimes all they need is small adjustments to their existing endeavors to fine tune what they do so they get the results they want. Hello Adorn is one such brand, with a local presence that's already strong, and only needed a few adjustments to their social media strategy to achieve their goals.
 
 ## About Hello Adorn
