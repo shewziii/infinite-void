@@ -10,7 +10,7 @@ created: 2026-03-01
 tags:
   - content/newsletter
 related:
-  - [[Email Subject Lines Are More Important Than You Think]]
+  - “[[Email Subject Lines Are More Important Than You Think]]”
 ---
 
 I was sitting down with my coffee the other morning when my phone buzzed.
