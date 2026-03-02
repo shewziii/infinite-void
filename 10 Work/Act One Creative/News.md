@@ -1,13 +1,7 @@
 ---
-aliases:
-  - news
-  - news artilces
-note_type: research
-tags:
-  - research
-  - news
-  - current-events
+
 ---
+
 ---
 ## Week of Feb 23
 ```cardlink
