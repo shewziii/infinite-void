@@ -7,3 +7,4 @@ views:
         - '!file.hasTag("book/highlights")'
     image: note.banner
     imageAspectRatio: 1.55
+    cardSize: 120
