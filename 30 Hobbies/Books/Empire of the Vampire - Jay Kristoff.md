@@ -70,7 +70,6 @@ dv.container.innerHTML = `
   </table>
 `;
 ```
-
 # Empire of the Vampire
 
 ## About
