@@ -11,6 +11,7 @@ related:
   - "[[A strategic social media growth plan for a regional jewelry brand]]"
 created: 2026-03-02
 ---
+![[cover.png]]
 
 Throughout my career, I've seen so many people talk about marketing with the mindset that its all about selling. It's all about making money. To that I say, no. Sales revenue and profit are a side effect of successful marketing and CAN be the driving factor behind a marketing campaign. Marketing at its core is about people. More specifically, its about connections.
 

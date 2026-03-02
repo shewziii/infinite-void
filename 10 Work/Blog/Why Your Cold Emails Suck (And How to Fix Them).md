@@ -1,7 +1,7 @@
 ---
 title: Why your cold emails suck (and how to fix them)
 type: blogpost
-writing-status: idea
+writing-status: published
 topic: email marketing
 publish_date: 2026-02-10
 tags:

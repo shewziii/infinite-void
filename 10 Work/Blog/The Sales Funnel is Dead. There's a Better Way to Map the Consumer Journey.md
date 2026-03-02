@@ -1,3 +1,16 @@
+---
+title: The sales funnel is dead. There's a better way to map the consumer journey
+type: blogpost
+writing-status: idea
+topic: strategy
+publish_date: 2026-02-24
+tags:
+  - content/blog
+related:
+  - 
+created: 2026-03-02
+---
+
 We’ve all heard of the sales funnel. You run a few ads to hopefully create awareness for your product, your audience takes interest in the product, you offer a promotion or sale to create desire and encourage them to take action, and then the customer is guided through the store which leads to a purchase.
 
 The funnel is simple, straightforward, and linear, which was great for a traditional sales and marketing model. However, with the growing use of digital tools and the shift to online retail, the way consumers go through the sales process has changed drastically in the last few decades.
