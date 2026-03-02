@@ -101,6 +101,12 @@
       },
       "obsidian-link-embed": {
         "startupType": "disabled"
+      },
+      "chesser-obsidian": {
+        "startupType": "instant"
+      },
+      "image-converter": {
+        "startupType": "instant"
       }
     }
   }
