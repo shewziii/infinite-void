@@ -2,6 +2,7 @@
 title: Frequency vs authority
 type: social
 topic: content marketing
+posted: false
 tags: content/social
 ---
 
