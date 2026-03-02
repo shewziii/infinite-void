@@ -1,17 +1,18 @@
 ---
 title: Your cold email strategy could use work
 type: newsletter
-content-series: 
-episode: 
+content-series:
+episode:
 writing-status: idea
-topic: 
-publish_date:
+topic: email marketing
+publish_date: 2026-02-10
 created: 2026-03-02
 tags:
   - content/newsletter
 related:
-  - 
+  -
 ---
+![[cover-4.jpg]]
 
 I was sitting down with my coffee the other morning when my phone buzzed.
 
