@@ -1,9 +1,11 @@
 [
   "obsidian-book-search-plugin",
   "calendar",
+  "colored-tags",
   "dataview",
   "lazy-plugins",
   "obsidian-vimrc-support",
+  "obsidian-list-callouts",
   "obsidian-style-settings",
   "templater-obsidian",
   "obsidian-minimal-settings",
@@ -14,8 +16,6 @@
   "obsidian-git",
   "notebook-navigator",
   "auto-card-link",
-  "colored-tags",
-  "obsidian-list-callouts",
-  "pexels-banner",
-  "obsidian-icon-folder"
+  "obsidian-auto-link-title",
+  "pexels-banner"
 ]
