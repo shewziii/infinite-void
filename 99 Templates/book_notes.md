@@ -6,13 +6,13 @@ cover:
 series:
 number: 
 genre:
+status:
+date-read:
+rating:
 tags:
 pages: "{{totalPage}}"
 published: "{{publishDate}}"
 isbn: "{{isbn13}}"
-status:
-date-read:
-rating:
 goodreads:
 ---
 
