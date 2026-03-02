@@ -381,7 +381,9 @@
   "pinnedNotes": {},
   "fileIcons": {},
   "fileColors": {},
-  "folderIcons": {},
+  "folderIcons": {
+    "00 Inbox": "inbox"
+  },
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {
