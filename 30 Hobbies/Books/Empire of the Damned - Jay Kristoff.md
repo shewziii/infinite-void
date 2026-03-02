@@ -18,7 +18,7 @@ status: reading
 date-read:
 rating:
 goodreads: https://www.goodreads.com/book/show/126918599-empire-of-the-damned?from_search=true&from_srp=true&qid=0JzNkYoWpA&rank=1
-banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1687870963i/126918599.jpg
+cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1687870963i/126918599.jpg
 banner-y:
 banner-x:
 ---
@@ -27,8 +27,8 @@ banner-x:
 const page = dv.current();
 
 // cover
-let coverImageHTML = page.banner
-  ? `<img src="${page.banner}" alt="Cover Image" style="width:100%; height:auto; display:block;">`
+let coverImageHTML = page.cover
+  ? `<img src="${page.cover}" alt="Cover Image" style="width:100%; height:auto; display:block;">`
   : "No cover";
 
 // date-read format to YYYY-MM-DD
