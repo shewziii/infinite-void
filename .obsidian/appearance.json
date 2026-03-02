@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Cyber Glow",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "enabledCssSnippets": [
@@ -7,7 +7,7 @@
     "supercharged-links-gen",
     "minimal-header-space-fix"
   ],
-  "theme": "moonstone",
+  "theme": "obsidian",
   "accentColor": "",
   "baseFontSize": 16
 }
