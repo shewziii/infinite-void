@@ -1,7 +1,13 @@
 ---
+title: Chili
+type: recipe
+course: dinner
+category: chili
+protein: beef
 tags:
   - recipe/chili
 ---
+
 # Chili
 ## Ingredients
 - 1 whole onion

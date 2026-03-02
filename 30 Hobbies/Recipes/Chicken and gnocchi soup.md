@@ -4,5 +4,7 @@ type: recipe
 course: dinner
 category: soup
 protein: chicken
+tags:
+  - recipe/soup
 ---
 
