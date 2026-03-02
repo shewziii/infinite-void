@@ -2,7 +2,7 @@
 title: How we raised over $12,000 for a non-profit animal shelter
 type: blogpost
 writing-status: published
-topic: case-study
+topic: case study
 publish_date: 2026-01-13
 tags:
   - content/blog

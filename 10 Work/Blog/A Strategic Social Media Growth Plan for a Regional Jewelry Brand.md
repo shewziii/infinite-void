@@ -2,7 +2,7 @@
 title: A strategic social media growth plan for a regional jewelry brand
 type: blogpost
 writing-status: published
-topic: case-study
+topic: case study
 publish_date: 2026-01-27
 tags:
   - content/blog
