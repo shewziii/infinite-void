@@ -1,6 +1,6 @@
 # Frequency vs authority
 ## Post 1: Your posting frequency isn’t the problem
-Caption:
+**Caption**:
 Most brands don’t have a content problem. They have a courage problem.
 
 You’re posting consistently. You’ve got the carousels, the reels, the content calendar, and you’re posting 5x/week, but nothing is really happening. No engagement, no leads, no conversions, nothing.
@@ -17,6 +17,12 @@ Swipe through to see where most brands are going wrong and what buyers actually 
 
 Save this if you’re rethinking your content strategy.
 
+**Hashtags:** 
+```
+#contentmarketing #brandauthority #marketingstrategy #contentcreator
+```
+
+---
 **Post 2: The AI Problem** The hook writes itself: "If everyone sounds like a thought leader, no one is." Cover how AI flooded feeds with readable but forgettable content, and that audiences can now spot it immediately. The payoff slide: originality is the only thing that cuts through now.
 
 **Post 3: Why Your Content Strategy Is Designed to Fail** This one stings in a good way. The premise is that most strategies are built to avoid friction, not create impact. Use the four uncomfortable questions from the article as individual slides, one question per card. That format works well as a carousel stopper.
