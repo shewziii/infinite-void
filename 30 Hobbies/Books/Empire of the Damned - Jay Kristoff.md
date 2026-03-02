@@ -6,21 +6,20 @@ tags:
 aliases:
   - Empire of the Damned
 series: Empire of the Vampire
+number: 2
 author: Jay Kristoff
 pages: "725"
 published: 2024-03-12
 isbn: "9781250245342"
 genre:
-  - DARK FANTASY
-  - HORROR
-  - VAMPIRES
+  - dark fantasy
+  - horror
+  - vampires
 status: reading
 date-read:
 rating:
 goodreads: https://www.goodreads.com/book/show/126918599-empire-of-the-damned?from_search=true&from_srp=true&qid=0JzNkYoWpA&rank=1
 cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1687870963i/126918599.jpg
-banner-y:
-banner-x:
 ---
 
 ```dataviewjs
