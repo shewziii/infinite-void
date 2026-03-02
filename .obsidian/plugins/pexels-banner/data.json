@@ -107,7 +107,7 @@
   ],
   "folderImages": [],
   "contentStartPosition": 355,
-  "imageDisplay": "cover",
+  "imageDisplay": "contain",
   "imageRepeat": false,
   "bannerHeight": 350,
   "bannerMaxWidth": 2560,
