@@ -1,7 +1,7 @@
 ---
 <%*
 const fileName = await tp.system.prompt("Blog post title");
-await tp.file.move("10 Projects/Act One Creative/Blog/" + fileName);
+await tp.file.move("10 Work/Blog/" + fileName);
 -%>
 title: <% fileName %>
 type: blog
