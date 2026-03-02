@@ -8,7 +8,6 @@ image:
   url: ../src/assets/blog/helloAdorn/cover.png
   alt: Closeup of a woman's torso wearing minimalist jewelry
 tags:
-  - Case-Study
   - Strategy
 ---
 In my line of work, companies don't always need a complete overhaul of their strategy or marketing approach. Sometimes all they need is small adjustments to their existing endeavors to fine tune what they do so they get the results they want. Hello Adorn is one such brand, with a local presence that's already strong, and only needed a few adjustments to their social media strategy to achieve their goals.

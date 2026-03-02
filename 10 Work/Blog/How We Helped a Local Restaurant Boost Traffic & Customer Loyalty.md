@@ -8,7 +8,6 @@ image:
   url: ../../src/assets/blog/cancunGrill/cover.jpg
   alt: A cover image depicting a meal of hard shell tacos, rice, and beans.
 tags:
-  - Case-Study
   - Strategy
 ---
 This post highlights a marketing plan created for a popular Mexican restaurant, Cancun Grill, located in Eau Claire, Wisconsin. The goal was to better understand their customers, evaluate local competition, review strengths and weaknesses, and make recommendations to keep customers coming back and increase overall traffic.
