@@ -3,7 +3,7 @@
 Caption:
 Most brands don’t have a content problem. They have a courage problem.
 
-You’re posting consistently. You’ve got the carousels, the reels, the content calendar, and you’re posting 5x/week consistently. But nothing is really happening. No engagement, no leads, no conversions, nothing.
+You’re posting consistently. You’ve got the carousels, the reels, the content calendar, and you’re posting 5x/week, but nothing is really happening. No engagement, no leads, no conversions, nothing.
 
 The issue isn’t your posting frequency. It’s that the content you’re posting is safe and comfortable. It doesn’t do anything interesting.
 
