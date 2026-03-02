@@ -5,3 +5,5 @@ views:
       and:
         - file.inFolder("30 Hobbies/Books")
         - '!file.hasTag("book/highlights")'
+    image: note.banner
+    imageAspectRatio: 1.55
