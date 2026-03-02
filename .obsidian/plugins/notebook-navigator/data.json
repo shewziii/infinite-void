@@ -17,6 +17,10 @@
       "shortcuts": [
         {
           "type": "note",
+          "path": "Work.md"
+        },
+        {
+          "type": "note",
           "path": "Library.md"
         }
       ]
