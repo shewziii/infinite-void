@@ -3,8 +3,6 @@ entry-date: 2026-01-16
 UID: 20260116010735
 tags:
   - book/read
-aliases:
-  - Empire of the Vampire
 series: Empire of the Vampire
 author: Jay Kristoff
 pages: "747"
