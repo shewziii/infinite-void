@@ -1,4 +1,6 @@
 ---
+title: Empire of the Vampire
+type: book
 entry-date: 2026-01-16
 UID: 20260116010735
 tags:
@@ -12,16 +14,14 @@ pages: "747"
 published: 2021-09-14
 isbn: "9781250245298"
 genre:
-  - dark fantasy
-  - horror
-  - vampire
+  - Dark Fantasy
+  - Horror
+  - Vampire
 status: read
 date-read: 2026-01-16
 rating: ⭐️⭐️⭐️⭐️⭐️
 goodreads: https://www.goodreads.com/book/show/56269205-empire-of-the-vampire
 cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1612450626i/56269205.jpg
-banner-x: 53
-banner-y: 71
 ---
 
 ```dataviewjs

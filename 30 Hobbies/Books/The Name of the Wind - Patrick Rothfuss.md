@@ -1,31 +1,28 @@
 ---
-entry-date: 2026-01-15
-UID: 20260115152143
+title: The Name of the Wind
+type: book
 tags:
   - book/read
-aliases:
-  - The Name of the Wind
 series: Kingkiller Chronicles
 author: Patrick Rothfuss
 pages: "661"
 published: 2007-03-27
 isbn: "9781101147160"
 genre:
-  - FANTASY
-  - FICTION
-status: READ
-date-read: Dec 29, 2025
+  - Fantasy
+status: Read
+date-read: 2025-12-29
 rating: ⭐⭐⭐⭐
 goodreads: https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind
-banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1704917687i/186074.jpg
+cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1704917687i/186074.jpg
 ---
 
 ```dataviewjs
 const page = dv.current();
 
 // cover
-let coverImageHTML = page.banner
-  ? `<img src="${page.banner}" alt="Cover Image" style="width:100%; height:auto; display:block;">`
+let coverImageHTML = page.cover
+  ? `<img src="${page.cover}" alt="Cover Image" style="width:100%; height:auto; display:block;">`
   : "No cover";
 
 // date-read format to YYYY-MM-DD

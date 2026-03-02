@@ -8,8 +8,13 @@ views:
     order:
       - title
       - author
+      - rating
     sort:
+      - property: author
+        direction: ASC
       - property: series
+        direction: ASC
+      - property: number
         direction: ASC
     image: note.cover
     imageAspectRatio: 1.55

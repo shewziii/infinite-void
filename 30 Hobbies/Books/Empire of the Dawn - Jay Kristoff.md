@@ -1,4 +1,6 @@
 ---
+title: Empire of the Dawn
+type: book
 entry-date: 2026-01-16
 UID: 20260116143532
 tags:
@@ -12,9 +14,9 @@ pages: "826"
 published: 2025-11-04
 isbn: "9781250245380"
 genre:
-  - dark fantasy
-  - horror
-  - vampires
+  - Dark Fantasy
+  - Horror
+  - Vampires
 status: TBR
 date-read:
 rating:

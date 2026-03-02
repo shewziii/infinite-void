@@ -16,7 +16,7 @@ genre:
   - Science
 status: Reading
 date-read:
-rating:
+rating: ⭐⭐⭐⭐
 goodreads: https://www.goodreads.com/book/show/2848658-buyology
 cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1631079519i/2848658.jpg
 ---
