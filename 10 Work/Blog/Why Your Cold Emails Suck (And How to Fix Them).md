@@ -10,7 +10,8 @@ related:
   - 
 created: 2026-03-02
 ---
-
+![[cover-2.jpg]]
+ 
  I’d just sat down with my coffee to start brainstorming ideas for my next blog post. I opened my laptop, started up Word, and began researching my next topic.
 
 *DINGGGG*
