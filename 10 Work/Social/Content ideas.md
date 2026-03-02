@@ -1,1 +1,0 @@
-- frequency vs authority
