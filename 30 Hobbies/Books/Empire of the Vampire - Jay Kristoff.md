@@ -18,7 +18,9 @@ status: read
 date-read: 2026-01-16
 rating: ⭐️⭐️⭐️⭐️⭐️
 goodreads: https://www.goodreads.com/book/show/56269205-empire-of-the-vampire
-
+banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1612450626i/56269205.jpg
+banner-x: 53
+banner-y: 71
 ---
 
 ```dataviewjs
