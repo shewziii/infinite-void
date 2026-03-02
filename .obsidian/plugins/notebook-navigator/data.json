@@ -4,7 +4,13 @@
       "id": "default",
       "name": "Default",
       "fileVisibility": "supported",
-      "propertyKeys": [],
+      "propertyKeys": [
+        {
+          "key": "topic",
+          "showInNavigation": true,
+          "showInList": true
+        }
+      ],
       "hiddenFolders": [
         "/9*"
       ],
