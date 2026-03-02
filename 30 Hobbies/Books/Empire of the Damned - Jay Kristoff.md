@@ -12,10 +12,10 @@ pages: "725"
 published: 2024-03-12
 isbn: "9781250245342"
 genre:
-  - dark fantasy
-  - horror
-  - vampires
-status: reading
+  - Dark Fantasy
+  - Horror
+  - Vampires
+status: Reading
 date-read:
 rating:
 goodreads: https://www.goodreads.com/book/show/126918599-empire-of-the-damned?from_search=true&from_srp=true&qid=0JzNkYoWpA&rank=1
