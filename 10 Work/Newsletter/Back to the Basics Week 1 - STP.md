@@ -1,17 +1,18 @@
 ---
-title: Back to the Basics Week 1 - STP
-series: back to the basics
-episode: "1"
+title: Back to the Basics week 1 - STP
 type: newsletter
-status: published
-topic: stp
-publish_date:
-created: 2026-02-28
+content-series: Back to the Basics
+episode: "1"
+writing-status: idea
+topic: strategy
+publish_date: 0226-02-24
+created: 2026-03-02
 tags:
-  - content/newsletter/back-to-the-basics
+  - content/newsletter
 related:
-  - 
+  -
 ---
+![[cover-3.png]]
 
 Hey!
 
