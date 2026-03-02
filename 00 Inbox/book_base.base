@@ -3,8 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("30 Hobbies/Books")
-        - '!file.hasTag("book/highlights")'
+        - file.hasProperty("30 Hobbies/Books")
     order:
       - file.name
       - author
