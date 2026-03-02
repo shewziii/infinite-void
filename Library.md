@@ -1,3 +1,3 @@
 ![[library.jpg]]
-# Library
+# 📚 Library
 ![[book_base.base]]
