@@ -5,7 +5,7 @@ content-series: Back to the Basics
 episode: "2"
 writing-status: idea
 topic: strategy
-publish_date:
+publish_date: 2026-02-10
 created: 2026-03-02
 tags:
   - content/newsletter
