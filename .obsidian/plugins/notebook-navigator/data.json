@@ -390,7 +390,8 @@
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {
-    "30 Hobbies": "created-desc"
+    "30 Hobbies": "created-desc",
+    "20 Knowledge": "property-asc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {
@@ -401,6 +402,9 @@
       "groupBy": "folder"
     },
     "10 Work": {
+      "groupBy": "folder"
+    },
+    "20 Knowledge": {
       "groupBy": "folder"
     }
   },

@@ -1,6 +1,6 @@
 ---
 tags:
-  - book/highlight
+  - book/highlights
 ---
 <!DOCTYPE html>
 
