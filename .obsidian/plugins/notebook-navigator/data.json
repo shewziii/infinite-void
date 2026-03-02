@@ -14,7 +14,12 @@
       "hiddenFileProperties": [],
       "navigationBanner": "99 Templates/night city.png",
       "periodicNotesFolder": "",
-      "shortcuts": []
+      "shortcuts": [
+        {
+          "type": "note",
+          "path": "Library.md"
+        }
+      ]
     }
   ],
   "vaultProfile": "default",
@@ -116,7 +121,7 @@
   "recentNotesCount": 5,
   "showFolderIcons": true,
   "showRootFolder": true,
-  "inheritFolderColors": false,
+  "inheritFolderColors": true,
   "folderSortOrder": "alpha-asc",
   "enableFolderNotes": false,
   "folderNoteType": "markdown",
@@ -377,7 +382,9 @@
   },
   "customVaultName": "",
   "pinnedNotes": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "Library.md": "library-big"
+  },
   "fileColors": {},
   "folderIcons": {
     "00 Inbox": "inbox",

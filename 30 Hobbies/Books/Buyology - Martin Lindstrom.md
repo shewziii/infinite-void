@@ -11,9 +11,9 @@ pages: "274"
 published: 2010-02-02
 isbn: "9780385523899"
 genre:
-  - BUSINESS
-  - PSYCHOLOGY
-  - SCIENCE
+  - Business
+  - Psychology
+  - Science
 status: READING
 date-read:
 rating:
