@@ -382,7 +382,10 @@
   "fileIcons": {},
   "fileColors": {},
   "folderIcons": {
-    "00 Inbox": "inbox"
+    "00 Inbox": "inbox",
+    "10 Work": "briefcase",
+    "20 Knowledge": "brain",
+    "30 Hobbies": "book-open"
   },
   "folderColors": {},
   "folderBackgroundColors": {},
