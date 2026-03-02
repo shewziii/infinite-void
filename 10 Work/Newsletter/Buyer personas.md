@@ -1,17 +1,18 @@
 ---
-title: Back to the Basics Week 2 - Buyer personas
-series: back to the basics
-episode: "2"
+title: Buyer personas
 type: newsletter
-status: published
-topic: buyer-personas
+content-series: Back to the Basics
+episode: "2"
+writing-status: idea
+topic: strategy
 publish_date:
-created: 2026-02-28
+created: 2026-03-02
 tags:
-  - content/newsletter/back-to-the-basics
+  - content/newsletter
 related:
-  - "[[Back to the Basics Week 1 - STP]]"
+  -
 ---
+![[cover-4.png]]
 
 Hey!
 Weclome back to Back to the Basics!

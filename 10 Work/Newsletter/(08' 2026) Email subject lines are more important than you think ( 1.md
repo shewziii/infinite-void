@@ -5,7 +5,7 @@ content-series:
 episode:
 writing-status: idea
 topic: email marketing
-publish_date: 2026-02-19
+publish_date: 2026-02-17
 created: 2026-03-02
 tags:
   - content/newsletter
