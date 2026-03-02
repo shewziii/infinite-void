@@ -390,6 +390,9 @@
     },
     "30 Hobbies": {
       "groupBy": "folder"
+    },
+    "10 Work": {
+      "groupBy": "folder"
     }
   },
   "tagIcons": {},
