@@ -1,8 +1,6 @@
 ---
 id: CH12 - Pricing Strategies for Business Markets
 aliases:
-tags:
-  - uni
 unit: "3"
 noteID: 02a06eae-1683-4e93-a2c9-5cc957e5cff8
 ---
