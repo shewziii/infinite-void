@@ -2,7 +2,7 @@
 title: 10 strategies for writing effective email subject lines
 type: blogpost
 writing-status: idea
-topic: 
+topic: email marketing
 publish_date:
 tags:
   - content/blog
