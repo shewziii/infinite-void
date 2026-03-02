@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - type == "blog"
+        - type == "blogpost"
     order:
       - file.name
     sort:
