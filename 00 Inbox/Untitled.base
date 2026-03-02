@@ -11,6 +11,6 @@ views:
     sort:
       - property: series
         direction: ASC
-    image: note.banner
+    image: note.cover
     imageAspectRatio: 1.55
-    cardSize: 120
+    cardSize: 170
