@@ -20,7 +20,7 @@ banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books
 banner-x: 53
 banner-y: 71
 ---
-![[Pasted image 20260302095351.png|621]]
+![[Pasted image 20260302095351.png|621|0x10]]
 # Empire of the Vampire
 
 ## About
