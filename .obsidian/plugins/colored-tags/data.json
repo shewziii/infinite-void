@@ -11,6 +11,7 @@
   },
   "knownTags": {
     "book": 2,
+    "chess": 3,
     "content": 4,
     "dev": 8,
     "recipe": 15,
@@ -18,6 +19,7 @@
     "book/read": 2,
     "book/reading": 3,
     "book/tbr": 4,
+    "chess/opening": 1,
     "content/blog": 1,
     "content/newsletter": 1,
     "content/social": 2,

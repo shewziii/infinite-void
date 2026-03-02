@@ -1,7 +1,7 @@
 ---
 title: Sicilian defense
-type: chess
-
+type: opening
+tags: chess/opening
 ---
 
 
