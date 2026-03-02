@@ -1,16 +1,15 @@
 ---
 title: What 5 years of video editing taught me about making content people actually want to see
-type: blog
-stage: published
+type: blogpost
+writing-status: idea
 topic: content marketing
-publish_date:
-created: 2026-03-01
+publish_date: 2026-02-03
 tags:
   - content/blog
 related:
   - 
+created: 2026-03-02
 ---
-
 
 I had just come home after a 10-hour shift at my job. The Saturday night dinner crowd left me utterly exhausted. The worst part of it all was that I still had homework to do. So, I lugged myself to my bed, opened my Microsoft Surface tablet that I was using as my laptop, and got to work.
 
