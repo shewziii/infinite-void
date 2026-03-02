@@ -5,6 +5,12 @@ views:
       and:
         - file.inFolder("30 Hobbies/Books")
         - '!file.hasTag("book/highlights")'
+    order:
+      - file.name
+      - author
+    sort:
+      - property: series
+        direction: ASC
     image: note.banner
     imageAspectRatio: 1.55
     cardSize: 120
