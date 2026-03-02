@@ -1,4 +1,10 @@
-# Frequency vs authority
+---
+title: Frequency vs authority
+type: social
+topic: content marketing
+tags: content/social
+---
+
 ## Post 1: Your posting frequency isn’t the problem
 **Caption**:
 Most brands don’t have a content problem. They have a courage problem.
