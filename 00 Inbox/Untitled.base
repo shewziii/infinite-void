@@ -1,6 +1,7 @@
 views:
-  - type: table
+  - type: cards
     name: Table
     filters:
       and:
-        - file.inFolder("30 Hobbies")
+        - file.inFolder("30 Hobbies/Books")
+        - '!file.hasTag("book/highlights")'
