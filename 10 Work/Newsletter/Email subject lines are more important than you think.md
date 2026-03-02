@@ -1,16 +1,18 @@
 ---
 title: Email subject lines are more important than you think
-series: 
-episode: 
 type: newsletter
-status: idea
-topic: 
-publish_date:
+content-series:
+episode:
+writing-status: idea
+topic: email marketing
+publish_date: 2026-02-19
+created: 2026-03-02
 tags:
   - content/newsletter
 related:
-  - 
+  -
 ---
+![[cover-5.jpg]]
 
 I was scrolling through my inbox this morning. Cluttered as usual, nothing super interesting to report. I only opened 3.
 
