@@ -18,7 +18,7 @@ status: read
 date-read: 2026-01-16
 rating: ⭐️⭐️⭐️⭐️⭐️
 goodreads: https://www.goodreads.com/book/show/56269205-empire-of-the-vampire
-banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1612450626i/56269205.jpg
+cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1612450626i/56269205.jpg
 banner-x: 53
 banner-y: 71
 ---
@@ -27,8 +27,8 @@ banner-y: 71
 const page = dv.current();
 
 // cover
-let coverImageHTML = page.banner
-  ? `<img src="${page.banner}" alt="Cover Image" style="width:100%; height:auto; display:block;">`
+let coverImageHTML = page.cover
+  ? `<img src="${page.cover}" alt="Cover Image" style="width:100%; height:auto; display:block;">`
   : "No cover";
 
 // date-read format to YYYY-MM-DD
