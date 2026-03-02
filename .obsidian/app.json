@@ -9,7 +9,7 @@
   "autoConvertHtml": true,
   "vimMode": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "00 Terminal",
+  "newFileFolderPath": "00 Inbox",
   "mobileToolbarCommands": [
     "editor:undo",
     "editor:redo",

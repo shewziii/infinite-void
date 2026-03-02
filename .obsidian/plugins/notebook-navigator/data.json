@@ -5,12 +5,14 @@
       "name": "Default",
       "fileVisibility": "supported",
       "propertyKeys": [],
-      "hiddenFolders": [],
+      "hiddenFolders": [
+        "/9*"
+      ],
       "hiddenTags": [],
       "hiddenFileNames": [],
       "hiddenFileTags": [],
       "hiddenFileProperties": [],
-      "navigationBanner": null,
+      "navigationBanner": "97 Attachments/Pasted image 20260302013709.jpg",
       "periodicNotesFolder": "",
       "shortcuts": []
     }
@@ -121,9 +123,10 @@
   "folderNoteName": "",
   "folderNoteNamePattern": "",
   "folderNoteTemplate": null,
-  "openFolderNotesInNewTab": false,
+  "enableFolderNoteLinks": true,
   "hideFolderNoteInList": true,
   "pinCreatedFolderNote": false,
+  "openFolderNotesInNewTab": false,
   "showTags": true,
   "showTagIcons": true,
   "showAllTagsFolder": true,
@@ -138,7 +141,7 @@
   "showAllPropertiesFolder": true,
   "defaultListMode": "standard",
   "includeDescendantNotes": true,
-  "defaultFolderSort": "modified-desc",
+  "defaultFolderSort": "created-desc",
   "propertySortKey": "",
   "propertySortSecondary": "title",
   "revealFileOnListChanges": true,
@@ -175,6 +178,7 @@
   "skipHeadingsInPreview": true,
   "skipCodeBlocksInPreview": true,
   "stripHtmlInPreview": true,
+  "stripLatexInPreview": true,
   "previewRows": 2,
   "previewProperties": [],
   "showFeatureImage": true,
@@ -377,11 +381,17 @@
   "pinnedNotes": {},
   "fileIcons": {},
   "fileColors": {},
-  "folderIcons": {},
+  "folderIcons": {
+    "00 Inbox": "inbox",
+    "10 Work": "briefcase",
+    "20 Knowledge": "brain",
+    "30 Hobbies": "book-open"
+  },
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {
-    "30 Hobbies": "created-desc"
+    "30 Hobbies": "created-desc",
+    "20 Knowledge": "property-asc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {
@@ -392,6 +402,9 @@
       "groupBy": "folder"
     },
     "10 Work": {
+      "groupBy": "folder"
+    },
+    "20 Knowledge": {
       "groupBy": "folder"
     }
   },
@@ -435,7 +448,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "2.4.2",
+  "lastShownVersion": "2.4.3",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": []

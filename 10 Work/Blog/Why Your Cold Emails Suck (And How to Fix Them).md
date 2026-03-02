@@ -7,8 +7,6 @@ image:
   url: ../../src/assets/blog/coldEmails/cover.jpg
   alt: Closeup of a person typing on a laptop.
 pubDate: 2026-02-10T15:28:26Z
-tags:
-  - Email-Marketing
 featured: true
 ---
  I’d just sat down with my coffee to start brainstorming ideas for my next blog post. I opened my laptop, started up Word, and began researching my next topic.
