@@ -18,9 +18,7 @@ status: Reading
 date-read:
 rating:
 goodreads: https://www.goodreads.com/book/show/2848658-buyology
-banner: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1631079519i/2848658.jpg
-banner-y:
-banner-x:
+cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1631079519i/2848658.jpg
 ---
 
 ```dataviewjs

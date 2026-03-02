@@ -3,9 +3,10 @@ views:
     name: Table
     filters:
       and:
-        - file.hasProperty("30 Hobbies/Books")
+        - type == "book"
+        - file.folder != "99 Templates"
     order:
-      - file.name
+      - title
       - author
     sort:
       - property: series
