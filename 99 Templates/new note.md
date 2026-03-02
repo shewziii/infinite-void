@@ -1,1 +1,0 @@
-<% tp.file.move("00 Terminal/" + tp.file.title) %>
