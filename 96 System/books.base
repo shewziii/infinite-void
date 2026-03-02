@@ -5,6 +5,7 @@ views:
       and:
         - file.tags.contains("BOOK")
         - file.folder != "99 Templates"
+        - '!file.hasTag("book/highlight")'
     order:
       - file.name
       - author
