@@ -1,23 +1,19 @@
 ---
-title: {{}}
-entry-date: <% tp.date.now("YYYY-MM-DD") %>
-UID: <% tp.date.now("YYYYMMDDHHmmss") %>
-tags:
-aliases:
-  - "{{title}}"
-series:
+title: "{{title}}"
+type: book
 author: "{{author}}"
+cover:
+series:
+number: 
+genre:
+tags:
 pages: "{{totalPage}}"
 published: "{{publishDate}}"
 isbn: "{{isbn13}}"
-genre:
 status:
 date-read:
 rating:
 goodreads:
-cover:
-banner-y:
-banner-x:
 ---
 
 ```dataviewjs
