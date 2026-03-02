@@ -13,6 +13,6 @@ related:
   -
 ---
 
+Welcome back to Act One Insights!
 
-
-## 📖 More Reading for You
+This week we'll continue with Back to the basics
