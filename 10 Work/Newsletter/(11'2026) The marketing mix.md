@@ -17,4 +17,7 @@ Welcome back to Act One Insights!
 
 This week we'll continue with our series: Back to the Basics.
 
-In this issue, we'll cover
+In this issue, we'll be combining what we learc
+
+---
+📖 More Reading for You
