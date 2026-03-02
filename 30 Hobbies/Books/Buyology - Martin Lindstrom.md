@@ -1,10 +1,10 @@
 ---
+title: Buyology
+type: book
 entry-date: 2026-01-16
 UID: 20260116131621
 tags:
   - book/read
-aliases:
-  - Buyology
 series:
 author: Martin Lindstrom
 pages: "274"
@@ -14,7 +14,7 @@ genre:
   - Business
   - Psychology
   - Science
-status: READING
+status: Reading
 date-read:
 rating:
 goodreads: https://www.goodreads.com/book/show/2848658-buyology

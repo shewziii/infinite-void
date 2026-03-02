@@ -1,4 +1,5 @@
 ---
+title: {{}}
 entry-date: <% tp.date.now("YYYY-MM-DD") %>
 UID: <% tp.date.now("YYYYMMDDHHmmss") %>
 tags:
