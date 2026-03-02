@@ -6,3 +6,8 @@ views:
         - type == "blog"
     order:
       - file.name
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 606

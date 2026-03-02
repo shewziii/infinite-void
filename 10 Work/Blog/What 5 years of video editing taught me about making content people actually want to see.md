@@ -1,7 +1,7 @@
 ---
 title: What 5 years of video editing taught me about making content people actually want to see
 type: blog
-status: published
+stage: published
 topic: content marketing
 publish_date:
 created: 2026-03-01
