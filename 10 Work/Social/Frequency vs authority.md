@@ -1,6 +1,21 @@
 # Frequency vs authority
 ## Post 1: Your posting frequency isn’t the problem
+Caption:
+Most brands don’t have a content problem. They have a courage problem.
 
+You’re posting consistently. You’ve got the carousels, the reels, the content calendar, and you’re posting 5x/week consistently. But nothing is really happening. No engagement, no leads, no conversions, nothing.
+
+The issue isn’t your posting frequency. It’s that the content you’re posting is safe and comfortable. It doesn’t do anything interesting.
+
+The 2025 Edelman Trust Barometer found that 91% of buyers want content that uncovers risks and opportunities they haven’t thought about yet. 
+
+86% want perspectives that challenge their assumptions.
+
+People aren’t looking for more of the same. They’re waiting for someone to say something different.
+
+Swipe through to see where most brands are going wrong and what buyers actually want to see.
+
+Save this if you’re rethinking your content strategy.
 
 **Post 2: The AI Problem** The hook writes itself: "If everyone sounds like a thought leader, no one is." Cover how AI flooded feeds with readable but forgettable content, and that audiences can now spot it immediately. The payoff slide: originality is the only thing that cuts through now.
 
