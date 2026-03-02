@@ -387,7 +387,8 @@
   "customVaultName": "",
   "pinnedNotes": {},
   "fileIcons": {
-    "Library.md": "library-big"
+    "Library.md": "library-big",
+    "Work.md": "briefcase-business"
   },
   "fileColors": {},
   "folderIcons": {
