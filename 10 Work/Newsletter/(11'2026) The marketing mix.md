@@ -15,4 +15,6 @@ related:
 
 Welcome back to Act One Insights!
 
-This week we'll continue with Back to the basics
+This week we'll continue with our series: Back to the Basics.
+
+In this issue, we'll cover
