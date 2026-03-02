@@ -11,6 +11,7 @@ related:
   - "[[How we helped a local restaurant boost traffic and customer loyalty]]"
 created: 2026-03-02
 ---
+![[cover-1.png]]
 
 In my line of work, companies don't always need a complete overhaul of their strategy or marketing approach. Sometimes all they need is small adjustments to their existing endeavors to fine tune what they do so they get the results they want. Hello Adorn is one such brand, with a local presence that's already strong, and only needed a few adjustments to their social media strategy to achieve their goals.
 

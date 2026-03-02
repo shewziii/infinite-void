@@ -11,6 +11,7 @@ related:
   - "[[A strategic social media growth plan for a regional jewelry brand]]"
 created: 2026-03-02
 ---
+![[cover.jpg]]
 
 This post highlights a marketing plan created for a popular Mexican restaurant, Cancun Grill, located in Eau Claire, Wisconsin. The goal was to better understand their customers, evaluate local competition, review strengths and weaknesses, and make recommendations to keep customers coming back and increase overall traffic.
 

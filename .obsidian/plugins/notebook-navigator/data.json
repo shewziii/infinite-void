@@ -416,6 +416,9 @@
     },
     "20 Knowledge": {
       "groupBy": "folder"
+    },
+    "10 Work/Blog": {
+      "titleRows": 2
     }
   },
   "tagIcons": {},
