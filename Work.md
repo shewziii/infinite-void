@@ -1,6 +1,4 @@
 ![[act one creative.png]]
-
-# 💼 Work
 ## Blog
 ![[blog_base.base]]
 
