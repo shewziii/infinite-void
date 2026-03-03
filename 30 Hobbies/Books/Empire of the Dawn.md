@@ -73,7 +73,7 @@ dv.container.innerHTML = `
 # Empire of the Dawn
 
 ## About
-**From New York Times bestselling author of the _Empire of the Vampire_ and _Empire of the Damned_, Jay Kristoff, comes the epic conclusion to the #1 internationally bestselling series.  
+**From New York Times bestselling author of the _Empire of the Vampire_ and _Empire of the Damned,_ Jay Kristoff, comes the epic conclusion to the #1 internationally bestselling series.  
 
 *From holy cup comes holy light;*  
 *The faithful hands sets world aright.*  
