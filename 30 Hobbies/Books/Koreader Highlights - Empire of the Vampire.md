@@ -1,6 +1,7 @@
 ---
 tags:
   - book/highlights
+title: Empire of the Vampire Joreader
 ---
 <!DOCTYPE html>
 
