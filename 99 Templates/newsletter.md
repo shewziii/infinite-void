@@ -16,9 +16,4 @@ tags:
   - content/newsletter
 ---
 
-<%*
-await new Promise(resolve => setTimeout(resolve, 300));
--%>
-<% tp.file.cursor() %>
-
 ## 📖 More Reading for You
