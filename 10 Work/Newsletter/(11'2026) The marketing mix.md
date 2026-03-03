@@ -25,7 +25,7 @@ After you've identified your target audience (STP) and understand who they are (
 This is your product—obviously—or service that's meant to solve a problem a customer might have. This is where you define that, what makes it different from other products on the market, and things like packaging and whether its a complimentary good or service.
 
 ## Price
-This is the sales price of a product or service that people are willing to pay. The process of figuring out how much to price something is a lot more complicated than you might think. Costs like production, reasearch, development, distribution, and even customer's perceived value of the good. 
+This is the sales price of a product or service that people are willing to pay. The process of figuring out how much to price something is a lot more complicated than you might think. Costs like production, research, development, distribution, and even customer's perceived value of the good. 
 
 ## Place
 Place is where and how customers access your product. This used to mean physical stores and distribution, but now includes your website, app stores, marketplaces, and any channel where your product lives.
@@ -37,10 +37,8 @@ Promotion is how you communicate with your audience. This includes advertising, 
 
 Your promotional approach should match where your audience spends time and how they prefer to consume information. Targeting busy professionals? LinkedIn and email newsletters might work best. Going after Gen Z? TikTok and Instagram are where you need to be.
 
-Create messages that align with your positioning and show up in the channels your audience actually uses.
-
 ## Why the Marketing Mix Matters
-The 4 Ps make you think through every piece of your marketing strategy. They're interconnected—your price influences your promotional message, your distribution affects the product experience, and your product determines where you can sell. When all four elements align, you create a cohesive strategy that works.
+The 4 Ps make you think through every piece of your marketing strategy. They're all connected. Your price influences your promotional message, your distribution affects the product experience, and your product determines where you can sell. When all four elements align, you have better understanding of how your products or services work.
 
 ---
 **📖 More Reading for You**
