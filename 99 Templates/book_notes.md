@@ -1,19 +1,19 @@
 ---
 title: "{{title}}"
-type: book
 author: "{{author}}"
-cover:
+type: book
 series:
-number: 
+series-number:
 genre:
 status:
 date-read:
 rating:
-tags:
-pages: "{{totalPage}}"
 published: "{{publishDate}}"
+pages: "{{totalPage}}"
 isbn: "{{isbn13}}"
 goodreads:
+cover:
+tags:
 ---
 
 ```dataviewjs

@@ -3,7 +3,7 @@ title: Empire of the Damned
 author: Jay Kristoff
 type: book
 series: Empire of the Vampire
-number: 2
+series-number: 2
 genre:
   - Dark Fantasy
   - Horror

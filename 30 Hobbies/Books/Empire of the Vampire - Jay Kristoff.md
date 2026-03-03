@@ -10,7 +10,7 @@ tags:
 aliases:
   - Empire of the Vampire
 series: Empire of the Vampire
-number: 1
+series-number: 1
 author: Jay Kristoff
 pages: "747"
 published: 2021-09-14

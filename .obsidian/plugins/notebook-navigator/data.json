@@ -4,7 +4,14 @@
       "id": "default",
       "name": "Default",
       "fileVisibility": "supported",
-      "propertyKeys": [],
+      "propertyKeys": [
+        {
+          "key": "series-number",
+          "showInNavigation": true,
+          "showInList": true,
+          "showInFileMenu": false
+        }
+      ],
       "hiddenFolders": [
         "/9*"
       ],
