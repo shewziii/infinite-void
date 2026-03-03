@@ -30,6 +30,6 @@
     "type": "multitext",
     "topic": "multitext",
     "writing-status": "multitext",
-    "related": "text"
+    "related": "multitext"
   }
 }
