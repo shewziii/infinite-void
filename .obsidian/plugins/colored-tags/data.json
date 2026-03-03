@@ -9,7 +9,24 @@
   "accessibility": {
     "highTextContrast": false
   },
-  "knownTags": {},
+  "knownTags": {
+    "book": 1,
+    "chess": 2,
+    "content": 3,
+    "dev": 4,
+    "recipe": 5,
+    "book/highlights": 1,
+    "book/read": 2,
+    "book/reading": 3,
+    "book/tbr": 4,
+    "chess/opening": 1,
+    "content/blog": 1,
+    "content/newsletter": 2,
+    "content/social": 3,
+    "dev/git": 1,
+    "recipe/chili": 1,
+    "recipe/soup": 2
+  },
   "tagColors": {},
   "_version": 4
 }
