@@ -18,4 +18,4 @@ views:
         direction: ASC
     image: note.cover
     imageAspectRatio: 1.55
-    cardSize: 170
+    cardSize: 150
