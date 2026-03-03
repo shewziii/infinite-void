@@ -89,7 +89,7 @@ Imprisoned by the very monsters he vowed to destroy, the last silversaint is for
   
 The Holy Grail.
 ## Quotes
-[[Koreader Highlights - Empire of the Vampire]]
+[[Empire of the Vampire - Highlights]]
 ## Review
 
 ## Notes
