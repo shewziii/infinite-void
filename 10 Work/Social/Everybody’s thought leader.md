@@ -6,6 +6,8 @@ Since the release of tools like ChatGPT, Claude, and Gemini, people have been ab
 
 That sounds like a win until you look at your feed, which is probably flooded with content that’s technically correct and structured neatly, but is completely forgettable. 
 
+The bar has been set so high that writing 
+
 There’s also growing evidence that audiences can detect AI-assisted writing at rates higher than chance, especially when it lacks specific lived detail or strong point of view. Even when they can’t explicitly label it as AI, they describe it as “generic,” “flat,” or “sounds like LinkedIn.” And trust drops fast when content feels mass-produced.
 
 The result? We’ve optimized for clarity and lost memorability.
