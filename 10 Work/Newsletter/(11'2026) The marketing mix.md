@@ -50,7 +50,6 @@ Your promotional approach should match where your audience spends time and how t
 Create messages that align with your positioning and show up in the channels your audience actually uses.
 
 ## Why the Marketing Mix Matters
-
 The 4 Ps make you think through every piece of your marketing strategy. They're interconnected—your price influences your promotional message, your distribution affects the product experience, and your product determines where you can sell. When all four elements align, you create a cohesive strategy that works.
 
 ---
