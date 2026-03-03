@@ -4,7 +4,9 @@ type: book
 entry-date: 2026-01-16
 UID: 20260116131621
 tags:
-  - book/read
+  - book/business
+  - book/psychology
+  - book/science
 series:
 author: Martin Lindstrom
 pages: "274"
