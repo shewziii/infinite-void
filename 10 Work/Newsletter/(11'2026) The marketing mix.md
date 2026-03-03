@@ -19,7 +19,7 @@ This week we'll continue with our series: Back to the Basics.
 In this issue, we'll be using what we learned the last two weeks together in a framework that ties the fundamentals together in what's called...
 
 ## The Marketing Mix
-The marketing mix is your tactical playbook. After you've identified your target audience (STP) and understand who they are (buyer personas), the marketing mix answers the "how" questions: How will you deliver value? How will you price it? How will customers access it? And how will you tell them about it? These four decisions—Product, Price, Place, and Promotion (the 4 Ps)—work together to bring your strategy to life.
+After you've identified your target audience (STP) and understand who they are (buyer personas), the marketing mix answers the "how" questions: How will you deliver value? How will you price it? How will customers access it? And how will you tell them about it? The marketing mix is a strategic framework that includes the 4 Ps of marketing: product, price, place, and promotion.
 
 ## Product
 Product is what you're offering, whether that's a physical good, a service, or a digital experience. This goes beyond features—it's the complete package your customer receives.
