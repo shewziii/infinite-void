@@ -10,4 +10,5 @@ The bar has been set so high that writing something polished is the bare minimum
 
 Don’t get me wrong. AI is a great tool. But it should be you writing and using your voice, not Claude.
 
-What matters in the end is that audiences don’t care as much 
+What matters in the end is that audiences don’t care as much about how much content you’re pushing out. They care about the value they get from your content. 
+
