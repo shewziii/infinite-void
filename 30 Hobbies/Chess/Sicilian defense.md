@@ -33,6 +33,7 @@ Being one of the oldest and most respected openings for Black, the Sicilian has 
 - [[#Sicilian Defense Alapin Variation]]
 - [[#Sicilian Defense Dragon Variation]]
 - [[#Sicilian Defense French Variation]]
+- [#Sicilian Defense Closed Variation](Closed Variation)
 
 ### Sicilian Defense: Closed Variation
 When faced with the Sicilian, White has the option of either opening or closing the position. The Closed Variation is not the most common but is also widely popular and was one of GM [Boris Spassky](https://www.chess.com/players/boris-spassky)'s weapons of choice with White. It starts after the moves **1.e4 c5 2.Nc3**, when White signals they have no intention of immediately opening up the center. White will usually expand on the kingside in the main lines of this variation.
