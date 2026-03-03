@@ -17,7 +17,9 @@ isbn: "9781250245380"
 goodreads: https://www.goodreads.com/book/show/222376766-empire-of-the-dawn?from_search=true&from_srp=true&qid=IEBO7HKeJR&rank=1
 cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743484777i/222376766.jpg
 tags:
-  - book/tbr
+  - book/dark-fantasy
+  - book/horror
+  - book/vampires
 ---
 
 ```dataviewjs
