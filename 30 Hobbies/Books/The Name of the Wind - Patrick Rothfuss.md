@@ -2,7 +2,7 @@
 title: The Name of the Wind
 type: book
 tags:
-  - book/read
+  - book/fantasy
 series: Kingkiller Chronicles
 author: Patrick Rothfuss
 pages: "661"
