@@ -19,13 +19,15 @@
     "book/read": 2,
     "book/reading": 3,
     "book/tbr": 4,
+    "chess/concept": 1,
     "chess/opening": 1,
     "content/blog": 1,
     "content/newsletter": 2,
     "content/social": 3,
     "dev/git": 1,
     "recipe/chili": 1,
-    "recipe/soup": 2
+    "recipe/soup": 2,
+    "chess/concept/piece-development": 1
   },
   "tagColors": {},
   "_version": 4

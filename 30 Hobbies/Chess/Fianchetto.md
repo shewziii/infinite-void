@@ -1,6 +1,8 @@
 ---
 title: Fianchetto
-type:
+type: concept
+tags:
+  - chess/concept/piece-development
 ---
 
 Fianchetto? What is that? Another fancy-sounding chess term? Don't worry—we've got you covered! Let's learn about the fianchetto in chess.
