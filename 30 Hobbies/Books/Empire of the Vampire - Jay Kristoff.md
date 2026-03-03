@@ -5,7 +5,7 @@ entry-date: 2026-01-16
 UID: 20260116010735
 tags:
   - book/horror
-  - boom/vampires
+  - book/vampires
   - book/dark-fantasy
 aliases:
   - Empire of the Vampire
