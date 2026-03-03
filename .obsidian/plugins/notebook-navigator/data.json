@@ -418,6 +418,9 @@
     },
     "20 Knowledge": {
       "groupBy": "folder"
+    },
+    "30 Hobbies/Books": {
+      "groupBy": "folder"
     }
   },
   "tagIcons": {},
