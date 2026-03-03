@@ -33,6 +33,7 @@ When faced with the Sicilian, White has the option of either opening or closing 
 ```chesser
 id: r-xSje2L
 orientation: black
+fen: rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2
 ```
 
 ### Sicilian Defense: Open Variation
@@ -41,5 +42,6 @@ The Open Variation is the most common way for White to meet the Sicilian. It sta
 ```chesser
 id: Pz55Tf3X
 orientation: black
+fen: rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2
 ```
 
