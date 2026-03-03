@@ -50,7 +50,25 @@ What matters in the end is that audiences don’t care as much about how much co
 
 ---
 ## Post 3: Why Your Content Strategy Is Designed to Fail
-This one stings in a good way. The premise is that most strategies are built to avoid friction, not create impact. Use the four uncomfortable questions from the article as individual slides, one question per card. That format works well as a carousel stopper.
+**Caption:**
+Most content strategies aren’t failing because of poor execution. They’re failing because they were built to make everyone comfortable.
+
+Safe topics. Agreeable takes. Nothing that might upset anyone internally or push back on what your audience already believes. And the result is content that nobody remembers.
+
+If your team can’t answer these four questions, your strategy has no real point of view:
+
+- What do we believe that nobody else is saying?
+- Where do we disagree with the consensus?
+- What did we learn the hard way?
+- What popular advice in our industry do we think is wrong?
+
+These feel uncomfortable to answer publicly. That’s the point. The brands willing to answer them are the ones people actually pay attention to.
+
+Swipe through and be honest with yourself about how many you can actually answer.
+
+```
+#ContentStrategy #ContentMarketing #BrandAuthority #MarketingTips 
+```
 
 ---
 ## Post 4: Candour Builds More Authority Than Wins Do
