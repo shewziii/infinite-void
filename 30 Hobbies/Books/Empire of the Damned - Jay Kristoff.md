@@ -1,16 +1,9 @@
 ---
 title: Empire of the Damned
+author: Jay Kristoff
 type: book
-entry-date: 2026-01-16
-UID: 20260116141316
-tags:
-  - book/reading
 series: Empire of the Vampire
 number: 2
-author: Jay Kristoff
-pages: "725"
-published: 2024-03-12
-isbn: "9781250245342"
 genre:
   - Dark Fantasy
   - Horror
@@ -18,8 +11,15 @@ genre:
 status: Reading
 date-read:
 rating:
+pages: "725"
+published: 2024-03-12
+isbn: "9781250245342"
 goodreads: https://www.goodreads.com/book/show/126918599-empire-of-the-damned?from_search=true&from_srp=true&qid=0JzNkYoWpA&rank=1
 cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1687870963i/126918599.jpg
+tags:
+  - book/dark-fantasy
+  - book/horror
+  - book/vampires
 ---
 
 ```dataviewjs
