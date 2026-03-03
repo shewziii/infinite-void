@@ -5,17 +5,11 @@ await tp.file.move("10 Work/Blog/" + fileName);
 -%>
 title: <% fileName %>
 type: blogpost
-writing-status: idea
 topic: 
+writing-status: idea
 publish_date:
-tags:
-  - content/blog
 related:
   - 
-created: <% tp.date.now("YYYY-MM-DD") %>
+tags:
+  - content/blog
 ---
-
-<%*
-await new Promise(resolve => setTimeout(resolve, 300));
--%>
-<% tp.file.cursor() %>
