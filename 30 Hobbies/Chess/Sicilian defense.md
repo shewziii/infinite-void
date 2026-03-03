@@ -53,10 +53,9 @@ orientation: black
 ### Sicilian Defense: Najdorf Variation
 The Najdorf Variation is one of the most popular lines in the Sicilian Defense and was frequently used by both Fischer and Kasparov. It starts after the moves **1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6**. Black's 5...a6 prepares counterplay on the queenside while maintaining flexibility. Heavily theoretical, this line usually leads to complex games with a wealth of tactical possibilities.
 
-```chesser
-id: bJlq2By6
-orientation: black
+```chessboard
 fen: rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
+orientation: black
 ```
 ---
 ### Sicilian Defense: Alapin Variation
