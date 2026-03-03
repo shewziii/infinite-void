@@ -1,3 +1,8 @@
+---
+title: Fianchetto
+type:
+---
+
 Fianchetto? What is that? Another fancy-sounding chess term? Don't worry—we've got you covered! Let's learn about the fianchetto in chess.
 
 Here's what you need to know about the fianchetto:
