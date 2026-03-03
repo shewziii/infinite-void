@@ -1,29 +1,25 @@
 ---
 title: Empire of the Vampire
+author: Jay Kristoff
 type: book
-entry-date: 2026-01-16
-UID: 20260116010735
-tags:
-  - book/horror
-  - book/vampires
-  - book/dark-fantasy
-aliases:
-  - Empire of the Vampire
 series: Empire of the Vampire
 series-number: 1
-author: Jay Kristoff
-pages: "747"
-published: 2021-09-14
-isbn: "9781250245298"
 genre:
   - Dark Fantasy
   - Horror
   - Vampire
 status: read
+pages: "747"
+published: 2021-09-14
+isbn: "9781250245298"
 date-read: 2026-01-16
 rating: ⭐️⭐️⭐️⭐️⭐️
 goodreads: https://www.goodreads.com/book/show/56269205-empire-of-the-vampire
 cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1612450626i/56269205.jpg
+tags:
+  - book/horror
+  - book/vampires
+  - book/dark-fantasy
 ---
 
 ```dataviewjs
