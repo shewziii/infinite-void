@@ -27,6 +27,9 @@
     "publish_date": "date",
     "posted": "checkbox",
     "pages": "text",
-    "type": "multitext"
+    "type": "multitext",
+    "topic": "multitext",
+    "writing-status": "multitext",
+    "related": "multitext"
   }
 }

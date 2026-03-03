@@ -4,12 +4,11 @@ type: blogpost
 writing-status: published
 topic: case study
 publish_date: 2026-01-27
-tags:
-  - content/blog
 related:
   - "[[How we raised over $12,000 for a non-profit animal shelter]]"
   - "[[How we helped a local restaurant boost traffic and customer loyalty]]"
-created: 2026-03-02
+tags:
+  - content/blog
 ---
 ![[cover-1.png]]
 
