@@ -8,7 +8,9 @@
       "hiddenFolders": [
         "/9*"
       ],
-      "hiddenTags": [],
+      "hiddenTags": [
+        "moc"
+      ],
       "hiddenFileNames": [],
       "hiddenFileTags": [],
       "hiddenFileProperties": [],
