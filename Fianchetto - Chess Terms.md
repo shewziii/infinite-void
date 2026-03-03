@@ -2,10 +2,10 @@ Fianchetto? What is that? Another fancy-sounding chess term? Don't worry—we've
 
 Here's what you need to know about the fianchetto:
 
-- [[Fianchetto - Chess Terms]]
-- [What Openings Use The Fianchetto?](#openings)
-- [Test](#test)
-- [Conclusion](#conclusion)
+- [[#What Is A Fianchetto?]]
+- [[#What Openings Use The Fianchetto?]]
+- [[#Test]]
+- [[#Conclusion]]
 
 ---
 
@@ -37,7 +37,7 @@ White has performed a kingside fianchetto with the light-squared bishop on g2. F
 
 After the initial opening moves 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 in the [King's Indian Defense](https://www.chess.com/openings/Kings-Indian-Defense), the following position is reached:
 
-![fianchetto](https://www.chess.com/bundles/web/images/image-default.445cb543.svg)
+![fianchetto](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpZtoUOM.png)
 
 Black's dark-squared bishop is fianchettoed in the King's Indian Defense.
 
@@ -47,7 +47,7 @@ Of course, some openings use a queenside fianchetto, but they are less common th
 
 After the opening moves 1.d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2, we have reached a [Queen's Indian Defense](https://www.chess.com/openings/Queens-Indian-Defense):
 
-![fianchetto](https://www.chess.com/bundles/web/images/image-default.445cb543.svg)
+![fianchetto](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/php5Rtr1v.png)
 
 Black fianchettoes on the queenside in the Queen's Indian Defense.
 
@@ -57,25 +57,25 @@ As you can see, Black has fianchettoed on the queenside while White has fianchet
 
 Now that you know what a fianchetto is and some openings that it is used in, let's practice some tests to see if you can unleash the power of a fianchettoed bishop! It is Black to move in the following position. Can you see a move that wins material by opening the dark-squared bishop on g7?
 
-![fianchetto](https://www.chess.com/bundles/web/images/image-default.445cb543.svg)
+![fianchetto](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpGvmLkf.png)
 
 How can Black unleash the fianchettoed bishop on g7?
 
 Yes! Ne4 is a powerful move that opens a discovered attack for the fianchettoed bishop on g7 and also attacks the white queen on d2 (a double attack)!
 
-![fianchetto](https://www.chess.com/bundles/web/images/image-default.445cb543.svg)
+![fianchetto](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phplDjjYg.png)
 
 White will lose material.
 
 No matter how White replies, they will lose material. Ok, let's try one more. In the following position, it is Black to move. How can Black take advantage of the pinned knight on c3?
 
-![fianchetto](https://www.chess.com/bundles/web/images/image-default.445cb543.svg)
+![fianchetto](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpHAyIC0.png)
 
 Black to move and win material!
 
 Yes! Nxe4 wins the pawn on e4 and opens a triple attack on the pinned knight on c3, winning material! Great job!
 
-![Fianchetto](https://www.chess.com/bundles/web/images/image-default.445cb543.svg)
+![Fianchetto](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phptk1jQt.png)
 
 The poor knight on c3 is pinned and attacked three times!
 
