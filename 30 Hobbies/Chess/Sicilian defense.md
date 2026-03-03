@@ -35,7 +35,7 @@ id: r-xSje2L
 orientation: black
 fen: rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2
 ```
-
+---
 ### Sicilian Defense: Open Variation
 The Open Variation is the most common way for White to meet the Sicilian. It starts after the moves **1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4** or **1.e4 c5 2.Nf3 Nc6 3.d4**. As the name suggests, this variation leads to more open and tactical games. White will gain space and immediately fight over control of the center, while Black will enjoy a semi-open c-file and active piece play.
 
@@ -44,7 +44,7 @@ id: Pz55Tf3X
 orientation: black
 fen: rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2
 ```
-
+---
 ### Sicilian Defense: Najdorf Variation
 The Najdorf Variation is one of the most popular lines in the Sicilian Defense and was frequently used by both Fischer and Kasparov. It starts after the moves **1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6**. Black's 5...a6 prepares counterplay on the queenside while maintaining flexibility. Heavily theoretical, this line usually leads to complex games with a wealth of tactical possibilities.
 
@@ -53,7 +53,7 @@ id: bJlq2By6
 orientation: black
 fen: rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
 ```
-
+---
 ### Sicilian Defense: Alapin Variation
 The Alapin Variation happens after the moves **1.e4 c5 2.c3**. White's 2.c3 prepares the d2-d4 pawn advance, with the downside that the c3-square will no longer be available for the knight. This line is excellent for players who want to avoid the massive amount of theory behind other variations.
 
@@ -62,7 +62,7 @@ id: 4Z1SXeUO
 orientation: black
 fen: rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2
 ```
-
+---
 ### Sicilian Defense: Dragon Variation
 The Dragon Variation occurs after **1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6**. Black fianchettoes their dark-squared bishop, attacking the center and the queenside. This variation is one of the most aggressive for Black. In its most critical lines, Black castles kingside and White castles queenside, with both players racing to checkmate first.
 
@@ -71,7 +71,7 @@ id: 4sG121uk
 orientation: black
 fen: rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
 ```
-
+---
 ### Sicilian Defense: French Variation
 The French Variation of the Sicilian Defense starts after the moves **1.e4 c5 2.Nf3 e6**. Black opts for a more flexible setup, usually avoiding the more tactical lines of the Sicilian. After this, several other well-known variations like the Taimanov, Scheveningen, Four Knights, and Paulsen can arise.
 
