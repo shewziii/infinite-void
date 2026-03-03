@@ -5,7 +5,6 @@ topic: content marketing
 posted: false
 tags: content/social
 ---
-
 ## Post 1: Your posting frequency isn’t the problem
 **Caption**:
 Most brands don’t have a content problem. They have a courage problem.
@@ -24,13 +23,12 @@ Swipe through to see where most brands are going wrong and what buyers actually 
 
 Save this if you’re rethinking your content strategy.
 
-**Hashtags:** 
 ```
 #contentmarketing #brandauthority #marketingstrategy #contentcreator
 ```
 
 ---
-**Post 2: The AI Problem** 
+## Post 2: The AI Problem
 **Caption**:
 Everybody’s a thought leader. Which means nobody is.
 
@@ -51,13 +49,17 @@ What matters in the end is that audiences don’t care as much about how much co
 ```
 
 ---
-**Post 3: Why Your Content Strategy Is Designed to Fail** This one stings in a good way. The premise is that most strategies are built to avoid friction, not create impact. Use the four uncomfortable questions from the article as individual slides, one question per card. That format works well as a carousel stopper.
+## Post 3: Why Your Content Strategy Is Designed to Fail
+This one stings in a good way. The premise is that most strategies are built to avoid friction, not create impact. Use the four uncomfortable questions from the article as individual slides, one question per card. That format works well as a carousel stopper.
 
 ---
-**Post 4: Candour Builds More Authority Than Wins Do** Lead with the conference analogy (sitting through an eight-hour advertisement of success stories). The contrast slide: the speaker who admits what went wrong is the one people remember. This is a strong standalone post because it challenges a common assumption about personal branding.
+## Post 4: Candour Builds More Authority Than Wins Do
+Lead with the conference analogy (sitting through an eight-hour advertisement of success stories). The contrast slide: the speaker who admits what went wrong is the one people remember. This is a strong standalone post because it challenges a common assumption about personal branding.
 
 ---
-**Post 5: Your Leaders Are Your Differentiator** Pull the APCO stat: over three-quarters of people say a CEO's reputation directly influences their buying and investment decisions. The message is that authority lives in people, not logos. Practical closing slide: one weekly voice note from a leader beats ten polished blog posts.
+## Post 5: Your Leaders Are Your Differentiator
+Pull the APCO stat: over three-quarters of people say a CEO's reputation directly influences their buying and investment decisions. The message is that authority lives in people, not logos. Practical closing slide: one weekly voice note from a leader beats ten polished blog posts.
 
 ---
-**Post 6: Bold vs. Reckless (The Warning)** This is a good closer for the series. Use the real examples from the article (Tesla, MyPillow, Whole Foods) as cautionary slides. The takeaway: opinionated about your market, careful about everything else.
+## Post 6: Bold vs. Reckless (The Warning)
+This is a good closer for the series. Use the real examples from the article (Tesla, MyPillow, Whole Foods) as cautionary slides. The takeaway: opinionated about your market, careful about everything else.
