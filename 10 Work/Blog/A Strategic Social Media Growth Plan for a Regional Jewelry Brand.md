@@ -9,7 +9,6 @@ tags:
 related:
   - "[[How we raised over $12,000 for a non-profit animal shelter]]"
   - "[[How we helped a local restaurant boost traffic and customer loyalty]]"
-created: 2026-03-02
 ---
 ![[cover-1.png]]
 
