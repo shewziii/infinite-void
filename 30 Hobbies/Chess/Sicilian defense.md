@@ -77,5 +77,7 @@ The French Variation of the Sicilian Defense starts after the moves **1.e4 c5 2.
 
 ```chesser
 id: kyLU0tH5
+orientation: black
+fen: rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3
 ```
 
