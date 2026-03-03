@@ -1,8 +1,8 @@
 ---
 tags:
-  - dev/git/
+  - dev/git
 title: Conventional git messages
-type:
+type: reference
 ---
 # Best Practices
 ```
