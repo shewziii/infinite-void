@@ -51,5 +51,15 @@ The Najdorf Variation is one of the most popular lines in the Sicilian Defense a
 ```chesser
 id: bJlq2By6
 orientation: black
-
+fen: rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
 ```
+
+### Sicilian Defense: Alapin Variation
+The Alapin Variation happens after the moves **1.e4 c5 2.c3**. White's 2.c3 prepares the d2-d4 pawn advance, with the downside that the c3-square will no longer be available for the knight. This line is excellent for players who want to avoid the massive amount of theory behind other variations.
+
+```chesser
+id: 4Z1SXeUO
+orientation: black
+fen: rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2
+```
+
