@@ -1,18 +1,9 @@
 ---
 title: Empire of the Dawn
+author: Jay Kristoff
 type: book
-entry-date: 2026-01-16
-UID: 20260116143532
-tags:
-  - book/tbr
-aliases:
-  - Empire of the Dawn
 series: Empire of the Vampire
 series-number: 3
-author: Jay Kristoff
-pages: "826"
-published: 2025-11-04
-isbn: "9781250245380"
 genre:
   - Dark Fantasy
   - Horror
@@ -20,8 +11,13 @@ genre:
 status: TBR
 date-read:
 rating:
+published: 2025-11-04
+pages: "826"
+isbn: "9781250245380"
 goodreads: https://www.goodreads.com/book/show/222376766-empire-of-the-dawn?from_search=true&from_srp=true&qid=IEBO7HKeJR&rank=1
 cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1743484777i/222376766.jpg
+tags:
+  - book/tbr
 ---
 
 ```dataviewjs

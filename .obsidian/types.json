@@ -26,6 +26,7 @@
     "TQ_show_urgency": "checkbox",
     "publish_date": "date",
     "posted": "checkbox",
-    "pages": "text"
+    "pages": "text",
+    "type": "multitext"
   }
 }

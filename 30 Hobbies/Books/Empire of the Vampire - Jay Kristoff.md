@@ -9,11 +9,11 @@ genre:
   - Horror
   - Vampire
 status: read
-pages: "747"
-published: 2021-09-14
-isbn: "9781250245298"
 date-read: 2026-01-16
 rating: ⭐️⭐️⭐️⭐️⭐️
+published: 2021-09-14
+pages: "747"
+isbn: "9781250245298"
 goodreads: https://www.goodreads.com/book/show/56269205-empire-of-the-vampire
 cover: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1612450626i/56269205.jpg
 tags:
