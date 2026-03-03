@@ -32,7 +32,7 @@ A fianchetto is considered a "kingside fianchetto" if performed on the kingside 
 
 ## What Openings Use The Fianchetto?
 
-Many openings feature a fianchetto! For White, the King's Indian Attack, Catalan, and English are known for a kingside fianchetto. For Black, the King's Indian Defense, Grunfeld Defense, [Sicilian Dragon](), Modern Defense, and Pirc Defense are equally well-known for a kingside fianchetto. Of course, many other openings also utilize a fianchetto, but we will take a look at only a few of these examples.
+Many openings feature a fianchetto! For White, the King's Indian Attack, Catalan, and English are known for a kingside fianchetto. For Black, the King's Indian Defense, Grunfeld Defense, [[Sicilian defense#Sicilian Defense Dragon Variation|Sicilian Dragon]], Modern Defense, and Pirc Defense are equally well-known for a kingside fianchetto. Of course, many other openings also utilize a fianchetto, but we will take a look at only a few of these examples.
 
 After the opening moves 1. Nf3 d5 2. g3 Nf6 3. Bg2 in the [King's Indian Attack](https://www.chess.com/openings/Kings-Indian-Attack), the following position is reached: 
 
