@@ -8,6 +8,7 @@ The **Sicilian Defense** starts after the moves **1.e4 c5**, when Black chooses 
 
 ```chesser
 id: WsOmkdhH
+orientation: black
 ```
 
 Black intends to advance the d and e-pawns later to control critical squares. Frequently, White will put pressure on one side of the board while Black will fight for their dominance over the other side. This dynamic usually creates tactically rich games with more decisive results.
@@ -30,6 +31,7 @@ When faced with the Sicilian, White has the option of either opening or closing 
 
 ```chesser
 id: r-xSje2L
+orientation: black
 ```
 
 ### Sicilian Defense: Open Variation
@@ -37,5 +39,6 @@ The Open Variation is the most common way for White to meet the Sicilian. It sta
 
 ```chesser
 id: Pz55Tf3X
+orientation: black
 ```
 
