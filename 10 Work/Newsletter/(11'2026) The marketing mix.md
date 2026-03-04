@@ -3,7 +3,8 @@ title: (11'2026) The marketing mix
 type: newsletter
 content-series: Back to the Basics
 episode: "3"
-writing-status: idea
+writing-status:
+  - draft
 topic: strategy
 publish_date:
 related:
