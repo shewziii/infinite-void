@@ -15,11 +15,11 @@ tags:
 
 I know the word "audit" can be scary. It's connotation may be negative if you associate the word with taxes. It also sounds super official. But when it comes to marketing, an audits aren't so bad. All they are can be summed up in one question: are we doing the best we can with our strategy?
 
-In 2026, that question matters more than ever. A lot can change in a year. New platforms emerge, audience preferences shift, and what used to drive results might now be missing the mark or slipping through the cracks entirely. Most businesses aren’t ignoring their marketing, they’re just running it on autopilot, and there’s a real cost to that.
-
-A lot has changed in the past few years, and it's important to keep up with those changes. New platforms are  pushed, 
+A lot has changed in the past few years, and it's important to keep up with those changes. New trends, new tools, and new best practices are always on the way in. More importantly, audience preferences are also changing. It's easy to stay stuck with one routine or strategy, but just like the industry is always changing, we also need to change.
 
 The brands that grow the fastest aren’t the ones doing the most. They’re the ones doing the right things consistently. And that begins with a clear, structured marketing review. 
+
+The brands that seem to be growing fast and 
 
 So what does that actually look like?
 
