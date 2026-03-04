@@ -90,7 +90,7 @@ And that truth may be too awful for any to imagine.
 ## Review
 
 ## Notes
-I love the way Jay Kristoff goes back to the
+I love the way Jay Kristoff uses the motif that "a single word can carry so much weight." It ties in to the last book and 
 
 ---
 [[Library|Books]]
