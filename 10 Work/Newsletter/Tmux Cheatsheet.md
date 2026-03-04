@@ -15,4 +15,8 @@ tags:
 | `tmux attach -t name` | Attach to session           |
 | `Ctrl+b d`            | Detach from session         |
 | `Ctrl+b s`            | List sessions (interactive) |
+| `Ctrl+b $`            | Rename session              |
 
+## Window Management
+| Command | Action |
+| :- | :- |
