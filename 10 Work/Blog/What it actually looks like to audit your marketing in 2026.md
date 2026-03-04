@@ -48,12 +48,13 @@ This is where most reviews fall short. One business spent £6,000 on paid ads wi
 
 A good marketing review doesn’t only look backward. It also asks: if we wanted to launch a campaign next month, could we?
 That means checking whether you have:
+
 - A clear, specific offer that maps to a defined audience
 - Creative assets that are current and on-brand
 - An email sequence or follow-up process for leads who respond
 - A way to track whether the campaign actually drove the outcome you wanted
 
-A marketing audit assesses your current strategy and helps identify its strengths and weaknesses, evaluating what’s working well and where changes need to be made to improve performance. ￼ But the most useful version of that also sets you up to act. Reviewing what happened last year only matters if it changes what you do next.
+A marketing audit assesses your current strategy and helps identify its strengths and weaknesses, evaluating what’s working well and where changes need to be made to improve performance. ￼But the most useful version of that also sets you up to act. Reviewing what happened last year only matters if it changes what you do next.
 
 ## What You Should Walk Away With
 A good marketing review ends with a short list, not a long one. If you’re working with an agency or consultant and they hand you a 60-page report with 40 recommendations, that’s a document, not a direction.
