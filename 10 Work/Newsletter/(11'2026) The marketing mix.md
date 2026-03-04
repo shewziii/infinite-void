@@ -8,7 +8,8 @@ writing-status:
 topic: strategy
 publish_date:
 related:
-  - 
+  - "[[(09' 2026) STP]]"
+  - "[[(10' 2027) Buyer personas]]"
 tags:
   - content/newsletter
 ---
