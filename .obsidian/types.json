@@ -31,6 +31,6 @@
     "topic": "multitext",
     "writing-status": "multitext",
     "related": "multitext",
-    "created": "datetime"
+    "created": "date"
   }
 }
