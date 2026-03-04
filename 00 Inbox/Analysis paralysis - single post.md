@@ -4,3 +4,5 @@ Preparation has a point of diminishing returns. At some point, the next Google s
 The businesses that grow aren’t the ones with the perfect strategy. They’re the ones that shipped something, saw what worked, and adjusted.
 You don’t need more information. You need more reps.
 So whatever you’ve been sitting on, this is the sign to put it out.
+
+What’s one thing you’ve been overthinking that you just need to ship? Drop it in the comments.
