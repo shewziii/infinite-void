@@ -4,7 +4,7 @@ type: blogpost
 topic:
   - strategy
 writing-status:
-  - draft
+  - editing
 publish_date:
 related:
   - 
@@ -17,14 +17,12 @@ I know the word "audit" can be scary. It's connotation may be negative if you as
 
 A lot has changed in the past few years, and it's important to keep up with those changes. New trends, new tools, and new best practices are always on the way in. More importantly, audience preferences are also changing. It's easy to stay stuck with one routine or strategy, but just like the industry is always changing, we also need to change.
 
-The brands that grow the fastest aren’t the ones doing the most. They’re the ones doing the right things consistently. And that begins with a clear, structured marketing review. 
-
-The brands that seem to be growing fast are the ones who consistently check up on their strategies. 
-
-So what does that actually look like?
+The brands that seem to be growing fast are the ones who check up on their strategies and do things right consistently, which starts with a clear, structured marketing review.
 
 ## It Starts With What You Have, Not What You Wish You Had
 One of the biggest misconceptions about a marketing audit is that you need a full analytics team, an enterprise platform, or a 90-day engagement before anything useful comes out of it. That’s rarely true.
+
+Before we get into it, I wanted to take a second to talk about a little thing everyone
 
 You don’t need an enterprise platform or a team of researchers to run a comprehensive audit. What you do need is access to the right data, a mechanism to organize it, and a way to evaluate what you find. Analytics and reporting dashboards show you where your efforts are making an impact and where they’re falling short. Campaign and content records help you see what’s still active (and performing), what’s been on autopilot too long, and what might be overdue for a refresh. ￼
 
