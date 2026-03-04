@@ -2,6 +2,7 @@
 title: What it actually looks like to audit your marketing in 2026
 type: blogpost
 topic:
+  - strategy
 writing-status:
   - draft
 publish_date:
@@ -12,6 +13,8 @@ tags:
 ---
 
 The word “audit” has a way of making people uncomfortable. It sounds official, punishing, and expensive, like something that arrives in a certified envelope. But when it comes to marketing, an audit is closer to a check-up than an investigation. It’s asking: is what we’re doing actually working, and if not, where do we start?
+
+I know the word "audit" can be scary. It's connotation may be negative if you associate the word with taxes. It also sounds super official. But when it comes to marketing, an audits aren't so bad. All they are can be summed up in one question: are we doing the best we can 
 
 In 2026, that question matters more than ever. A lot can change in a year. New platforms emerge, audience preferences shift, and what used to drive results might now be missing the mark or slipping through the cracks entirely. ￼Most businesses aren’t ignoring their marketing, they’re just running it on autopilot, and there’s a real cost to that.
 
