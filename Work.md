@@ -10,5 +10,3 @@
 ## Social
 ![[social_base.base]]
 
----
-#moc

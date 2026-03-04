@@ -3,5 +3,3 @@
 ![[book_base.base]]
 
 
-
-#moc
