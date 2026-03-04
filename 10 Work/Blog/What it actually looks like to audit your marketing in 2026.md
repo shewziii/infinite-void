@@ -17,7 +17,7 @@ I know the word "audit" can be scary. It's connotation may be negative if you as
 
 In 2026, that question matters more than ever. A lot can change in a year. New platforms emerge, audience preferences shift, and what used to drive results might now be missing the mark or slipping through the cracks entirely. Most businesses aren’t ignoring their marketing, they’re just running it on autopilot, and there’s a real cost to that.
 
-A lot has changed in the past few years, and it's important to keep up with those changes. New platforms 
+A lot has changed in the past few years, and it's important to keep up with those changes. New platforms are  pushed, 
 
 The brands that grow the fastest aren’t the ones doing the most. They’re the ones doing the right things consistently. And that begins with a clear, structured marketing review. 
 
