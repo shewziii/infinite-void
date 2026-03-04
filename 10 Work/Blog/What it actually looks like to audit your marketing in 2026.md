@@ -22,7 +22,7 @@ The brands that seem to be growing fast are the ones who check up on their strat
 ## It Starts With What You Have, Not What You Wish You Had
 One of the biggest misconceptions about a marketing audit is that you need a full analytics team, an enterprise platform, or a 90-day engagement before anything useful comes out of it. That’s rarely true.
 
-Before we get into it, I wanted to take a second to talk about a little thing everyone has dealt with called analysis paralysis. 
+Before we get into it, I wanted to take a second to talk about a little thing everyone has dealt with called analysis paralysis. Essentially, analysis paralysis is what happens when you're thinking of doing something, and you end up learning
 
 You don’t need an enterprise platform or a team of researchers to run a comprehensive audit. What you do need is access to the right data, a mechanism to organize it, and a way to evaluate what you find. Analytics and reporting dashboards show you where your efforts are making an impact and where they’re falling short. Campaign and content records help you see what’s still active (and performing), what’s been on autopilot too long, and what might be overdue for a refresh. ￼
 
