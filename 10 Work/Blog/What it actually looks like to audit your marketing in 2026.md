@@ -68,6 +68,4 @@ A marketing audit is more useful when someone outside your business is involved.
 
 What you’re looking for in a partner isn’t someone who leads with their tech stack or their process deck. You want someone who asks questions about your business before they ask about your budget. What are you actually trying to grow? Who are you trying to reach? What’s the gap between where you are and where you want to be?
 
-That’s where good campaign strategy begins, and it’s what separates a useful marketing review from one that just confirms what you already suspected.
-
-Want to do this together? We work with clients on focused marketing reviews that end with a clear plan, not a slide deck. [Get in touch] to set up a working session.
+That’s where good campaign strategy begins, and it’s what separates a useful marketing review from one that just confirms what you already suspected..
