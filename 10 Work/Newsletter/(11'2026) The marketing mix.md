@@ -38,7 +38,7 @@ Promotion is how you communicate with your audience. This includes advertising, 
 Your promotional approach should match where your audience spends time and how they prefer to consume information. Targeting busy professionals? LinkedIn and email newsletters might work best. Going after Gen Z? TikTok and Instagram are where you need to be.
 
 ## Why the Marketing Mix Matters
-The 4 Ps make you think through every piece of your marketing strategy. They're all connected. Your price influences your promotional message, your distribution affects the product experience, and your product determines where you can sell. When all four elements align, you have better understanding of how your products or services work.
+The 4 Ps make you think through every piece of your marketing strategy. They're all connected. Your price influences your promotional message, your distribution affects the product experience, and your product determines where you can sell. When all four elements align, you have better understanding of how your products and services work together in your overall strategy.
 
 ---
 **📖 More Reading for You**
