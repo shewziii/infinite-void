@@ -15,4 +15,4 @@ The businesses that grow aren’t the ones with the perfect strategy. They’re 
 
 So whatever you’ve been sitting on, this is the sign to put it out.
 
-What’s one thing you’ve been overthinking that you just need to ship? Drop it in the comments.
+What’s one thing you’ve been overthinking that you just need to put out? Drop it in the comments.
