@@ -15,7 +15,6 @@
     "content": 4,
     "dev": 8,
     "news": 9,
-    "opening": 10,
     "recipe": 15,
     "book/business": 1,
     "book/dark-fantasy": 2,
@@ -32,11 +31,11 @@
     "content/social": 3,
     "dev/git": 1,
     "dev/tmux": 2,
-    "opening/white": 1,
     "recipe/chili": 1,
     "recipe/soup": 2,
     "chess/concept/piece-development": 1,
-    "chess/opening/black": 1
+    "chess/opening/black": 1,
+    "chess/opening/white": 2
   },
   "tagColors": {},
   "_version": 4
