@@ -76,13 +76,17 @@ fen: rnbqkb1r/pppp1ppp/5n2/4p3/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq f3 0 3
 ### Max Lange Defense
 The Max Lange Defense starts after the moves **1.e4 e5 2.Nc3 Nc6**. Black follows White's lead and develops the queenside knight, supporting their e5-pawn. The game can then transpose to the Three Knights Opening if White plays 3.Nf3. White can also stay in the Vienna by developing their light-squared bishop on b5, c4, or g2.
 
-```chesser
-id: Ef8F93rv
+```chessboard
+fen: r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3
 ```
 
 ---
 ### Anderssen Defense
 Black can also enter the Anderssen Defense with the moves **1.e4 e5 2.Nc3 Bc5**. Black makes a useful developing move, bringing their kingside bishop into the game. Although not nearly as popular as the other variations, this is still a sound way of playing with Black against the Vienna. Former world champion [Jose Raul Capablanca](https://www.chess.com/players/jose-raul-capablanca) used to play this variation to avoid theory.
+
+```chesser
+id: X_5PdGVd
+```
 
 ---
 ## History Of The Vienna Game
