@@ -56,8 +56,8 @@ fen: rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3
 ### Falkbeer, Mieses Variation
 The Mieses Variation is the most popular line of the Falkbeer. This variation starts after **1.e4 e5 2.Nc3 Nf6 3.g3**, when White goes for a more positional game. White intends to fianchetto their light-squared bishop on g2 to increase their control over the central d5- and e4-squares. Black mostly goes for the immediate central counterstrike with d7-d5 but can also play a slower game by developing their pieces.
 
-```chesser
-id: K5gAALYG
+```chessboard
+fen: rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N3P1/PPPP1P1P/R1BQKBNR b KQkq - 0 3
 ```
 
 ---
@@ -67,6 +67,10 @@ Another popular way for White to continue in the Falkbeer Variation is with the 
 White usually develops their light-squared bishop on c4 or b5, their knight to f3, and castles kingside. Usually, White will use the semi-open f-file and active pieces to attack the kingside.
 
 Although not as common among grandmasters anymore, the Vienna Gambit is still a good weapon for club-level players.
+
+```chesser
+id: mqfs5Xd_
+```
 
 ---
 ### Max Lange Defense
