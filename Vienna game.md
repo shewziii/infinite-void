@@ -84,8 +84,8 @@ fen: r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3
 ### Anderssen Defense
 Black can also enter the Anderssen Defense with the moves **1.e4 e5 2.Nc3 Bc5**. Black makes a useful developing move, bringing their kingside bishop into the game. Although not nearly as popular as the other variations, this is still a sound way of playing with Black against the Vienna. Former world champion [Jose Raul Capablanca](https://www.chess.com/players/jose-raul-capablanca) used to play this variation to avoid theory.
 
-```chesser
-id: X_5PdGVd
+```chessboard
+fen: rnbqk1nr/pppp1ppp/8/2b1p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3
 ```
 
 ---
