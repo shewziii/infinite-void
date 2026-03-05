@@ -7,3 +7,5 @@ protein: chicken
 tags:
   - recipe/pasta
 ---
+Servings: 10
+Total Time: 30 
