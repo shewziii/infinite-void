@@ -143,12 +143,18 @@ The Berlin Defense is probably one of the most solid ways of playing against the
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6**
 
+```chesser
+id: -t-f56QP
+```
+
+---
 ### Arkhangelsk Variation (Archangel)
 
 The Arkhangelsk Variation is a good way for tactical players to face the Ruy Lopez. This line usually leads to open games, where Black can try to use their bishop pair to create counterplay. In this line, White wins 39% of games, draws 30%, and Black wins 30%.
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7**
 
+---
 ## History Of The Ruy Lopez
 
 The Ruy Lopez is one of the oldest openings in chess. It was first analyzed by the priest [Ruy Lopez de Segura](https://www.chess.com/players/ruy-lopez-de-segura) in his book _Libro de la Invencion Liberal y Arte del Juego del Ajedrez_ (Book of the Liberal Invention and Art of the Game of Chess) in 1561. However, it wasn't until the mid to late 1800s that top players started using the opening consistently.
