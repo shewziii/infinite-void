@@ -94,8 +94,9 @@ In the Exchange Variation, White captures the black knight on c6 to double Black
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6**
 
-```chesser
-id: e3R55AVs
+```chessboard
+fen: r1bqkbnr/1ppp1ppp/p1B5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4
+id: gtmGBbZK
 ```
 
 ---
@@ -106,6 +107,7 @@ With the Open Variation, Black takes the white e4-pawn to compensate for their s
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4**
 
 ```chesser
+id: nG7ElgNO
 ```
 
 ---
