@@ -11,7 +11,10 @@ The Vienna Game is a 1.e4 opening for White. Compared to other 1.e4 openings, th
 - [[#Starting Position]]
 	- [[#Pros]]
 	- [[#Cons]]
-- 
+- [[#Main Variations Of The Vienna Game]]
+	- [[#Falkbeer Variation]]
+	- [[#Falkbeer, Mieses Variation]]
+	- [[#]]
 
 ---
 
