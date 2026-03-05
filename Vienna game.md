@@ -25,9 +25,7 @@ The Vienna Game is a 1.e4 opening for White. Compared to other 1.e4 openings, th
 
 The **Vienna Game** starts after the moves **1.e4 e5 2.Nc3**. Instead of the more common 2.Nf3, White chooses to develop the queenside knight. White's second move allows for a quick f2-f4 pawn-push. It also keeps the d1-h5 diagonal open for the queen, which can go to f3 or h5.
 
-![[vienna game.png]]
-
-The starting position of the Vienna Game.
+![[vienna game.png|Starting position of the vienna game|400x400]]
 
 ### Pros
 - It is less theoretical than the Spanish or Italian openings
