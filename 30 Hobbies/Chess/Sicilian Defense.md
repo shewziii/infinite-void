@@ -59,8 +59,9 @@ orientation: black
 ### Sicilian Defense: Open variation
 The Open Variation is the most common way for White to meet the Sicilian. It starts after the moves **1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4** or **1.e4 c5 2.Nf3 Nc6 3.d4**. As the name suggests, this variation leads to more open and tactical games. White will gain space and immediately fight over control of the center, while Black will enjoy a semi-open c-file and active piece play.
 
-```chesser
-id: flppOKvN
+```chessboard
+fen: rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2
+orientation: black
 ```
 
 ---
