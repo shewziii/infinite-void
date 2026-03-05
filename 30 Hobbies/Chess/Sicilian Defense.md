@@ -50,8 +50,9 @@ Being one of the oldest and most respected openings for Black, the Sicilian has 
 ### Sicilian Defense: Closed variation
 When faced with the Sicilian, White has the option of either opening or closing the position. The Closed Variation is not the most common but is also widely popular and was one of GM [Boris Spassky](https://www.chess.com/players/boris-spassky)'s weapons of choice with White. It starts after the moves **1.e4 c5 2.Nc3**, when White signals they have no intention of immediately opening up the center. White will usually expand on the kingside in the main lines of this variation.
 
-```chesser
-id: sw3mB1d_
+```chessboard
+fen: rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2
+orientation: black
 ```
 
 ---
