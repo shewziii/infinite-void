@@ -14,7 +14,7 @@
       "hiddenFileNames": [],
       "hiddenFileTags": [],
       "hiddenFileProperties": [],
-      "navigationBanner": "97 Attachments/night city.png",
+      "navigationBanner": null,
       "periodicNotesFolder": "",
       "shortcuts": [
         {
@@ -102,7 +102,7 @@
   "moveFileConflicts": "ask",
   "externalIconProviders": {},
   "checkForUpdatesOnStart": true,
-  "pinNavigationBanner": true,
+  "pinNavigationBanner": false,
   "showNoteCount": true,
   "separateNoteCounts": true,
   "showIndentGuides": false,
