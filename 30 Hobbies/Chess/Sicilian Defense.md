@@ -95,8 +95,9 @@ orientation: black
 ### Sicilian Defense: French Variation
 The French Variation of the Sicilian Defense starts after the moves **1.e4 c5 2.Nf3 e6**. Black opts for a more flexible setup, usually avoiding the more tactical lines of the Sicilian. After this, several other well-known variations like the Taimanov, Scheveningen, Four Knights, and Paulsen can arise.
 
-```chesser
-id: lGgxFs8x
+```chessboard
+fen: rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3
+orientation: black
 ```
 
 ---
