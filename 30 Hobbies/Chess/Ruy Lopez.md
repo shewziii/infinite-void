@@ -154,8 +154,8 @@ The Arkhangelsk Variation is a good way for tactical players to face the Ruy Lop
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7**
 
-```chesser
-id: JyG-tdbT
+```chessboard
+fen: r2qkb1r/1bpp1ppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQ1RK1 w kq - 2 7
 ```
 
 ---
@@ -163,7 +163,7 @@ id: JyG-tdbT
 
 The Ruy Lopez is one of the oldest openings in chess. It was first analyzed by the priest [Ruy Lopez de Segura](https://www.chess.com/players/ruy-lopez-de-segura) in his book _Libro de la Invencion Liberal y Arte del Juego del Ajedrez_ (Book of the Liberal Invention and Art of the Game of Chess) in 1561. However, it wasn't until the mid to late 1800s that top players started using the opening consistently.
 
-![Ruy Lopez](https://www.chess.com/bundles/web/images/image-default.445cb543.svg)
+![[image-1.png]]
 
 Ruy Lopez's book where he proposed the move 3.Bb5. Lopez suggests that "if Black plays the queen's knight to bishop three (Nf6)... White plays their king's bishop to the opposing queen's knight four (Bb5)." Photo: Libro de la Invencion Liberal del Juego de Ajedrez/[Wikimedia](https://commons.wikimedia.org/wiki/File:Ruylopez_llibre.jpg), [Archive.org](https://archive.org/details/bub_gb_n3s8AAAAcAAJ/page/n243/mode/2up).
 
