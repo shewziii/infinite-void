@@ -9,14 +9,14 @@ Fianchetto? What is that? Another fancy-sounding chess term? Don't worry—we've
 
 Here's what you need to know about the fianchetto:
 
-- [[#What Is A Fianchetto?]]
-- [[#What Openings Use The Fianchetto?]]
+- [[#What is a Fianchetto?]]
+- [[#What openings use the Fianchetto?]]
 - [[#Test]]
 - [[#Conclusion]]
 
 ---
 
-## What Is A Fianchetto?
+## What is a Fianchetto?
 
 A fianchetto occurs when a bishop is developed onto the second rank (for White) or the seventh rank (for Black) on squares g2, g7, b2, or b7. This step is taken to place the bishop on the longest diagonal possible. Let's take a look at an example.
 
@@ -30,7 +30,7 @@ The fianchettoed dark-squared bishop has a lot of scope and potential as it defe
 
 A fianchetto is considered a "kingside fianchetto" if performed on the kingside (on g2 or g7). A "queenside fianchetto" is performed on the queenside (on b2 or b7). Also, note that a kingside fianchetto coupled with kingside castling is a strong defensive setup that can be difficult to attack.
 
-## What Openings Use The Fianchetto?
+## What openings use the Fianchetto?
 
 Many openings feature a fianchetto! For White, the King's Indian Attack, Catalan, and English are known for a kingside fianchetto. For Black, the King's Indian Defense, Grunfeld Defense, [[Sicilian Defense#Sicilian Defense Dragon Variation|Sicilian Dragon]], Modern Defense, and Pirc Defense are equally well-known for a kingside fianchetto. Of course, many other openings also utilize a fianchetto, but we will take a look at only a few of these examples.
 
