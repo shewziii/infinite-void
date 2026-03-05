@@ -59,8 +59,9 @@ The Main Line of the Ruy Lopez sees White positioning their pieces to prepare fo
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O**
 
-```chesser
-id: 1BGicLx_
+```chessboard
+fen: r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 5
+id: DCqMpYwH
 ```
 
 ---
@@ -70,36 +71,42 @@ In the Closed Variation, Black puts their dark-squared bishop on e7, usually ins
 
 **1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7**
 
-Berlin Defense
+---
+### Berlin Defense
 
 The Berlin Defense is one of Black's most solid responses to the Ruy Lopez. Players usually go for an early queen exchange. Black accepts doubled pawns on the c-file and forfeits castling rights for the bishop pair and a solid position.
 
 **1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6**
 
-Exchange Variation
+---
+### Exchange Variation
 
 In the Exchange Variation, White captures the black knight on c6 to double Black's pawns. If White plays d2-d4, a favorable endgame with a pawn majority on the kingside can occur. Black gets the bishop pair as compensation and can equalize with accurate play, whether White goes for d2-d4 or a quieter system with d2-d3. This line avoids the need to memorize a lot of theory.
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6**
 
-Open Variation
+---
+### Open Variation
 
 With the Open Variation, Black takes the white e4-pawn to compensate for their space disadvantage with active piece play. White usually responds by playing 6.d4 to open up the center and try to punish Black's lack of development.
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4**
 
-Schliemann-Jaenisch Gambit
+---
+### Schliemann-Jaenisch Gambit
 
 The Schliemann-Jaenisch Gambit is one of Black's aggressive ways of meeting the Ruy Lopez. Black immediately strikes back in the center, instead of building a solid position and playing for equality. The imbalanced positions that arise from this variation are difficult to navigate for both sides.
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 f5**
 
+---
 ### Marshall Attack
 
 The Marshall Attack was developed by the brilliant attacking player [Frank Marshall](https://www.chess.com/players/frank-marshall) and used for the first time against [Jose Raul Capablanca](https://www.chess.com/players/jose-raul-capablanca) in 1918. Black gambits a pawn to build a quick attack against the white king.
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5**
 
+---
 ## How To Play Against The Ruy Lopez
 
 It's a good idea to study some of the theory behind the Ruy Lopez if you want to play against it. Below you can see two ways of meeting this opening—a solid option and an aggressive option:
