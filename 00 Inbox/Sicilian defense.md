@@ -47,7 +47,7 @@ id: sw3mB1d_
 ```
 
 ---
-### Sicilian Defense: Open Variation
+### Sicilian defense: Open variation
 The Open Variation is the most common way for White to meet the Sicilian. It starts after the moves **1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4** or **1.e4 c5 2.Nf3 Nc6 3.d4**. As the name suggests, this variation leads to more open and tactical games. White will gain space and immediately fight over control of the center, while Black will enjoy a semi-open c-file and active piece play.
 
 ```chesser
@@ -55,7 +55,7 @@ id: flppOKvN
 ```
 
 ---
-### Sicilian Defense: Najdorf Variation
+### Sicilian defense: Najdorf variation
 The Najdorf Variation is one of the most popular lines in the Sicilian Defense and was frequently used by both Fischer and Kasparov. It starts after the moves **1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6**. Black's 5...a6 prepares counterplay on the queenside while maintaining flexibility. Heavily theoretical, this line usually leads to complex games with a wealth of tactical possibilities.
 
 ```chesser
