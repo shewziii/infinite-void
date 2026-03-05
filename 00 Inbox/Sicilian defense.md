@@ -95,7 +95,7 @@ id: lGgxFs8x
 ```
 
 ---
-## History Of The Sicilian Defense
+## History of the Sicilian Defense
 
 The Sicilian Defense is one of the oldest known openings in chess. The Italian player Polerio mentioned the opening in 1594, which was also analyzed later by other Italian players. The match between [Louis-Charles de La Bourdonnais](https://www.chess.com/players/louis-de-la-bourdonnais) and [Alexander McDonnell](https://www.chess.com/players/alexander-mcdonnell) for the unofficial title of World Champion helped popularize the opening in 1834.
 
