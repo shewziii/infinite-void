@@ -1,3 +1,11 @@
+---
+title: Sicilian Defense
+type:
+  - opening
+tags:
+  - chess/opening
+---
+
 The Sicilian Defense is the most popular response to White's 1.e4. Employed by masters and beginners alike, the Sicilian Defense is a reputable and positionally sound opening. Still, the Sicilian is a combative opening that tends to lead to dynamic and sharp positions.
 
 One of the oldest registered openings, the Sicilian is full of theory and was used by most of the greatest players in history. World champions GMs [Bobby Fischer](https://www.chess.com/players/bobby-fischer), [Garry Kasparov](https://www.chess.com/players/garry-kasparov), [Viswanathan Anand](https://www.chess.com/players/viswanathan-anand), [Vladimir Kramnik](https://www.chess.com/players/vladimir-kramnik), and [Magnus Carlsen](https://www.chess.com/players/magnus-carlsen) are just a few of its adopters.

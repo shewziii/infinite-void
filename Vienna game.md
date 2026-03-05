@@ -1,5 +1,5 @@
 ---
-title: Vienna game
+title: Vienna Game
 type:
   - opening
 tags:
@@ -36,7 +36,7 @@ The **Vienna Game** starts after the moves **1.e4 e5 2.Nc3**. Instead of the mor
 - It puts less immediate pressure on Black
 - It blocks the c-pawn, making c2-c3 to prepare the d2-d4 push more difficult
 
-## Main Variations Of The Vienna Game
+## Main variations of the Vienna Game
 The Vienna Game is not as common or as old as other 1.e4 openings. For this reason, it is also not heavy in theory. Black has three main responses to the Vienna on their second move: 3...Nf6, 3...Nc6, and 3...Bc5.
 
 ### Falkbeer Variation
@@ -85,7 +85,7 @@ fen: rnbqk1nr/pppp1ppp/8/2b1p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3
 ```
 
 ---
-## History Of The Vienna Game
+## History of the Vienna Game
 The Vienna Game is relatively new when compared to other openings. Even though there are records of games with this opening as early as 1846, it didn't catch up in popularity until the beginning of the 1900s. Masters based in Vienna, Austria, were among its leading proponents—[Wilhelm Steinitz](https://www.chess.com/players/wilhelm-steinitz), [Rudolf Spielmann](https://www.chess.com/players/rudolf-spielmann), and [Savielly Tartakower](https://www.chess.com/players/savielly-tartakower).
 
 The opening remained relatively popular until the end of the 1920s when its usage started declining. By the end of the 1930s, few masters still played the Vienna regularly, and from that moment on, the opening rarely appeared at the elite level play.
