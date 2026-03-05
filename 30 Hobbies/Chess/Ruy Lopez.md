@@ -117,8 +117,8 @@ The Schliemann-Jaenisch Gambit is one of Black's aggressive ways of meeting the 
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 f5**
 
-```chesser
-id: vYIqXuv_
+```chessboard
+fen: r1bqkbnr/pppp2pp/2n5/1B2pp2/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq f6 0 4
 ```
 
 ---
@@ -127,6 +127,10 @@ id: vYIqXuv_
 The Marshall Attack was developed by the brilliant attacking player [Frank Marshall](https://www.chess.com/players/frank-marshall) and used for the first time against [Jose Raul Capablanca](https://www.chess.com/players/jose-raul-capablanca) in 1918. Black gambits a pawn to build a quick attack against the white king.
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5**
+
+```chesser
+id: xqRTxbkf
+```
 
 ---
 ## How To Play Against The Ruy Lopez
