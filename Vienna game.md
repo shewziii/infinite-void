@@ -68,13 +68,17 @@ White usually develops their light-squared bishop on c4 or b5, their knight to f
 
 Although not as common among grandmasters anymore, the Vienna Gambit is still a good weapon for club-level players.
 
-```chesser
-id: mqfs5Xd_
+```chessboard
+fen: rnbqkb1r/pppp1ppp/5n2/4p3/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq f3 0 3
 ```
 
 ---
 ### Max Lange Defense
 The Max Lange Defense starts after the moves **1.e4 e5 2.Nc3 Nc6**. Black follows White's lead and develops the queenside knight, supporting their e5-pawn. The game can then transpose to the Three Knights Opening if White plays 3.Nf3. White can also stay in the Vienna by developing their light-squared bishop on b5, c4, or g2.
+
+```chesser
+id: Ef8F93rv
+```
 
 ---
 ### Anderssen Defense
