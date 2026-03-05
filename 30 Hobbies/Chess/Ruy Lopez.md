@@ -166,26 +166,3 @@ The Ruy Lopez is one of the oldest openings in chess. It was first analyzed by t
 ![[image-1.png|Ruy Lopez's book where he proposed the move 3.Bb5. Lopez suggests that "if Black plays the queen's knight to bishop three (Nf6)... White plays their king's bishop to the opposing queen's knight four (Bb5)." Photo: Libro de la Invencion Liberal del Juego de Ajedrez/Wikimedia, Archive.org.|0]]
 
 From that moment on, the Ruy Lopez never fell out of fashion. The Spanish Opening became hugely popular and continues to be a part of every elite players' repertoire.
-
-## Famous Games
-
-With many players choosing the Ruy Lopez as part of their repertoire for both colors, it's easy to find masters to study. Below you can see three of the many classical games in this opening.
-
-**Lasker vs. Capablanca, 1914**
-
-```chesser
-id: jaqtnq01
-```
-
----
-**Karpov vs. Unzicker, 1974**
-
-
----
-**Kasparov vs. Karpov, 1990**
-
-
----
-## Conclusion
-
-You now know what the Ruy Lopez is, how to play it, its main lines, how to play against it, and more. Head over to our [Master Games](https://www.chess.com/games/search?opening=Ruy+L%C3%B3pez+Opening&openingId=2432&p1=&p2=&sort=) page to study games in this opening!
