@@ -143,8 +143,8 @@ The Berlin Defense is probably one of the most solid ways of playing against the
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6**
 
-```chesser
-id: -t-f56QP
+```chessboard
+fen: r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
 ```
 
 ---
@@ -153,6 +153,10 @@ id: -t-f56QP
 The Arkhangelsk Variation is a good way for tactical players to face the Ruy Lopez. This line usually leads to open games, where Black can try to use their bishop pair to create counterplay. In this line, White wins 39% of games, draws 30%, and Black wins 30%.
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7**
+
+```chesser
+id: JyG-tdbT
+```
 
 ---
 ## History Of The Ruy Lopez
