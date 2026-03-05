@@ -24,6 +24,8 @@ In the following position from the [Modern Defense](https://www.chess.com/explor
 
 ![fianchetto|929x929](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpY0Jvy0.png)
 
+
+
 Black's fianchettoed dark-squared bishop on g7 is a strong piece!
 
 The fianchettoed dark-squared bishop has a lot of scope and potential as it defends the black kingside, attacks central squares (e5 and d4), and also has some influence on White's queenside (attacks the knight on c3).
@@ -54,7 +56,7 @@ Of course, some openings use a queenside fianchetto, but they are less common th
 
 After the opening moves 1.d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2, we have reached a [Queen's Indian Defense](https://www.chess.com/openings/Queens-Indian-Defense):
 
-![fianchetto](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/php5Rtr1v.png)
+![fianchetto|680x680](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/php5Rtr1v.png)
 
 Black fianchettoes on the queenside in the Queen's Indian Defense.
 
