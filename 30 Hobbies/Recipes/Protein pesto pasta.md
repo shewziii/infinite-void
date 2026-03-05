@@ -7,7 +7,7 @@ protein: chicken
 tags:
   - recipe/pasta
 ---
-
+![[IMG_4861.webp]]
 
 **Servings:** 10
 **Prep Time:** 15 minutes
