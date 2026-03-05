@@ -71,8 +71,8 @@ In the Closed Variation, Black puts their dark-squared bishop on e7, usually ins
 
 **1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7**
 
-```chesser
-id: XRJgwLov
+```chessboard
+fen: r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 4 6
 ```
 
 ---
@@ -83,6 +83,7 @@ The Berlin Defense is one of Black's most solid responses to the Ruy Lopez. Play
 **1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6**
 
 ```chesser
+id: g78c_7k6
 ```
 
 ---
