@@ -106,8 +106,8 @@ With the Open Variation, Black takes the white e4-pawn to compensate for their s
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4**
 
-```chesser
-id: nG7ElgNO
+```chessboard
+fen: r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 6
 ```
 
 ---
@@ -116,6 +116,10 @@ id: nG7ElgNO
 The Schliemann-Jaenisch Gambit is one of Black's aggressive ways of meeting the Ruy Lopez. Black immediately strikes back in the center, instead of building a solid position and playing for equality. The imbalanced positions that arise from this variation are difficult to navigate for both sides.
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 f5**
+
+```chesser
+id: vYIqXuv_
+```
 
 ---
 ### Marshall Attack
