@@ -22,7 +22,7 @@ A fianchetto occurs when a bishop is developed onto the second rank (for White) 
 
 In the following position from the [Modern Defense](https://www.chess.com/explorer?moveList=e4+g6+d4+Bg7&ply=4&origMoves=e4+g6), Black has fianchettoed their dark-squared bishop on g7 and on the long a1-h8 diagonal:
 
-![fianchetto](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpY0Jvy0.png)
+![fianchetto|929x929](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpY0Jvy0.png)
 
 Black's fianchettoed dark-squared bishop on g7 is a strong piece!
 
