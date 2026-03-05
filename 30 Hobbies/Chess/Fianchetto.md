@@ -36,7 +36,7 @@ Many openings feature a fianchetto! For White, the King's Indian Attack, Catalan
 
 After the opening moves 1. Nf3 d5 2. g3 Nf6 3. Bg2 in the [King's Indian Attack](https://www.chess.com/openings/Kings-Indian-Attack), the following position is reached: 
 
-![[phpV7X45h.png]]
+![[early kingside fianchetto.png|400x400]]
 
 The King's Indian Attack uses an early kingside fianchetto.
 
