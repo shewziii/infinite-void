@@ -86,8 +86,9 @@ orientation: black
 ### Sicilian Defense: Dragon Variation
 The Dragon Variation occurs after **1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6**. Black fianchettoes their dark-squared bishop, attacking the center and the queenside. This variation is one of the most aggressive for Black. In its most critical lines, Black castles kingside and White castles queenside, with both players racing to checkmate first.
 
-```chesser
-id: cJ8oUNXe
+```chessboard
+fen: rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
+orientation: black
 ```
 
 ---
