@@ -3,7 +3,7 @@ title: Sicilian Defense
 type:
   - opening
 tags:
-  - chess/opening
+  - chess/opening/black
 ---
 
 The Sicilian Defense is the most popular response to White's 1.e4. Employed by masters and beginners alike, the Sicilian Defense is a reputable and positionally sound opening. Still, the Sicilian is a combative opening that tends to lead to dynamic and sharp positions.
@@ -13,7 +13,7 @@ One of the oldest registered openings, the Sicilian is full of theory and was us
 - [[#Starting position]]
 	- [[#Pros]]
 	- [[#Cons]]
-- [[#Main variations of the Sicilian defense]]
+- [[#Main variations of the Sicilian Defense]]
 	- [[#Sicilian Defense Closed Variation|Closed variation]]
 	- [[#Sicilian Defense Open Variation|Open variation]]
 	- [[#Sicilian Defense Najdorf Variation|Najdorf variation]]
@@ -27,7 +27,7 @@ One of the oldest registered openings, the Sicilian is full of theory and was us
 
 The **Sicilian Defense** starts after the moves **1.e4 c5**, when Black chooses to imbalance the position from the start. Black's reason behind 1...c5 is to fight for their share of the center (specifically, the d4-square) with a wing pawn.
 
-![[sicilian defense.png|Sicilian defense starting position|400x400]]
+![[sicilian Defense.png|Sicilian Defense starting position|400x400]]
 
 Black intends to advance the d and e-pawns later to control critical squares. Frequently, White will put pressure on one side of the board while Black will fight for their dominance over the other side. This dynamic usually creates tactically rich games with more decisive results.
 
@@ -43,11 +43,11 @@ Black intends to advance the d and e-pawns later to control critical squares. Fr
 - White gets great attacking chances in the main variations
 - There is a lot of theory
 
-## Main variations of the Sicilian defense
+## Main variations of the Sicilian Defense
 
 Being one of the oldest and most respected openings for Black, the Sicilian has an extensive amount of theory. There are numerous variations, each of them dissected thoroughly. Below you can see a list with a few of the main lines of the Sicilian Defense.
 
-### Sicilian defense: Closed variation
+### Sicilian Defense: Closed variation
 When faced with the Sicilian, White has the option of either opening or closing the position. The Closed Variation is not the most common but is also widely popular and was one of GM [Boris Spassky](https://www.chess.com/players/boris-spassky)'s weapons of choice with White. It starts after the moves **1.e4 c5 2.Nc3**, when White signals they have no intention of immediately opening up the center. White will usually expand on the kingside in the main lines of this variation.
 
 ```chesser
@@ -55,7 +55,7 @@ id: sw3mB1d_
 ```
 
 ---
-### Sicilian defense: Open variation
+### Sicilian Defense: Open variation
 The Open Variation is the most common way for White to meet the Sicilian. It starts after the moves **1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4** or **1.e4 c5 2.Nf3 Nc6 3.d4**. As the name suggests, this variation leads to more open and tactical games. White will gain space and immediately fight over control of the center, while Black will enjoy a semi-open c-file and active piece play.
 
 ```chesser
@@ -63,7 +63,7 @@ id: flppOKvN
 ```
 
 ---
-### Sicilian defense: Najdorf variation
+### Sicilian Defense: Najdorf variation
 The Najdorf Variation is one of the most popular lines in the Sicilian Defense and was frequently used by both Fischer and Kasparov. It starts after the moves **1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6**. Black's 5...a6 prepares counterplay on the queenside while maintaining flexibility. Heavily theoretical, this line usually leads to complex games with a wealth of tactical possibilities.
 
 ```chesser
