@@ -5,18 +5,17 @@ One of the oldest registered openings, the Sicilian is full of theory and was us
 - [[#Starting Position]]
 	- [[#Pros]]
 	- [[#Cons]]
-- [[#Main Variations Of The Sicilian Defense]]
-	- [[#Sicilian Defense Closed Variation|Closed Variation]]
-	- [[#Sicilian Defense Open Variation|Open Variation]]
-	- [[#Sicilian Defense Najdorf Variation|Najdorf Variation]]
-	- [[#Sicilian Defense Alapin Variation|Alapin Variation]]
-	- [[#Sicilian Defense Dragon Variation|Dragon Variation]]
-	- [[#Sicilian Defense French Variation|French Variation]]
+- [[#Main variations of the Sicilian defense]]
+	- [[#Sicilian Defense Closed Variation|Closed variation]]
+	- [[#Sicilian Defense Open Variation|Open variation]]
+	- [[#Sicilian Defense Najdorf Variation|Najdorf variation]]
+	- [[#Sicilian Defense Alapin Variation|Alapin variation]]
+	- [[#Sicilian Defense Dragon Variation|Dragon variation]]
+	- [[#Sicilian Defense French Variation|French variation]]
 - [[#History Of The Sicilian Defense]]
 
 ---
-
-## Starting Position
+## Starting position
 
 The **Sicilian Defense** starts after the moves **1.e4 c5**, when Black chooses to imbalance the position from the start. Black's reason behind 1...c5 is to fight for their share of the center (specifically, the d4-square) with a wing pawn.
 
@@ -25,11 +24,13 @@ The **Sicilian Defense** starts after the moves **1.e4 c5**, when Black chooses 
 Black intends to advance the d and e-pawns later to control critical squares. Frequently, White will put pressure on one side of the board while Black will fight for their dominance over the other side. This dynamic usually creates tactically rich games with more decisive results.
 
 ### Pros
+
 - Creates unbalanced games
 - Black has good attacking chances
 - It's an excellent opening to play when you need to win
 
 ### Cons
+
 - White has many ways to meet the Sicilian
 - White gets great attacking chances in the main variations
 - There is a lot of theory
