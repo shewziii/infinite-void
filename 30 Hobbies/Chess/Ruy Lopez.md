@@ -9,6 +9,21 @@ tags:
 ---
 The Ruy Lopez (also known as the Spanish Opening or Spanish Game) is one of the oldest and most analyzed openings in chess history. Most of the world's top players have adopted this rich opening as part of their repertoire, and many of them play it with both colors. Despite having a large amount of theory, it is an opening that players of all levels can enjoy.
 
+- [[#Starting Position|Starting Position]]
+	- [[#Starting Position#Pros|Pros]]
+	- [[#Starting Position#Cons|Cons]]
+- [[#Variations|Variations]]
+	- [[#Variations#Main Line|Main Line]]
+	- [[#Variations#Closed Variation|Closed Variation]]
+	- [[#Variations#Berlin Defense|Berlin Defense]]
+	- [[#Variations#Exchange Variation|Exchange Variation]]
+	- [[#Variations#Open Variation|Open Variation]]
+	- [[#Variations#Schliemann-Jaenisch Gambit|Schliemann-Jaenisch Gambit]]
+	- [[#Variations#Marshall Attack|Marshall Attack]]
+- [[#How To Play Against The Ruy Lopez|How To Play Against The Ruy Lopez]]
+	- [[#How To Play Against The Ruy Lopez#Berlin Defense|Berlin Defense]]
+	- [[#How To Play Against The Ruy Lopez#Arkhangelsk Variation (Archangel)|Arkhangelsk Variation (Archangel)]]
+- [[#History Of The Ruy Lopez|History Of The Ruy Lopez]]
 
 
 ---
