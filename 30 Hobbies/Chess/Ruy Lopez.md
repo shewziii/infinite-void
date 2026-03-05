@@ -9,23 +9,7 @@ tags:
 ---
 The Ruy Lopez (also known as the Spanish Opening or Spanish Game) is one of the oldest and most analyzed openings in chess history. Most of the world's top players have adopted this rich opening as part of their repertoire, and many of them play it with both colors. Despite having a large amount of theory, it is an opening that players of all levels can enjoy.
 
-- [Starting Position](app://obsidian.md/index.html#starting-position)
-    - [Pros](app://obsidian.md/index.html#pros)
-    - [Cons](app://obsidian.md/index.html#cons)
-- [Variations](app://obsidian.md/index.html#variations)
-    - [Main Line](app://obsidian.md/index.html#main-line)
-    - [Closed Variation](app://obsidian.md/index.html#closed)
-    - [Berlin Defense](app://obsidian.md/index.html#berlin)
-    - [Exchange Variation](app://obsidian.md/index.html#exchange)
-    - [Open Variation](app://obsidian.md/index.html#open)
-    - [Schlieman-Jaenisch Gambit](app://obsidian.md/index.html#schliemann-gambit)
-    - [Marshall Attack](app://obsidian.md/index.html#marshall-attack)
-- [How To Play Against The Ruy Lopez](app://obsidian.md/index.html#play-against-ruy-lopez)
-    - [Berlin Defense](app://obsidian.md/index.html#berlin-against)
-    - [Arkhangelsk Variation (Archangel)](app://obsidian.md/index.html#archangel)
-- [History Of The Ruy Lopez](app://obsidian.md/index.html#history)
-- [Famous Games](app://obsidian.md/index.html#famous-games)
-- [Conclusion](app://obsidian.md/index.html#conclusion)
+
 
 ---
 
