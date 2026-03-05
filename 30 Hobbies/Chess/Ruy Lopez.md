@@ -163,9 +163,8 @@ fen: r2qkb1r/1bpp1ppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQ1RK1 w kq - 2 7
 
 The Ruy Lopez is one of the oldest openings in chess. It was first analyzed by the priest [Ruy Lopez de Segura](https://www.chess.com/players/ruy-lopez-de-segura) in his book _Libro de la Invencion Liberal y Arte del Juego del Ajedrez_ (Book of the Liberal Invention and Art of the Game of Chess) in 1561. However, it wasn't until the mid to late 1800s that top players started using the opening consistently.
 
-![[image-1.png|Ruy Lopez's book where he proposed the move 3.Bb5. Lopez suggests that "if Black plays the queen's knight to bishop three (Nf6)... White plays their king's bishop to the opposing queen's knight four (Bb5)." Photo: Libro de la Invencion Liberal del Juego de Ajedrez/Wikimedia, Archive.org.]]
+![[image-1.png|Ruy Lopez's book where he proposed the move 3.Bb5. Lopez suggests that "if Black plays the queen's knight to bishop three (Nf6)... White plays their king's bishop to the opposing queen's knight four (Bb5)." Photo: Libro de la Invencion Liberal del Juego de Ajedrez/Wikimedia, Archive.org.|400]]
 
-Ruy Lopez's book where he proposed the move 3.Bb5. Lopez suggests that "if Black plays the queen's knight to bishop three (Nf6)... White plays their king's bishop to the opposing queen's knight four (Bb5)." Photo: Libro de la Invencion Liberal del Juego de Ajedrez/[Wikimedia](https://commons.wikimedia.org/wiki/File:Ruylopez_llibre.jpg), [Archive.org](https://archive.org/details/bub_gb_n3s8AAAAcAAJ/page/n243/mode/2up).
 
 From that moment on, the Ruy Lopez never fell out of fashion. The Spanish Opening became hugely popular and continues to be a part of every elite players' repertoire.
 
