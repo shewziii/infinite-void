@@ -14,7 +14,7 @@
       "hiddenFileNames": [],
       "hiddenFileTags": [],
       "hiddenFileProperties": [],
-      "navigationBanner": "97 Attachments/night city.png",
+      "navigationBanner": null,
       "periodicNotesFolder": "",
       "shortcuts": [
         {
@@ -402,7 +402,9 @@
     "30 Hobbies": "book-open"
   },
   "folderColors": {},
-  "folderBackgroundColors": {},
+  "folderBackgroundColors": {
+    "10 Work": "#06b6d478"
+  },
   "folderSortOverrides": {
     "30 Hobbies": "created-desc",
     "20 Knowledge": "property-asc"
