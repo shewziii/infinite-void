@@ -442,7 +442,10 @@
   "propertyColors": {},
   "propertyBackgroundColors": {},
   "propertyTreeSortOverrides": {},
-  "navigationSeparators": {},
+  "navigationSeparators": {
+    "section:tags": true,
+    "folder:/": true
+  },
   "userColors": [
     "#ffffff",
     "#d9d9d9",
