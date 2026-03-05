@@ -22,11 +22,7 @@ A fianchetto occurs when a bishop is developed onto the second rank (for White) 
 
 In the following position from the [Modern Defense](https://www.chess.com/explorer?moveList=e4+g6+d4+Bg7&ply=4&origMoves=e4+g6), Black has fianchettoed their dark-squared bishop on g7 and on the long a1-h8 diagonal:
 
-![fianchetto|929x929](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpY0Jvy0.png)
-
-```chesser
-id: -P37NKUY
-```
+![[fianchetto.png|400x400]]
 
 Black's fianchettoed dark-squared bishop on g7 is a strong piece!
 
@@ -40,7 +36,7 @@ Many openings feature a fianchetto! For White, the King's Indian Attack, Catalan
 
 After the opening moves 1. Nf3 d5 2. g3 Nf6 3. Bg2 in the [King's Indian Attack](https://www.chess.com/openings/Kings-Indian-Attack), the following position is reached: 
 
-![fianchetto](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpV7X45h.png)
+![[phpV7X45h.png]]
 
 The King's Indian Attack uses an early kingside fianchetto.
 
@@ -48,7 +44,7 @@ White has performed a kingside fianchetto with the light-squared bishop on g2. F
 
 After the initial opening moves 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 in the [King's Indian Defense](https://www.chess.com/openings/Kings-Indian-Defense), the following position is reached:
 
-![fianchetto](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpZtoUOM.png)
+![fianchetto|680x680](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpZtoUOM.png)
 
 Black's dark-squared bishop is fianchettoed in the King's Indian Defense.
 
