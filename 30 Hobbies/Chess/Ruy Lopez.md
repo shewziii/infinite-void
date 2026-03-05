@@ -173,10 +173,19 @@ With many players choosing the Ruy Lopez as part of their repertoire for both co
 
 **Lasker vs. Capablanca, 1914**
 
+```chesser
+id: p71EcmcQ
+```
+
+---
 **Karpov vs. Unzicker, 1974**
 
+
+---
 **Kasparov vs. Karpov, 1990**
 
+
+---
 ## Conclusion
 
 You now know what the Ruy Lopez is, how to play it, its main lines, how to play against it, and more. Head over to our [Master Games](https://www.chess.com/games/search?opening=Ruy+L%C3%B3pez+Opening&openingId=2432&p1=&p2=&sort=) page to study games in this opening!
