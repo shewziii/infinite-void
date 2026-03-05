@@ -7,8 +7,6 @@ aliases:
 tags:
   - chess/opening/white
 ---
-![[ruy lopez.png|400x400]]
-
 The Ruy Lopez (also known as the Spanish Opening or Spanish Game) is one of the oldest and most analyzed openings in chess history. Most of the world's top players have adopted this rich opening as part of their repertoire, and many of them play it with both colors. Despite having a large amount of theory, it is an opening that players of all levels can enjoy.
 
 - [Starting Position](app://obsidian.md/index.html#starting-position)
@@ -35,6 +33,7 @@ The Ruy Lopez (also known as the Spanish Opening or Spanish Game) is one of the 
 
 The **Ruy Lopez starts** after the moves **1.e4 e5 2.Nf3 Nc6 3.Bb5**. White finishes the development of their kingside pieces and gets ready to castle short. The critical idea behind **3.Bb5**, however, is to attack Black's c6-knight. White fights for the control of the central d4 and e5-squares and indirectly threatens the black e5-pawn by attacking its only defender.
 
+![[ruy lopez.png|400x400]]
 
 The starting position of the Ruy Lopez.
 
