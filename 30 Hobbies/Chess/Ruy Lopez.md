@@ -128,8 +128,8 @@ The Marshall Attack was developed by the brilliant attacking player [Frank Mars
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5**
 
-```chesser
-id: xqRTxbkf
+```chessboard
+fen: r1bq1rk1/2p1bppp/p1n2n2/1p1pp3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 w - d6 0 9
 ```
 
 ---
