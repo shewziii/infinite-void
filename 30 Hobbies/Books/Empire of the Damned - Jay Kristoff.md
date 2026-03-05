@@ -85,14 +85,13 @@ Gabriel de León has saved the Holy Grail from death, but his chance to end the 
 But the Last Silversaint faces peril, within and without. Pursued by terrors of the Blood Voss, drawn into warfare between the Blood Dyvok and duskdancers of the frozen Highlands, and ravaged by his own rising bloodlust, Gabriel may not survive to see the Grail learn her truth.  
   
 And that truth may be too awful for any to imagine.
+
 ## Quotes
 
+
 ## Review
+
 
 ## Notes
 I love the way Jay Kristoff uses the motif that "a single word can carry so much weight." It ties in to the last book nicely, but this time, instead of only Gabriel saying it, it's Celene. 
 
-
-
----
-[[Library|Books]]
