@@ -82,8 +82,9 @@ The Berlin Defense is one of Black's most solid responses to the Ruy Lopez. Play
 
 **1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6**
 
-```chesser
-id: g78c_7k6
+```chessboard
+fen: r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
+id: NOCMytcD
 ```
 
 ---
@@ -93,12 +94,19 @@ In the Exchange Variation, White captures the black knight on c6 to double Black
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6**
 
+```chesser
+id: e3R55AVs
+```
+
 ---
 ### Open Variation
 
 With the Open Variation, Black takes the white e4-pawn to compensate for their space disadvantage with active piece play. White usually responds by playing 6.d4 to open up the center and try to punish Black's lack of development.
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4**
+
+```chesser
+```
 
 ---
 ### Schliemann-Jaenisch Gambit
