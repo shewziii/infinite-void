@@ -59,6 +59,11 @@ The Main Line of the Ruy Lopez sees White positioning their pieces to prepare fo
 
 **1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O**
 
+```chesser
+id: 1BGicLx_
+```
+
+---
 ### Closed Variation
 
 In the Closed Variation, Black puts their dark-squared bishop on e7, usually inside the pawn chain. After Black's fifth move, play can continue in many different ways.
