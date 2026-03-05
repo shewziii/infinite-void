@@ -1,3 +1,11 @@
+---
+title: Vienna game
+type:
+  - opening
+tags:
+  - chess/opening
+---
+
 The Vienna Game is a 1.e4 opening for White. Compared to other 1.e4 openings, the Vienna is much less common but theoretically sound. Because of this, it can be an excellent weapon for beginners to catch their opponents by surprise. The Vienna is also suitable for more experienced players, with GMs like [Viswanathan Anand](https://www.chess.com/players/viswanathan-anand) and Alexander Shabalov among the players who have played it.
 
 - [[#Starting Position]]
