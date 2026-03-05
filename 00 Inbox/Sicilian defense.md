@@ -35,10 +35,11 @@ Black intends to advance the d and e-pawns later to control critical squares. Fr
 - White gets great attacking chances in the main variations
 - There is a lot of theory
 
-## Main Variations Of The Sicilian Defense
+## Main variations of the Sicilian defense
+
 Being one of the oldest and most respected openings for Black, the Sicilian has an extensive amount of theory. There are numerous variations, each of them dissected thoroughly. Below you can see a list with a few of the main lines of the Sicilian Defense.
 
-### Sicilian Defense: Closed Variation
+### Sicilian defense: Closed variation
 When faced with the Sicilian, White has the option of either opening or closing the position. The Closed Variation is not the most common but is also widely popular and was one of GM [Boris Spassky](https://www.chess.com/players/boris-spassky)'s weapons of choice with White. It starts after the moves **1.e4 c5 2.Nc3**, when White signals they have no intention of immediately opening up the center. White will usually expand on the kingside in the main lines of this variation.
 
 ```chesser
