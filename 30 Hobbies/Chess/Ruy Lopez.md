@@ -33,13 +33,11 @@ The Ruy Lopez (also known as the Spanish Opening or Spanish Game) is one of the 
 
 The **Ruy Lopez starts** after the moves **1.e4 e5 2.Nf3 Nc6 3.Bb5**. White finishes the development of their kingside pieces and gets ready to castle short. The critical idea behind **3.Bb5**, however, is to attack Black's c6-knight. White fights for the control of the central d4 and e5-squares and indirectly threatens the black e5-pawn by attacking its only defender.
 
-![[ruy lopez.png|400x400]]
-
-The starting position of the Ruy Lopez.
+![[ruy lopez.png|The starting position of the Ruy Lopez|400x400]]
 
 Although the Ruy Lopez is a flexible opening that can lead to tactical skirmishes, games usually develop into a long struggle for the center that spreads to an attack on the flanks. Since Black has a hard time getting an advantage in this opening, some people refer to it as the "Spanish Torture."
 
-Pros
+### Pros
 
 - It leads to very complex and multifaceted play
 - It tends to give White long-term pressure
