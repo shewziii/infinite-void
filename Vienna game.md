@@ -48,14 +48,17 @@ Black's most popular response to the Vienna game is the Falkbeer Variation, whic
 
 From this position, White can opt for an aggressive or a positional approach.
 
-```chesser
-id: qWGfRF1W
+```chessboard
+fen: rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3
 ```
 
 ---
 ### Falkbeer, Mieses Variation
 The Mieses Variation is the most popular line of the Falkbeer. This variation starts after **1.e4 e5 2.Nc3 Nf6 3.g3**, when White goes for a more positional game. White intends to fianchetto their light-squared bishop on g2 to increase their control over the central d5- and e4-squares. Black mostly goes for the immediate central counterstrike with d7-d5 but can also play a slower game by developing their pieces.
 
+```chesser
+id: K5gAALYG
+```
 
 ---
 ### Vienna Gambit
