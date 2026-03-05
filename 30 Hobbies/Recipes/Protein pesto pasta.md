@@ -8,4 +8,6 @@ tags:
   - recipe/pasta
 ---
 Servings: 10
-Total Time: 30 
+Prep Time: 15 minutes
+Cook Time 15 minutes
+Total Time: 30 minutes
