@@ -27,7 +27,7 @@ tags:
 - 2 tbsp tasted pine nuts
 - 1/4 cup Parmesan Cheese
 - Basil
-- 1 cup [[basil pesto]]
+- 1 cup [[Basil pesto]]
 
 ## Instructions
 
