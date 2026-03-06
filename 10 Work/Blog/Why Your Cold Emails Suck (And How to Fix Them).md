@@ -5,7 +5,7 @@ writing-status: published
 topic: email marketing
 publish_date: 2026-02-10
 tags:
-  - content/blog
+  - content/blog/email-marketing
 related:
   - 
 created: 2026-03-02

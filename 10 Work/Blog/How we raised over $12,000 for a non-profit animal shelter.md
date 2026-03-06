@@ -5,7 +5,7 @@ writing-status: published
 topic: case study
 publish_date: 2026-01-13
 tags:
-  - content/blog
+  - content/blog/case-study
 related:
   - "[[How we helped a local restaurant boost traffic and customer loyalty]]"
   - "[[A strategic social media growth plan for a regional jewelry brand]]"

@@ -9,7 +9,7 @@ publish_date:
 related:
   - 
 tags:
-  - content/blog
+  - content/blog/strategy
 ---
 
 
