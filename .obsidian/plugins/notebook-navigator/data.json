@@ -4,7 +4,14 @@
       "id": "default",
       "name": "Default",
       "fileVisibility": "supported",
-      "propertyKeys": [],
+      "propertyKeys": [
+        {
+          "key": "writing-status",
+          "showInNavigation": true,
+          "showInList": false,
+          "showInFileMenu": false
+        }
+      ],
       "hiddenFolders": [
         "/9*"
       ],

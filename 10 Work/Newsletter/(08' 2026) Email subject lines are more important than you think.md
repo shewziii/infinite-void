@@ -3,7 +3,8 @@ title: Email subject lines are more important than you think
 type: newsletter
 content-series:
 episode:
-writing-status: idea
+writing-status:
+  - published
 topic: email marketing
 publish_date: 2026-02-17
 created: 2026-03-02
