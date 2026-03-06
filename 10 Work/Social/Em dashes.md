@@ -13,3 +13,4 @@ Bad writing is bad writing, and good writing does not mean the same thing as tec
 
 Swipe through and I'll show you how to use em dashes correctly so your writing sounds like you—not like a chatbot trying to sound like you.
 
+💬 Comment EM and I'll send you my go-to copy tips for free.
