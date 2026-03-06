@@ -5,9 +5,9 @@ type:
 tags:
   - content/social
 ---
-I won't stop using em dashes just because it "signals AI"—I thing that's silly.
+I won't stop using em dashes just because it "signals AI"—I think that's silly.
 
-The em dash has been a writer's tool—and my tool—long before ChatGPT existed. Abandoning it because a language model picked it up and started using it way too much is like a chef refusing to use a knife because robots use them in factories.
+The em dash has been a writer's tool—and my favorite punctuation—long before ChatGPT existed. Abandoning it because a language model picked it up and started using it way too much is like a chef refusing to use a knife because robots use them in factories.
 
 The problem was never the punctuation. It was the writing.
 
