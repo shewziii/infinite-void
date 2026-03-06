@@ -6,7 +6,6 @@ topic: content marketing
 publish_date: 2026-02-03
 related:
   - 
-created: 2026-03-01
 tags:
   - content/blog/content-marketing
 ---
