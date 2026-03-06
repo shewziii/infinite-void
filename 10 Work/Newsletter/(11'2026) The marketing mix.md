@@ -14,6 +14,7 @@ tags:
   - content/newsletter
 ---
 
+
 **Welcome back to Act One Insights!**
 
 This week we'll continue with our series: Back to the Basics.
