@@ -1,0 +1,4 @@
+---
+type: blogpost
+writing-status:
+---

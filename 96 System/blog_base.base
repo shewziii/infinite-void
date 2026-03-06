@@ -6,7 +6,10 @@ views:
         - type == "blogpost"
     order:
       - file.name
+      - writing-status
     sort:
+      - property: writing-status
+        direction: ASC
       - property: file.ctime
         direction: DESC
     columnSize:
