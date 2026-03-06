@@ -4,7 +4,7 @@ type: newsletter
 content-series: Back to the Basics
 episode: "3"
 writing-status:
-  - draft
+  - editing
 topic: strategy
 publish_date:
 related:

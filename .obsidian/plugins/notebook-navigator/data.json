@@ -409,7 +409,9 @@
     "30 Hobbies": "book-open"
   },
   "folderColors": {},
-  "folderBackgroundColors": {},
+  "folderBackgroundColors": {
+    "10 Work": "#06b6d43c"
+  },
   "folderSortOverrides": {
     "30 Hobbies": "created-desc",
     "20 Knowledge": "property-asc"
