@@ -8,7 +8,7 @@ tags:
   - content/blog/email-marketing
 related:
   - 
-created: 2026-03-02
+created: 2026-03-01
 ---
 ![[cover-2.jpg]]
  
