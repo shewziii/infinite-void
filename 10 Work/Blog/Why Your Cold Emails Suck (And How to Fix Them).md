@@ -4,11 +4,10 @@ type: blogpost
 writing-status: published
 topic: email marketing
 publish_date: 2026-02-10
-tags:
-  - content/blog/email-marketing
 related:
   - 
-created: 2026-03-01
+tags:
+  - content/blog/email-marketing
 ---
 ![[cover-2.jpg]]
  
