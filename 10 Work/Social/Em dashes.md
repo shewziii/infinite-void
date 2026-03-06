@@ -16,5 +16,5 @@ Swipe through and I'll show you how to use em dashes correctly so your writing s
 Save this for your next writing session, and comment "EM" and I'll send you my go-to copy tips for free.
 
 ```hashtags
-
+#Copywriting #CopywritingTips #WritingTips #ContentMarketing #EmDash
 ```
