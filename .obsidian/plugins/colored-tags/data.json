@@ -37,7 +37,8 @@
     "recipe/soup": 2,
     "chess/concept/piece-development": 1,
     "chess/opening/black": 1,
-    "chess/opening/white": 2
+    "chess/opening/white": 2,
+    "content/blog/copywriting": 1
   },
   "tagColors": {},
   "_version": 4

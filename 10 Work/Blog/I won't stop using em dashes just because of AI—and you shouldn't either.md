@@ -3,9 +3,10 @@ title: I won't stop using em dashes just because of AI—and you shouldn't eithe
 type: blogpost
 writing-status: idea
 topic:
+  - copywriting
 publish_date:
 related:
   - 
 tags:
-  - content/blog
+  - content/blog/copywriting
 ---

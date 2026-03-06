@@ -5,7 +5,6 @@ writing-status: published
 topic: strategy
 publish_date: 2026-02-24
 tags:
-  - content/blog
 related:
   - 
 created: 2026-03-02
