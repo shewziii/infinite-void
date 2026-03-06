@@ -5,7 +5,7 @@ writing-status: published
 topic: content marketing
 publish_date: 2026-02-03
 tags:
-  - content/blog
+  - content/blog/content-marketing
 related:
   - 
 created: 2026-03-02
