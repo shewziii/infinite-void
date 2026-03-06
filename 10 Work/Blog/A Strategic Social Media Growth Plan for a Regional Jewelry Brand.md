@@ -8,6 +8,7 @@ related:
   - "[[How we raised over $12,000 for a non-profit animal shelter]]"
   - "[[How we helped a local restaurant boost traffic and customer loyalty]]"
 tags:
+  - content/blog/case-study
 ---
 ![[cover-1.png]]
 

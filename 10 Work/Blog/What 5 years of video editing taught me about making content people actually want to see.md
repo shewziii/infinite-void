@@ -4,11 +4,11 @@ type: blogpost
 writing-status: published
 topic: content marketing
 publish_date: 2026-02-03
-tags:
-  - content/blog/content-marketing
 related:
   - 
-created: 2026-03-02
+created: 2026-03-01
+tags:
+  - content/blog/content-marketing
 ---
 ![[cover-1.jpg]]
 
