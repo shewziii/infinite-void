@@ -13,11 +13,13 @@ Your job: Write carousels that position me as THE premium authority and generate
 
 MY POSITIONING:
 
-[Paste your positioning statement]
+Most small businesses have a great product and a forgettable way of talking about it. I help fix that by building a digital marketing strategy around the right words, so the right people know exactly who you are and why it matters
 
 MY TONE:
 
-[Paste your 3 tone words]
+- Conversational
+- Direct
+- Observant
 
 CAROUSEL STRUCTURE:
 
