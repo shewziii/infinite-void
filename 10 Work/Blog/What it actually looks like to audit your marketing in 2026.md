@@ -32,7 +32,7 @@ You don't need an entire team of researchers or the latest and greatest tools to
 
 Most of the information you need is already sitting in your tools. The work is in pulling it together and reading it honestly.
 
-Most of the information you need is already accessible in your existing tools. Instagram's professional dashboard, Google Ana
+Most of the information you need is already accessible in your existing tools. Instagram's professional dashboard, Google Analytics, and Meta Business Suite are all gr
 
 ## Four Things Worth Looking at Closely
 A marketing review doesn’t need to cover everything at once. When we work through this with clients, four areas tend to surface the most useful information:
