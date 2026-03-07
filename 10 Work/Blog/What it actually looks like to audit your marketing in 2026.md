@@ -30,9 +30,9 @@ The more you learn about what you want to learn or do, the longer you get nothin
 
 You don't need an entire team of researchers or the latest and greatest tools to run a comprehensive audit. All you really need is access to the right data, a way to organize it, and a way to easily analyze what you find. Analytics and reporting dashboards make great tools for showing where your efforts are working and where they could use work.
 
-You don’t need an enterprise platform or a team of researchers to run a comprehensive audit. What you do need is access to the right data, a mechanism to organize it, and a way to evaluate what you find. Analytics and reporting dashboards show you where your efforts are making an impact and where they’re falling short. Campaign and content records help you see what’s still active (and performing), what’s been on autopilot too long, and what might be overdue for a refresh. ￼
-
 Most of the information you need is already sitting in your tools. The work is in pulling it together and reading it honestly.
+
+Most of the information you need is already accessible in your existing tools. Instagram's professional dashboard, Google Ana
 
 ## Four Things Worth Looking at Closely
 A marketing review doesn’t need to cover everything at once. When we work through this with clients, four areas tend to surface the most useful information:
