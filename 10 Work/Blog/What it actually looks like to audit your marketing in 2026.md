@@ -35,7 +35,7 @@ Most of the information you need is already accessible in your existing tools. I
 ## Four Things Worth Looking at Closely
 A marketing review doesn’t need to cover everything at once. When we work through this with clients, four areas tend to surface the most useful information:
 
-### 1. Where your audience is actually finding you
+### 1. Where your audience is finding you
 This means looking at traffic sources, referral paths, and search behavior, not just total visitor counts. A business might be generating solid web traffic and still losing most of it before a single conversion happens.
 
 Statista reports that 73% of consumers use mobile devices to research local businesses before visiting. If your site experience wasn’t built with that in mind, you’re likely losing people before they ever see your offer.
