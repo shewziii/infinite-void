@@ -22,7 +22,7 @@ The brands that seem to be growing fast are the ones who check up on their strat
 ## It Starts With What You Have, Not What You Wish You Had
 Before we get into it, I wanted to take a second to talk about a little thing everyone has dealt with called analysis paralysis. Essentially, analysis paralysis is what happens when you're thinking of doing something, and you end up doing some learning.
 
-Well. A Lot of learning.
+A Lot of learning.
 
 You start going through a rabbit hole of things you need to do. "What should I prepare?" "What should I know?" "What will I need?"
 
