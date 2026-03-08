@@ -50,6 +50,8 @@ The 4 Ps make you think through every piece of your marketing strategy. They're 
 
 [Why more brands are rethinking influencer marketing with gamified micro-creator programs](https://digiday.com/media/why-more-brands-are-rethinking-influencer-marketing-with-gamified-micro-creator-programs/?utm_source=tldrmarketing) - Brands are realizing that building their own little creator communities beats paying for one-off influencer posts. They're doing this though gamification that gives creators steady income, perks, and more reasons to stay with the brand long-term.
 
-[How Anthropic Is Winning the AI Platform Marketing War by Being Less Evil - Rohit Bhargava](https://rohitbhargava.com/how-anthropic-is-winning-the-ai-platform-marketing-war-by-being-less-evil/?utm_source=tldrmarketing) - Amid recent news and discourse over Anthropic and OpenAI's business practices, users are becoming more trusting of Claude instead of ChatGPT.
+[How Anthropic Is Winning the AI Platform Marketing War by Being Less Evil](https://rohitbhargava.com/how-anthropic-is-winning-the-ai-platform-marketing-war-by-being-less-evil/?utm_source=tldrmarketing) - Amid recent news and discourse over Anthropic and OpenAI's business practices, users are becoming more trusting of Claude instead of ChatGPT.
 
 [Ben Affleck, Matt Damon's Artists Equity Sets Streaming Deal at Netflix](https://variety.com/2026/film/news/ben-affleck-matt-damon-netflix-deal-artists-equity-1236677319/) - Artists Equity has signed a streaming deal with Netflix. This signals a broader trend of independent studios bypassing traditional Hollywood to partner directly with major streamers.
+
+[How Zillow Creates Space for Better Storytelling](https://contentmarketinginstitute.com/strategy-planning/zillow-better-storytelling) - 
