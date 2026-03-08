@@ -52,3 +52,4 @@ The 4 Ps make you think through every piece of your marketing strategy. They're 
 
 [How Anthropic Is Winning the AI Platform Marketing War by Being Less Evil - Rohit Bhargava](https://rohitbhargava.com/how-anthropic-is-winning-the-ai-platform-marketing-war-by-being-less-evil/?utm_source=tldrmarketing) - Amid recent news and discourse over Anthropic and OpenAI's business practices, users are becoming more trusting of Claude instead of ChatGPT.
 
+[Ben Affleck, Matt Damon's Artists Equity Sets Streaming Deal at Netflix](https://variety.com/2026/film/news/ben-affleck-matt-damon-netflix-deal-artists-equity-1236677319/) - Artists Equity has signed a streaming deal with Netflix. This signals a broader trend of independent studios bypassing traditional Hollywood to partner directly with major streamers.
