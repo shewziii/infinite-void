@@ -46,4 +46,4 @@ The 4 Ps make you think through every piece of your marketing strategy. They're 
 ---
 **📖 More Reading for You**
 
-Brooks Brothers launched their "Make It Yours" campaign repositioning the 200-year-old brand around individuality and sensibility rather than age, targeting a broader audience as quiet luxury and preppy aesthetics resurge in popularity.
+ - Brooks Brothers launched their "Make It Yours" campaign repositioning the 200-year-old brand around individuality and sensibility rather than age, targeting a broader audience as quiet luxury and preppy aesthetics resurge in popularity.
