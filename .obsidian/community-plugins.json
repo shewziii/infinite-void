@@ -19,5 +19,6 @@
   "chesser-obsidian",
   "obsidian-chessboard",
   "obsidian-text-format",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-auto-link-title"
 ]
