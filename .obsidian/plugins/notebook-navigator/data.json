@@ -432,6 +432,9 @@
     },
     "30 Hobbies/Books": {
       "groupBy": "folder"
+    },
+    "98 Archive": {
+      "groupBy": "folder"
     }
   },
   "tagIcons": {},

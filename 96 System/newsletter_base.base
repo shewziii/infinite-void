@@ -4,6 +4,11 @@ views:
     filters:
       and:
         - type == "newsletter"
+    order:
+      - file.name
+      - writing-status
     sort:
       - property: file.ctime
         direction: DESC
+    columnSize:
+      file.name: 673

@@ -13,4 +13,4 @@ views:
       - property: file.ctime
         direction: DESC
     columnSize:
-      file.name: 606
+      file.name: 671
