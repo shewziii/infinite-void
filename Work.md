@@ -7,6 +7,3 @@
 ![[newsletter_base.base]]
 
 ---
-## Social
-![[social_base.base]]
-
