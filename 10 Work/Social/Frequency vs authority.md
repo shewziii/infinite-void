@@ -2,7 +2,6 @@
 title: Frequency vs authority
 type: social
 topic: content marketing
-posted: false
 tags: content/social
 ---
 ## Post 1: Your posting frequency isn’t the problem
