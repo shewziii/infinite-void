@@ -408,10 +408,10 @@
     "20 Knowledge": "brain",
     "30 Hobbies": "book-open"
   },
-  "folderColors": {},
-  "folderBackgroundColors": {
-    "10 Work": "#06b6d43c"
+  "folderColors": {
+    "10 Work": "#3aafa9"
   },
+  "folderBackgroundColors": {},
   "folderSortOverrides": {
     "30 Hobbies": "created-desc",
     "20 Knowledge": "property-asc"
