@@ -22,9 +22,7 @@ The London System is a popular 1.d4 opening for White which has the reputation o
 
 White enters the **London System** when playing Bf4 before pushing a pawn to e3, usually through **1.d4 d5 2.Bf4**. Note that the old mainline was 1.d4 d5 2.Nf3 Nf6 3.Bf4, but the current theory states that playing **2.Bf4** instead of **2.Nf3** is slightly more accurate.
 
-![[97]]
-
-The starting position of the London System.
+![[London system.png|400]]
 
 This opening's main idea is to create a solid pawn structure in the center by pushing pawns to c3 and e3, but only after developing the dark-squared bishop outside the pawn chain. Despite its being a solid opening by nature, the London also features aggressive lines and can catch Black off guard.
 
