@@ -1,13 +1,12 @@
 ---
 title: What it actually looks like to audit your marketing in 2026
-type: blogpost
-topic:
-  - strategy
+type:
+  - blogpost
+topix: strategy
 writing-status:
   - editing
 publish_date:
 related:
-  - 
 tags:
   - content/blog/strategy
 ---
