@@ -13,7 +13,7 @@ related:
 tags:
   - content/newsletter
 ---
-
+![[cover-5.png]]
 
 **Welcome back to Act One Insights!**
 
