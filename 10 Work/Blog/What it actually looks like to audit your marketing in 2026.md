@@ -32,7 +32,7 @@ You don't need an entire team of researchers or the latest and greatest tools to
 Most of the information you need is already accessible in your existing tools. Instagram's professional dashboard, Google Analytics, and Meta Business Suite are all great tools you already have access to, so use them.
 
 ## Four Things Worth Looking at Closely
-A marketing review doesn’t need to cover everything at once. When we work through this with clients, four areas tend to surface the most useful information:
+A marketing review doesn’t need to cover everything at once. When I work through this with clients, four areas tend to surface the most useful information:
 
 ### 1. Where your audience is finding you
 This means looking at traffic sources, referral paths, and search behavior, and not just total visitor counts and interactions. A business might be generating solid web traffic or getting lots of engagement on their social media and still be losing most of it before a single conversion happens.
