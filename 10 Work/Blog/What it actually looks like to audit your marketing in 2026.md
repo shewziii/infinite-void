@@ -38,7 +38,6 @@ A marketing review doesn’t need to cover everything at once. When we work thro
 This means looking at traffic sources, referral paths, and search behavior, and not just total visitor counts and interactions. A business might be generating solid web traffic or getting lots of engagement on their social media and still be losing most of it before a single conversion happens.
 
 ### 2. What your messaging is communicating
-Pull up your homepage, your last three social posts, and your most recent email. Read them as a stranger would. Is it clear what you do, who it’s for, and what someone should do next? Most teams can create immediate momentum by tackling quick wins: the low-effort, high-impact fixes that tighten your systems, improve visibility, and eliminate silent performance drains. Weak or inconsistent messaging is almost always one of those drains.
 
 Pull up your homepage, your last three social media posts, and the most recent email you've sent out. Read them as if you were somebody else who just discovered or received that piece. Better yet, get someone else to read them. Ask them or yourself:
 
@@ -46,7 +45,7 @@ Pull up your homepage, your last three social media posts, and the most recent e
 - Is it clear who my brand is for?
 - Is it clear what the next steps are?
 
-Many brands are happy with quick wins. Way too many just go for low-effort, quick wins that feel good in the short term but don't really do anything for them long-term, which leads to their messaging being inconsistent and 
+Many brands are happy with quick wins. Way too many just go for low-effort, quick wins that feel good in the short term but don't really do anything for them long-term, which leads to their messaging being inconsistent and weak.
 
 ### 3. Which channels are earning their place
 Channel-level performance metrics help you compare output across email, web, paid, and social, so you can make smarter calls on where to scale back or double down. ￼ The goal isn’t to be everywhere. It’s to show up well in the places where your audience is actually paying attention.
