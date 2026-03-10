@@ -50,7 +50,7 @@ Many brands are happy with quick wins. Way too many just go for low-effort, quic
 ### 3. Which channels are earning their place
 Channel-level performance metrics help you compare output across email, web, paid, and social, so you can make smarter calls on where to scale back or double down. ￼ The goal isn’t to be everywhere. It’s to show up well in the places where your audience is actually paying attention.
 
-Use the tools you have access to to help you compare your brand's performance across email, web, organic social, and paid social posts so you have a better understanding of 
+Use the tools you have access to to help you compare your brand's performance across email, web, organic social, and paid social posts so you have a better understanding of which channels are working and which could use improvements. 
 
 ### 4. Whether your campaigns connect to a real business outcome
 This is where most reviews fall short. One business spent £6,000 on paid ads with zero conversions tracked, with no idea if those clicks turned into phone calls, store visits, or actual sales. The campaigns were sending traffic to generic pages with no clear next steps. ￼ Spending money on traffic without knowing what happens next is one of the most common and most fixable problems we see.
