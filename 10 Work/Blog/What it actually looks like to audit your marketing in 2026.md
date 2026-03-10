@@ -38,7 +38,7 @@ A marketing review doesn’t need to cover everything at once. When we work thro
 This means looking at traffic sources, referral paths, and search behavior, and not just total visitor counts and interactions. A business might be generating solid web traffic or getting lots of engagement on their social media and still be losing most of it before a single conversion happens.
 
 ### 2. What your messaging is communicating
-This one is harder to measure but easier to feel. Pull up your homepage, your last three social posts, and your most recent email. Read them as a stranger would. Is it clear what you do, who it’s for, and what someone should do next? Most teams can create immediate momentum by tackling quick wins: the low-effort, high-impact fixes that tighten your systems, improve visibility, and eliminate silent performance drains. Weak or inconsistent messaging is almost always one of those drains.
+Pull up your homepage, your last three social posts, and your most recent email. Read them as a stranger would. Is it clear what you do, who it’s for, and what someone should do next? Most teams can create immediate momentum by tackling quick wins: the low-effort, high-impact fixes that tighten your systems, improve visibility, and eliminate silent performance drains. Weak or inconsistent messaging is almost always one of those drains.
 
 ### 3. Which channels are earning their place
 Channel-level performance metrics help you compare output across email, web, paid, and social, so you can make smarter calls on where to scale back or double down. ￼ The goal isn’t to be everywhere. It’s to show up well in the places where your audience is actually paying attention.
