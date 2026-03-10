@@ -35,9 +35,7 @@ Most of the information you need is already accessible in your existing tools. I
 A marketing review doesn’t need to cover everything at once. When we work through this with clients, four areas tend to surface the most useful information:
 
 ### 1. Where your audience is finding you
-This means looking at traffic sources, referral paths, and search behavior, not just total visitor counts and interactions. A business might be generating solid web traffic and still losing most of it before a single conversion happens.
-
-Statista reports that 73% of consumers use mobile devices to research local businesses before visiting. If your site experience wasn’t built with that in mind, you’re likely losing people before they ever see your offer.
+This means looking at traffic sources, referral paths, and search behavior, and not just total visitor counts and interactions. A business might be generating solid web traffic or getting lots of engagement on their social media and still be losing most of it before a single conversion happens.
 
 ### 2. What your messaging is communicating
 This one is harder to measure but easier to feel. Pull up your homepage, your last three social posts, and your most recent email. Read them as a stranger would. Is it clear what you do, who it’s for, and what someone should do next? Most teams can create immediate momentum by tackling quick wins: the low-effort, high-impact fixes that tighten your systems, improve visibility, and eliminate silent performance drains. Weak or inconsistent messaging is almost always one of those drains.
