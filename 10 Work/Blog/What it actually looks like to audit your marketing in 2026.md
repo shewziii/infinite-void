@@ -89,6 +89,6 @@ A marketing audit is more useful when someone outside your business is involved.
 
 When you choose that person, make sure they're someone who won't just agree to everything you already believe.
 
-The best person to have to help review your marketing—the best partner for anything, really—is one who challenges you. Someone who wants to see you improve.
+The best person to help review your marketing—the best partner for anything, really—is one who challenges you. Someone who wants to see you improve.
 
 To paraphrase what author Jay Kristoff wrote, "If you're the smartest person in the room, you're in the wrong fucking room."
