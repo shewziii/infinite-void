@@ -83,9 +83,10 @@ If you're a freelancer or take a more casual approach to client work, all you re
 
 Each item on that list should have a clear strategy that tells you how you're going to implement that change, and a timeline of how long you think that change will take. 
 
-## A Word on Who Should Be Doing This With You
-A marketing audit is more useful when someone outside your business is involved. It’s easy to rationalize underperforming channels when you’ve invested time building them. A fresh set of eyes can surface issues or opportunities that don’t show up in a report.
+## Who should be doing this with you
+
+A marketing audit is more useful when someone outside your business is involved. It’s easy to rationalize underperforming channels when you’ve invested time building them. A fresh set of eyes can u issues or opportunities that don’t show up in a report.
 
 What you’re looking for in a partner isn’t someone who leads with their tech stack or their process deck. You want someone who asks questions about your business before they ask about your budget. What are you actually trying to grow? Who are you trying to reach? What’s the gap between where you are and where you want to be?
 
-That’s where good campaign strategy begins, and it’s what separates a useful marketing review from one that just confirms what you already suspected..
+That’s where good campaign strategy begins, and it’s what separates a useful marketing review from one that just confirms what you already suspected.
