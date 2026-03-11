@@ -11,7 +11,7 @@ related:
 tags:
   - content/blog/strategy
 ---
-
+![[cover-6.png]]
 
 I know the word "audit" can be scary. Its connotation may be negative if you associate it with taxes. It also just sounds super official. But when it comes to marketing, audits aren't so bad. They can be summed up in one question: are you doing the best you can with your strategy?
 
