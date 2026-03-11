@@ -85,8 +85,8 @@ Each item on that list should have a clear strategy that tells you how you're go
 
 ## Who should be doing this with you
 
-A marketing audit is more useful when someone outside your business is involved. It’s easy to rationalize underperforming channels when you’ve invested time building them. A fresh set of eyes can u issues or opportunities that don’t show up in a report.
+A marketing audit is more useful when someone outside your business is involved. It’s easy to rationalize underperforming channels when you’ve invested time building them. A fresh set of eyes can uncover issues or opportunities that don’t always show up in a report.
 
-What you’re looking for in a partner isn’t someone who leads with their tech stack or their process deck. You want someone who asks questions about your business before they ask about your budget. What are you actually trying to grow? Who are you trying to reach? What’s the gap between where you are and where you want to be?
+What you’re looking for in a partner is someone who asks questions about your business before they ask about your budget. What are you actually trying to grow? Who are you trying to reach? What’s the gap between where you are and where you want to be?
 
 That’s where good campaign strategy begins, and it’s what separates a useful marketing review from one that just confirms what you already suspected.
