@@ -12,7 +12,7 @@ tags:
 ---
 
 
-I know the word "audit" can be scary. Its connotation may be negative if you associate it with taxes. It also just sounds super official. But when it comes to marketing, audits aren't so bad. They can be summed up in one question: are we doing the best we can with our strategy?
+I know the word "audit" can be scary. Its connotation may be negative if you associate it with taxes. It also just sounds super official. But when it comes to marketing, audits aren't so bad. They can be summed up in one question: are you doing the best you can with your strategy?
 
 A lot has changed in the past few years, and it's important to keep up with those changes. New trends, new tools, and new best practices are always on the way in. More importantly, audience preferences are also changing. It's easy to stay stuck with one routine or strategy, but just like the industry is always changing, we also need to adapt.
 
@@ -25,7 +25,7 @@ A *LOT* of learning.
 
 You start going down a rabbit hole of things you need to do. "What should I prepare?" "What should I know?" "What will I need?"
 
-The more you research before you start, the longer you get nothing done. The best way to combat this is to just start doing.
+The more you research before you start, the longer nothing gets done. The best way to combat this is to just start doing.
 
 You don't need an entire team of researchers or the latest and greatest tools to run a comprehensive audit. All you really need is access to the right data, a way to organize it, and a way to easily analyze what you find. Analytics and reporting dashboards make great tools for showing where your efforts are paying off and where they need attention.
 
@@ -81,7 +81,7 @@ Once you're finished with the review, you should have a short list of actionable
 
 If you're a freelancer or take a more casual approach to client work, all you really need is a short list that includes 3 to 5 priorities ranked by how much effort they require and how much impact you think they will have.
 
-Each item on that list should have a clear strategy that tells you how you're going to implement that change, and a timeline of how long you think it will take. 
+Each item should include how you're going to act on it, and how long you think it will take.
 
 ## Who should be doing this with you
 
