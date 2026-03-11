@@ -77,6 +77,9 @@ A good marketing audit doesn't just look backwards at previous campaigns and str
 If you looked at your current strategy, could you launch a campaign next month? That means checking whether you have: 
 
 - A clear, specific offer
+- A well-defined target audience
+- High quality, on-brand creative assets
+- 
 
 ## What You Should Walk Away With
 A good marketing review ends with a short list, not a long one. If you’re working with an agency or consultant and they hand you a 60-page report with 40 recommendations, that’s a document, not a direction.
