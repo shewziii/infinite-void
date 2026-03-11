@@ -12,7 +12,7 @@ tags:
 ---
 
 
-I know the word "audit" can be scary. It's connotation may be negative if you associate the word with taxes. It also sounds super official. But when it comes to marketing, an audits aren't so bad. All they are can be summed up in one question: are we doing the best we can with our strategy?
+I know the word "audit" can be scary. It's connotation may be negative if you associate the word with taxes. It also just sounds super official. But when it comes to marketing, audits aren't so bad. All they are can be summed up in one question: are we doing the best we can with our strategy?
 
 A lot has changed in the past few years, and it's important to keep up with those changes. New trends, new tools, and new best practices are always on the way in. More importantly, audience preferences are also changing. It's easy to stay stuck with one routine or strategy, but just like the industry is always changing, we also need to change.
 
