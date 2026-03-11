@@ -63,7 +63,6 @@ I've seen so many companies confuse their campaigns and strategies with content 
 
 ## Don't just look backwards
 
-A good marketing review doesn’t only look backward. It also asks: if we wanted to launch a campaign next month, could we?
 That means checking whether you have:
 
 - A clear, specific offer that maps to a defined audience
@@ -73,7 +72,11 @@ That means checking whether you have:
 
 A marketing audit assesses your current strategy and helps identify its strengths and weaknesses, evaluating what’s working well and where changes need to be made to improve performance. ￼But the most useful version of that also sets you up to act. Reviewing what happened last year only matters if it changes what you do next.
 
+A good marketing audit doesn't just look backwards at previous campaigns and strategies. It also looks at where you are now, and where you might be in the future. 
 
+If you looked at your current strategy, could you launch a campaign next month? That means checking whether you have: 
+
+- A clear, specific offer
 
 ## What You Should Walk Away With
 A good marketing review ends with a short list, not a long one. If you’re working with an agency or consultant and they hand you a 60-page report with 40 recommendations, that’s a document, not a direction.
