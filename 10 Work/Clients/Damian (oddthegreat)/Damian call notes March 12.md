@@ -15,10 +15,10 @@ tags:
 ---
 
 ## Quick Context
-- Met on Discord/Threads — inbound lead
+- Met on Threads — inbound lead
 - Wants help getting clients through Instagram
 - Already updated his bio after initial feedback (coachable)
-- Handle: @thefruitkeeper | @oddthegreat on Threads
+- Handle: @oddthegreat on Threads
 
 ---
 
