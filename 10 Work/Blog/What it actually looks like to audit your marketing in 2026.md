@@ -35,9 +35,9 @@ Most of the information you need is already accessible in your existing tools. I
 A marketing review doesn’t need to cover everything at once. When I work through this with clients, these four areas tend to uncover the most useful information:
 
 ### 1. Where your audience is finding you
-This means looking at traffic sources, referral paths, and search behavior, and not just total visitor counts and interactions. A business might be generating solid web traffic or getting lots of engagement on their social media and still be losing most of it before a single conversion happens.
+This means looking at traffic sources, referral paths, and search behavior—not just total visitor counts and interactions. A business might be generating solid web traffic or getting lots of engagement on their social media and still be losing most of it before a single conversion happens.
 
-If you have a website connected to Google Analytics, 
+If you have a website connected to Google Analytics, you can use UTM links to track specific campaigns and traffic sources. This allows you to have an in-depth view of exactly where 
 
 ### 2. What your messaging is communicating
 
