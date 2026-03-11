@@ -14,8 +14,6 @@ tags:
 
 I know the word "audit" can be scary. Its connotation may be negative if you associate it with taxes. It also just sounds super official. But when it comes to marketing, audits aren't so bad. They can be summed up in one question: are you doing the best you can with your strategy?
 
-A lot has changed in the past few years, and it's important to keep up with those changes. New trends, new tools, and new best practices are always on the way in. More importantly, audience preferences are also changing. It's easy to stay stuck with one routine or strategy, but just like the industry is always changing, we also need to adapt.
-
 The brands that seem to be growing fast are the ones who check up on their strategies and do things right consistently, which starts with a clear, structured marketing review.
 
 ## It Starts With What You Have, Not What You Wish You Had
