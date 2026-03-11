@@ -81,7 +81,7 @@ Once you're finished with the review, you should have a short list of actionable
 
 If you're a freelancer or take a more casual approach to client work, all you really need is a short list that includes 3 to 5 priorities ranked by how much effort they require and how much impact you think they will have.
 
-Each item on that list should have a clear strategy that tells you how you're going to implement that change, and a timeline of how long you think that change will take. 
+Each item on that list should have a clear strategy that tells you how you're going to implement that change, and a timeline of how long you think it will take. 
 
 ## Who should be doing this with you
 
