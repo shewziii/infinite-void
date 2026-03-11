@@ -37,7 +37,7 @@ A marketing review doesn’t need to cover everything at once. When I work throu
 ### 1. Where your audience is finding you
 This means looking at traffic sources, referral paths, and search behavior—not just total visitor counts and interactions. A business might be generating solid web traffic or getting lots of engagement on their social media and still be losing most of it before a single conversion happens.
 
-If you have a website connected to Google Analytics, you can use UTM links to track specific campaigns and traffic sources. This allows you to have an in-depth view of exactly where 
+If you have a website connected to Google Analytics, you can use UTM links to track specific campaigns and traffic sources. This allows you to have an in-depth view of exactly where people are coming from.
 
 ### 2. What your messaging is communicating
 
