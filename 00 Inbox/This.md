@@ -1,1 +1,1 @@
-![[IMG_5020.png]]
+![[Carousel background.png]]
