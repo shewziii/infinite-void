@@ -49,7 +49,7 @@ Way too many brands just go for low-effort, quick wins that feel good in the sho
 
 ### 3. Which channels are worth the focus
 
-Use the tools you already have to compare your brand's performance across email, web, organic social, and paid social posts so you have a better understanding of which channels are working and which could use improvements. 
+Use the tools you already have to compare your brand's performance across email, web, organic social, and paid social posts so you have a better understanding of which channels are working and which could use improvement. 
 
 You also need to be honest with yourself. If one channel doesn't fit your brand goals right now, you probably don't need to spend as much time on it. The goal isn't to be everywhere, but to show up well in the places where your target market is. 
 
