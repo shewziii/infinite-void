@@ -1,22 +1,42 @@
+---
+client: Damian (oddthegreat)
+date: 2026-03-12
+type: discovery-call
+status: complete
+tags:
+  - clients
+  - discovery
+---
+
+# Discovery Call — Damian (oddthegreat)
+**Date:** March 12, 2026
+**Time:** 2:00 PM CST
+**Duration:**
+**Recording:** [paste link here]
+
+---
 
 ## Quick Context
-
-- Met on Threads—inbound lead
+- Met on Discord/Threads — inbound lead
 - Wants help getting clients through Instagram
 - Already updated his bio after initial feedback (coachable)
-- Handle: @oddthegreat
+- Handle: @thefruitkeeper | @oddthegreat on Threads
 
 ---
 
 ## What He Said
 
 ### His situation right now
+> 
 
 ### What he's already tried
+> 
 
 ### What success looks like for him
+> 
 
 ### Budget signals
+> 
 
 ---
 
@@ -30,36 +50,34 @@
 ---
 
 ## His Reactions
+> 
 
 ---
 
 ## Objections & How They Went
-
-|Objection|Response|Outcome|
-|---|---|---|
-||||
+| Objection | Response | Outcome |
+|-----------|----------|---------|
+| | | |
 
 ---
 
 ## Outcome
-
 - [ ] Interested — sending proposal
 - [ ] Booked — sending contract + intake
 - [ ] Not ready — follow up on ___________
 - [ ] Not a fit
 
-**Next step:** **Follow-up deadline:**
+**Next step:**
+**Follow-up deadline:**
 
 ---
 
 ## Action Items
-
-- [ ]
-- [ ]
-- [ ]
+- [ ] 
+- [ ] 
+- [ ] 
 
 ---
 
 ## Notes & Observations
-
 > Anything else — vibe, pace, what landed, what didn't.
