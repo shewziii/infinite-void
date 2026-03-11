@@ -69,7 +69,7 @@ If you looked at your current strategy, could you launch a campaign next month? 
 
 - A clear, specific offer
 - A well-defined target audience
-- High quality, on-brand creative assets
+- High-quality, on-brand creative assets
 - A [[The sales funnel is dead. There's a better way to map the consumer journey|funnel]] that leads can easily follow
 - A way to track whether that campaign will actually be successful
 
