@@ -41,7 +41,7 @@ If you have a website connected to Google Analytics, you can use UTM links to tr
 
 ### 2. What your messaging is communicating
 
-Pull up your homepage, your last three social media posts, and the most recent email you've sent out. Read them as if you were somebody else who just discovered or received that piece. Better yet, get someone else to read them. Ask them or yourself:
+Pull up your homepage, your last three social media posts, and the most recent email you've sent out. Read them as if you were somebody else who just came across your brand for the first time. Better yet, get someone else to read them. Ask them or yourself:
 
 - Is it clear what I do?
 - Is it clear who my brand is for?
