@@ -25,7 +25,7 @@ A *LOT* of learning.
 
 You start going down a rabbit hole of things you need to do. "What should I prepare?" "What should I know?" "What will I need?"
 
-The more you research what you want to learn or do, the longer you get nothing done. The best way to combat this is to just start doing.
+The more you research before you start, the longer you get nothing done. The best way to combat this is to just start doing.
 
 You don't need an entire team of researchers or the latest and greatest tools to run a comprehensive audit. All you really need is access to the right data, a way to organize it, and a way to easily analyze what you find. Analytics and reporting dashboards make great tools for showing where your efforts are paying off and where they need attention.
 
@@ -57,7 +57,7 @@ You also need to be honest with yourself. If one channel doesn't fit your brand 
 
 ### 4. Whether your campaigns connect to a real business outcome
 
-When you review your brand's goals and strategies, one of the main things to watch for is whether the content being used to promote your brand is focused on real outcomes, or whether they're focused on getting lots of views.
+When you review your brand's goals and strategies, one of the main things to watch for is whether the content being used to promote your brand is focused on real outcomes, or whether it's focused on getting lots of views.
 
 I've seen so many companies confuse their campaigns and strategies with content creation. This is especially common in social media, where they end up posting educational or entertaining content rather than what's actually going to spark the interest of their target market.
 
@@ -89,6 +89,6 @@ A marketing audit is more useful when someone outside your business is involved.
 
 When you choose that person, make sure they're someone who won't just agree to everything you already believe.
 
-The best person to have to help review your marketing—the best person for anything, really—is one who challenges you. Someone who wants to see you improve.
+The best person to have to help review your marketing—the best partner for anything, really—is one who challenges you. Someone who wants to see you improve.
 
 To paraphrase what author Jay Kristoff wrote, "If you're the smartest person in the room, you're in the wrong fucking room."
