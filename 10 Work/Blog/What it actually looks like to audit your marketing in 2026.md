@@ -87,4 +87,4 @@ Each item on that list should have a clear strategy that tells you how you're go
 
 A marketing audit is more useful when someone outside your business is involved. It’s easy to rationalize underperforming channels when you’ve invested time building them. A fresh set of eyes can uncover issues or opportunities that don’t always show up in a report.
 
-When you pick somebody to 
+When you pick somebody to be your fresh set of eyes, make sure they're someone who won't just say yes and agree to everything 
