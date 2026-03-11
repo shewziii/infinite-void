@@ -17,6 +17,7 @@ I know the word "audit" can be scary. Its connotation may be negative if you ass
 The brands that seem to be growing fast are the ones who check up on their strategies and do things right consistently, which starts with a clear, structured marketing review.
 
 ## It starts with what you have, not what you wish you had
+
 Before we get into it, I wanted to take a second to talk about a little thing everyone has dealt with called analysis paralysis. Essentially, analysis paralysis is what happens when you're thinking of doing something, and you end up doing some learning.
 
 A *LOT* of learning.
@@ -30,9 +31,11 @@ You don't need an entire team of researchers or the latest and greatest tools to
 Most of the information you need is already accessible in your existing tools. Instagram's professional dashboard, Google Analytics, and Meta Business Suite are all right in front of you—and they're free! Use them.
 
 ## Four Things Worth Looking at Closely
+
 A marketing review doesn’t need to cover everything at once. When I work through this with clients, these four areas tend to uncover the most useful information:
 
 ### 1. Where your audience is finding you
+
 This means looking at traffic sources, referral paths, and search behavior—not just total visitor counts and interactions. A business might be generating solid web traffic or getting lots of engagement on their social media and still be losing most of it before a single conversion happens.
 
 If you have a website connected to Google Analytics, you can use UTM links to track specific campaigns and traffic sources. This gives you an in-depth view of exactly where people are coming from.
