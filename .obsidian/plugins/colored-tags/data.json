@@ -12,6 +12,7 @@
   "knownTags": {
     "book": 2,
     "chess": 3,
+    "clients": 16,
     "content": 4,
     "dev": 8,
     "news": 9,
@@ -26,6 +27,7 @@
     "book/vampires": 7,
     "chess/concept": 1,
     "chess/opening": 1,
+    "clients/lead": 1,
     "content/blog": 1,
     "content/newsletter": 2,
     "dev/git": 1,
