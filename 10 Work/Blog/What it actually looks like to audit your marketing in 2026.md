@@ -37,6 +37,8 @@ A marketing review doesn’t need to cover everything at once. When I work throu
 ### 1. Where your audience is finding you
 This means looking at traffic sources, referral paths, and search behavior, and not just total visitor counts and interactions. A business might be generating solid web traffic or getting lots of engagement on their social media and still be losing most of it before a single conversion happens.
 
+If you have a website connected to Google Analytics, 
+
 ### 2. What your messaging is communicating
 
 Pull up your homepage, your last three social media posts, and the most recent email you've sent out. Read them as if you were somebody else who just discovered or received that piece. Better yet, get someone else to read them. Ask them or yourself:
