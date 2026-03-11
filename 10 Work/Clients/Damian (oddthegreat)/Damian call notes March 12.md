@@ -4,10 +4,8 @@ date: 2026-03-12
 type: discovery-call
 status: complete
 tags:
-  - clients
-  - discovery
+  - clients/call-notes
 ---
-
 # Discovery Call — Damian (oddthegreat)
 **Date:** March 12, 2026
 **Time:** 2:00 PM CST
