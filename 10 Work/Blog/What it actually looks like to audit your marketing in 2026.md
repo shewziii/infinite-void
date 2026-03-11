@@ -49,7 +49,7 @@ Pull up your homepage, your last three social media posts, and the most recent e
 
 Many brands are happy with quick wins. Way too many just go for low-effort, quick wins that feel good in the short term but don't really do anything for them long-term, which leads to their messaging being inconsistent and weak.
 
-### 3. Which channels are earning their place
+### 3. Which channels are worth the focus
 
 Use the tools you have access to to help you compare your brand's performance across email, web, organic social, and paid social posts so you have a better understanding of which channels are working and which could use improvements. 
 
