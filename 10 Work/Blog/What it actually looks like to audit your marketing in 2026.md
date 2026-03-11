@@ -47,7 +47,7 @@ Pull up your homepage, your last three social media posts, and the most recent e
 - Is it clear who my brand is for?
 - Is it clear what the next steps are?
 
-Many brands are happy with quick wins. Way too many just go for low-effort, quick wins that feel good in the short term but don't really do anything for them long-term, which leads to their messaging being inconsistent and weak.
+Way too many brands just go for low-effort, quick wins that feel good in the short term but don't really do anything for them long-term, which leads to their messaging being inconsistent and weak.
 
 ### 3. Which channels are worth the focus
 
