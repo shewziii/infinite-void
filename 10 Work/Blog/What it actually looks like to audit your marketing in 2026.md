@@ -59,7 +59,7 @@ When you review your brand's goals and strategies, one of the main things to wat
 
 I've seen so many companies confuse their campaigns and strategies with content creation. This is especially common in social media, where they end up posting educational or entertaining content rather than the content that's actually going to spark the interest of their target market.
 
-## The Part Most Audits Skip: Are You Ready to Run a Campaign Right Now?
+## Don't just look backwards
 
 A good marketing review doesn’t only look backward. It also asks: if we wanted to launch a campaign next month, could we?
 That means checking whether you have:
@@ -70,6 +70,8 @@ That means checking whether you have:
 - A way to track whether the campaign actually drove the outcome you wanted
 
 A marketing audit assesses your current strategy and helps identify its strengths and weaknesses, evaluating what’s working well and where changes need to be made to improve performance. ￼But the most useful version of that also sets you up to act. Reviewing what happened last year only matters if it changes what you do next.
+
+
 
 ## What You Should Walk Away With
 A good marketing review ends with a short list, not a long one. If you’re working with an agency or consultant and they hand you a 60-page report with 40 recommendations, that’s a document, not a direction.
