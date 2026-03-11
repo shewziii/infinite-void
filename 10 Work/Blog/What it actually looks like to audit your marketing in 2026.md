@@ -73,7 +73,7 @@ If you looked at your current strategy, could you launch a campaign next month? 
 - A [[The sales funnel is dead. There's a better way to map the consumer journey|funnel]] that leads can easily follow
 - A way to track whether that campaign will actually be successful
 
-A marketing audit assesses you current strategy and help identify its strengths and weaknesses, threats and opportunities, and what changes need to be made. Looking behind is only as useful as your plan to look ahead.
+A marketing audit assesses your current strategy and helps identify its strengths and weaknesses, threats and opportunities, and what changes need to be made. Looking behind is only as useful as your plan to look ahead.
 
 ## What You Should Walk Away With
 
