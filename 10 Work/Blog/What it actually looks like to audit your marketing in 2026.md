@@ -63,7 +63,7 @@ I've seen so many companies confuse their campaigns and strategies with content 
 
 ## Don't just look backwards
 
-A good marketing audit doesn't just look backwards at previous campaigns and strategies. It also looks at where you are now, and where you might be in the future. 
+A good marketing audit doesn't stop at previous campaigns and strategies. It also looks at where you are now, and where you might be in the future. 
 
 If you looked at your current strategy, could you launch a campaign next month? That means checking whether you have: 
 
