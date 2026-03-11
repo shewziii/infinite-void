@@ -2,11 +2,12 @@
 title: What it actually looks like to audit your marketing in 2026
 type:
   - blogpost
-topix: strategy
+topic: strategy
 writing-status:
-  - editing
-publish_date:
+  - published
+publish_date: 2026-03-11
 related:
+  - "[[The sales funnel is dead. There's a better way to map the consumer journey]]"
 tags:
   - content/blog/strategy
 ---
