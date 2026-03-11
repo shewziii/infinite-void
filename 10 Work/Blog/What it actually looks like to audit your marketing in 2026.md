@@ -85,7 +85,7 @@ Practically speaking, that usually means three to five priorities ranked by how 
 ---
 Once you're finished with the review, you should have a short list of actionable steps you need to take next. This looks different for everyone. If you're working for a client or a more formal employer, an executive summary of what you uncovered and main recommendations for what to do next is normal.
 
-If you're a freelancer or take a more casual approach to client work, all you really need is a short list that includes 3 to 5 priorities ranked by how much effort they require and how much impact you predic
+If you're a freelancer or take a more casual approach to client work, all you really need is a short list that includes 3 to 5 priorities ranked by how much effort they require and how much impact you think they will have. Each item on that list should have 
 
 ## A Word on Who Should Be Doing This With You
 A marketing audit is more useful when someone outside your business is involved. It’s easy to rationalize underperforming channels when you’ve invested time building them. A fresh set of eyes can surface issues or opportunities that don’t show up in a report.
