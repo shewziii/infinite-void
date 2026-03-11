@@ -63,15 +63,6 @@ I've seen so many companies confuse their campaigns and strategies with content 
 
 ## Don't just look backwards
 
-That means checking whether you have:
-
-- A clear, specific offer that maps to a defined audience
-- Creative assets that are current and on-brand
-- An email sequence or follow-up process for leads who respond
-- A way to track whether the campaign actually drove the outcome you wanted
-
-A marketing audit assesses your current strategy and helps identify its strengths and weaknesses, evaluating what’s working well and where changes need to be made to improve performance. ￼But the most useful version of that also sets you up to act. Reviewing what happened last year only matters if it changes what you do next.
-
 A good marketing audit doesn't just look backwards at previous campaigns and strategies. It also looks at where you are now, and where you might be in the future. 
 
 If you looked at your current strategy, could you launch a campaign next month? That means checking whether you have: 
@@ -79,7 +70,10 @@ If you looked at your current strategy, could you launch a campaign next month? 
 - A clear, specific offer
 - A well-defined target audience
 - High quality, on-brand creative assets
-- A funnel that leads 
+- A [[The sales funnel is dead. There's a better way to map the consumer journey|funnel]] that leads can easily follow
+- A way to track whether that campaign will actually be successful
+
+A marketing audit assesses you current strategy and help identify its strengths and weaknesses, threats and opportunities, and what changes need to be made. Looking behind is only as useful as your plan to look ahead.
 
 ## What You Should Walk Away With
 A good marketing review ends with a short list, not a long one. If you’re working with an agency or consultant and they hand you a 60-page report with 40 recommendations, that’s a document, not a direction.
