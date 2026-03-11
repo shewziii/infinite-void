@@ -48,12 +48,16 @@ Pull up your homepage, your last three social media posts, and the most recent e
 Many brands are happy with quick wins. Way too many just go for low-effort, quick wins that feel good in the short term but don't really do anything for them long-term, which leads to their messaging being inconsistent and weak.
 
 ### 3. Which channels are earning their place
-Channel-level performance metrics help you compare output across email, web, paid, and social, so you can make smarter calls on where to scale back or double down. ￼ The goal isn’t to be everywhere. It’s to show up well in the places where your audience is actually paying attention.
 
 Use the tools you have access to to help you compare your brand's performance across email, web, organic social, and paid social posts so you have a better understanding of which channels are working and which could use improvements. 
 
+You also need to be honest with yourself. If one channel doesn't fit your brand goals right now, you probably don't need to spend as much time on that channel. The goal isn't to be everywhere, but to show up well in the places where your target market is. 
+
 ### 4. Whether your campaigns connect to a real business outcome
+
 This is where most reviews fall short. One business spent £6,000 on paid ads with zero conversions tracked, with no idea if those clicks turned into phone calls, store visits, or actual sales. The campaigns were sending traffic to generic pages with no clear next steps. ￼ Spending money on traffic without knowing what happens next is one of the most common and most fixable problems we see.
+
+I've seen so many companies confuse their target market with a target audience. 
 
 ## The Part Most Audits Skip: Are You Ready to Run a Campaign Right Now?
 
