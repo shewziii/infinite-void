@@ -16,7 +16,7 @@ I know the word "audit" can be scary. Its connotation may be negative if you ass
 
 The brands that seem to be growing fast are the ones who check up on their strategies and do things right consistently, which starts with a clear, structured marketing review.
 
-## It Starts With What You Have, Not What You Wish You Had
+## It starts with what you have, not what you wish you had
 Before we get into it, I wanted to take a second to talk about a little thing everyone has dealt with called analysis paralysis. Essentially, analysis paralysis is what happens when you're thinking of doing something, and you end up doing some learning.
 
 A *LOT* of learning.
