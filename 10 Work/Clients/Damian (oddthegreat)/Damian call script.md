@@ -70,7 +70,9 @@ Estimated call length: 20–30 minutes. Goal: qualify, connect, and close to nex
 
 **You:** "Here's what's left. Your profile photo is still the AI avatar. But that portrait you posted on February 16 — dark background, suit, serious look? That post got 30 likes. The avatar got 8. Your audience already told you which version of you they want to hire. You just haven't made it your face yet."
 
-**You:** "And the grid still has some noise. The 'Stop Getting Scammed' graphic and the Back to Accra flyers — those aren't bad posts, but they don't belong on the same page as someone positioning himself as a creative director. A potential client lands there and can't tell if this is a business page or a personal one."
+**You:** "And the grid still has some noise. The 'Stop Getting Scammed' graphic and the Back to Accra flyers — those aren't bad posts, but they don't belong on the same page as someone positioning himself as a creative director. A potential client lands there and can't tell if this is a business page or a personal one.
+
+Right now your page looks like it's a promotional page rather than a creative director's page or portfolio. 
 
 **You:** "The good news: your credentials are real. Mavin, Tiwa Savage, Cokards. And you're clearly someone who moves fast when given direction. That's actually rare. The page just needs to reflect the person you already are."
 
