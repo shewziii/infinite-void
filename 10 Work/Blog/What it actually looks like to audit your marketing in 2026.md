@@ -12,22 +12,22 @@ tags:
 ---
 
 
-I know the word "audit" can be scary. It's connotation may be negative if you associate the word with taxes. It also just sounds super official. But when it comes to marketing, audits aren't so bad. All they are can be summed up in one question: are we doing the best we can with our strategy?
+I know the word "audit" can be scary. Its connotation may be negative if you associate it with taxes. It also just sounds super official. But when it comes to marketing, audits aren't so bad. They can be summed up in one question: are we doing the best we can with our strategy?
 
-A lot has changed in the past few years, and it's important to keep up with those changes. New trends, new tools, and new best practices are always on the way in. More importantly, audience preferences are also changing. It's easy to stay stuck with one routine or strategy, but just like the industry is always changing, we also need to change.
+A lot has changed in the past few years, and it's important to keep up with those changes. New trends, new tools, and new best practices are always on the way in. More importantly, audience preferences are also changing. It's easy to stay stuck with one routine or strategy, but just like the industry is always changing, we also need to adapt.
 
 The brands that seem to be growing fast are the ones who check up on their strategies and do things right consistently, which starts with a clear, structured marketing review.
 
 ## It Starts With What You Have, Not What You Wish You Had
 Before we get into it, I wanted to take a second to talk about a little thing everyone has dealt with called analysis paralysis. Essentially, analysis paralysis is what happens when you're thinking of doing something, and you end up doing some learning.
 
-A Lot of learning.
+A *LOT* of learning.
 
-You start going through a rabbit hole of things you need to do. "What should I prepare?" "What should I know?" "What will I need?"
+You start going down a rabbit hole of things you need to do. "What should I prepare?" "What should I know?" "What will I need?"
 
-The more you learn about what you want to learn or do, the longer you get nothing done. The best way to combat this is to just start doing.
+The more you research what you want to learn or do, the longer you get nothing done. The best way to combat this is to just start doing.
 
-You don't need an entire team of researchers or the latest and greatest tools to run a comprehensive audit. All you really need is access to the right data, a way to organize it, and a way to easily analyze what you find. Analytics and reporting dashboards make great tools for showing where your efforts are working and where they could use work.
+You don't need an entire team of researchers or the latest and greatest tools to run a comprehensive audit. All you really need is access to the right data, a way to organize it, and a way to easily analyze what you find. Analytics and reporting dashboards make great tools for showing where your efforts are paying off and where they need attention.
 
 Most of the information you need is already accessible in your existing tools. Instagram's professional dashboard, Google Analytics, and Meta Business Suite are all great tools you already have access to, so use them.
 
