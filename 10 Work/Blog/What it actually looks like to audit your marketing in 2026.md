@@ -55,9 +55,9 @@ You also need to be honest with yourself. If one channel doesn't fit your brand 
 
 ### 4. Whether your campaigns connect to a real business outcome
 
-This is where most reviews fall short. One business spent £6,000 on paid ads with zero conversions tracked, with no idea if those clicks turned into phone calls, store visits, or actual sales. The campaigns were sending traffic to generic pages with no clear next steps. ￼ Spending money on traffic without knowing what happens next is one of the most common and most fixable problems we see.
+When you review your brand's goals and strategies, one of the main things to watch for is whether the content being used to promote your brand are focused on real outcomes, or whether they're focused on getting lots of views.
 
-I've seen so many companies confuse their target market with a target audience. 
+I've seen so many companies confuse their campaigns and strategies with content creation. This is especially common in social media, where they end up posting educational or entertaining content rather than the content that's actually going to spark the interest of their target market.
 
 ## The Part Most Audits Skip: Are You Ready to Run a Campaign Right Now?
 
