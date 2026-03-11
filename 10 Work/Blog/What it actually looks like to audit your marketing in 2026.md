@@ -76,22 +76,12 @@ If you looked at your current strategy, could you launch a campaign next month? 
 A marketing audit assesses you current strategy and help identify its strengths and weaknesses, threats and opportunities, and what changes need to be made. Looking behind is only as useful as your plan to look ahead.
 
 ## What You Should Walk Away With
-A good marketing review ends with a short list, not a long one. If you’re working with an agency or consultant and they hand you a 60-page report with 40 recommendations, that’s a document, not a direction.
 
-The most useful outcome of a real audit is three things: visibility into what’s actually working (and what’s wasting money), a prioritized plan based on your business goals rather than generic advice, and the confidence to make decisions backed by evidence rather than guesswork.
-
-Practically speaking, that usually means three to five priorities ranked by how much effort they require versus how much impact they’re likely to have. Each one should have a clear owner and a rough timeline.
-
----
 Once you're finished with the review, you should have a short list of actionable steps you need to take next. This looks different for everyone. If you're working for a client or a more formal employer, an executive summary of what you uncovered and main recommendations for what to do next is normal.
 
 If you're a freelancer or take a more casual approach to client work, all you really need is a short list that includes 3 to 5 priorities ranked by how much effort they require and how much impact you think they will have.
 
-Each item on that list should have a clear strategy that tells you how you're going to implement that change, and a timeline of how long you think that change will take.
-
-The most useful outcome of an audit is three things:
-1. What's working
-2. 
+Each item on that list should have a clear strategy that tells you how you're going to implement that change, and a timeline of how long you think that change will take. 
 
 ## A Word on Who Should Be Doing This With You
 A marketing audit is more useful when someone outside your business is involved. It’s easy to rationalize underperforming channels when you’ve invested time building them. A fresh set of eyes can surface issues or opportunities that don’t show up in a report.
