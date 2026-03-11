@@ -55,7 +55,7 @@ You also need to be honest with yourself. If one channel doesn't fit your brand 
 
 ### 4. Whether your campaigns connect to a real business outcome
 
-When you review your brand's goals and strategies, one of the main things to watch for is whether the content being used to promote your brand is focused on real outcomes, or whether it's focused on getting lots of views.
+When you review your brand's goals and strategies, one of the main things to watch for is whether your content is focused on real outcomes, or just getting views.
 
 I've seen so many companies confuse their campaigns and strategies with content creation. This is especially common in social media, where they end up posting educational or entertaining content rather than what's actually going to spark the interest of their target market.
 
