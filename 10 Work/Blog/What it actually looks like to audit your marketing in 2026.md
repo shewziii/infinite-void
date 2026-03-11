@@ -90,7 +90,8 @@ If you're a freelancer or take a more casual approach to client work, all you re
 Each item on that list should have a clear strategy that tells you how you're going to implement that change, and a timeline of how long you think that change will take.
 
 The most useful outcome of an audit is three things:
-1. 
+1. What's working
+2. 
 
 ## A Word on Who Should Be Doing This With You
 A marketing audit is more useful when someone outside your business is involved. It’s easy to rationalize underperforming channels when you’ve invested time building them. A fresh set of eyes can surface issues or opportunities that don’t show up in a report.
