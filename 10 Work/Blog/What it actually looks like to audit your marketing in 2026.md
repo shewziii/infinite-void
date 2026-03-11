@@ -29,7 +29,7 @@ The more you research what you want to learn or do, the longer you get nothing d
 
 You don't need an entire team of researchers or the latest and greatest tools to run a comprehensive audit. All you really need is access to the right data, a way to organize it, and a way to easily analyze what you find. Analytics and reporting dashboards make great tools for showing where your efforts are paying off and where they need attention.
 
-Most of the information you need is already accessible in your existing tools. Instagram's professional dashboard, Google Analytics, and Meta Business Suite are all great tools you already have access to, so use them.
+Most of the information you need is already accessible in your existing tools. Instagram's professional dashboard, Google Analytics, and Meta Business Suite are all right in front of you—and they're free! Use them.
 
 ## Four Things Worth Looking at Closely
 A marketing review doesn’t need to cover everything at once. When I work through this with clients, these four areas tend to uncover the most useful information:
