@@ -83,7 +83,7 @@ The most useful outcome of a real audit is three things: visibility into what’
 Practically speaking, that usually means three to five priorities ranked by how much effort they require versus how much impact they’re likely to have. Each one should have a clear owner and a rough timeline.
 
 ---
-After you're done reviewing, you should have a list
+Once you're finished with the review, you should have a short list of actionable steps you need to take next. Unless your boss specifically asks you for a 
 
 ## A Word on Who Should Be Doing This With You
 A marketing audit is more useful when someone outside your business is involved. It’s easy to rationalize underperforming channels when you’ve invested time building them. A fresh set of eyes can surface issues or opportunities that don’t show up in a report.
