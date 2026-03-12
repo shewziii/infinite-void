@@ -17,6 +17,8 @@ Content has become so templatey and automated that few creators are standing out
 
 That said, the content that *does* make me stop and read is almost always worth it. The articles I find the most interesting are  saved, shared, and added to the more reading section of my newsletter. 
 
+Why is it that content has become a cesspool of 
+
 ## The internet has a sameness problem
 
 
