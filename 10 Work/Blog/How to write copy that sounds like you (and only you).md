@@ -11,4 +11,20 @@ related:
 tags:
   - content/blog
 ---
-## 
+Intro hook
+
+## The internet has a sameness problem
+
+## What does generic mean?
+
+## Voice isn't a "vibe." 
+
+## Three things that make your voice yours
+
+## How to find it if you lost it (or never had it)
+
+## How to test if it's working
+
+## Stay consistent
+
+Conclusion
