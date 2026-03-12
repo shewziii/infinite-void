@@ -21,7 +21,7 @@ Why do those pieces earn my trust while others don't? To answer that, we need to
 
 ## The internet has a sameness problem
 
-[74% of new web pages contain some AI-generated material](https://www.themarketingcloud.com/blog/avoiding-ai-slop). 
+Ahrefs analyzed 900k fresh web pages and found that only 25.8% were purely human-written—with 71.7% blending human and machine text. That means roughly 3 out of 4 pages your reader encounters right now have machine fingerprints on them [(The Marketing Cloud)](https://www.themarketingcloud.com/blog/avoiding-ai-slop). 
 
 ## What does generic mean?
 
