@@ -15,7 +15,7 @@ Every Sunday, I sit down to plan out my week. I brainstorm ideas, catch up on so
 
 It's not that they're copying each other either. It's that content has become so templatey and automated that few creators actually stand out. 
 
-That said, the content that *does* make me stop and read is almost always worth it. The author's voice feels like a real person, 
+That said, the content that *does* make me stop and read is almost always worth it. The author's voice feels like a real person, it feels like they're talking directly to me, and—most importantly—they're say
 
 ## The internet has a sameness problem
 
