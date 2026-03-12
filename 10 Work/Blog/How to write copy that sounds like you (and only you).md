@@ -15,7 +15,7 @@ The hardest part about planning my week every Sunday is that I read the same thi
 
 Content has become so templatey and automated that few creators are standing out and actually catching my attention, and most of it feels like a bunch of people got together in a group chat to make content together.
 
-That said, the content that *does* make me stop and read is almost always worth it. Every time, they make me feel like they're talking to me. They make me save their work for reference. Most importantly, they feel confident, unafraid to say something that goes against the grain. 
+That said, the content that *does* make me stop and read is almost always worth it. In fact, the confidence of one article actually made me want to write about it. The author 
 
 ## The internet has a sameness problem
 
