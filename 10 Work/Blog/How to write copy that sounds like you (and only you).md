@@ -11,7 +11,7 @@ related:
 tags:
   - content/blog
 ---
-Intro hook
+Every Sunday, I sit down to plan out my week. I brainstorm ideas, catch up on some of the latest trends, and find out what's new in the marketing world. 
 
 ## The internet has a sameness problem
 
