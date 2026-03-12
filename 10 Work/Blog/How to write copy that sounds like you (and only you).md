@@ -27,6 +27,10 @@ Now, don't get me wrong. I'm not one to completely condemn the use of AI. It's a
 
 It even reads that way. It's generic, sloppy, and its most exciting content puts me to sleep. While the writing AI produces is technically correct, the best it can produce is just... average.
 
+The reason for that is the way generative AI models train. They draw from the same pool of millions of content pieces, and come up with an average output based on the vast amount of information they're fed.
+
+With AI, writing content has also become incredibly fast and easy, but—as I said—at the expense of quality. 
+
 ## What does generic mean?
 
 ## Voice isn't a "vibe." 
