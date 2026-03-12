@@ -23,6 +23,10 @@ Why do those pieces earn my trust while others don't? To answer that, we need to
 
 Ahrefs analyzed 900k fresh web pages and found that only 25.8% were purely human-written—with 71.7% blending human and machine text. That means roughly 3 out of 4 pages your reader encounters right now have machine fingerprints on them [(The Marketing Cloud)](https://www.themarketingcloud.com/blog/avoiding-ai-slop). 
 
+Now, don't get me wrong. I'm not one to completely condemn the use of AI. It's a useful tool when it comes to research, organizing thoughts, and streamlining some tasks. However, I do believe that content written by AI is lazy content.
+
+It even reads that way. It's generic, sloppy, and its most exciting content puts me to sleep. While the writing AI produces is technically correct, the best it can produce is just... average.
+
 ## What does generic mean?
 
 ## Voice isn't a "vibe." 
