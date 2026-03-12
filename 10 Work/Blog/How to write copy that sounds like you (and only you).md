@@ -11,9 +11,9 @@ related:
 tags:
   - content/blog
 ---
-Every Sunday, I sit down to plan out my week. I brainstorm ideas, catch up on some of the latest trends, and find out what's new in the marketing world. The hardest part is that every week, I read the same thing over and over. I see the same post on LinkedIn that I saw last week. I see the same emails I saw a few days ago. I see the same Instagram posts  four times in a row. 
+Every Sunday, I sit down to plan out my week. I brainstorm ideas, catch up on some of the latest trends, and find out what's new in the marketing world. The hardest part is that every week, I read the same thing over and over. I see the same post on LinkedIn that I saw last week. I see the same emails I saw a few days ago. I see the same Instagram posts four times in a row. 
 
-These days, it's rared I see something that's actually interesting. 
+These days, it's rare I see something that's actually interesting. I don't want to see five different articles giving me the same "10 templates for viral..." 
 
 ## The internet has a sameness problem
 
