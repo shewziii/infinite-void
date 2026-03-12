@@ -19,6 +19,8 @@ That said, the content that *does* make me stop and read is almost always worth 
 
 ## The internet has a sameness problem
 
+
+
 ## What does generic mean?
 
 ## Voice isn't a "vibe." 
