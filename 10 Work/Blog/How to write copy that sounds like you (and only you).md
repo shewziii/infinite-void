@@ -21,7 +21,7 @@ Why do those pieces earn my trust while others don't? To answer that, we need to
 
 ## The internet has a sameness problem
 
-
+According to Ahrefs,[ 74% of new web pages contain some AI-generated material](). 
 
 ## What does generic mean?
 
