@@ -33,7 +33,7 @@ With AI, writing content has also become incredibly fast and easy, but—as I sa
 
 ## What does generic mean?
 
-
+""
 
 ## Voice isn't a "vibe." 
 
