@@ -75,3 +75,5 @@ Conclusion
 Land on something the reader can do right now — not a philosophy, not a reminder of what they learned. A single sentence that moves them. Something like: _Pull up the last piece of copy you wrote and cover your name. If it could belong to anyone, you know where to start._
 
 CTA
+
+Single ask. If you help clients find and document their voice, this is the conversion point. Something like: _"If you've got a brand but your copy doesn't sound like it — DM me [or contact CTA] and let's figure out what's missing."_
