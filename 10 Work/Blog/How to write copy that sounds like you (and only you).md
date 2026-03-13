@@ -33,10 +33,6 @@ With AI, writing content has also become incredibly fast and easy, but—as I sa
 
 ## What does generic mean?
 
-- 2-3 generic phrases
-- call reader out gently. everyone has used these
-- the fix is to know what your voice actually is
-
 "In today's fast paced digital landscape..."
 "...so you can leverage actionable insights to drive meaningful engagement."
 "We deliver results driven solutions tailored to your needs."
@@ -50,6 +46,10 @@ Another reason generic copy has become so normalized is the way people feel abou
 When they start out, they don't have the confidence of an experienced player. They play it safe. Often, because they don't have a specific niche picked out, don't know who their target audience is, or they don't want to alienate potential customers. 
 
 They look at what others are doing, see what's working, and they try to replicate it. Lo and behold, generic content. 
+
+But everyone starts somewhere. The brands that succeed have one thing in common:
+
+They have their own voice and—more importantly—they know what it is.
 
 ## Voice isn't a "vibe." 
 
