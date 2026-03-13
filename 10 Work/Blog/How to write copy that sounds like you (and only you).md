@@ -29,7 +29,7 @@ It even reads that way. It's generic, sloppy, and its most exciting content puts
 
 The reason for that is the way generative AI models train. They draw from the same pool of millions of content pieces, and come up with an average output based on the vast amount of information they're fed.
 
-With AI, writing content has also become incredibly fast and easy, but—as I said—at the expense of quality. 
+With AI, writing content has also become incredibly fast and easy, but—as I said—at the expense of quality. The more content being pushed out, the less personality shows through.
 
 ## What does generic mean?
 
