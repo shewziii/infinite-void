@@ -38,8 +38,10 @@ With AI, writing content has also become incredibly fast and easy, but—as I sa
 - the fix is to know what your voice actually is
 
 "In today's fast paced digital landscape..."
-"...so you can leverage actionable insights to drive meaningful engagement"
+"...so you can leverage actionable insights to drive meaningful engagement."
+"We deliver results driven solutions tailored to your needs."
 
+I know for a fact these sound familiar to you. 
 
 ## Voice isn't a "vibe." 
 
