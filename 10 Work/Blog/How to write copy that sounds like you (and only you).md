@@ -17,7 +17,7 @@ Content has become so templatey and automated that few creators are standing out
 
 That said, the content that *does* make me stop and read is almost always worth it. The articles I find the most interesting are  saved, shared, and added to the more reading section of my newsletter. 
 
-Why do those pieces earn my trust while others don't? To answer that, we need to look at the bigger picture.
+Why do those pieces earn my trust while others don't?
 
 ## The internet has a sameness problem
 
@@ -29,7 +29,7 @@ It even reads that way. It's generic, sloppy, and its most exciting content puts
 
 The reason for that is the way generative AI models train. They draw from the same pool of millions of content pieces, and come up with an average output based on the vast amount of information they're fed.
 
-With AI, writing content has also become incredibly fast and easy, but—as I said—at the expense of quality. The more content being pushed out, the less personality shows through. In other words, generic.
+With AI, writing content has also become incredibly fast and easy, but—as I said—at the expense of quality. The more content being pushed out, the less personality shows through.
 
 ## What does generic mean?
 
