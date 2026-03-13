@@ -49,7 +49,7 @@ Another reason generic copy has become so normalized is the way people feel abou
 
 When they start out, they don't have the confidence of an experienced player. They play it safe. Often, because they don't have a specific niche picked out, don't know who their target audience is, or they don't want to alienate potential customers. 
 
-They look at what others are doing, see what's working, and they try to replicate it. 
+They look at what others are doing, see what's working, and they try to replicate it. Lo and behold, generic content. 
 
 
 ## Voice isn't a "vibe." 
