@@ -65,6 +65,13 @@ With AI, writing content has also become incredibly fast and easy, but—as I sa
 
 ## Stay consistent
 
+- Voice isn't just what you sound like at your best — it's what you sound like under pressure (a deadline post, a quick caption, a cold email)
+- Brands with high consistency see 20% higher retention. But consistency requires documentation, not just intention.
+- The practical tool: a one-page voice reference. Three things you always do, three things you never do, two examples of your voice at its best.
+- This is what you build for clients — and what most brands are missing.
+
 Conclusion
+
+Land on something the reader can do right now — not a philosophy, not a reminder of what they learned. A single sentence that moves them. Something like: _Pull up the last piece of copy you wrote and cover your name. If it could belong to anyone, you know where to start._
 
 CTA
