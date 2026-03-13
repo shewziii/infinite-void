@@ -39,9 +39,16 @@ With AI, writing content has also become incredibly fast and easy, but—as I sa
 
 ## Voice isn't a "vibe." 
 
-- 
+- Most people describe their brand voice in adjectives (conversational, bold, warm) — but adjectives don't write copy. Decisions do.
+- Three decisions that actually define a voice: **how you open** (scene vs. thesis), **what you reference** (personal experience vs. general knowledge), **how you end** (actionable vs. philosophical)
+- Reference your own tone guide here organically — you don't tell people what to think, you put them inside an experience and let them arrive at the conclusion. That's a _decision_, not a vibe.
+- Internal link opportunity: [10 Copywriting Tips] — especially "write like you talk" and "write to one person"
 
 ## Three things that make your voice yours
+
+- Signature openings — how does your writing physically start? In a scene, in a question, in a stat?
+- Recurring observations — what do you notice that other people in your space don't?
+- The thing you never say — corporate language, hedge phrases, generic CTAs. Your "never list" is as defining as your "always list."
 
 ## How to find it if you lost it (or never had it)
 
