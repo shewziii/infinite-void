@@ -41,7 +41,9 @@ With AI, writing content has also become incredibly fast and easy, but—as I sa
 "...so you can leverage actionable insights to drive meaningful engagement."
 "We deliver results driven solutions tailored to your needs."
 
-I know for a fact these sound familiar to you. Everyone has used at least one variation of these at one point or another. These phrases have been used in copywriting for so long that
+I know for a fact these sound familiar to you. Everyone has used at least one variation of these at one point or another. These phrases have been used in copywriting for so long that they've just become generic and outdated. 
+
+So what does generic actually mean?
 
 ## Voice isn't a "vibe." 
 
