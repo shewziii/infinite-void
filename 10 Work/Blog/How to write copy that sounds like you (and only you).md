@@ -43,6 +43,13 @@ With AI, writing content has also become incredibly fast and easy, but—as I sa
 
 I know for a fact these sound familiar to you. Everyone has used at least one variation of these at one point or another. These phrases have been used in copywriting for so long that they've just become generic and outdated. 
 
+Especially since AI became popular in content creation. 
+
+Another reason generic copy has become so normalized is the way people feel about their own writing. I see it in many pieces by personal service brands and entrepreneurs. 
+
+When they start out, they don't have the confidence of an experienced player. They play it safe. Often, because they don't have a specific niche picked out, don't know who their target audience is, or they don't want to alienate potential customers. 
+
+They look at what others are doing, see what's working, and they try to replicate it. 
 
 
 ## Voice isn't a "vibe." 
