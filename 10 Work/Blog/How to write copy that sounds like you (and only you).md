@@ -35,9 +35,11 @@ With AI, writing content has also become incredibly fast and easy, but—as I sa
 
 - 2-3 generic phrases
 - call reader out gently. everyone has used these
-- 
+- the fix is to know what your voice actually is
 
 ## Voice isn't a "vibe." 
+
+- 
 
 ## Three things that make your voice yours
 
