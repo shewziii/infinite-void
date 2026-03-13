@@ -51,7 +51,6 @@ When they start out, they don't have the confidence of an experienced player. Th
 
 They look at what others are doing, see what's working, and they try to replicate it. Lo and behold, generic content. 
 
-
 ## Voice isn't a "vibe." 
 
 - Most people describe their brand voice in adjectives (conversational, bold, warm) — but adjectives don't write copy. Decisions do.
