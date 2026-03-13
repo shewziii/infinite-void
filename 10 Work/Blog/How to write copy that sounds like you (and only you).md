@@ -33,7 +33,9 @@ With AI, writing content has also become incredibly fast and easy, but—as I sa
 
 ## What does generic mean?
 
-""
+- 2-3 generic phrases
+- call reader out gently. everyone has used these
+- 
 
 ## Voice isn't a "vibe." 
 
