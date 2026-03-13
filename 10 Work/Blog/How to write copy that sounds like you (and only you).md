@@ -52,7 +52,16 @@ With AI, writing content has also become incredibly fast and easy, but—as I sa
 
 ## How to find it if you lost it (or never had it)
 
+- The 3-piece audit: pull your best-performing piece of writing, your worst, and one you wrote fast without overthinking. The fast one usually sounds most like you.
+- Read it out loud. Where do you stumble? That's where the voice broke down.
+- Find your recurring sentence structures — short punchy close, longer build-up, em dash emphasis. These are already yours.
+- Tie to the research: a brand voice isn't invented. It's extracted.
+
 ## How to test if it's working
+
+- Cover the byline. Could this have come from anyone in your industry?
+- If yes: find the sentence where you started writing _for_ an imagined reader instead of _to_ one specific person. That's where you went generic.
+- Internal link opportunity: [Why Your Cold Emails Suck] — Josh's email is a perfect example of voice collapsing under "what if I just keep it broad"
 
 ## Stay consistent
 
