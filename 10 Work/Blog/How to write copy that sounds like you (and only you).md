@@ -37,6 +37,8 @@ With AI, writing content has also become incredibly fast and easy, but—as I sa
 - call reader out gently. everyone has used these
 - the fix is to know what your voice actually is
 
+"In today's fast paced digital landscape..."
+"...so you can leverage actionable insights to drive meaningful engagement"
 
 
 ## Voice isn't a "vibe." 
