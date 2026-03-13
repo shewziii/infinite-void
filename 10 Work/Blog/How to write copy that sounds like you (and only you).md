@@ -43,6 +43,8 @@ With AI, writing content has also become incredibly fast and easy, but—as I sa
 
 I know for a fact these sound familiar to you. Everyone has used at least one variation of these at one point or another. These phrases have been used in copywriting for so long that they've just become generic and outdated. 
 
+
+
 ## Voice isn't a "vibe." 
 
 - Most people describe their brand voice in adjectives (conversational, bold, warm) — but adjectives don't write copy. Decisions do.
