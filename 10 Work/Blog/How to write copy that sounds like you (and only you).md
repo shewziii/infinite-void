@@ -116,7 +116,9 @@ All it took was for Josh to do his homework and find out who he was talking to. 
 - The practical tool: a one-page voice reference. Three things you always do, three things you never do, two examples of your voice at its best.
 - This is what you build for clients — and what most brands are missing.
 
-Have you ever listened to a new song and liked it so much that you went to the artist's page, only to find that the rest of their discography didn't really do it for you? The same applies to your copywriting. 
+Have you ever listened to a new song and liked it so much that you went to the artist's page, only to find that the rest of their discography was completely different? The same applies to your copywriting. 
+
+Voice isn't just what you sound like at your best. 
 
 Conclusion
 
