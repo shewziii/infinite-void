@@ -111,11 +111,6 @@ All it took was for Josh to do his homework and find out who he was talking to. 
 
 ## Stay consistent
 
-- Voice isn't just what you sound like at your best — it's what you sound like under pressure (a deadline post, a quick caption, a cold email)
-- Brands with high consistency see 20% higher retention. But consistency requires documentation, not just intention.
-- The practical tool: a one-page voice reference. Three things you always do, three things you never do, two examples of your voice at its best.
-- This is what you build for clients — and what most brands are missing.
-
 Have you ever listened to a new song and liked it so much that you went to the artist's page, only to find that the rest of their discography was completely different? The same applies to your copywriting. 
 
 Voice isn't just what you sound like at your best. What do you sound like under pressure, when you're writing under a tight deadline or sending out a cold email? The way you consistently sound is what your audience sees as your voice.
