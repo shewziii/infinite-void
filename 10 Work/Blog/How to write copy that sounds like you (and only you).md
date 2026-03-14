@@ -58,7 +58,7 @@ They have their own voice and—more importantly—they know what it is.
 - Reference your own tone guide here organically — you don't tell people what to think, you put them inside an experience and let them arrive at the conclusion. That's a _decision_, not a vibe.
 - Internal link opportunity: [10 Copywriting Tips] — especially "write like you talk" and "write to one person"
 
-
+How would you describe your own tone of voice? Conversational? Warm? Bold? While not inherently bad, describing your voice with generic adjectives that could describe anyone else's is basic. Instead of thinking of your voice as a list of adjectives, think of it as a series of decisions. 
 
 ## Three things that make your voice yours
 
