@@ -126,6 +126,8 @@ Consistency turns your voice into a brand, which is why it's so important to ref
 
 ![[how consistency impacts engagement.png|How consistency impacts engagement (Buffer)|400]]
 
+I
+
 Conclusion
 
 Land on something the reader can do right now — not a philosophy, not a reminder of what they learned. A single sentence that moves them. Something like: _Pull up the last piece of copy you wrote and cover your name. If it could belong to anyone, you know where to start._
