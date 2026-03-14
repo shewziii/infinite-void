@@ -73,15 +73,16 @@ If you have a distinct, well implemented, all-yours tone of voice, their answer 
 
 You could also look at this post you're reading right now. Did you notice how I opened with a scene? Or how I let examples do the teaching for me? How I never end on a theoretical note? How I ask rhetorical questions like no tomorrow? Sure you could describe this post as conversational, warm, and bold, but it's the decisions I make that make my voice *mine*.
 
-## Three things that make your voice yours
+## The Three O's
 
 - Signature openings — how does your writing physically start? In a scene, in a question, in a stat?
 - Recurring observations — what do you notice that other people in your space don't?
 - The thing you never say — corporate language, hedge phrases, generic CTAs. Your "never list" is as defining as your "always list."
 
-There are so many things that make a unique voice, but for simplicity's sake—and the sake of some of your attention spans—and to keep this post from becoming a [word for long article in the academic or professional space], I've broken it down to 3 things. 
+There are so many things that make a unique voice, but for simplicity's sake—and the sake of some of your attention spans—and to keep this post from becoming a [word for long article in the academic or professional space], I've broken it down into what I like to call The Three O's.
 
 ### Openings
+
 
 
 ### Observations
