@@ -93,9 +93,9 @@ This is less of a strategy and more just something I do simply because it's just
 
 ### Omissions
 
-The things you never do are just as important as what you always do. Are there certain phrases you never use? Words you never say? 
+The things you never do are just as important as what you always do. Are there certain phrases you never use? Words you never say? Sentence structure you don't like? That's not a mistake. That's deliberation (I'm so sorry).
 
-Those boundaries you set for your voice are  
+ In a lot of personal brand voice guides, people just list out what they always do, but the refusal is where the voice is hiding. 
 
 ## How to find it if you lost it (or never had it)
 
