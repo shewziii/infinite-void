@@ -101,10 +101,6 @@ Look for patterns in your writing. What sentence structure do you use? What word
 
 ## How to test if it's working
 
-- Cover the byline. Could this have come from anyone in your industry?
-- If yes: find the sentence where you started writing _for_ an imagined reader instead of _to_ one specific person. That's where you went generic.
-- Internal link opportunity: [Why Your Cold Emails Suck]—Josh's email is a perfect example of voice collapsing under "what if I just keep it broad"
-
 Just like anything else in marketing, you need to test if your copywriting is working. Look at something you wrote and read it out loud. Does it sound like anyone could have written it? One of the main things that makes writing generic is if it sounds like it was written for everyone rather than just one person. 
 
 I wrote a whole post about this about a former client of mine who we'll call Josh. The main issue Josh faced is that he was sending the same generic email to every lead. He sent hundreds of that same email to everyone. 
@@ -113,14 +109,14 @@ The email was generic, unspecific, and played it so safe that it wasn't even cle
 
 All it took was for Josh to do his homework and find out who he was talking to. [[Why your cold emails suck (and how to fix them)|You can read the full post here]].
 
-Take 15 minutes
-
 ## Stay consistent
 
 - Voice isn't just what you sound like at your best — it's what you sound like under pressure (a deadline post, a quick caption, a cold email)
 - Brands with high consistency see 20% higher retention. But consistency requires documentation, not just intention.
 - The practical tool: a one-page voice reference. Three things you always do, three things you never do, two examples of your voice at its best.
 - This is what you build for clients — and what most brands are missing.
+
+Your voice isn't something you reserve for your best work. 
 
 Conclusion
 
