@@ -118,7 +118,9 @@ All it took was for Josh to do his homework and find out who he was talking to. 
 
 Have you ever listened to a new song and liked it so much that you went to the artist's page, only to find that the rest of their discography was completely different? The same applies to your copywriting. 
 
-Voice isn't just what you sound like at your best. 
+Voice isn't just what you sound like at your best. What do you sound like under pressure, when you're writing under a tight deadline or sending out a cold email? The way you consistently sound is what your audience sees as your voice.
+
+Consistency turns your voice into a brand, which is why it's so important to refine. 
 
 Conclusion
 
