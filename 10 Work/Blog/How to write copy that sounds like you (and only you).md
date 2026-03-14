@@ -87,7 +87,7 @@ The hook. The thesis. The over-opinionated anecdote. How a piece opens says a lo
 
 ### Observations
 
-
+Many writers have something they keep coming back to across their work. 
 
 ### Omissions
 
