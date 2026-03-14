@@ -126,7 +126,9 @@ Consistency turns your voice into a brand, which is why it's so important to ref
 
 ![[how consistency impacts engagement.png|How consistency impacts engagement (Buffer)|400]]
 
-That's just for posting content. When it comes to consistent voice use, the results are similar. Envive sites that consistent brand voice is reported to contribute to a 23-33% increase in revenue, with 86% of customers saying that authenticity is a key factor in their decision to support brands. 
+That's just for posting content. When it comes to consistent voice use, the results are similar. [Envive](https://www.envive.ai/post/brand-voice-consistency-statistics-in-ecommerce) cites that consistent brand voice is reported to contribute to a 23-33% increase in revenue, with 86% of customers saying that authenticity is a key factor in their decision to support brands. 
+
+
 
 Conclusion
 
