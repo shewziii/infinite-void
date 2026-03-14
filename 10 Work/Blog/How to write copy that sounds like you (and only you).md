@@ -60,11 +60,13 @@ They have their own voice and—more importantly—they know what it is.
 
 How would you describe your own tone of voice? Conversational? Warm? Bold? While not inherently bad, describing your voice with generic adjectives that could describe anyone else's is basic. You can describe a hundred different brands as conversational, warm, and bold, and every single one can sound completely different.
 
-And isn't conversational the standard? How often do you come across cold writing? Professional and friendly are not differentiators. 
+And isn't conversational the expected? How often do you come across cold writing? Professional and friendly are not differentiators. 
 
-So instead of only thinking of your voice as a list of adjectives, think of it as a series of decisions. 
+So instead of only thinking of your voice as a list of adjectives, also think of it as a series of decisions. 
 
-How do you open? Are you more of a storyteller or do theses sound more like you?
+- How do you open? Are you more of a storyteller or do theses sound more like you?
+- How do you present information? Do you reference personal experience or do you prefer data?
+- How do you end? 
 
 ## Three things that make your voice yours
 
