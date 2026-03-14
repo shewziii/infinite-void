@@ -107,7 +107,13 @@ Look for patterns in your writing. What sentence structure do you use? What word
 
 Just like anything else in marketing, you need to test if your copywriting is working. Look at something you wrote and read it out loud. Does it sound like anyone could have written it? One of the main things that makes writing generic is if it sounds like it was written for everyone rather than just one person. 
 
-I wrote a whole post about this about a former client of mine who we'll call Josh. You can find the whole post [here](/write-better-cold-emails). The main issue I addressed in that article was that Josh was sending the same generic email to every lead 
+I wrote a whole post about this about a former client of mine who we'll call Josh. The main issue Josh faced is that he was sending the same generic email to every lead. He sent hundreds of that same email to everyone. 
+
+The email was generic, unspecific, and played it so safe that it wasn't even clear what Josh did in the first place. When we sat down to work it out and targeted one person with his own voice, he got a response. 
+
+All it took was for Josh to do his homework and find out who he was talking to. [[Why your cold emails suck (and how to fix them)|You can read the full post here]].
+
+Take 15 minutes
 
 ## Stay consistent
 
