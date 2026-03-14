@@ -93,18 +93,13 @@ The things you never do are just as important as what you always do. Are there c
 
 ## How to find it if you lost it (or never had it)
 
-- The 3-piece audit: pull your best-performing piece of writing, your worst, and one you wrote fast without overthinking. The fast one usually sounds most like you.
-- Read it out loud. Where do you stumble? That's where the voice broke down.
-- Find your recurring sentence structures—short punchy close, longer build-up, em dash emphasis. These are already yours.
-- Tie to the research: a brand voice isn't invented. It's extracted.
-
 Now that you have an understanding of what makes a unique brand voice, it's time to find yours. 
 
 The first step is to review your current work. Pull three pieces from your archive, whether that's from Instagram, Pinterest, your newsletter, or your blog. One should be your best performing piece, another your worst, and one you felt was just pushed out.
 
 Read through all of them and take note of things they have in common and what makes them different. Your best performing piece should tell you what your audience likes about your voice. Your worst piece should tell you what didn't work and help you understand what to keep and what to stop doing. The piece you just pushed out will uncover some bits of your voice you might not have thought about before.
 
-Look for patterns in your writing. What sentence structure do you use? What words do you like? The 
+Look for patterns in your writing. What sentence structure do you use? What words do you like? Make a list and describe those things. All the decisions you make and want to keep are what makes your voice, and those patterns help you make those decisions. Your voice isn't something you just create one day, but extracted from what you already have.
 
 ## How to test if it's working
 
