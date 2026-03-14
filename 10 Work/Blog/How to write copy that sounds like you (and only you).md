@@ -101,7 +101,7 @@ Look for patterns in your writing. What sentence structure do you use? What word
 
 ## How to test if it's working
 
-Just like anything else in marketing, you need to test if your copywriting is working. Look at something you wrote and read it out loud. Does it sound like anyone could have written it? One of the main things that makes writing generic is if it sounds like it was written for everyone rather than just one person. 
+Look at something you wrote and read it out loud. Does it sound like anyone could have written it? One of the main things that makes writing generic is if it sounds like it was written for everyone rather than just one person. 
 
 I wrote a whole post about this about a former client of mine who we'll call Josh. The main issue Josh faced is that he was sending the same generic email to every lead. He sent hundreds of that same email to everyone. 
 
@@ -123,7 +123,7 @@ Consistency turns your voice into a brand, which is why it's so important to ref
 
 That's just for posting content. When it comes to consistent voice use, the results are similar. [Envive](https://www.envive.ai/post/brand-voice-consistency-statistics-in-ecommerce) cites that consistent brand voice is reported to contribute to a 23-33% increase in revenue, with 86% of customers saying that authenticity is a key factor in their decision to support brands. 
 
-One way to stay consistent is to create a document that describes you voice and provides a guideline to stick to. Another way to stay consistent is to actually use that document—too many brands have one and just let it collect dust. 
+One way to stay consistent is to create a document that describes your voice and provides a guideline to stick to. Another way to stay consistent is to actually use that document—too many brands have one and just let it collect dust. 
 
 In it, have some examples of your best work for reference, at least five things you always do, and five things you never do. The more detailed this document is, the more useful it will be to you.
 
