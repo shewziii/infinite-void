@@ -85,6 +85,8 @@ There are so many things that make a unique voice, but for simplicity's sake—a
 
 The hook. The thesis. The over-opinionated anecdote. How a piece opens says a lot about a creator's voice. Some writers prefer to get the reader thinking, and some like to present information so nothing is left to interpretation. 
 
+Whatever way you decide to open, make sure you're aware of it and whether you're doing it on purpose or just falling into it.
+
 ### Observations
 
 Many writers have something they keep coming back to across their work. For me, it's the gap between what a brand says they are and do, and what they say in their copy. 
