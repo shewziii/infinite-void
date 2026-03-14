@@ -74,7 +74,7 @@ Let's do a quick little exercise (or skip ahead if you want. I won't judge).
 
 Take a second to find a piece you like. Read it through the eyes of somebody who doesn't know who you are. Better yet, get someone who does know you and your content to read something you wrote, and ask them if they've read that style before. 
 
-If you have a distinct, well implemented, all-yours tone of voice, their answer should be "yes, it's yours."
+If you have a distinct, well implemented, all-yours tone of voice, their answer should be "yes, it's yours." If not... well, you have some work to do.
 
 ## Three things that make your voice yours
 
