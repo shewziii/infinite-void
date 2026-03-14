@@ -72,7 +72,7 @@ Or do you do a mix?
 
 Let's do a quick little exercise (or skip ahead if you want. I won't judge). 
 
-Take a second to find a piece you like. 
+Take a second to find a piece you like. Read it through the eyes of somebody who doesn't know who you are. Better yet, 
 
 ## Three things that make your voice yours
 
