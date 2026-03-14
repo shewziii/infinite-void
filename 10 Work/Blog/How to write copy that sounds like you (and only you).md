@@ -58,6 +58,8 @@ They have their own voice and—more importantly—they know what it is.
 - Reference your own tone guide here organically — you don't tell people what to think, you put them inside an experience and let them arrive at the conclusion. That's a _decision_, not a vibe.
 - Internal link opportunity: [10 Copywriting Tips] — especially "write like you talk" and "write to one person"
 
+
+
 ## Three things that make your voice yours
 
 - Signature openings — how does your writing physically start? In a scene, in a question, in a stat?
