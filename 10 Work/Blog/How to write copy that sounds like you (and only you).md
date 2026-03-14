@@ -130,7 +130,7 @@ That's just for posting content. When it comes to consistent voice use, the resu
 
 One way to stay consistent is to create a document that describes you voice and provides a guideline to stick to. Another way to stay consistent is to actually use that document—too many brands have one and just let it collect dust. 
 
-In it, have some examples of your best work for reference, at least five things you always do, and 5 things you never do. The more detailed this document is, the more useful it will be to you. If you don't have an editor or anyone to check your writing, you can upload this to Claude to help check your own writing for consistency. 
+In it, have some examples of your best work for reference, at least five things you always do, and 5 things you never do. The more detailed this document is, the more useful it will be to you.
 
 Conclusion
 
