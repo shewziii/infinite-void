@@ -122,6 +122,8 @@ Voice isn't just what you sound like at your best. What do you sound like under 
 
 Consistency turns your voice into a brand, which is why it's so important to refine. If you have one piece with your voice, that's just attention. If you have ten posts with the same voice, you're gaining trust. 
 
+Buffer analyzed millions of posts and found that accounts posting consistently for 20 or more weeks saw significantly higher median engagement than inconsistent ones. The gap between highly consistent and inconsistent wasn't close.
+
 ![[how consistency impacts engagement.png|How consistency impacts engagement (Buffer)|400]]
 
 Conclusion
