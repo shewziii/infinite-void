@@ -84,7 +84,10 @@ There are so many things that make a unique voice, but for simplicity's sake—a
 ### Openings
 
 
-### 
+### Observations
+
+
+### Omissions
 
 ## How to find it if you lost it (or never had it)
 
