@@ -76,6 +76,8 @@ Take a second to find a piece you like. Read it through the eyes of somebody who
 
 If you have a distinct, well implemented, all-yours tone of voice, their answer should be "yes, it's yours." If not... well, you have some work to do.
 
+You could also look at this post you're reading right now. Did you notice how I opened with a scene? 
+
 ## Three things that make your voice yours
 
 - Signature openings — how does your writing physically start? In a scene, in a question, in a stat?
