@@ -79,6 +79,8 @@ You could also look at this post you're reading right now. Did you notice how I 
 - Recurring observations — what do you notice that other people in your space don't?
 - The thing you never say — corporate language, hedge phrases, generic CTAs. Your "never list" is as defining as your "always list."
 
+
+
 ## How to find it if you lost it (or never had it)
 
 - The 3-piece audit: pull your best-performing piece of writing, your worst, and one you wrote fast without overthinking. The fast one usually sounds most like you.
