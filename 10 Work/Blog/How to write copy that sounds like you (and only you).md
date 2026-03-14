@@ -105,7 +105,9 @@ Look for patterns in your writing. What sentence structure do you use? What word
 - If yes: find the sentence where you started writing _for_ an imagined reader instead of _to_ one specific person. That's where you went generic.
 - Internal link opportunity: [Why Your Cold Emails Suck]—Josh's email is a perfect example of voice collapsing under "what if I just keep it broad"
 
-Just like anything else in marketing, you need to test if your copywriting is working. Look at something you wrote and read it out loud. Does it sound like you?
+Just like anything else in marketing, you need to test if your copywriting is working. Look at something you wrote and read it out loud. Does it sound like anyone could have written it? One of the main things that makes writing generic is if it sounds like it was written for everyone rather than just one person. 
+
+I wrote a whole post about this about a former client of mine who we'll call Josh. You can find the whole post [here](/write-better-cold-emails). The main issue I addressed in that article was that Josh was sending the same generic email to every lead 
 
 ## Stay consistent
 
