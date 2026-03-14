@@ -70,7 +70,9 @@ So instead of only thinking of your voice as a list of adjectives, also think of
 
 Or do you do a mix?
 
+Let's do a quick little exercise (or skip ahead if you want. I won't judge). 
 
+Take a second to find a piece you like. 
 
 ## Three things that make your voice yours
 
