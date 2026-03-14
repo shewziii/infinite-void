@@ -102,7 +102,7 @@ Now that you have an understanding of what makes a unique brand voice, it's time
 
 The first step is to review your current work. Pull three pieces from your archive, whether that's from Instagram, Pinterest, your newsletter, or your blog. One should be your best performing piece, another your worst, and one you felt was just pushed out.
 
-Your best performing piece will 
+Read through all of them and take note of things they have in common and what makes them different. Your best performing piece should tell you what your audience likes about your voice. Your worst piece should tell you what didn't work and help you understand 
 
 ## How to test if it's working
 
