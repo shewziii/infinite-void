@@ -76,7 +76,7 @@ Take a second to find a piece you like. Read it through the eyes of somebody who
 
 If you have a distinct, well implemented, all-yours tone of voice, their answer should be "yes, it's yours." If not... well, you have some work to do.
 
-You could also look at this post you're reading right now. Did you notice how I opened with a scene? 
+You could also look at this post you're reading right now. Did you notice how I opened with a scene? Or how I let examples do the teaching for me? How I never end on a theoretical note? Sure you could describe this post as conversational, warm, and bold, but 
 
 ## Three things that make your voice yours
 
