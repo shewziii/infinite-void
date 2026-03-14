@@ -100,7 +100,7 @@ The things you never do are just as important as what you always do. Are there c
 
 Now that you have an understanding of what makes a unique brand voice, it's time to find yours. 
 
-The first step is to review your current work. Pull three pieces from your archive, whether that's from Instagram, Pinterest, your newsletter, or your blog. One should be your best performing piece, another your worst, and one that you 
+The first step is to review your current work. Pull three pieces from your archive, whether that's from Instagram, Pinterest, your newsletter, or your blog. One should be your best performing piece, another your worst, and one you felt was just pushed out.
 
 ## How to test if it's working
 
