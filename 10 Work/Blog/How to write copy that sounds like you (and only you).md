@@ -93,9 +93,7 @@ The things you never do are just as important as what you always do. Are there c
 
 ## How to find it if you lost it (or never had it)
 
-Now that you have an understanding of what makes a unique brand voice, it's time to find yours. 
-
-The first step is to review your current work. Pull three pieces from your archive, whether that's from Instagram, Pinterest, your newsletter, or your blog. One should be your best performing piece, another your worst, and one you felt was just pushed out.
+The first step to finding your voice is to review your current work. Pull three pieces from your archive, whether that's from Instagram, Pinterest, your newsletter, or your blog. One should be your best performing piece, another your worst, and one you felt was just pushed out.
 
 Read through all of them and take note of things they have in common and what makes them different. Your best performing piece should tell you what your audience likes about your voice. Your worst piece should tell you what didn't work and help you understand what to keep and what to stop doing. The piece you just pushed out will uncover some bits of your voice you might not have thought about before.
 
