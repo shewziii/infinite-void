@@ -98,6 +98,8 @@ The things you never do are just as important as what you always do. Are there c
 - Find your recurring sentence structures—short punchy close, longer build-up, em dash emphasis. These are already yours.
 - Tie to the research: a brand voice isn't invented. It's extracted.
 
+
+
 ## How to test if it's working
 
 - Cover the byline. Could this have come from anyone in your industry?
