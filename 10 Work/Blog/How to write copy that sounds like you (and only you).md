@@ -66,7 +66,11 @@ So instead of only thinking of your voice as a list of adjectives, also think of
 
 - How do you open? Are you more of a storyteller or do theses sound more like you?
 - How do you present information? Do you reference personal experience or do you prefer data?
-- How do you end? 
+- How do you end? Do you summarize everything to close or do you leave the reader thinking?
+
+Or do you do a mix?
+
+
 
 ## Three things that make your voice yours
 
