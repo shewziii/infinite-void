@@ -132,8 +132,6 @@ One way to stay consistent is to create a document that describes you voice and 
 
 In it, have some examples of your best work for reference, at least five things you always do, and 5 things you never do. The more detailed this document is, the more useful it will be to you.
 
-Conclusion
-
 Land on something the reader can do right now — not a philosophy, not a reminder of what they learned. A single sentence that moves them. Something like: _Pull up the last piece of copy you wrote and cover your name. If it could belong to anyone, you know where to start._
 
 CTA
