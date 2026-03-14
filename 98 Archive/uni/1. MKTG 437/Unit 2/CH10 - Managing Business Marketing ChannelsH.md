@@ -65,7 +65,7 @@ Focuses on channel structure
 - number and types of intermediates
 - linkages among channel members
 
-![[image-2.png|577x316]]
+![[how consistency impacts engagement.png|577x316]]
 
 ![[image-3.png|580x259]]
 # Channel Administration
