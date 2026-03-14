@@ -97,7 +97,7 @@ The first step to finding your voice is to review your current work. Pull three 
 
 Read through all of them and take note of things they have in common and what makes them different. Your best performing piece should tell you what your audience likes about your voice. Your worst piece should tell you what didn't work and help you understand what to keep and what to stop doing. The piece you just pushed out will uncover some bits of your voice you might not have thought about before.
 
-Look for patterns in your writing. What sentence structure do you use? What words do you like? Make a list and describe those things. All the decisions you make and want to keep are what makes your voice, and those patterns help you make those decisions. Your voice isn't something you just create one day. It's already in your writing. your job is to extract it from what you already have.
+Look for patterns in your writing. What sentence structure do you use? What words do you like? Make a list and describe those things. All the decisions you make and want to keep are what makes your voice, and those patterns help you make those decisions. Your voice isn't something you just create one day. It's already in your writing. Your job is to extract it from what you already have.
 
 ## How to test if it's working
 
