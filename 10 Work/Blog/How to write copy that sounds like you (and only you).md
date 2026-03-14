@@ -95,6 +95,8 @@ This is less of a strategy and more just something I do simply because it's just
 
 The things you never do are just as important as what you always do. Are there certain phrases you never use? Words you never say? 
 
+Those boundaries you set for your voice are  
+
 ## How to find it if you lost it (or never had it)
 
 - The 3-piece audit: pull your best-performing piece of writing, your worst, and one you wrote fast without overthinking. The fast one usually sounds most like you.
