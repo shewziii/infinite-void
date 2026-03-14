@@ -83,7 +83,7 @@ There are so many things that make a unique voice, but for simplicity's sake—a
 
 ### Openings
 
-How do your pieces open? 
+The hook. The thesis. The over-opinionated anecdote. 
 
 ### Observations
 
