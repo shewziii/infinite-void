@@ -105,7 +105,7 @@ Look for patterns in your writing. What sentence structure do you use? What word
 - If yes: find the sentence where you started writing _for_ an imagined reader instead of _to_ one specific person. That's where you went generic.
 - Internal link opportunity: [Why Your Cold Emails Suck]—Josh's email is a perfect example of voice collapsing under "what if I just keep it broad"
 
-
+Just like anything else in business, you need to test if something is working. 
 
 ## Stay consistent
 
