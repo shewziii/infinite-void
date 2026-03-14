@@ -71,7 +71,7 @@ Take a second to find a piece you like. Read it through the eyes of somebody who
 
 If you have a distinct, well implemented, all-yours tone of voice, their answer should be "yes, it's yours." If not... well, you have some work to do.
 
-You could also look at this post you're reading right now. Did you notice how I opened with a scene? Or how I let examples do the teaching for me? How I never end on a theoretical note? How I ask rhetorical questions like no tomorrow? Sure you could describe this post as conversational, warm, and bold, but it's the decisions I make that make my voice, mine.
+You could also look at this post you're reading right now. Did you notice how I opened with a scene? Or how I let examples do the teaching for me? How I never end on a theoretical note? How I ask rhetorical questions like no tomorrow? Sure you could describe this post as conversational, warm, and bold, but it's the decisions I make that make my voice *mine*.
 
 ## Three things that make your voice yours
 
@@ -79,7 +79,12 @@ You could also look at this post you're reading right now. Did you notice how I 
 - Recurring observations — what do you notice that other people in your space don't?
 - The thing you never say — corporate language, hedge phrases, generic CTAs. Your "never list" is as defining as your "always list."
 
-There are so many things that make a unique voice, but for simplicity's sake—and the sake of some of your attention spans—I've 
+There are so many things that make a unique voice, but for simplicity's sake—and the sake of some of your attention spans—I've broken it down to 3 things. 
+
+### Openings
+
+
+### 
 
 ## How to find it if you lost it (or never had it)
 
