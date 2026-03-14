@@ -57,7 +57,9 @@ How would you describe your own tone of voice? Conversational? Warm? Bold? While
 
 And isn't conversational the expected? How often do you come across cold writing? Professional and friendly are not differentiators. 
 
-So instead of only thinking of your voice as a list of adjectives, also think of it as a series of decisions. How do you open? Are you more of a storyteller or do theses sound more like you? How do you present information? Do you reference personal experience or do you prefer data? How do you end? Do you summarize everything to close or do you leave the reader thinking?
+So instead of only thinking of your voice as a list of adjectives, also think of it as a series of decisions.
+
+How do you open? Are you more of a storyteller or do theses sound more like you? How do you present information? Do you reference personal experience or do you prefer data? How do you end? Do you summarize everything to close or do you leave the reader thinking? Do you mix it up?
 
 Let's do an exercise (or skip ahead if you want. I won't judge). 
 
