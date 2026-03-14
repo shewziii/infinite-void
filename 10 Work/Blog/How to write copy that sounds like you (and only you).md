@@ -57,11 +57,7 @@ How would you describe your own tone of voice? Conversational? Warm? Bold? While
 
 And isn't conversational the expected? How often do you come across cold writing? Professional and friendly are not differentiators. 
 
-So instead of only thinking of your voice as a list of adjectives, also think of it as a series of decisions. 
-
-- How do you open? Are you more of a storyteller or do theses sound more like you?
-- How do you present information? Do you reference personal experience or do you prefer data?
-- How do you end? Do you summarize everything to close or do you leave the reader thinking?
+So instead of only thinking of your voice as a list of adjectives, also think of it as a series of decisions. How do you open? Are you more of a storyteller or do theses sound more like you? How do you present information? Do you reference personal experience or do you prefer data? How do you end? Do you summarize everything to close or do you leave the reader thinking?
 
 Let's do an exercise (or skip ahead if you want. I won't judge). 
 
@@ -73,10 +69,6 @@ You could also look at this post you're reading right now. Did you notice how I 
 
 ## The Three O's
 
-- Signature openings — how does your writing physically start? In a scene, in a question, in a stat?
-- Recurring observations — what do you notice that other people in your space don't?
-- The thing you never say — corporate language, hedge phrases, generic CTAs. Your "never list" is as defining as your "always list."
-
 There are so many things that make a unique voice, but for simplicity's sake—and the sake of some of your attention spans—and to keep this post from becoming a dissertation—I've broken it down into a basic framework that I like to call The Three O's.
 
 ### Openings
@@ -87,9 +79,9 @@ Whatever way you decide to open, make sure you're aware of it and whether you're
 
 ### Observations
 
-Many writers have something they keep coming back to across their work. For me, it's the gap between what a brand says they are and do, and what they actually say in their copy. 
+Every copywriter has something they keep coming back to across their work. For me, it's the gap between what a brand says they are and do, and what they actually say in their copy. 
 
-This is less of a strategy and more just something I do simply because it's just what I notice. Make observations about your industry or work, and keep coming back to those. 
+This is less of a strategy and more just something I do simply because it's what I notice. Make observations about your industry or work, and keep coming back to those. 
 
 ### Omissions
 
