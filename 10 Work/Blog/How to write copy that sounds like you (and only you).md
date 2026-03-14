@@ -93,7 +93,7 @@ This is less of a strategy and more just something I do simply because it's just
 
 ### Omissions
 
-The things you never do are just as important as what you always do. Are there certain phrases you never us
+The things you never do are just as important as what you always do. Are there certain phrases you never use? 
 
 ## How to find it if you lost it (or never had it)
 
