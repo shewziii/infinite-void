@@ -100,7 +100,7 @@ The things you never do are just as important as what you always do. Are there c
 
 Now that you have an understanding of what makes a unique brand voice, it's time to find yours. 
 
-The first step is to review your current work. Pull
+The first step is to review your current work. Pull three pieces from your archive, whether that's
 
 ## How to test if it's working
 
