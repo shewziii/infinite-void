@@ -83,7 +83,7 @@ There are so many things that make a unique voice, but for simplicity's sake—a
 
 ### Openings
 
-The hook. The thesis. The over-opinionated anecdote. How a piece opens tells a lot about how 
+The hook. The thesis. The over-opinionated anecdote. How a piece opens says a lot about a creator's voice. 
 
 ### Observations
 
