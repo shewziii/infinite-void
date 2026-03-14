@@ -120,7 +120,9 @@ Have you ever listened to a new song and liked it so much that you went to the a
 
 Voice isn't just what you sound like at your best. What do you sound like under pressure, when you're writing under a tight deadline or sending out a cold email? The way you consistently sound is what your audience sees as your voice.
 
-Consistency turns your voice into a brand, which is why it's so important to refine. If you have one piece with your voice, that's just attention. If you have ten posts with the 
+Consistency turns your voice into a brand, which is why it's so important to refine. If you have one piece with your voice, that's just attention. If you have ten posts with the same voice, you're gaining trust. 
+
+![[image-2.png]]
 
 Conclusion
 
