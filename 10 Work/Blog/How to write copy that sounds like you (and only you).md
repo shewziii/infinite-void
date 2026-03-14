@@ -79,7 +79,7 @@ You could also look at this post you're reading right now. Did you notice how I 
 - Recurring observations — what do you notice that other people in your space don't?
 - The thing you never say — corporate language, hedge phrases, generic CTAs. Your "never list" is as defining as your "always list."
 
-
+There are so many things that make a unique voice, but for simplicity's sake—and the sake of some of y'all's attention spans—I've broken it down into three things that
 
 ## How to find it if you lost it (or never had it)
 
