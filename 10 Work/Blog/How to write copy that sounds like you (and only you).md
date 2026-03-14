@@ -131,9 +131,3 @@ That's just for posting content. When it comes to consistent voice use, the resu
 One way to stay consistent is to create a document that describes you voice and provides a guideline to stick to. Another way to stay consistent is to actually use that document—too many brands have one and just let it collect dust. 
 
 In it, have some examples of your best work for reference, at least five things you always do, and 5 things you never do. The more detailed this document is, the more useful it will be to you.
-
-Land on something the reader can do right now — not a philosophy, not a reminder of what they learned. A single sentence that moves them. Something like: _Pull up the last piece of copy you wrote and cover your name. If it could belong to anyone, you know where to start._
-
-CTA
-
-Single ask. If you help clients find and document their voice, this is the conversion point. Something like: _"If you've got a brand but your copy doesn't sound like it — DM me [or contact CTA] and let's figure out what's missing."_
