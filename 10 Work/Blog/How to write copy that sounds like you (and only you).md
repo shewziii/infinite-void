@@ -91,9 +91,11 @@ Whatever way you decide to open, make sure you're aware of it and whether you're
 
 Many writers have something they keep coming back to across their work. For me, it's the gap between what a brand says they are and do, and what they actually say in their copy. 
 
-This is less of a strategy and more just something I do simply because it's just what I notice. 
+This is less of a strategy and more just something I do simply because it's just what I notice. Make observations about your industry or work, and keep coming back to those. 
 
 ### Omissions
+
+The things you never do are just as important as what you always do. 
 
 ## How to find it if you lost it (or never had it)
 
