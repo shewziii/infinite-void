@@ -126,7 +126,7 @@ Consistency turns your voice into a brand, which is why it's so important to ref
 
 ![[how consistency impacts engagement.png|How consistency impacts engagement (Buffer)|400]]
 
-I
+That's just for posting content. When it comes to consistent voice use, the results are similar. 
 
 Conclusion
 
