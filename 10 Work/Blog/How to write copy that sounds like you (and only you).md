@@ -89,7 +89,7 @@ Whatever way you decide to open, make sure you're aware of it and whether you're
 
 ### Observations
 
-Many writers have something they keep coming back to across their work. For me, it's the gap between what a brand says they are and do, and what they say in their copy. 
+Many writers have something they keep coming back to across their work. For me, it's the gap between what a brand says they are and do, and what they actually say in their copy. 
 
 
 
