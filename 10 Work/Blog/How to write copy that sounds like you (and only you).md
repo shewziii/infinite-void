@@ -128,7 +128,9 @@ Consistency turns your voice into a brand, which is why it's so important to ref
 
 That's just for posting content. When it comes to consistent voice use, the results are similar. [Envive](https://www.envive.ai/post/brand-voice-consistency-statistics-in-ecommerce) cites that consistent brand voice is reported to contribute to a 23-33% increase in revenue, with 86% of customers saying that authenticity is a key factor in their decision to support brands. 
 
-One way to stay consistent is to create a document that describes you voice and provides a guideline to stick to. Another way to stay consistent is to actually use that document. 
+One way to stay consistent is to create a document that describes you voice and provides a guideline to stick to. Another way to stay consistent is to actually use that document—too many brands have one and just let it collect dust. 
+
+In it, have some examples of your best work for reference, at least five things you always do, 5 things you never do, and a list that describes 
 
 Conclusion
 
