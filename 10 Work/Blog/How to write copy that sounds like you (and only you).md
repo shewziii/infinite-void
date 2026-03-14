@@ -88,6 +88,7 @@ The hook. The thesis. The over-opinionated anecdote. How a piece opens says a lo
 ### Observations
 
 
+
 ### Omissions
 
 ## How to find it if you lost it (or never had it)
