@@ -9,7 +9,7 @@ publish_date: 2026-03-16
 related:
   - 
 tags:
-  - content/blog
+  - content/blog/copywriting
 ---
 ![[cover-6.jpg]]
 
@@ -121,7 +121,7 @@ Consistency turns your voice into a brand, which is why it's so important to ref
 
 [Buffer analyzed more than 100,000 users and found that the most consistent posters—those who posted in 20 or more weeks out of 26—received five times more engagement per post than those who posted inconsistently. ](https://buffer.com/resources/consistent-posting-study/)
 
-![[how consistency impacts engagement.png|How consistency impacts engagement (Buffer)|400]]
+![[how-consistency-impacts-engagement.png|400]]
 
 That's just for posting content. When it comes to consistent voice use, the results are similar. [Envive](https://www.envive.ai/post/brand-voice-consistency-statistics-in-ecommerce) cites that consistent brand voice is reported to contribute to a 23-33% increase in revenue, with 86% of customers saying that authenticity is a key factor in their decision to support brands. 
 
