@@ -10,6 +10,7 @@ related:
   - 
 tags:
   - content/blog/copywriting
+  - content/blog/branding
 ---
 ![[cover-6.jpg]]
 
