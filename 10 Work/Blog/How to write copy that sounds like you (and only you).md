@@ -4,8 +4,8 @@ type: blogpost
 topic:
   - copywriting
 writing-status:
-  - draft
-publish_date:
+  - published
+publish_date: 2026-03-16
 related:
   - 
 tags:
