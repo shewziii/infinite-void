@@ -72,3 +72,5 @@ _(Key points to hit:)_
 ### Conclusion + CTA
 
 _(Plan: Land on the idea that this isn't a "write better" problem — it's a voice problem. Their voice exists. It just isn't on the page yet. That's fixable. Soft CTA into your services or a related post.)_
+
+![[Pasted image 20260316130132.jpg]]
