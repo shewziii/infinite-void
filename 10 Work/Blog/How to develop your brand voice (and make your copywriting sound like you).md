@@ -1,5 +1,5 @@
 ---
-title: How to write copy that sounds like you (and only you)
+title: How to develop your brand voice (and make your copywriting sound like you)
 type: blogpost
 topic:
   - copywriting
