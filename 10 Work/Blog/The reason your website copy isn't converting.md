@@ -20,7 +20,19 @@ You've been. You check page views, active users, time spent, and you're happy wi
 
 At least it was supposed to be. After a week of checking, you seem to have lost your excitement. Why? Is the thrill over? Has traffic stopped? 
 
-Or has your contact page been left untouched?
+Or has your contact page been left untouched? You've received no emails or inquiries. 
+
+"But my website looks awesome! I should be getting leads left and right!"
+
+So you look into redesigning your site. More rounded corners, cool animations, and more CTA's.
+
+You're excited. You think, "These changes will bring in clients for sure!"
+
+Another week passes and finally, after all your hard work
+
+Still nothing. 
+
+This is an incredibly common issue I see a lot of brands face on their websites. 
 
 ### H2: Everyone Blames the Wrong Thing First
 
