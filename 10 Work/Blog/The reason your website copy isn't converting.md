@@ -16,7 +16,7 @@ tags:
 
 _(Plan: Open with the moment every brand owner knows — traffic is there, inquiries aren't. Don't explain it yet. Let them sit in the frustration for one beat before you name it.)_
 
----
+
 
 ### H2: Everyone Blames the Wrong Thing First
 
