@@ -32,7 +32,9 @@ Another week passes and finally, after all your hard work
 
 Still nothing. 
 
-This is an incredibly common issue I see a lot of brands face on their websites. 
+This is an incredibly common issue I see a lot of brands face on their websites. They become so focused on the way their site looks, ease of use, and responsiveness that they often forget arguably the most important factors. 
+
+Their copywriting.
 
 ### H2: Everyone Blames the Wrong Thing First
 
