@@ -12,9 +12,7 @@ tags:
   - content/blog/copywriting
   - content/blog/web-design
 ---
-### Intro Hook
 
-_(Plan: Open with the moment every brand owner knows — traffic is there, inquiries aren't. Don't explain it yet. Let them sit in the frustration for one beat before you name it.)_
 
 You've been. You check page views, active users, time spent, and you're happy with the results. Your website seems to be a hit! You're getting lot's of organic traffic, your social channels are doing their jobs, and life is good.
 
