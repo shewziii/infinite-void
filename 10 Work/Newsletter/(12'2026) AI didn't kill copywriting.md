@@ -22,7 +22,7 @@ And I get why people believe it. RIght now, content is cheaper and faster to pro
 
 But here's what's actually happening.
 
-AI killed low-grade informational content. The "10 tips for better productivity" articles written for Google and nobody else, the keyword-stuffed blog posts that answered a question nobody was actually asking, and the generic, interchangeable stuff that existed to rank, full stop.
+AI killed low-grade informational content. The "10 tips for better productivity" articles written for Google and nobody else, the keyword-stuffed blog posts that answered a question nobody was actually asking, and the generic, interchangeable stuff that existed to rank.
 
 That content is gone. And good riddance.
 
