@@ -14,7 +14,7 @@ tags:
 ---
 
 
-You've been. You check page views, active users, time spent, and you're happy with the results. Your website seems to be a hit! You're getting lot's of organic traffic, your social channels are doing their jobs, and life is good.
+You've been getting traffic on your website. You check page views, active users, time spent, and you're happy with the results. It seems to be a hit! You're getting lot's of organic traffic, your social channels are doing their jobs, and life is good.
 
 At least it was supposed to be. After a week of checking, you seem to have lost your excitement. Why? Is the thrill over? Has traffic stopped? 
 
