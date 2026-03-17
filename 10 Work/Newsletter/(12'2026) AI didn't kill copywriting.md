@@ -12,6 +12,8 @@ related:
 tags:
   - content/newsletter
 ---
+![[cover-7.png]]
+
 I keep seeing the same panic in marketing circles lately.
 
 "AI is replacing copywriters." 
