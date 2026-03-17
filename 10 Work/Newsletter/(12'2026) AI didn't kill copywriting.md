@@ -36,7 +36,7 @@ The copywriters losing work right now are the ones just pushing whatever out. Bu
 
 Here's what this means for you.
 
-If your website copy, your emails, or your social posts could have been written by anyone, they probably were, or they soon will be thanks to LLMs. 
+If your website copy, your emails, or your social posts could have been written by anyone, they probably were, or soon will be.
 
 AI is designed with average in mind. It pulls from all over the internet to produce a response that is the average of everything they found, so it should be no surprise that writing something average will produce no results.
 
