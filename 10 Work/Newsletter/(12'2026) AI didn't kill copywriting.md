@@ -40,6 +40,6 @@ If your website copy, your emails, or your social posts could have been written 
 
 AI is designed with average in mind. It pulls from all over the internet to produce a response that is the average of everything they found, so it should be no surprise that writing something average will produce no results.
 
-So let me ask you this: what does your writing do that AI actually can't replicate?
+What does your writing do that AI actually can't replicate?
 
-The answer lives in your point of view, your experience, and the specific way you see your industry. That's the part worth developing. That's the part worth protecting.
+The answer lives in your point of view, your experience, and the specific way you see your industry. That's the part worth developing and protecting.
