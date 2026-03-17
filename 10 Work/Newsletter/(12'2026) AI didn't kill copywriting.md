@@ -36,8 +36,10 @@ The copywriters losing work right now are the ones just pushing whatever out. Bu
 
 Here's what this means for you.
 
-If your website copy, your emails, or your social posts could have been written by anyone—they probably were, or they soon will be. AI does average well. It does generic at scale. It produces exactly what you expect.
+If your website copy, your emails, or your social posts could have been written by anyone, they probably were, or they soon will be thanks to LLMs. 
 
-The question worth sitting with this week: what does your writing do that AI actually can't replicate?
+AI is designed with average in mind. They pull from all over the internet and produce a response that is the average of everything they found, so it should be no surprise that writing something average will produce no results.
 
-The answer lives in your point of view, your experience, and the specific way you see your industry. That is the part worth developing. That is the part worth protecting.
+So let me ask you this: what does your writing do that AI actually can't replicate?
+
+The answer lives in your point of view, your experience, and the specific way you see your industry. That's the part worth developing. That's the part worth protecting.
