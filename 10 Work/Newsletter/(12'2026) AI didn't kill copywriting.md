@@ -26,11 +26,13 @@ AI killed low-grade informational content. The "10 tips for better productivity"
 
 That content is gone. And good riddance.
 
-According to [Copywrite Matters](https://www.copywritematters.com/the-ultimate-guide-to-starting-a-copywriting-business-with-no-experience/), pages with more than 70% AI-generated content are less likely to rank because Google's systems are getting better at identifying content that exists for algorithms rather than real people. Meanwhile, SEO leaders across the industry are agreeing on one thing: unique, proprietary, and human-driven content wins. As the web fills with AI-generated material, the value of human experience and owned data keeps rising. ([Carmine Mastropierro](https://carminemastropierro.com/get-copywriting-clients-with-no-experience/))
+According to [Copywrite Matters](https://www.copywritematters.com/the-ultimate-guide-to-starting-a-copywriting-business-with-no-experience/), pages with more than 70% AI-generated content are less likely to rank because Google's systems are getting better at identifying content that exists for algorithms rather than real people. 
 
-What survived the shift? Persuasive writing. Strategic writing. Writing that makes someone feel something, trust someone, or take action. 
+Meanwhile, SEO leaders across the industry are agreeing on one thing: unique, proprietary, and human-driven content wins. As the web fills with AI-generated material, the value of human experience and owned data keeps rising. ([Carmine Mastropierro](https://carminemastropierro.com/get-copywriting-clients-with-no-experience/))
 
-The copywriters losing work right now are the ones doing the low-grade stuff. The ones gaining ground? They write with a perspective. They understand what their reader actually needs to hear. They sound like a person, not a content factory.
+What survived the shift? Persuasive writing, strategic writing, and writing that makes someone feel something, trust someone, or take action. 
+
+The copywriters losing work right now are the ones just pushing whatever out. But the ones gaining ground are those who write with a perspective, understand what their readers actually need to hear, and sound like a person. 
 
 Here's what this means for you.
 
