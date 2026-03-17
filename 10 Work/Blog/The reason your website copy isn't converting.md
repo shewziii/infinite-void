@@ -42,7 +42,7 @@ _(Key points to hit:)_
 - Design is visible. Copy is invisible when it fails.
 - Vague or jargon-heavy messaging fails to connect — visitors who don't instantly understand what you offer will bounce. [360elevated](https://www.360elevated.com/why-your-website-isnt-converting-and-how-to-fix-it/) Frame this as a copy problem, not a design problem.
 
-The first instinct people have when they notice their site isn't converting is to try to 
+The first instinct people have when they notice their site isn't converting is try to change something. They try a redesign, rerunning ads, or change their offers.  
 
 ---
 
