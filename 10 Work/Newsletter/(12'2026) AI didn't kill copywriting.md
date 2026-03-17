@@ -38,7 +38,7 @@ Here's what this means for you.
 
 If your website copy, your emails, or your social posts could have been written by anyone, they probably were, or they soon will be thanks to LLMs. 
 
-AI is designed with average in mind. They pull from all over the internet and produce a response that is the average of everything they found, so it should be no surprise that writing something average will produce no results.
+AI is designed with average in mind. It pulls from all over the internet to produce a response that is the average of everything they found, so it should be no surprise that writing something average will produce no results.
 
 So let me ask you this: what does your writing do that AI actually can't replicate?
 
