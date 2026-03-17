@@ -22,11 +22,11 @@ And I get why people believe it. RIght now, content is cheaper and faster to pro
 
 But here's what's actually happening.
 
-AI killed low-grade informational content. The "10 tips for better productivity" articles written for Google and nobody else. The keyword-stuffed blog posts that answered a question nobody was actually asking. The generic, interchangeable stuff that existed to rank, full stop.
+AI killed low-grade informational content. The "10 tips for better productivity" articles written for Google and nobody else, the keyword-stuffed blog posts that answered a question nobody was actually asking, and the generic, interchangeable stuff that existed to rank, full stop.
 
 That content is gone. And good riddance.
 
-The data backs this up. Pages with more than 70% AI-generated content are less likely to rank [Copywrite Matters](https://www.copywritematters.com/the-ultimate-guide-to-starting-a-copywriting-business-with-no-experience/)—Google's systems are getting better at identifying content that exists for algorithms rather than people. Meanwhile, SEO leaders across the industry are pointing to the same thing: unique, proprietary, and human-driven content wins. As the web fills with AI-generated material, the value of human experience and owned data keeps rising. [Carmine Mastropierro](https://carminemastropierro.com/get-copywriting-clients-with-no-experience/)
+According to [Copywrite Matters](https://www.copywritematters.com/the-ultimate-guide-to-starting-a-copywriting-business-with-no-experience/), pages with more than 70% AI-generated content are less likely to rank because Google's systems are getting better at identifying content that exists for algorithms rather than real people. Meanwhile, SEO leaders across the industry are agreeing on one thing: unique, proprietary, and human-driven content wins. As the web fills with AI-generated material, the value of human experience and owned data keeps rising. [Carmine Mastropierro](https://carminemastropierro.com/get-copywriting-clients-with-no-experience/)
 
 What survived the shift? Persuasive writing. Strategic writing. Writing that makes someone feel something, trust someone, or take action.
 
