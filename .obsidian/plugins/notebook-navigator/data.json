@@ -459,7 +459,8 @@
   "folderBackgroundColors": {},
   "folderSortOverrides": {
     "30 Hobbies": "created-desc",
-    "20 Knowledge": "property-asc"
+    "20 Knowledge": "property-asc",
+    "10 Work/Newsletter": "title-desc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {
