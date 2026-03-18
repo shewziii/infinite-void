@@ -71,7 +71,7 @@ Copy is one of your most important assets. It has three jobs: engage, inform, an
 
 You can't. So the first thing to focus on is getting your message to engage your audience. The best way *NOT* to do that is with generic copy.
 
-Generic copy tends to lose trust before it even gains attention. 
+Generic copy tends to lose trust before it even gains attention, and subsequently, engagement. 
 
 ---
 
