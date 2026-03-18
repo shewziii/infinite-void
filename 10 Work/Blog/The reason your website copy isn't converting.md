@@ -44,7 +44,9 @@ _(Key points to hit:)_
 
 The first instinct people have when they notice their site isn't converting is try to change something. They try redesigning, rerunning ads, or changing their offers. 
 
-They try to change the most visible things first, thinking that making their site prettier or making their offers less expensive—or more expensive for that matter—will bring in leads. Meanwhile, their website's copy sits there 
+They try to change the most visible things first, thinking that making their site prettier or making their offers less expensive—or more expensive for that matter—will bring in leads. Meanwhile, their website's copy sits there unchanged. Uncared for. Invisible.
+
+
 
 ---
 
