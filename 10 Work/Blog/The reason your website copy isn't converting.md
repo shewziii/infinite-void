@@ -52,7 +52,7 @@ Copy is so much more important than a fancy looking website with liquid glass el
 
 When somebody lands on your page, they want to know exactly what you do. If they don't immediately understand what you offer, they will bounce. So it's important that your messaging is as specific and free of jargon as possible.
 
-I'm not just saying that either. Reports show that websites who take the time to improve their CTA copy see 30% more conversions, and those that change from feature-focused copy to benefit-based copy see 
+I'm not just saying that either. Reports show that websites who take the time to improve their CTA copy see 30% more conversions, and those that change from feature-focused copy to benefit-based enjoy 
 
 And stop tweaking your design so much. I promise it's fine.
 
