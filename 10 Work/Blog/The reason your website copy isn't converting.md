@@ -46,7 +46,11 @@ The first instinct people have when they notice their site isn't converting is t
 
 They try to change the most visible things first, thinking that making their site prettier or making their offers less expensive—or more expensive for that matter—will bring in leads. Meanwhile, their website's copy sits there unchanged. Untouched. Invisible.
 
-If your
+Which is a huge mistake.
+
+Copy is so much more important than a fancy looking website with liquid glass elements and fancy pop-ins. You can have the coolest looking website in the world, but if your copy reads like, "We work with you to get more sales," you're just showing off.
+
+
 
 ---
 
