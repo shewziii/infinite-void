@@ -50,7 +50,9 @@ Which is a huge mistake.
 
 Copy is so much more important than a fancy looking website with liquid glass elements and fancy pop-ins. You can have the coolest looking website in the world, but if your copy reads like, "We work with you to get more sales," you're just showing off.
 
-When somebody lands on your page, they want to know exactly what you do. If they don't immediately understand what you offer, they will bounce. So it's important that your messaging is as specific and free of jargon
+When somebody lands on your page, they want to know exactly what you do. If they don't immediately understand what you offer, they will bounce. So it's important that your messaging is as specific and free of jargon as possible.
+
+And stop tweaking your design so much. I promise it's fine.
 
 ---
 
