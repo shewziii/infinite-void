@@ -32,7 +32,7 @@ Still nothing.
 
 This is an incredibly common issue I see a lot of brands face on their websites. They become so focused on the way their site looks, ease of use, and responsiveness that they often forget arguably the most important thing: 
 
-Their copywriting.
+Their copy.
 
 ### H2: Everyone Blames the Wrong Things First
 
@@ -42,7 +42,9 @@ _(Key points to hit:)_
 - Design is visible. Copy is invisible when it fails.
 - Vague or jargon-heavy messaging fails to connect — visitors who don't instantly understand what you offer will bounce. [360elevated](https://www.360elevated.com/why-your-website-isnt-converting-and-how-to-fix-it/) Frame this as a copy problem, not a design problem.
 
-The first instinct people have when they notice their site isn't converting is try to change something. They try a redesign, rerunning ads, or change their offers.  
+The first instinct people have when they notice their site isn't converting is try to change something. They try redesigning, rerunning ads, or changing their offers. 
+
+They try to change the most visible things first, thinking that making their site prettier or making their offers less expensive—or more expensive for that matter—will bring in leads. Meanwhile, their website's copy sits there 
 
 ---
 
