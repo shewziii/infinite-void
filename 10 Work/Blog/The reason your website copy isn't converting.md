@@ -69,12 +69,27 @@ _(Key points to hit:)_
 
 Copy is one of your most important assets. It has three jobs: engage, inform, and convert. If your website's copy doesn't engage, you can't expect it to inform, and if it doesn't inform, how can you expect it to convert?
 
+### Engage
+
 You can't. So the first thing to focus on is getting your message to engage your audience. The best way *NOT* to do that is with generic copy.
 
 Generic copy tends to lose trust before it even gains attention, and subsequently, engagement. Generic copy makes you sound unconfident and unfocused. Depending on the writing style, it can also sound like AI did it for you. 
 
-Content that sounds "human" has been reported to rate 3x higher in trustworthiness than copy that feels scripted ([Solidgigs](https://solidgigs.com/blog/the-best-copywriting-techniques-2025-from-beginner-to-advanced-strategies/)). If your content sounds human, you're automatically goin to increase engagement than if your content sounds like ChatGPT or Claude.
+Content that sounds "human" has been reported to rate 3x higher in trustworthiness than copy that feels scripted ([Solidgigs](https://solidgigs.com/blog/the-best-copywriting-techniques-2025-from-beginner-to-advanced-strategies/)). If your content sounds human, you're automatically going to increase engagement than if your content sounds like ChatGPT or Claude.
 
+### Inform
+
+Imagine you're looking for someone to take care of your web design. You stumble on two different sites.
+
+The first presents information you haven't though about before. They have statistics, testimonials, and a blog to teach concepts.
+
+The second tells you what you're going to get. "I'll get your site more visitors with next-level designs, animations, and a unique landing page."
+
+Which one are you going with?
+
+People tend to trust sites with information important to them. 
+
+### Convert
 
 
 ---
