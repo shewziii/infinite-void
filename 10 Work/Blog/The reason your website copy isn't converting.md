@@ -52,6 +52,8 @@ Copy is so much more important than a fancy looking website with liquid glass el
 
 When somebody lands on your page, they want to know exactly what you do. If they don't immediately understand what you offer, they will bounce. So it's important that your messaging is as specific and free of jargon as possible.
 
+
+
 And stop tweaking your design so much. I promise it's fine.
 
 ---
@@ -64,6 +66,8 @@ _(Key points to hit:)_
 - Content that "sounds human" is rated 3x more trustworthy than copy that feels scripted. [Solidgigs](https://solidgigs.com/blog/the-best-copywriting-techniques-2025-from-beginner-to-advanced-strategies/)
 - This is where your positioning lives: **your brand has a voice. The copy needs to carry it.**
 - The gap between what a brand sounds like on a call vs. what their website says
+
+
 
 ---
 
