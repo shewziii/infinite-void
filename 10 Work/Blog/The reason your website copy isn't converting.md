@@ -46,7 +46,7 @@ The first instinct people have when they notice their site isn't converting is t
 
 They try to change the most visible things first, thinking that making their site prettier or making their offers less expensive—or more expensive for that matter—will bring in leads. Meanwhile, their website's copy sits there unchanged. Untouched. Invisible.
 
-
+If your
 
 ---
 
