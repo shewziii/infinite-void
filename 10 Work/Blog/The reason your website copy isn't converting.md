@@ -87,7 +87,7 @@ The second tells you what you're going to get. "I'll get your site more visitors
 
 Which one are you going with?
 
-People tend to trust sites with information important to them. 
+People tend to trust sites with information that's important to them. 
 
 ### Convert
 
