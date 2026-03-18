@@ -69,7 +69,7 @@ _(Key points to hit:)_
 
 Copy is one of your most important assets. It has three jobs: engage, inform, and convert. If your website's copy doesn't engage, you can't expect it to inform, and if it doesn't inform, how can you expect it to convert?
 
-
+You can't. So the first thing to focus on is getting your message to engage your audience. 
 
 ---
 
