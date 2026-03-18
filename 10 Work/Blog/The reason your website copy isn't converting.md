@@ -67,7 +67,7 @@ _(Key points to hit:)_
 - This is where your positioning lives: **your brand has a voice. The copy needs to carry it.**
 - The gap between what a brand sounds like on a call vs. what their website says
 
-
+Copy
 
 ---
 
