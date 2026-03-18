@@ -67,7 +67,9 @@ _(Key points to hit:)_
 - This is where your positioning lives: **your brand has a voice. The copy needs to carry it.**
 - The gap between what a brand sounds like on a call vs. what their website says
 
-Copy is one of your most important assets. It has three jobs: engage, inform, and convert. 
+Copy is one of your most important assets. It has three jobs: engage, inform, and convert. If your website's copy doesn't engage, you can't expect it to inform, and if it doesn't inform, how can you expect it to convert?
+
+
 
 ---
 
