@@ -71,7 +71,11 @@ Copy is one of your most important assets. It has three jobs: engage, inform, an
 
 You can't. So the first thing to focus on is getting your message to engage your audience. The best way *NOT* to do that is with generic copy.
 
-Generic copy tends to lose trust before it even gains attention, and subsequently, engagement. 
+Generic copy tends to lose trust before it even gains attention, and subsequently, engagement. Generic copy makes you sound unconfident and unfocused. Depending on the writing style, it can also sound like AI did it for you. 
+
+Content that sounds "human" has been reported to rate 3x higher in trustworthiness than copy that feels scripted ([Solidgigs](https://solidgigs.com/blog/the-best-copywriting-techniques-2025-from-beginner-to-advanced-strategies/)). If your content sounds human, you're automatically goin to increase engagement than if your content sounds like ChatGPT or Claude.
+
+
 
 ---
 
