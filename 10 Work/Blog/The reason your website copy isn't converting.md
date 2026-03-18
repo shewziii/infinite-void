@@ -87,12 +87,11 @@ The second tells you what you're going to get. "I'll get your site more visitors
 
 Which one are you going with?
 
-People tend to trust sites with information that's important to them. Why would somebody buy from you? Why is it 
+People tend to trust sites with information that's important to them. More specifically, people scan your website to find the information they're looking for, and if they can't, you're out of luck because they're just going to go to the next site.
 
 ### Convert
 
-
----
+If you're reading this and have built a website, your main goal is to get clients. That's a no-brainer. 
 
 ### H2: Your Copy Is Probably Talking About You, Not Them
 
