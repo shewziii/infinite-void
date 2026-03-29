@@ -101,7 +101,10 @@ _(Key points to hit:)_
 - The "we do X, we've been in business since Y" trap
 - What readers are actually scanning for when they land on a page
 
+Take a look at your current site's copy. Chances are it's full of you. And I don't mean you personality-wise. 
 
+"I help brands convert"
+"I work with lifestyle brands "
 
 ---
 
