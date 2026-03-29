@@ -91,7 +91,7 @@ People tend to trust sites with information that's important to them. More speci
 
 ### Convert
 
-This is the end goal of most website copy. You want to make it obvious what you do, how you do it, and why you do it so that the person reading on your website 
+This is the end goal of most website copy. You want to make it obvious what you do, how you do it, and why you do it so that the person reading on your website goes from a visitor to a client.
 
 ### H2: Your Copy Is Probably Talking About You, Not Them
 
@@ -100,6 +100,8 @@ _(Key points to hit:)_
 - When you try to appeal to everyone, you end up appealing to no one. Vague, generic copy that doesn't speak directly to a specific audience's needs and pain points will hurt conversion rates. [DirectPayNet](https://directpaynet.com/why-your-marketing-copy-isnt-converting-and-how-to-fix-it/)
 - The "we do X, we've been in business since Y" trap
 - What readers are actually scanning for when they land on a page
+
+
 
 ---
 
