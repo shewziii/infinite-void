@@ -107,7 +107,9 @@ Take a look at your current site's copy. Chances are it's full of you. And I don
 "I work with lifestyle brands"
 "I am this, I am that"
 
-When somebody visits your site to see if you're a good fit, they don't want to hear about you. They want to know about how you can help them. 
+When somebody visits your site to see if you're a good fit, they don't want to hear about you and your whole life story. They want to know about how you can help them with their problems right now. Especially on a homepage.
+
+
 
 ---
 
