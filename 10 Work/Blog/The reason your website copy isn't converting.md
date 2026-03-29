@@ -122,7 +122,7 @@ When a visitor lands on your page, there's only one question on their mind: *is 
 
 That's why one of the most important things to keep in mind when you write your website's copy is clarity. 
 
-A headline like "Elevating brands through strategic communication solutions" sounds impressive. But it also says nothing. Compare that to "I write website copy that converts for SAAS startups." Boring? Yeah. It is. But the right person reads that and immediately thinks _that's me._
+A headline like "Elevating brands through strategic communication solutions" sounds impressive. But it also says nothing. Compare that to "I write website copy that converts for SAAS startups." Boring? Yeah. It is. But it's clear, it's specific, and if the right person reads it, they'll think, "that's me."
 
 That's the goal.
 
