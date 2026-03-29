@@ -93,7 +93,7 @@ People tend to trust sites with information that's important to them. More speci
 
 This is the end goal of most website copy. You want to make it obvious what you do, how you do it, and why you do it so that the person reading on your website goes from a visitor to a client.
 
-### H2: Your Copy Is Probably Talking About You, Not Them
+### Stop talking about yourself
 
 _(Key points to hit:)_
 
@@ -104,7 +104,10 @@ _(Key points to hit:)_
 Take a look at your current site's copy. Chances are it's full of you. And I don't mean you personality-wise. 
 
 "I help brands convert"
-"I work with lifestyle brands "
+"I work with lifestyle brands"
+"I am this, I am that"
+
+When somebody visits your site to see if you're a good fit, they don't want to hear about you. They want to know about how you can help them. 
 
 ---
 
