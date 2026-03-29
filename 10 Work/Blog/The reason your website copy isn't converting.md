@@ -109,7 +109,7 @@ Take a look at your current site's copy. Chances are it's full of you. And I don
 
 When somebody visits your site to see if you're a good fit, they don't want to hear about you and your whole life story. They want to know about how you can help them with their problems right now. Especially on a homepage.
 
-
+While websites can benefit from talking about who you are—especially personal brands—keeping the focus on the reader should be the main goal. 
 
 ---
 
