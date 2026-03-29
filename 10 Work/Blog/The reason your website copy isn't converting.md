@@ -91,7 +91,7 @@ People tend to trust sites with information that's important to them. More speci
 
 ### Convert
 
-This is the main goal of many brands. 
+This is the end goal of most website copy. You want to make it obvious what you do, how you do it, and why you do it so that the person reading on your website 
 
 ### H2: Your Copy Is Probably Talking About You, Not Them
 
