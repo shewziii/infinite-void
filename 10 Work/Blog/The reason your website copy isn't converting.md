@@ -95,12 +95,6 @@ This is the end goal of most website copy. You want to make it obvious what you 
 
 ### Stop talking about yourself
 
-_(Key points to hit:)_
-
-- When you try to appeal to everyone, you end up appealing to no one. Vague, generic copy that doesn't speak directly to a specific audience's needs and pain points will hurt conversion rates. [DirectPayNet](https://directpaynet.com/why-your-marketing-copy-isnt-converting-and-how-to-fix-it/)
-- The "we do X, we've been in business since Y" trap
-- What readers are actually scanning for when they land on a page
-
 Take a look at your current site's copy. Chances are it's full of you. And I don't mean you personality-wise. 
 
 "I help brands convert..."
@@ -109,17 +103,32 @@ Take a look at your current site's copy. Chances are it's full of you. And I don
 
 When somebody visits your site to see if you're a good fit, they don't want to hear about you and your whole life story. They want to know about how you can help them with their problems right now. Especially on a homepage.
 
-While websites can benefit from talking about who you are—especially personal brands—keeping the focus on the reader goes a long way in engaging your audience. 
+While websites can benefit from talking about who you are—especially personal brands—keeping the focus on the reader goes a long way in engaging your audience.  
 
 ---
 
-### H2: The Invisible Culprit — Clarity
+### Choose clarity over cleverness
 
 _(Key points to hit:)_
 
 - Headlines and body text must be instantly understandable. Benefits over features: users want to know what they'll gain, not just what the product does. [Digidop](https://www.digidop.com/blog/ultimate-cro-guide-strategies-tools-tactics-to-boost-conversions)
 - People don't read websites — they scan for the answer to one question: _is this for me?_
 - Copy's job is to answer that fast, in plain language, in your brand's voice
+
+
+Another incredibly important thing to keep in mind when writing website copy is to keep in mind that people don't really read everything. They scan it. 
+
+When a visitor lands on your page, there's only one question on their mind: *is this for me?* If the answer isn't immediately obvious to them in the first five seconds through your headers and buttons, they'll leave. 
+
+That's why one of the most important things to keep in mind when you write your website's copy is clarity. 
+
+A headline like "Elevating brands through strategic communication solutions" sounds impressive. But it also says nothing. Compare that to "I write website copy for SAAS str." Boring? Yeah. It is. But the right person reads that and immediately thinks _that's me._
+
+That's the goal.
+
+The other trap is writing features instead of benefits. Features are what you do. Benefits are what the reader gets. "I write long-form content" is a feature. "Your audience stays on your page longer and actually comes back" is a benefit. People don't care about what you do nearly as much as they care about what they walk away with.
+
+So when you look at your copy, ask yourself: if someone landed here for the first time with zero context, would they know exactly what you offer and who it's for in five seconds or less? If the answer is no, that's your culprit.
 
 ---
 
