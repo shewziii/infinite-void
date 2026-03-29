@@ -101,7 +101,7 @@ _(Key points to hit:)_
 - The "we do X, we've been in business since Y" trap
 - What readers are actually scanning for when they land on a page
 
-
+So how
 
 ---
 
