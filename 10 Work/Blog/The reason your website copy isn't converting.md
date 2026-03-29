@@ -91,7 +91,7 @@ People tend to trust sites with information that's important to them. More speci
 
 ### Convert
 
-If you're reading this and have built a website, your main goal is to get clients. That's a no-brainer. 
+This is the main goal of many brands. 
 
 ### H2: Your Copy Is Probably Talking About You, Not Them
 
