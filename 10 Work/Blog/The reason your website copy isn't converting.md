@@ -61,7 +61,7 @@ You can't. So the first thing to focus on is getting your message to engage your
 
 Generic copy tends to lose trust before it even gains attention, and subsequently, engagement. Generic copy makes you sound unconfident and unfocused. Depending on the writing style, it can also sound like AI did it for you. 
 
-Content that sounds "human" has been reported to rate 3x higher in trustworthiness than copy that feels scripted ([Solidgigs](https://solidgigs.com/blog/the-best-copywriting-techniques-2025-from-beginner-to-advanced-strategies/)). In other words, you're automatically going to see more engagement than if your content sounds like ChatGPT or Claude.
+Content that sounds "human" has been reported to rate 3x higher in trustworthiness than copy that feels scripted ([Solidgigs](https://solidgigs.com/blog/the-best-copywriting-techniques-2025-from-beginner-to-advanced-strategies/)). In other words, you're automatically going to see more engagement than if your content sounds AI generated.
 
 ### Inform
 
