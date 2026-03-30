@@ -14,7 +14,7 @@ tags:
 ---
 
 
-You've been getting traffic on your website. You check page views, active users, time spent, and you're happy with the results. It seems to be a hit! You're getting lot's of organic traffic, your social channels are doing their jobs, and life is good.
+You've been getting traffic on your website. You check page views, active users, time spent, and you're happy with the results. It seems to be a hit! You're getting lots of organic traffic, your social channels are doing their jobs, and life is good.
 
 At least it was supposed to be. After a week of checking, you seem to have lost your excitement. Why? Is the thrill over? Has traffic stopped? 
 
@@ -22,7 +22,7 @@ Or has your contact page been left untouched? You've received no emails or inqui
 
 "But my website looks awesome! I should be getting leads left and right!"
 
-So you look into redesigning your site. More rounded corners, cool animations, and more CTA's.
+So you look into redesigning your site. More rounded corners, cool animations, and more CTAs.
 
 You're excited. You think, "These changes will bring in clients for sure!"
 
@@ -36,7 +36,7 @@ Their copy.
 
 ## Stop blaming the design
 
-The first instinct people have when they notice their site isn't converting is try to change something. They try redesigning, rerunning ads, or changing their offers. 
+The first instinct people have when they notice their site isn't converting is to try to change something. They try redesigning, rerunning ads, or changing their offers. 
 
 They try to change the most visible things first, thinking that making their site prettier or making their offers less expensive—or more expensive for that matter—will bring in leads. Meanwhile, their website's copy sits there unchanged. Untouched. Invisible.
 
@@ -46,7 +46,7 @@ Copy is so much more important than a fancy looking website with liquid glass el
 
 When somebody lands on your page, they want to know exactly what you do. If they don't immediately understand what you offer, they will bounce. So it's important that your messaging is as specific and free of jargon as possible.
 
-I'm not just saying that either. Reports show that websites who take the time to improve their CTA copy see 30% more conversions, and those that change from feature-focused copy to benefit-based enjoy up to 40% better conversions ([MarketingLTB](https://marketingltb.com/blog/statistics/copywriting-statistics/#3)).
+I'm not just saying that either. Reports show that websites that take the time to improve their CTA copy see 30% more conversions, and those that change from feature-focused copy to benefit-based copy enjoy up to 40% better conversions ([MarketingLTB](https://marketingltb.com/blog/statistics/copywriting-statistics/#3)).
 
 So stop tweaking your design so much. I promise it's fine.
 
@@ -67,7 +67,7 @@ Content that sounds "human" has been reported to rate 3x higher in trustworthine
 
 Imagine you're looking for someone to take care of your web design. You stumble on two different sites.
 
-The first presents information you haven't though about before. They have statistics, testimonials, and a blog to teach concepts.
+The first presents information you haven't thought about before. They have statistics, testimonials, and a blog to teach concepts.
 
 The second tells you what you're going to get. "I'll get your site more visitors with next-level designs, animations, and a unique landing page."
 
