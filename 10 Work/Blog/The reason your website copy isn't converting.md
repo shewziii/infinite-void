@@ -103,6 +103,8 @@ A headline like "Elevating brands through strategic communication solutions" sou
 
 Another huge factor that plays into clarity is whether your copy focuses on benefits or features (I know, SUPER groundbreaking stuff). "I build websites" is a feature. "Building websites that turns visitors into paying clients" is a benefit. Again, people only want to hear about how you can help them, and if it's not as clear and specific as possible, they'll leave.
 
-### Conclusion + CTA
+## Your voice is there. You just need to find it
 
-_(Plan: Land on the idea that this isn't a "write better" problem — it's a voice problem. Their voice exists. It just isn't on the page yet. That's fixable. Soft CTA into your services or a related post.)_
+The thing is, most brands I talk to can articulate what they do and how they do it no problem. Most of them will have no problem explaining that on a phone call. So why is it their sites have such bland copy?
+
+It's a few things. They 
