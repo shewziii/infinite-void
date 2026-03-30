@@ -124,7 +124,7 @@ That's why one of the most important things to keep in mind when you write your 
 
 A headline like "Elevating brands through strategic communication solutions" sounds impressive. But it also says nothing. Compare that to "I write website copy that converts for SAAS startups." Boring? Yeah. It is. But it's clear, it's specific, and if the right person reads it, they'll think, "that's me."
 
-
+Another huge factor that plays into clarity is 
 
 The other trap is writing features instead of benefits. Features are what you do. Benefits are what the reader gets. "I write long-form content" is a feature. "Your audience stays on your page longer and actually comes back" is a benefit. People don't care about what you do nearly as much as they care about what they walk away with.
 
