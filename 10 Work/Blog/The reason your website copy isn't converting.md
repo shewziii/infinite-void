@@ -42,7 +42,7 @@ They try to change the most visible things first, thinking that making their sit
 
 Which is a huge mistake.
 
-Copy is so much more important than a fancy looking website with liquid glass elements and elaborate pop-ins. You can have the coolest looking website in the world, but if your copy reads like, "We work with you to get more sales," you're just showing off.
+Copy is so much more important than a fancy looking website with glassy elements and elaborate pop-ins. You can have the coolest looking website in the world, but if your copy reads like, "We work with you to get more sales," you're just showing off.
 
 When somebody lands on your page, they want to know exactly what you do. If they don't immediately understand what you offer, they will bounce. So it's important that your messaging is as specific and free of jargon as possible.
 
@@ -87,7 +87,7 @@ Take a look at your current site's copy. Chances are it's full of you. And I don
 "I work with lifestyle brands..."
 "I am this, I am that"
 
-When somebody visits your site to see if you're a good fit, they don't want to hear about you and your whole life story. They want to know about how you can help them with their problems right now. Especially on a homepage.
+When somebody visits your site to see if you're a good fit, they don't want to hear about you and your whole life story. They want to know how you can help them with their problems right now. Especially on a homepage.
 
 While websites can benefit from talking about who you are—especially personal brands—keeping the focus on the reader goes a long way in engaging your audience.  
 
