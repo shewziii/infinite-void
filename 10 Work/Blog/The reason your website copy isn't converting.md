@@ -34,13 +34,7 @@ This is an incredibly common issue I see a lot of brands face on their websites.
 
 Their copy.
 
-### H2: Everyone Blames the Wrong Things First
-
-_(Key points to hit:)_
-
-- The instinct is to redesign, rerun ads, rethink the offer
-- Design is visible. Copy is invisible when it fails.
-- Vague or jargon-heavy messaging fails to connect — visitors who don't instantly understand what you offer will bounce. [360elevated](https://www.360elevated.com/why-your-website-isnt-converting-and-how-to-fix-it/) Frame this as a copy problem, not a design problem.
+## Stop blaming the design
 
 The first instinct people have when they notice their site isn't converting is try to change something. They try redesigning, rerunning ads, or changing their offers. 
 
@@ -56,9 +50,8 @@ I'm not just saying that either. Reports show that websites who take the time to
 
 So stop tweaking your design so much. I promise it's fine.
 
----
 
-## H2: Copy That Doesn't Sound Like You Doesn't Convert
+## Copy needs to sound genuine
 
 Copy is one of your most important assets. It has three jobs: engage, inform, and convert. If your website's copy doesn't engage, you can't expect it to inform, and if it doesn't inform, how can you expect it to convert?
 
@@ -86,7 +79,7 @@ People tend to trust sites with information that's important to them. More speci
 
 This is the end goal of most website copy. You want to make it obvious what you do, how you do it, and why you do it so that the person reading on your website goes from a visitor to a client.
 
-### Stop talking about yourself
+## Stop talking about yourself
 
 Take a look at your current site's copy. Chances are it's full of you. And I don't mean you personality-wise. 
 
@@ -98,7 +91,7 @@ When somebody visits your site to see if you're a good fit, they don't want to h
 
 While websites can benefit from talking about who you are—especially personal brands—keeping the focus on the reader goes a long way in engaging your audience.  
 
-### Choose clarity over cleverness
+## Choose clarity over cleverness
 
 Another incredibly important thing to keep in mind when writing website copy is to keep in mind that people don't really read everything. They scan it. 
 
@@ -109,30 +102,6 @@ That's why one of the most important things to keep in mind when you write your 
 A headline like "Elevating brands through strategic communication solutions" sounds impressive. But it also says nothing. Compare that to "I write website copy that converts for SAAS startups." Boring? Yeah. It is. But it's clear, it's specific, and if the right person reads it, they'll think, "that's me."
 
 Another huge factor that plays into clarity is whether your copy focuses on benefits or features (I know, SUPER groundbreaking stuff). "I build websites" is a feature. "Building websites that turns visitors into paying clients" is a benefit. Again, people only want to hear about how you can help them, and if it's not as clear and specific as possible, they'll leave.
-
----
-
-## What does good copy do?
-
-_(Key points to hit:)_
-
-- Brand copy builds the relationship; conversion copy asks for the commitment. [Personizely](https://www.personizely.net/blog/conversion-copywriting) They have to work together.
-- Copy should make the reader feel seen _before_ it asks them to act
-- This is where you tee up what working with you looks like — without pitching
-
-Good copy does two things: it builds a relationship, and then it asks for a commitment. In that order.
-
-The mistake most websites make is skipping straight to the ask. Big bold CTA above the fold, "Book a call" plastered everywhere, no warmth, no context. That's the equivalent of proposing on a first date. Even if your offer is great, the timing kills it.
-
-Good copy makes the reader feel understood before it asks them to do anything. It names their problem in a way that makes them think _wait, how did they know that?_ It shows them you get their world — their frustrations, their goals, what they've already tried. By the time they hit a CTA, it doesn't feel like a sales pitch. It feels like a natural next step.
-
-That's the relationship side. Brand copy that reflects your personality, speaks to the right person, and earns trust before it asks for anything.
-
-Then the conversion side handles the close — the specific ask, the low-friction action, the one thing you want them to do next. And it works because the groundwork was already laid.
-
-These two things have to work together. All relationship and no ask leaves money on the table. All ask and no relationship leaves visitors cold. The best-converting websites do both, and they do it in a voice that actually sounds like a human being wrote it.
-
----
 
 ### Conclusion + CTA
 
