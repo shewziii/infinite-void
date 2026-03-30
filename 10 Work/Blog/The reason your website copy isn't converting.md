@@ -58,14 +58,7 @@ So stop tweaking your design so much. I promise it's fine.
 
 ---
 
-### H2: Copy That Doesn't Sound Like You Doesn't Convert
-
-_(Key points to hit:)_
-
-- Generic copy loses trust before it earns attention
-- Content that "sounds human" is rated 3x more trustworthy than copy that feels scripted. [Solidgigs](https://solidgigs.com/blog/the-best-copywriting-techniques-2025-from-beginner-to-advanced-strategies/)
-- This is where your positioning lives: **your brand has a voice. The copy needs to carry it.**
-- The gap between what a brand sounds like on a call vs. what their website says
+## H2: Copy That Doesn't Sound Like You Doesn't Convert
 
 Copy is one of your most important assets. It has three jobs: engage, inform, and convert. If your website's copy doesn't engage, you can't expect it to inform, and if it doesn't inform, how can you expect it to convert?
 
@@ -105,16 +98,7 @@ When somebody visits your site to see if you're a good fit, they don't want to h
 
 While websites can benefit from talking about who you are—especially personal brands—keeping the focus on the reader goes a long way in engaging your audience.  
 
----
-
 ### Choose clarity over cleverness
-
-_(Key points to hit:)_
-
-- Headlines and body text must be instantly understandable. Benefits over features: users want to know what they'll gain, not just what the product does. [Digidop](https://www.digidop.com/blog/ultimate-cro-guide-strategies-tools-tactics-to-boost-conversions)
-- People don't read websites — they scan for the answer to one question: _is this for me?_
-- Copy's job is to answer that fast, in plain language, in your brand's voice
-
 
 Another incredibly important thing to keep in mind when writing website copy is to keep in mind that people don't really read everything. They scan it. 
 
@@ -128,7 +112,7 @@ Another huge factor that plays into clarity is whether your copy focuses on bene
 
 ---
 
-### H2: So What Does Good Copy Actually Do?
+## What does good copy do?
 
 _(Key points to hit:)_
 
