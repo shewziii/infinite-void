@@ -124,11 +124,7 @@ That's why one of the most important things to keep in mind when you write your 
 
 A headline like "Elevating brands through strategic communication solutions" sounds impressive. But it also says nothing. Compare that to "I write website copy that converts for SAAS startups." Boring? Yeah. It is. But it's clear, it's specific, and if the right person reads it, they'll think, "that's me."
 
-Another huge factor that plays into clarity is whether your copy focuses on benefits or features (I know, SUPER groundbreaking stuff). "I build websites" is a feature. ""
-
-The other trap is writing features instead of benefits. Features are what you do. Benefits are what the reader gets. "I write long-form content" is a feature. "Your audience stays on your page longer and actually comes back" is a benefit. People don't care about what you do nearly as much as they care about what they walk away with.
-
-So when you look at your copy, ask yourself: if someone landed here for the first time with zero context, would they know exactly what you offer and who it's for in five seconds or less? If the answer is no, that's your culprit.
+Another huge factor that plays into clarity is whether your copy focuses on benefits or features (I know, SUPER groundbreaking stuff). "I build websites" is a feature. "Building websites that turns visitors into paying clients" is a benefit. Again, people only want to hear about how you can help them, and if it's not as clear and specific as possible, they'll leave.
 
 ---
 
@@ -139,6 +135,18 @@ _(Key points to hit:)_
 - Brand copy builds the relationship; conversion copy asks for the commitment. [Personizely](https://www.personizely.net/blog/conversion-copywriting) They have to work together.
 - Copy should make the reader feel seen _before_ it asks them to act
 - This is where you tee up what working with you looks like — without pitching
+
+Good copy does two things: it builds a relationship, and then it asks for a commitment. In that order.
+
+The mistake most websites make is skipping straight to the ask. Big bold CTA above the fold, "Book a call" plastered everywhere, no warmth, no context. That's the equivalent of proposing on a first date. Even if your offer is great, the timing kills it.
+
+Good copy makes the reader feel understood before it asks them to do anything. It names their problem in a way that makes them think _wait, how did they know that?_ It shows them you get their world — their frustrations, their goals, what they've already tried. By the time they hit a CTA, it doesn't feel like a sales pitch. It feels like a natural next step.
+
+That's the relationship side. Brand copy that reflects your personality, speaks to the right person, and earns trust before it asks for anything.
+
+Then the conversion side handles the close — the specific ask, the low-friction action, the one thing you want them to do next. And it works because the groundwork was already laid.
+
+These two things have to work together. All relationship and no ask leaves money on the table. All ask and no relationship leaves visitors cold. The best-converting websites do both, and they do it in a voice that actually sounds like a human being wrote it.
 
 ---
 
