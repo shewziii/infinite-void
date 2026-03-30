@@ -105,5 +105,7 @@ Another huge factor that plays into clarity is whether your copy focuses on bene
 
 ## Your voice is there. You just need to find it
 
-The thing is, most brands I talk to can articulate what they do and how they do it no problem. Most of them will have no problem explaining that on a phone call. The reason those brands have such a hard time converting is that they keep trying to get the writing perfect, the features clear, or just don't understand the importance of voice. 
+The thing is, most brands I talk to can articulate what they do and how they do it no problem. Most of them will have no problem explaining that on a phone call. The reason those brands have such a hard time converting is that they keep trying to get the writing perfect, the features clear, the design "hip and trendy," or just don't understand the importance of voice. 
+
+If your contact page has been sitting untouched by visitors, it's worth asking yourself whether your copy is doing as much as it should be. It should reflect your brand, not some corporate, generic sounding, playing-it-safe startup. 
 
