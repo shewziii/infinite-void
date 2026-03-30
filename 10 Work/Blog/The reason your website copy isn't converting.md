@@ -93,7 +93,7 @@ While websites can benefit from talking about who you are—especially personal 
 
 ## Choose clarity over cleverness
 
-Another incredibly important thing to keep in mind when writing website copy is to keep in mind that people don't really read everything. They scan it. 
+Remember, people are scanning your website rather than reading the whole thing. 
 
 When a visitor lands on your page, there's only one question on their mind: *is this for me?* If the answer isn't immediately obvious to them in the first five seconds through your headers and buttons, they'll leave. 
 
