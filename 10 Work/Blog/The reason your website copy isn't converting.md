@@ -42,7 +42,7 @@ They try to change the most visible things first, thinking that making their sit
 
 Which is a huge mistake.
 
-Copy is so much more important than a fancy looking website with liquid glass elements and fancy pop-ins. You can have the coolest looking website in the world, but if your copy reads like, "We work with you to get more sales," you're just showing off.
+Copy is so much more important than a fancy looking website with liquid glass elements and elaborate pop-ins. You can have the coolest looking website in the world, but if your copy reads like, "We work with you to get more sales," you're just showing off.
 
 When somebody lands on your page, they want to know exactly what you do. If they don't immediately understand what you offer, they will bounce. So it's important that your messaging is as specific and free of jargon as possible.
 
@@ -61,7 +61,7 @@ You can't. So the first thing to focus on is getting your message to engage your
 
 Generic copy tends to lose trust before it even gains attention, and subsequently, engagement. Generic copy makes you sound unconfident and unfocused. Depending on the writing style, it can also sound like AI did it for you. 
 
-Content that sounds "human" has been reported to rate 3x higher in trustworthiness than copy that feels scripted ([Solidgigs](https://solidgigs.com/blog/the-best-copywriting-techniques-2025-from-beginner-to-advanced-strategies/)). If your content sounds human, you're automatically going to increase engagement than if your content sounds like ChatGPT or Claude.
+Content that sounds "human" has been reported to rate 3x higher in trustworthiness than copy that feels scripted ([Solidgigs](https://solidgigs.com/blog/the-best-copywriting-techniques-2025-from-beginner-to-advanced-strategies/)). If your content sounds human, you're automatically going to see more engagement than if your content sounds like ChatGPT or Claude.
 
 ### Inform
 
