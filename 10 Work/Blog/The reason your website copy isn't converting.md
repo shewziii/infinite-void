@@ -79,7 +79,7 @@ People tend to trust sites with information that's important to them. More speci
 
 This is the end goal of most website copy. You want to make it obvious what you do, how you do it, and why you do it so that the person reading on your website goes from a visitor to a client.
 
-## Stop talking about yourself
+## Talk about them, not you
 
 Take a look at your current site's copy. Chances are it's full of you. And I don't mean you personality-wise. 
 
