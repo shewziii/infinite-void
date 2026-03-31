@@ -65,7 +65,7 @@ Content that sounds "human" has been reported to rate 3x higher in trustworthine
 
 ### Inform
 
-Imagine you're looking for someone to take care of your web design. You stumble on two different sites.
+Imagine you're looking for someone to take care of your web design. You stumble upon two different sites.
 
 The first presents information you haven't thought about before. They have statistics, testimonials, and a blog to teach concepts.
 
@@ -99,9 +99,9 @@ When a visitor lands on your page, there's only one question on their mind: *is 
 
 That's why one of the most important things to keep in mind when you write your website's copy is clarity. 
 
-A headline like "Elevating brands through strategic communication solutions" sounds impressive. But it also says nothing. Compare that to "I write website copy that converts for SAAS startups." Boring? Yeah. It is. But it's clear, it's specific, and if the right person reads it, they'll think, "that's me."
+A headline like "Elevating brands through strategic communication solutions" sounds impressive. But it also says nothing. Compare that to "I write website copy that converts for SaaS startups." Boring? Yeah. It is. But it's clear, it's specific, and if the right person reads it, they'll think, "that's me."
 
-Another huge factor that plays into clarity is whether your copy focuses on benefits or features (I know, SUPER groundbreaking stuff). "I build websites" is a feature. "Building websites that turns visitors into paying clients" is a benefit. Again, people only want to hear about how you can help them, and if it's not as clear and specific as possible, they'll leave.
+Another huge factor that plays into clarity is whether your copy focuses on benefits or features (I know, SUPER groundbreaking stuff). "I build websites" is a feature. "Building websites that turn visitors into paying clients" is a benefit. Again, people only want to hear about how you can help them, and if it's not as clear and specific as possible, they'll leave.
 
 ## Your voice is there. You just need to find it
 
