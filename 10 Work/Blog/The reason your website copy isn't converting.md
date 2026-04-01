@@ -12,7 +12,7 @@ tags:
   - content/blog/copywriting
   - content/blog/web-design
 ---
-
+![[cover-8.png]]
 
 You've been getting traffic on your website. You check page views, active users, time spent, and you're happy with the results. It seems to be a hit! You're getting lots of organic traffic, your social channels are doing their jobs, and life is good.
 
