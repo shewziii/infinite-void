@@ -18,3 +18,5 @@ So when I sat down to write my first piece of copy, I did what any first timer w
 *What should I know as a new copywriter?*
 
 *What is copywriting*
+
+I will admit
