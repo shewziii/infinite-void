@@ -13,4 +13,6 @@ I have a confession to make. When I was first starting out in my copywriting car
 
 So when I sat down to write my first piece of copy, I did what any first timer would do—I hopped on Google and started doing a bit of research. 
 
-**
+*How to write good email copy*
+
+*What should I know *
