@@ -33,4 +33,4 @@ See, formulas are great for organizing your thinking and templates are great as 
 
 ## Why do people reach for formulas so often?
 ## Three copywriting formulas and their jobs
-## 
+## Why P
