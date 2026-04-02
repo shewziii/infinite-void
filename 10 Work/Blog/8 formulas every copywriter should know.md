@@ -11,3 +11,4 @@ tags:
 ---
 I have a confession to make. When I was first starting out in my copywriting career, I was lost. I didn't know what the hell I was doing. Sure, I'd taken business writing classes back in college, but those only taught me the basics of what business writing should be since I wasn't a communications major. 
 
+So when I sat down to write my first piece of copy, I was lost. I'm a bit of a perfectionist so I wanted this email to be phenomenal. 
