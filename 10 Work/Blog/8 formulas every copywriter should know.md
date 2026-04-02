@@ -25,5 +25,7 @@ I learned as mush as I could before sitting down to actually write. Some of the 
 - PAS (Problem-Agitate-Solution)
 - AIDA (Awareness-Interest-Desire-Action)
 
-These are probably my most used formulas due to their effectiveness and ease of use. However, when I was starting out, using these uncovered problems a lot of new copywriters struggle with. That is, all my writing sounded the same. Specifically, it sounded formulaic. 
+These are probably my most used formulas due to their effectiveness and ease of use. However, when I was starting out, using these uncovered problems a lot of new copywriters struggle with. All my writing sounded the same. Specifically, it sounded formulaic. 
+
+That's the issue with using templates and formulas as a beginner. You find something that other people say works, and you follow those rules religiously. 
 
