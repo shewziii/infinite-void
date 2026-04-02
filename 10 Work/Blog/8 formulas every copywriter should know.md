@@ -9,4 +9,4 @@ related:
 tags:
   - content/blog
 ---
-So you sat down to write an email for a client. Maybe 
+I have a confession to make. When I was first starting out in my copywriting career, I was lost. I didn't
