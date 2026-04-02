@@ -19,4 +19,4 @@ So when I sat down to write my first piece of copy, I did what any first timer w
 
 *What is copywriting*
 
-I will admit
+I will admit these search queries did help me starting out. But as I grew and learned more and more, I st
