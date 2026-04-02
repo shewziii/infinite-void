@@ -15,4 +15,6 @@ So when I sat down to write my first piece of copy, I did what any first timer w
 
 *How to write good email copy*
 
-*What should I know *
+*What should I know as a new copywriter?*
+
+*What is copywriting*
