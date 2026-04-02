@@ -19,4 +19,4 @@ So when I sat down to write my first piece of copy, I did what any first timer w
 
 *What is copywriting*
 
-I will admit these search queries did help me starting out. But as I grew and learned more and more, I started to notice that a lot of my copy was sounding the same. 
+I learned as mush as I could before sitting down to actually write. Some of the more helpful things I learned were the formulas copywriters use to 
