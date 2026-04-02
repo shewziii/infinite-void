@@ -21,6 +21,9 @@ So when I sat down to write my first piece of copy, I did what any first timer w
 
 I learned as mush as I could before sitting down to actually write. Some of the more helpful things I learned were the formulas copywriters use to get the reader's attention and increase conversions. You've probably heard of these—or will, if you're just starting out:
 
-- BAB (Before, After, Bridge)
-- PAS ()
-- AIDA
+- BAB (Before-After-Bridge)
+- PAS (Problem-Agitate-Solution)
+- AIDA (Awareness-Interest-Desire-Action)
+
+These are probably my most used formulas due to their effectiveness and ease of use. However, when I was starting out, using these uncovered problems a lot of new copywriters struggle with. That is, all my writing sounded the same. Specifically, it sounded formulaic. 
+
