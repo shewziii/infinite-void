@@ -19,4 +19,8 @@ So when I sat down to write my first piece of copy, I did what any first timer w
 
 *What is copywriting*
 
-I learned as mush as I could before sitting down to actually write. Some of the more helpful things I learned were the formulas copywriters use to 
+I learned as mush as I could before sitting down to actually write. Some of the more helpful things I learned were the formulas copywriters use to get the reader's attention and increase conversions. You've probably heard of these—or will, if you're just starting out:
+
+- BAB (Before, After, Bridge)
+- PAS ()
+- AIDA
