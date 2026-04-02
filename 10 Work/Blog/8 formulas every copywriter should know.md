@@ -32,5 +32,9 @@ That's the issue with using templates and formulas as a beginner. You find somet
 See, formulas are great for organizing your thinking and templates are great as starting points. The problem is that way too many beginners treat them as something they *need* to follow. Instead of guiding their thinking and organization, formulas and templates tend to replace their thinking.
 
 ## Why do people reach for formulas so often?
+Let's say your official job is to come up with marketing campaigns to sell physical products. You're not a copywriter, but it definitely helps to know some concepts. The easiest and fastest way to do that is to follow formulas. 
+
+Using formulas is essentially a shortcut to credibility. They allow you to push something decent out without years of copywriting training and experience.
+
 ## Three copywriting formulas and their jobs
 ## 
