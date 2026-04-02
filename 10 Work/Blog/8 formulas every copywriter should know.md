@@ -32,4 +32,5 @@ That's the issue with using templates and formulas as a beginner. You find somet
 See, formulas are great for organizing your thinking and templates are great as starting points. The problem is that way too many beginners treat them as something they *need* to follow. Instead of guiding their thinking and organization, formulas and templates tend to replace their thinking.
 
 ## Why do people reach for formulas so often?
+## BAB, PAS, and AIDA
 ## 
