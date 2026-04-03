@@ -34,4 +34,5 @@ See, formulas are great for organizing your thinking and templates are great as 
 ## Why do people reach for formulas so often?
 Let's say your official job is to come up with marketing campaigns to sell physical products. You're not a copywriter, but it definitely helps to know some concepts. The easiest and fastest way to do that is to follow formulas. 
 
-Using formulas is essentially a shortcut to credibility. They allow you to push something decent out without years of copywriting training and experience. With a formula, you're able to create a piece of copy with the confidence it will be good. 
+Using formulas is essentially a shortcut to credibility. They allow you to push something decent out without years of copywriting training and experience. With a formula, you're able to create a piece of copy with the confidence it will be effective. At least, that's the plan. 
+
