@@ -42,6 +42,9 @@ As I said, the issue with using formulas as rules you *need* to follow is you do
 So instead of giving you definitions and just telling you a basic process for using them, I'm going to show you how to use three of the most common copywriting formulas in a way that show's you know what you're doing. 
 
 ### AIDA (Attention-Interest-Desire-Action)
+AIDA is the 
 ### PAS (Problem-Agitate-Solution)
 ### BAB (Before-After-Bridge)
 ## Choosing the right formula
+## Formula vs. voice
+## Examples of when to use them
