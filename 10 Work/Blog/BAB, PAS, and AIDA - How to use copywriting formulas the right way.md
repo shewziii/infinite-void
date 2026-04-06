@@ -44,3 +44,4 @@ So instead of giving you definitions and just telling you a basic process for us
 ### AIDA (Attention-Interest-Desire-Action)
 ### PAS (Problem-Agitate-Solution)
 ### BAB (Before-After-Bridge)
+## Choosing the right formula
