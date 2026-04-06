@@ -39,4 +39,5 @@ Using formulas is essentially a shortcut to credibility. They allow you to push 
 As I said, the issue with using formulas as rules you *need* to follow is you don't get the same value from them as you would otherwise. Formulas are tools you can use to guide your thoughts and structure your message.
 
 ## Three common formulas
-So instead of giving you definitions and just telling you a basic process for using them, I'm going to show you how to use three of the most common copywriting formulas in a way that you can 
+So instead of giving you definitions and just telling you a basic process for using them, I'm going to show you how to use three of the most common copywriting formulas in a way that show's you know what you're doing. 
+
