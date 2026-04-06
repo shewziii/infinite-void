@@ -23,7 +23,7 @@ I learned as mush as I could before sitting down to actually write. Some of the 
 
 - BAB (Before-After-Bridge)
 - PAS (Problem-Agitate-Solution)
-- AIDA (Awareness-Interest-Desire-Action)
+- AIDA (Attention-Interest-Desire-Action)
 
 These are probably my most used formulas due to their effectiveness and ease of use. However, when I was starting out, using these uncovered problems a lot of new copywriters struggle with. All my writing sounded the same. Specifically, it sounded formulaic. 
 
