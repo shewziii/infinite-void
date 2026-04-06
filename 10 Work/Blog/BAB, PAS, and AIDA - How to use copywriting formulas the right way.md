@@ -39,4 +39,4 @@ Using formulas is essentially a shortcut to credibility. They allow you to push 
 As I said, the issue with using formulas as rules you *need* to follow is you don't get the same value from them as you would otherwise. Formulas are tools you can use to guide your thoughts and structure your message.
 
 ## Three common formulas
-Since I don't want to talk at you, I'm going to 
+So instead of giving you definitions and just telling you the 
