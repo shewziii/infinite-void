@@ -36,4 +36,4 @@ Let's say your official job is to come up with marketing campaigns to sell physi
 
 Using formulas is essentially a shortcut to credibility. They allow you to push something decent out without years of copywriting training and experience. With a formula, you're able to create a piece of copy with the confidence it will be effective. At least, that's the plan. 
 
-As I said, the issue with using formulas as rules you *need* to follow is you don't get same value from them as you would otherwise. Formulas are tools you can use to guide your thoughts and structure your message.
+As I said, the issue with using formulas as rules you *need* to follow is you don't get the same value from them as you would otherwise. Formulas are tools you can use to guide your thoughts and structure your message.c
