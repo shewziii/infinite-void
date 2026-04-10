@@ -31,3 +31,12 @@ This explicit promise example is specific and tells the reader exactly what the 
 ![[implicit-promise.png|Implicit promise]]
 
 This one is more implicit. The page says a lot about "personalized experience." The implied promise behind that is the innate desire for people to manage and file their taxes themselves.
+
+Promise focus ads are the most common because making a promise is the fastest and often most effective way to appeal to the most amount of readers.
+
+## What makes a good promise?
+1. A good promise is benefit driven
+2. Clear and easy to understand
+3. Believable and provable
+4. Aligns with your ultimate call to action
+
