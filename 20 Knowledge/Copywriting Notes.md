@@ -30,4 +30,4 @@ This explicit promise example is specific and tells the reader exactly what the 
 
 ![[implicit-promise.png|Implicit promise]]
 
-This one is more implicit. The page says a lot about "personalized experience." That implies that the process readers are led through is managed by themselves.
+This one is more implicit. The page says a lot about "personalized experience." The implied promise behind that is the innate desire for people to manage and file their taxes themselves.
