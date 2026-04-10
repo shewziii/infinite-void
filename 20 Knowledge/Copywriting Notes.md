@@ -40,3 +40,26 @@ Promise focus ads are the most common because making a promise is the fastest an
 3. Believable and provable
 4. Aligns with your ultimate call to action
 
+Reasons people buy or engage with content or copy:
+- To be liked
+- To be appreciated
+- To be right
+- To feel important
+- To make money
+- To save money
+- To save time
+- To make work easier
+- To feel secure
+- To be attractive
+- To feel sexy
+- To be comfortable
+- To be distinctive
+- To be happy
+- To have fun
+- To gain knowledge
+- To be healthy
+- To gratify curiosity
+- For convenience
+- Out of fear
+- Out of greed
+- Out of guilt
