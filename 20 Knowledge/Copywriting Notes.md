@@ -24,4 +24,4 @@ Deep desires are the desires behind the immediate obvious desires. The reason be
 ## Promises
 Simple statements that say you can fulfill the desires of your reader. They can be more explicit or implicit.
 
-![[image-2.png]]
+![[explicit promise example.png]]
