@@ -64,3 +64,5 @@ Reasons people buy or engage with content or copy:
 - Out of greed
 - Out of guilt
 
+> [!important] 
+> One of the biggest mistakes copywriters make is inc
