@@ -21,3 +21,7 @@ Deep desires are the desires behind the immediate obvious desires. The reason be
 > [!Example] Example
 > One person wants more money. That is the superficial desire. But what's the reasoning behind why they want more money? Do they want the respect of their parents? Do they have a competitive streak and see life as a race to the top? Those are the deep desires that drive a person.
 
+## Promises
+Simple statements that say you can fulfill the desires of your reader. They can be more explicit or implicit.
+
+![[image-2.png]]
