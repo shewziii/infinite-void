@@ -65,4 +65,6 @@ Reasons people buy or engage with content or copy:
 - Out of guilt
 
 > [!important] 
-> One of the biggest mistakes copywriters make is inc
+> One of the biggest mistakes copywriters make is assume their job is to sell products or drive engagement. What people want is an outcome that makes them feel good.
+
+> A copywriter's job is to engage and sell emotions to grab attention  and channel that attention into engagement or action and to provide emotional reasons for your prospect to do what you want them to do.
