@@ -26,7 +26,8 @@ Simple statements that say you can fulfill the desires of your reader. They can 
 
 ![[explicit promise example.png|Explicit promise]]
 
-This explicit promise example is specific and tells the reader exactly what the business is promising. 
+This explicit promise example is specific and tells the reader exactly what the business is promising, like building a business to 8 figures.
 
 ![[implicit-promise.png|Implicit promise]]
 
+This one is more implicit. The page says a lot about "personalized experience." 
