@@ -130,3 +130,4 @@ The prospect consciously know they have a desire or a need, but they don't reali
 >
 >- Great Leads
 
+Find a way to create an emotional connection to your audience through that problem. To do that, you can write your copy to be understanding, 
