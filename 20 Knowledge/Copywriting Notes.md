@@ -69,3 +69,5 @@ Reasons people buy or engage with content or copy:
 
 A copywriter's job is to engage and sell emotions to grab attention  and channel that attention into engagement or action and to provide emotional reasons for your prospect to do what you want them to do.
 
+## Prospect state of awareness
+A prospect's present state of knowledge about your product or service and what they know about that product or service
