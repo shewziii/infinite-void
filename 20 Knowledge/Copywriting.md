@@ -130,5 +130,7 @@ The prospect consciously know they have a desire or a need, but they don't reali
 >
 >- Great Leads
 
-Find a way to create an emotional connection to your audience through that problem. To do that, you can write your copy to be understanding, sympathetic, and trustworthy.
+Find a way to create an emotional connection to your audience through that problem. To do that, you can write your copy to be understanding, sympathetic, and trustworthy. A great way to do that is to call out the problem directly. 
+
+Target those worries that keep customers up at night, stir those emotions to prove you feel your prospect's pain, and offer hope of a solution at some point that's relevant to your prospect's desires, notion, identifications, and characteristics.
 
