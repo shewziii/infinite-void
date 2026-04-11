@@ -78,6 +78,7 @@ There are 5 stages of awareness.
 2. Product aware
 3. Solution aware
 4. Problem aware
+5. Unaware
 
 ### Stage 1: Most aware
 Prospects that are in the first stage are easy to sell to because they are already aware or invested in the market. Products that fit this stage include toothpaste or soap. All they need from the copywriter is the opportunity to buy.
@@ -134,3 +135,9 @@ Find a way to create an emotional connection to your audience through that probl
 
 Target those worries that keep customers up at night, stir those emotions to prove you feel your prospect's pain, and offer hope of a solution at some point that's relevant to your prospect's desires, notion, identifications, and characteristics.
 
+**The biggest mistake writers make is writing copy that explains or over-educates the reader about a problem.**
+
+### Stage 5: Unaware
+The prospect is not aware of their desire, won't admit the desire without being coaxed by your ad, the desire is so amorphous that is resists being easily summed up, or the desire is a secret that can't be verbalized.
+
+Promises don't really work at this stage because you can't promise to fulfill a desire your customer doesn't even know that have. Gimmicks don't work either for this reason.
