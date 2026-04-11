@@ -123,3 +123,10 @@ This is the stage of awareness you'll find most fitness and health copy. You'll 
 >
 >Dimples are common on people who are overweight and have a lot of extra skin and fat in areas that fold. People experiencing this problem already know about it, so the implied promises is that the user will be able to get rid of those dimples below the neckline through weight loss.
 
+### Stage 4: Problem aware
+The prospect consciously know they have a desire or a need, but they don't realize that the product you're selling can fulfill that need. This audience responds best to when you can **show that you feel their pain**. 
+
+>"Not just that you know they have a problem, but that you know the frustration, desperation or even fear and anger it causes."
+>
+>- Great Leads
+
