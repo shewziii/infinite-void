@@ -118,4 +118,5 @@ This is the stage of awareness you'll find most fitness and health copy. You'll 
 
 >[!example] P90X Workout Plan
 >"Because the only dimples worth having are the ones above your neckline"
->This line is great because it gives the audience a great piece of indirect copy that makes an indirect promise to the reader using pain points they likely already have if they're looking for this
+>This line is great because it gives the audience a great piece of indirect copy that makes an indirect promise to the reader using pain points they likely already.
+>Dimples are common on people who are overweight and have a lot of extra 
