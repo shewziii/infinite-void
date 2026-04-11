@@ -143,4 +143,5 @@ The prospect is not aware of their desire, won't admit the desire without being 
 Promises don't really work at this stage because you can't promise to fulfill a desire your customer doesn't even know that have. Gimmicks don't work either for this reason.
 
 With an unaware audience: 
-- do not mention price or disc
+- do not mention price or discounts
+- don't name or even speak directly about the product you're selling at first
