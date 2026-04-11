@@ -114,4 +114,8 @@ The process is straightforward:
 2. Prove that the product can deliver that solution
 3. Show how your product makes it happen
 
-This is the stage of awareness you'll find most fitness and health copy. You'll find that making indirect claims and promises is a bit more effective
+This is the stage of awareness you'll find most fitness and health copy. You'll find that making indirect claims and promises is a bit more effective. 
+
+>[!example] P90X Workout Plan
+>"Because the only dimples worth having are the ones above your neckline"
+>This line is great because it gives the audience a great piece of indirect copy that 
