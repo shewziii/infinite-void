@@ -77,6 +77,7 @@ There are 5 stages of awareness.
 1. Most aware
 2. Product aware
 3. Solution aware
+4. Problem aware
 
 ### Stage 1: Most aware
 Prospects that are in the first stage are easy to sell to because they are already aware or invested in the market. Products that fit this stage include toothpaste or soap. All they need from the copywriter is the opportunity to buy.
@@ -113,4 +114,4 @@ The process is straightforward:
 2. Prove that the product can deliver that solution
 3. Show how your product makes it happen
 
-This is the stage of awareness you'll find most fitness and health copy.
+This is the stage of awareness you'll find most fitness and health copy. You'll find that making indirect claims and promises is a bit more effective
