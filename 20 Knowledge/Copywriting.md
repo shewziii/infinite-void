@@ -145,3 +145,5 @@ Promises don't really work at this stage because you can't promise to fulfill a 
 With an unaware audience: 
 - do not mention price or discounts
 - don't name or even speak directly about the product you're selling at first
+- do not draw any attention to what you product does
+
