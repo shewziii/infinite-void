@@ -141,3 +141,6 @@ Target those worries that keep customers up at night, stir those emotions to pro
 The prospect is not aware of their desire, won't admit the desire without being coaxed by your ad, the desire is so amorphous that is resists being easily summed up, or the desire is a secret that can't be verbalized.
 
 Promises don't really work at this stage because you can't promise to fulfill a desire your customer doesn't even know that have. Gimmicks don't work either for this reason.
+
+With an unaware audience: 
+- do not mention price or disc
