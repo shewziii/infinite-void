@@ -147,3 +147,4 @@ With an unaware audience:
 - don't name or even speak directly about the product you're selling at first
 - do not draw any attention to what you product does
 
+The key with 
