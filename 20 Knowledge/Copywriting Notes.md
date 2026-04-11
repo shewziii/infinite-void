@@ -71,3 +71,10 @@ A copywriter's job is to engage and sell emotions to grab attention  and channel
 
 ## Prospect state of awareness
 A prospect's present state of knowledge about your product or service and what they know about that product or service
+
+## Stages of awareness
+There are 5 stages of awareness.
+1. Most aware
+2. 
+
+Prospects that are in the first stage are easy to sell to because they are already aware or invested in the market. Products that fit this stage include toothpaste or soap. All they need from the copywriter is the opportunity to buy.
