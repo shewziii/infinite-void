@@ -9,7 +9,7 @@ genre:
   - Horror
   - Vampires
 status: read
-date-read:
+date-read: 2026-03-12
 rating: ⭐️⭐️⭐️⭐️⭐️
 published: 2024-03-12
 pages: "725"
