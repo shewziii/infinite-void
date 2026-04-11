@@ -121,4 +121,4 @@ This is the stage of awareness you'll find most fitness and health copy. You'll 
 >
 >This line is great because it gives the audience a great piece of indirect copy that makes an indirect promise to the reader using pain points they likely already.
 >
->Dimples are common on people who are overweight and have a lot of extra skin and fat in areas that fold. People experiencing this problem already know about it, so the promise 
+>Dimples are common on people who are overweight and have a lot of extra skin and fat in areas that fold. People experiencing this problem already know about it, so the implied promises is that the user will be able to get rid of those dimples below the neckline through weightlo
