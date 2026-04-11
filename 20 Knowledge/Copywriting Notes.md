@@ -97,3 +97,9 @@ There are 7 ways to capture and keep the attention of an audience in the product
 6. Reveal updates that fix previous limitations of your product
 7. Completely redefine your product to stand out from competitors offering similar solutions
 
+>[!example]
+>![[Roll-Royce print ad.png|Rolls-Royce print ad headline]]
+>This ad uses vivid details and a stark contrast between extremes to make an indirect promise about how quiet and smooth the car is. 
+>
+>Most prospects probably already knew about this promise, but the headline sharpens and focuses the images about how the car can fulfill their desires.
+
