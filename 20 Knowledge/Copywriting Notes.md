@@ -78,3 +78,5 @@ There are 5 stages of awareness.
 2. 
 
 Prospects that are in the first stage are easy to sell to because they are already aware or invested in the market. Products that fit this stage include toothpaste or soap. All they need from the copywriter is the opportunity to buy.
+
+In copywriting, the most powerful word you can use is 'you.' A close second is the word 'because.' 
