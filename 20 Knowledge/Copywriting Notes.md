@@ -76,7 +76,7 @@ A prospect's present state of knowledge about your product or service and what t
 There are 5 stages of awareness.
 1. Most aware
 2. Product aware
-3. 
+3. Solution aware
 
 ### Stage 1: Most aware
 Prospects that are in the first stage are easy to sell to because they are already aware or invested in the market. Products that fit this stage include toothpaste or soap. All they need from the copywriter is the opportunity to buy.
@@ -103,3 +103,14 @@ There are 7 ways to capture and keep the attention of an audience in the product
 >
 >Most prospects probably already knew about this promise, but the headline sharpens and focuses the images about how the car can fulfill their desires.
 
+### Stage 3: Solution aware
+The prospect wants what the product can do, but does not yet know the product can do it. This audience is like someone looking for a midnight snack—they feel the need to eat something but unsure of what they want.
+
+Your job as a copywriter at this stage is to show them that your product is the solution to their problem. To do this, you need to understand their problem. 
+
+The process is straightforward:
+1. Call out the prospect's desire, problem, or the solution
+2. Prove that the product can deliver that solution
+3. Show how your product makes it happen
+
+This is the stage of awareness you'll find most fitness and health copy.
