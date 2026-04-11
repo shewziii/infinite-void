@@ -8,9 +8,9 @@ genre:
   - Dark Fantasy
   - Horror
   - Vampires
-status: Reading
+status: read
 date-read:
-rating:
+rating: ⭐️⭐️⭐️⭐️⭐️
 published: 2024-03-12
 pages: "725"
 isbn: "9781250245342"
