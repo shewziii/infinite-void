@@ -75,8 +75,15 @@ A prospect's present state of knowledge about your product or service and what t
 ## Stages of awareness
 There are 5 stages of awareness.
 1. Most aware
-2. 
+2. Product aware
+3. 
 
+### Stage 1: Most aware
 Prospects that are in the first stage are easy to sell to because they are already aware or invested in the market. Products that fit this stage include toothpaste or soap. All they need from the copywriter is the opportunity to buy.
 
 In copywriting, the most powerful word you can use is 'you.' A close second is the word 'because.' 
+
+### Stage 2: Product aware
+Customers in this stage are aware of your products or services, but haven't decided to make a purchase yet. Almost all ad copy you write in your career is for customers in this stage of awareness.
+
+Customers want to feel confident that a product will do what they need it to do, so people in this stage will look at reviews, testimonials, and other sources of information to see what others have to say about it.
