@@ -87,3 +87,13 @@ In copywriting, the most powerful word you can use is 'you.' A close second is t
 Customers in this stage are aware of your products or services, but haven't decided to make a purchase yet. Almost all ad copy you write in your career is for customers in this stage of awareness.
 
 Customers want to feel confident that a product will do what they need it to do, so people in this stage will look at reviews, testimonials, and other sources of information to see what others have to say about it.
+
+There are 7 ways to capture and keep the attention of an audience in the product aware stage of awareness: 
+1. Strengthen the prospect's desire for the product
+2. Demonstrate how the product meets the prospect's needs
+3. Highlight the situations where the product is most useful for the prospect
+4. Provide new proof, details, or evidence showing how well your product works
+5. Announce a new mechanism that makes your product even better at fulfilling prospect's needs
+6. Reveal updates that fix previous limitations of your product
+7. Completely redefine your product to stand out from competitors offering similar solutions
+
