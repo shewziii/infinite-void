@@ -1,6 +1,6 @@
 ---
 title: "Scientific Advertising"
-author: "Claude C. Hopkins"
+author: "Claude Hopkins"
 type: book
 series:
 series-number:
@@ -8,9 +8,9 @@ genre:
 status:
 date-read:
 rating:
-published: "1968"
-pages: "69"
-isbn: "9781844810529"
+published: "2019-03-22"
+pages: "106"
+isbn: "9781090890191"
 goodreads:
 cover:
 tags:
