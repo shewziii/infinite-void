@@ -1,0 +1,21 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - type == "book"
+        - file.folder != "99 Templates"
+    order:
+      - title
+      - author
+      - rating
+    sort:
+      - property: author
+        direction: ASC
+      - property: series
+        direction: ASC
+      - property: number
+        direction: ASC
+    image: note.cover
+    imageAspectRatio: 1.55
+    cardSize: 150

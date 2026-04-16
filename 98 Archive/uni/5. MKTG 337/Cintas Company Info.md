@@ -1,0 +1,77 @@
+---
+id: Cintas Company Info
+aliases: []
+tags: []
+---
+
+Customer: Wonder Mart
+Ready for the work day
+- Family owned gas and convenience store chain 
+- Best known for on the go snacks and beverages
+- 100 locations
+- 2,000 employees
+- Sued for slipping accident
+- Running a hiring campaign
+- Takes employees 1-3 hours to clean every day
+
+How do we get cintas to be the only option for wander mart to buy from
+**Your value has to be extremely high** 
+
+About the Cintas Xtraction mats
+- Fast drying
+- phoenix fiber does not shrink in the washing process
+- Holds more dirt and water
+- 50% microfiber, 50% phoenix fiber
+- Stays flat
+- Takes 10 times more dirt and grime off the bottom of your shoe
+- Bottom is textured like mini suction cups so it will not slide
+- Certified high traction by the National Floor Safety Institute
+- Colors meant to hide dirt, dust, and debris 
+
+Cintas mat service
+- Mats are rented, not purchased
+- Cintas works weekly to get mats professionally cleaned and sanitized
+- Service reps are uniformed, and uphold a high image standard
+- 
+
+> [!IMPORTANT]
+> Cintas sells the SERVICE, not the mats
+
+# Pricing
+3x5: $8 per week or $32/month
+4x6 $9/week or $36/month
+3x10: $10/week or $40/month
+
+Load the customer with mats. The more mats the better, but at a reasonable level
+- Front entrances
+- Around the soda fountains
+- Around any produce
+- Counter spaces
+
+Goal is to keep a clean a facility for customers
+
+86% of adults have negative perception on retail, and 68% of those would not return
+takes 1500 people to remove 42% of the finish of a floor, and its a lot more expensive to finish a floor vs signing up for a mat service
+
+**Look up stats of accident rates of stores that have mats vs not**
+
+- Mats bubble in the cleaning process because cloth and fiber shrink. Phoenix fiber does not shrink in the washing process
+- Takes 15-20 minutes to swap out mats in one location
+
+---
+# Graybar
+Wholesale distributor for electrical appliances
+
+4 pillars of EVP
+1. Success and stability
+2. Employee Ownership
+3. Total Rewards 
+4. Learning and career development
+
+4 values
+- integrity
+- employee ownership
+- long term view
+- customer focus
+
+
