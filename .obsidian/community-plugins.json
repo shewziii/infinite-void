@@ -1,5 +1,12 @@
 [
   "notebook-navigator",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "colored-tags",
+  "obsidian-book-search-plugin",
+  "dataview",
+  "obsidian-style-settings",
+  "pretty-properties",
+  "image-converter",
+  "obsidian-plugin-toc"
 ]

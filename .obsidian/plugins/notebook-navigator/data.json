@@ -12,7 +12,16 @@
       "hiddenFileProperties": [],
       "navigationBanner": null,
       "periodicNotesFolder": "",
-      "shortcuts": [],
+      "shortcuts": [
+        {
+          "type": "note",
+          "path": "Work.md"
+        },
+        {
+          "type": "note",
+          "path": "Library.md"
+        }
+      ],
       "navRainbow": {
         "mode": "none",
         "balanceHueLuminance": true,
@@ -194,7 +203,7 @@
   "showAllPropertiesFolder": true,
   "scopePropertiesToCurrentContext": false,
   "defaultListMode": "standard",
-  "includeDescendantNotes": false,
+  "includeDescendantNotes": true,
   "defaultFolderSort": "modified-desc",
   "propertySortKey": "",
   "propertySortSecondary": "title",
@@ -444,15 +453,27 @@
   },
   "customVaultName": "",
   "pinnedNotes": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "Work.md": "briefcase",
+    "Library.md": "book"
+  },
   "fileColors": {},
   "fileBackgroundColors": {},
-  "folderIcons": {},
+  "folderIcons": {
+    "00 Inbox": "inbox",
+    "10 Work": "briefcase",
+    "20 Knowledge": "brain",
+    "30 Hobbies": "book-open"
+  },
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {},
   "folderTreeSortOverrides": {},
-  "folderAppearances": {},
+  "folderAppearances": {
+    "30 Hobbies": {
+      "groupBy": "folder"
+    }
+  },
   "tagIcons": {},
   "tagColors": {},
   "tagBackgroundColors": {},
@@ -467,7 +488,11 @@
   "propertyAppearances": {},
   "virtualFolderColors": {},
   "virtualFolderBackgroundColors": {},
-  "navigationSeparators": {},
+  "navigationSeparators": {
+    "folder:96 System": true,
+    "section:tags": true,
+    "folder:/": true
+  },
   "userColors": [
     "#ffffff",
     "#d9d9d9",

@@ -7,8 +7,8 @@ series-number:
 genre:
   - business
 status: reading
-date-read:
-rating:
+date-read: 2026-04-15
+rating: ⭐⭐⭐⭐
 published: 2019-03-22
 pages: "106"
 isbn: "9781090890191"
