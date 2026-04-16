@@ -472,6 +472,9 @@
   "folderAppearances": {
     "30 Hobbies": {
       "groupBy": "folder"
+    },
+    "/": {
+      "groupBy": "folder"
     }
   },
   "tagIcons": {},
