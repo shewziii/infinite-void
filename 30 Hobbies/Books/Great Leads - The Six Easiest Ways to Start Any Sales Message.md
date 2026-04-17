@@ -24,7 +24,7 @@ tags:
 
 Marketing research shows that 80% of an ad’s or sales letter’s success comes from the headline and lead. Every marketer worth the name can tell you how important the headline is. But far too many of those same marketers ignore the critical importance of the lead.  
   
-In Great The Six Easiest Ways to Start Any Sales Message marketing genius Michael Masterson and master copywriter John Forde break through that ignorance to provide a clear, concise, and easy-to-follow guide to writing successful leads. But this is not a simple “How To” book on leads. Great Leads goes far deeper. Michael and John examine crucial aspects o writing powerful, successful leads and show how this process starts long before one word is put on paper.  
+In Great Leads: The Six Easiest Ways to Start Any Sales Message marketing genius Michael Masterson and master copywriter John Forde break through that ignorance to provide a clear, concise, and easy-to-follow guide to writing successful leads. But this is not a simple “How To” book on leads. Great Leads goes far deeper. Michael and John examine crucial aspects o writing powerful, successful leads and show how this process starts long before one word is put on paper.  
   
 Great Leads was originally conceived as a book about sales letter leads. But in the planning stages, it quickly morphed into a far broader, far more useful examination of how to write effective leads for any type of direct response ad.  
   
@@ -32,10 +32,42 @@ This book is not the best book of its kind about how to write successful leads. 
 
 ---
 ## Notes
-### Chapter 1: 
+### Chapter 1: The Rule of One—One Big Idea
+
+>"Every great promotion has, at its core, a single, powerful idea"
+
+Writing with one idea doesn't have to mean the headline has to be exactly that. It could also be something less obvious that points to that idea.
+
+- "Six Types of Investors—Which Group Are You In?"
+- "Do You Do Any of These Ten Embarrassing Things?"
+
+Starting the headline with one, simple idea has two benefits:
+1. Makes the copy stronger
+2. Makes writing the rest easier
+
+Writing a strong "one big idea" is hard. You have to know your audience and do your research beforehand so it is strong and precise. Otherwise, you'll miss your mark.
+
+>[!quote] James Loftus
+>"Also keep in mind that the more points you try to cover, the less effective each point, and therefore your ad, will be. An effective ad will actually have only one central focus, even if you discuss it from two or three perspectives. If your points are too diverse, they compete with each other, and end up pulling the reader's attention in separate directions."
+
+An idea has to be strong, easy to understand, and easy to believe. A great lead has to be unified by a single idea and a single emotion.
+
+In summary: 
+- Lead your ad with **one** powerful idea
+- Your one idea should create **one** single emotion
+- Support that idea with **one** engaging story or fact
+- Lead the reader to **one** action
+
+A great idea is:
+- Big enough to gain interest
+- Easy to understand
+- Convincing
+- Useful to the reader
+
+## Chapter 2: The Simple Question That Can Double Your Success
+
+
 
 ---
-## Review
 
----
 [[Library|Books]]
