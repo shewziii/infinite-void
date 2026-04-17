@@ -1,0 +1,3 @@
+- starts with movie clip
+- Battery low to frustration 
+- Want less of this?
