@@ -66,6 +66,21 @@ A great idea is:
 
 ## Chapter 2: The Simple Question That Can Double Your Success
 
+>"What does your customer already know?"
+
+Everything your prospect knows before you begin your sales pitch determines what you say, how you say it, and when you open the conversation between seller and buyer. What the reader knows will help you decide which of the following six lead types will work best.
+
+>[!quote] *[[Breakthrough Advertising]]*, Eugene Schwartz
+>"If [your prospect] is aware of your product and realizes it can satisfy his desire, your headline starts with your product. If he is not aware of your product, but only of the desire itself, your headline starts with the desire. If he is not yet aware of what he really seeks, but is concerned only with the general problem, your headline starts with that problem and crystallizes it into a specific need."
+
+### Five Levels of Customer Awareness
+
+![[Schwartz's Five Levels of Customer Awareness.jpeg|Gene Schwartz's Five Levels of Customer Awareness]]
+
+Put simply, knowing how aware your prospect is will change the conversation completely.
+
+See [[Copywriting#Stages of awareness|Stages of awareness]]
+
 
 
 ---

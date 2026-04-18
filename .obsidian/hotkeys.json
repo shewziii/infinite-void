@@ -7,5 +7,11 @@
       ],
       "key": "N"
     }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
   ]
 }
