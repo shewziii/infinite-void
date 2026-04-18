@@ -32,6 +32,22 @@ This book is not the best book of its kind about how to write successful leads. 
 
 ---
 ## Notes
+
+**Table of Contents**
+
+- [[#Chapter 1: The Rule of One—One Big Idea|Chapter 1: The Rule of One—One Big Idea]]
+- [[#Chapter 2: The Simple Question That Can Double Your Success|Chapter 2: The Simple Question That Can Double Your Success]]
+	- [[#Chapter 2: The Simple Question That Can Double Your Success#Five Levels of Customer Awareness|Five Levels of Customer Awareness]]
+- [[#Chapter 3: Direct or Indirect?|Chapter 3: Direct or Indirect?]]
+- [[#Chapter 4: The Easiest Type of Sales Lead You'll Ever Write—Or Your Money Back|Chapter 4: The Easiest Type of Sales Lead You'll Ever Write—Or Your Money Back]]
+- [[#Chapter 5: Double Your Sales With This Next Kind of Lead|Chapter 5: Double Your Sales With This Next Kind of Lead]]
+- [[#Chapter 6: Still Can't Find Your Hook? Try This Time-Tested Solution|Chapter 6: Still Can't Find Your Hook? Try This Time-Tested Solution]]
+- [[#Chapter 7: The Magic of the Velvet Pouch|Chapter 7: The Magic of the Velvet Pouch]]
+- [[#Chapter 8: You Won't Read this Anywhere But Here: The Proclamation Lead|Chapter 8: You Won't Read this Anywhere But Here: The Proclamation Lead]]
+- [[#Chapter 9: The Tales of the $2 Billion Sales Letter|Chapter 9: The Tales of the $2 Billion Sales Letter]]
+- [[#Chapter 10: How to Make This System Work for You|Chapter 10: How to Make This System Work for You]]
+
+---
 ### Chapter 1: The Rule of One—One Big Idea
 
 >"Every great promotion has, at its core, a single, powerful idea"
@@ -64,7 +80,7 @@ A great idea is:
 - Convincing
 - Useful to the reader
 
-## Chapter 2: The Simple Question That Can Double Your Success
+### Chapter 2: The Simple Question That Can Double Your Success
 
 >"What does your customer already know?"
 
@@ -73,16 +89,37 @@ Everything your prospect knows before you begin your sales pitch determines what
 >[!quote] *[[Breakthrough Advertising]]*, Eugene Schwartz
 >"If [your prospect] is aware of your product and realizes it can satisfy his desire, your headline starts with your product. If he is not aware of your product, but only of the desire itself, your headline starts with the desire. If he is not yet aware of what he really seeks, but is concerned only with the general problem, your headline starts with that problem and crystallizes it into a specific need."
 
-### Five Levels of Customer Awareness
+#### Five Levels of Customer Awareness
 
-![[Schwartz's Five Levels of Customer Awareness.jpeg|Gene Schwartz's Five Levels of Customer Awareness]]
+![[Schwartz's Five Levels of Customer Awareness.jpeg|Gene Schwartz's Five Levels of Customer Awareness|751x190]]
 
 Put simply, knowing how aware your prospect is will change the conversation completely.
 
 See [[Copywriting#Stages of awareness|Stages of awareness]]
 
-## Chapter 3: Direct or Indirect?
+---
+### Chapter 3: Direct or Indirect?
 
+---
+### Chapter 4: The Easiest Type of Sales Lead You'll Ever Write—Or Your Money Back
+
+---
+### Chapter 5: Double Your Sales With This Next Kind of Lead
+
+---
+### Chapter 6: Still Can't Find Your Hook? Try This Time-Tested Solution
+
+---
+### Chapter 7: The Magic of the Velvet Pouch
+
+---
+### Chapter 8: You Won't Read this Anywhere But Here: The Proclamation Lead
+
+---
+### Chapter 9: The Tales of the $2 Billion Sales Letter
+
+---
+### Chapter 10: How to Make This System Work for You
 
 
 ---
