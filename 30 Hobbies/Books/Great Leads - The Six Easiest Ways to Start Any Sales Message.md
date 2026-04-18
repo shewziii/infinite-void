@@ -81,6 +81,8 @@ Put simply, knowing how aware your prospect is will change the conversation comp
 
 See [[Copywriting#Stages of awareness|Stages of awareness]]
 
+## Chapter 3: Direct or Indirect?
+
 
 
 ---
