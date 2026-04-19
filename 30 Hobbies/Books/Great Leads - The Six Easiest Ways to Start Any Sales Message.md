@@ -100,6 +100,8 @@ See [[Copywriting#Stages of awareness|Stages of awareness]]
 ---
 ### Chapter 3: Direct or Indirect?
 
+
+
 ---
 ### Chapter 4: The Easiest Type of Sales Lead You'll Ever Write—Or Your Money Back
 
