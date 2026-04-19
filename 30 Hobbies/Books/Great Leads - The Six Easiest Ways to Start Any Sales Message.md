@@ -95,7 +95,7 @@ Everything your prospect knows before you begin your sales pitch determines what
 
 Put simply, knowing how aware your prospect is will change the conversation completely.
 
-See [[Copywriting#Stages of awareness|Stages of awareness]]
+See [[Copywriting notes#Stages of awareness|Stages of awareness]]
 
 ---
 ### Chapter 3: Direct or Indirect?
