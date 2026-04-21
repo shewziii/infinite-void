@@ -26,104 +26,105 @@
 
 **What's the problem this person is facing that your problem will solve?**
 
-- Too much time to get their finances in order which leads to stress, 
+- Too little time to get their finances in order which leads to stress, lack of funds for important expenses, and lack of fun money.
 
 ---
 
 ## The Benefits
 
-So… why exactly should they buy it? Spell it out!
-- 
+**So… why exactly should they buy it? Spell it out!**
 
-What's the one, MAIN result the product will give them?
-- 
+- The newsletter is free and gives subscribers the knowledge to do all their financial management on their own without having to pay someone else to do it, and with very little time commitment.
 
-And… what are a few of the benefits they'll experience?
+**What's the one, MAIN result the product will give them?**
 
-- More
-- Less
-- They finally won't
-- They'll finally
-- Their friends will say,
-- They'll feel
-- Anything else?
+- The ability to free themselves from financial stress
+
+**And… what are a few of the benefits they'll experience?**
+
+- More financial security
+- Less stress about their lack of time affecting their finances
+- They finally won't have to look for an affordable financial aid or agency
+- They'll finally will have the knowledge to do everything themselves
+- Their friends will say, "Wow! you're so knowledgeable about this stuff."
+- They'll feel secure and knowledgeable about their financial future
 
 ---
 
 ## The Obstacles
 
-Right now, what's the one big thing that's STOPPING them from getting the result they want?
-- 
+**Right now, what's the one big thing that's STOPPING them from getting the result they want?**
 
-And… are there any practical challenges they're facing?
-- 
+- They're busy. The target audience has lots of work to do with little time in between to spend hours on learning to do things, and may not have the financial capability to pay someone else to do it for them.
+
+**And… are there any practical challenges they're facing?**
+
+- They can't afford to pay someone else to do this stuff for them and they may not even have that much right now to really manage.
 
 ---
 
 ## The Specs
 
-Now, let's get into the specs. What will your customers get when they buy your product?
+**Now, let's get into the specs. What will your customers get when they subscribe?**
 
-Component #1
-- 
-Why is this valuable? How will it help them?
-- 
+**Component #1**
+- Weekly newsletter
 
-Component #2
-- 
-Why is this valuable? How will it help them?
-- 
+**Why is this valuable? How will it help them?**
+- Free information and resources every week
 
-Component #3
-- 
-Why is this valuable? How will it help them?
-- 
+**Component #2**
+- Welcome email on signup
 
-Component #4
-- 
-Why is this valuable? How will it help them?
-- 
+**Why is this valuable? How will it help them?**
+- Outlines everything they will get, and give them the option to opt into or out of different branches of the newsletter.
 
-Component #5
-- 
-Why is this valuable? How will it help them?
-- 
+**Component #3**
+- 30-day email sequence
 
-Component #6
-- 
-Why is this valuable? How will it help them?
-- 
+**Why is this valuable? How will it help them?**
+- Gives customers 30 days of free information so they can get started on managing their finances better. These are short emails with one specific step they can easily implement.
 
-And how about features? What are the cool details about your product?
+**Component #4**
+- Guides, frameworks, and templates
 
-Feature #1
-- 
-Why is this valuable? How will it help them?
-- 
+**Why is this valuable? How will it help them?**
+- Gives subscribers resources that allow them to manage everything themselves.
 
-Feature #2
-- 
-Why is this valuable? How will it help them?
-- 
+**Feature #1**
+- Free
 
-Feature #3
-- 
-Why is this valuable? How will it help them?
-- 
+**Why is this valuable? How will it help them?**
+- The target audience is people who need help with their finances, so free would be the best option for them.
 
-Feature #4
-- 
-Why is this valuable? How will it help them?
+**Feature #2**
+- Quick reads
+
+**Why is this valuable? How will it help them?**
+- The newsletter is designed for those with busy lifestyles and jobs, so short issues makes it easier for them to digest the content.
+
+**Feature #3**
+- Actionable
+
+**Why is this valuable? How will it help them?**
+- People are going to join because they want to do something about their finances now. If everything is just theoretical, that doesn't help.
+
+**Feature #4**
+- Free of jargon and technical speak
+
+**Why is this valuable? How will it help them?**
 - 
 
-Feature #5
-- 
-Why is this valuable? How will it help them?
+**Feature #5**
 - 
 
-Feature #6
+**Why is this valuable? How will it help them?**
 - 
-Why is this valuable? How will it help them?
+
+**Feature #6**
+- 
+
+**Why is this valuable? How will it help them?**
 - 
 
 ---
@@ -131,7 +132,7 @@ Why is this valuable? How will it help them?
 ## Standing Out
 
 And, finally, what sets your product apart? Why should your target customers buy your product instead of your competition's product?
-- 
+-  
 
 WHY did you make your product the way you did?
 - 
