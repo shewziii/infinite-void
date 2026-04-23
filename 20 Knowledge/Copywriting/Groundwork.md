@@ -113,32 +113,22 @@
 - Free of jargon and technical speak
 
 **Why is this valuable? How will it help them?**
-- 
-
-**Feature #5**
-- 
-
-**Why is this valuable? How will it help them?**
-- 
-
-**Feature #6**
-- 
-
-**Why is this valuable? How will it help them?**
-- 
+- A newsletter that's full of jargon only a finance expert knows, it stops being useful as actionable and easily digestible.
 
 ---
 
 ## Standing Out
 
-And, finally, what sets your product apart? Why should your target customers buy your product instead of your competition's product?
--  
+**And, finally, what sets your product apart? Why should your target customers buy your product instead of your competition's product?**
 
-WHY did you make your product the way you did?
-- 
+-  This newsletter doesn't try to sell you on the main product. It stands on its own to genuinely try to help the people who make our world run.
+
+**WHY did you make your product the way you did?**
+
+- Again, free resources we can afford to teach people is a great way to get them to trust our information if it actually helps them. If we can help those truly in need of the newsletter, their trust in us increases, and the more likely they'll be to trust us with their money as their financial advisors.
 
 Top 3 reasons your product is better than what other companies offer:
 
-1. 
-2. 
-3. 
+1. Structured 30-day curriculum for free
+2. We won't sell our services through the newsletter
+3. We give our subscribers a way to be able to do everything themselves
