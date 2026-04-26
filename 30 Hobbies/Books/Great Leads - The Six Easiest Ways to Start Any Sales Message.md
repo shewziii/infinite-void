@@ -102,6 +102,24 @@ See [[Copywriting notes#Stages of awareness|Stages of awareness]]
 
 In social situations, we tend to interact or start conversations differently with people we know vs. with people we don't know. With a friend, you just start where you left off. With a stranger, you look for ways to "break the ice." The same can be applied in marketing.
 
+When your audience already knows about you or you product, you can get away with a direct method of communication. Invites, appealing to the group, or even just offering a discount. 
+
+When they don't know about you or your product, an [[Ads with great ideas|indirect approach]] is used. In an indirect approach, "claims tied directly to the product have all but disappeared."[^1]
+
+Both can work great. The only caveat is knowing how and when to use them. The simplest way to find out whether you should use a direct or indirect approach is to figure out where the prospect is on the awareness scale.
+
+>[!important] The more aware a prospect is, the more direct sales lead will work best.
+
+If the customer already knows who you are, what you do, and what you sell, you can just cut straight to the chase. 
+
+Try a more indirect approach or lead when:
+
+- You're writing to a customer who knows little or nothing about you
+- You're selling something that needs explanation
+- You've got a jaded customer with a lot of skepticism to overcome
+- Your product has a timely news connection too big to ignore
+- You're ready to reinvent or elevate your product or the idea behind it
+
 ---
 ### Chapter 4: The Easiest Type of Sales Lead You'll Ever Write—Or Your Money Back
 
@@ -127,3 +145,5 @@ In social situations, we tend to interact or start conversations differently wit
 ---
 
 [[Library|Books]]
+
+[^1]: Michael Masterson & John Forde, "Direct or Indirect?," in *Great Leads: The Six Easiest Ways to Start Any Sales Message*, (Delray Beach: American Writers & Artists Inc., 2011)
