@@ -100,7 +100,7 @@ See [[Copywriting notes#Stages of awareness|Stages of awareness]]
 ---
 ### Chapter 3: Direct or Indirect?
 
-
+In social situations, we tend to interact or start conversations differently with people we know vs. with people we don't know. With a friend, you just start where you left off. With a stranger, you look for ways to "break the ice." The same can be applied in marketing.
 
 ---
 ### Chapter 4: The Easiest Type of Sales Lead You'll Ever Write—Or Your Money Back
