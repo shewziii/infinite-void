@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2465731ee01d7a4c","x":-920,"y":-150,"width":250,"height":60,"type":"text","text":"Aloe"},
+		{"id":"a8e4479e5aa85ce6","x":-540,"y":-150,"width":250,"height":60,"type":"text","text":"Haworthia"},
+		{"id":"4235aab244254cfa","x":-140,"y":-150,"width":250,"height":60,"type":"text","text":"Gasteria"},
+		{"id":"95a32c07fd44d4c4","x":260,"y":-150,"width":250,"height":60,"type":"text","text":"Echiveria"},
+		{"id":"4c76613e8bd49d71","x":660,"y":-150,"width":250,"height":60,"type":"text","text":"Sempervivum"},
+		{"id":"94a1df888e1177b0","x":-140,"y":-500,"width":250,"height":60,"type":"text","text":"Succulents"}
+	],
+	"edges":[]
+}
