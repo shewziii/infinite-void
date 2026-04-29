@@ -120,7 +120,7 @@ Try a more indirect approach or lead when:
 - Your product has a timely news connection too big to ignore
 - You're ready to reinvent or elevate your product or the idea behind it
 
-
+![[IMG_5764.jpeg]]
 
 ---
 ### Chapter 4: The Easiest Type of Sales Lead You'll Ever Write—Or Your Money Back
