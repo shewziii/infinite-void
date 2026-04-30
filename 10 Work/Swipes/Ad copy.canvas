@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5cbc7fae76afbc0a","x":-760,"y":-340,"width":800,"height":720,"type":"group","label":"Implied Promises"},
+		{"id":"d9e81ac2a4cf2eaf","x":-740,"y":-300,"width":700,"height":382,"type":"file","file":"97 Attachments/colgate_your-smile-is-your-strength.webp"},
+		{"id":"3907e72a2d396d07","x":-740,"y":82,"width":700,"height":238,"type":"text","text":"This one is only 5 words, but most people know what Colgate is, so the audience of this ad knows that they sell toothpaste. When people think of a smile that gives strength, they think, \"bright, white, straight smiles.\" Since they know Colgate is a toothpaste brand, the implied promise is that their toothpaste will help you get a nice, white smile.\n\nThis connects to the audience's superficial desires because everyone wants white teeth, but the ad specifically appeals to the deep desires of those who want white teeth to feel confident and powerful."}
+	],
+	"edges":[]
+}

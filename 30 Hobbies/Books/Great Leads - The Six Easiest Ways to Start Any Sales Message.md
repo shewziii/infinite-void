@@ -164,7 +164,9 @@ The most indirect and powerful way to open a sales letter. Stories can engage re
 ---
 ### Chapter 4: The Easiest Type of Sales Lead You'll Ever Write—Or Your Money Back
 
+#### The Offer Lead 
 
+The offer lead is one of the simplest leads you can write. In some cases, it practically writes itself. 
 
 ---
 ### Chapter 5: Double Your Sales With This Next Kind of Lead
