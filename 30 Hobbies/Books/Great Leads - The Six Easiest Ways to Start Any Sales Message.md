@@ -120,7 +120,45 @@ Try a more indirect approach or lead when:
 - Your product has a timely news connection too big to ignore
 - You're ready to reinvent or elevate your product or the idea behind it
 
-![[IMG_5764.jpeg]]
+>[!example] Example
+>![[Indirect approach health ad.jpeg|The subject here is obviously health, but there is nothing that shows or says what kind of health product is being sold. Instead, the lead and headline informs and entertains at the same time, which makes the reader want to read what comes after.]]
+
+Another benefit of indirect leads is that the emotional connection made actively involves the reader in making that emotional connection.
+
+Although they can be powerful, they come with some risk:
+
+- You might accidentally use an indirect lead when you don't need to
+- You might pick a lead that's too indirect to connect back to your product
+- You risk being too subtle by taking your time to get to the product
+- You risk boring your customer by taking too long to get to the product
+- You risk getting distracted by writing something "interesting" but not relevant
+
+#### 6 types of direct and indirect leads
+##### Offer lead
+
+Direct lead that goes straight to the deal or offer. 
+
+##### promise lead 
+
+The most common type of lead. Slightly less direct than the offer lead. The biggest promise is often the headline, the first line, and the last line.
+
+##### Problem-solution lead
+
+Delaying any talk of the product at first and instead lead by identifying the prospect's biggest, most emotionally-charged, and relevant issue. Promises related to the product immediately follow.
+
+##### Big secret lead 
+
+The "tease" of hard-to-come-by knowledge, formula, or "system" leads the promo. The secret can be either a solution, hidden problem, or system for getting good results.
+
+##### Proclamation lead 
+
+Indirect. This type of lead aims to "jar" the "unaware" reader out of their seat. This can be through a a factoid that's incredible, a shocking future forecast or prediction, or with a bold statement.
+
+##### Story lead
+
+The most indirect and powerful way to open a sales letter. Stories can engage readers who don't know you or the product well or who might flinch at a more direct, unbelievable claim. Make sure to tell the story quickly and keep it in context of the bigger promise/core idea of the promotion.
+
+
 
 ---
 ### Chapter 4: The Easiest Type of Sales Lead You'll Ever Write—Or Your Money Back
