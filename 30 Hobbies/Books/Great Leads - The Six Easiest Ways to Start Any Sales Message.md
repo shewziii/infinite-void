@@ -158,7 +158,7 @@ Indirect. This type of lead aims to "jar" the "unaware" reader out of their seat
 
 The most indirect and powerful way to open a sales letter. Stories can engage readers who don't know you or the product well or who might flinch at a more direct, unbelievable claim. Make sure to tell the story quickly and keep it in context of the bigger promise/core idea of the promotion.
 
-
+![[IMG_5775.jpeg]]
 
 ---
 ### Chapter 4: The Easiest Type of Sales Lead You'll Ever Write—Or Your Money Back
