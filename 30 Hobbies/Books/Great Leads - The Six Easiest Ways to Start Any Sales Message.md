@@ -166,7 +166,22 @@ The most indirect and powerful way to open a sales letter. Stories can engage re
 
 #### The Offer Lead 
 
-The offer lead is one of the simplest leads you can write. In some cases, it practically writes itself. 
+The offer lead is one of the simplest leads you can write. In some cases, it practically writes itself. When you have a good deal, that's going out to an already aware audience, it can be next to impossible to mess up the offer lead.
+
+>[!example] How to Double Your Power to Learn
+>"**Don't Pay A Penny For This Book Till It Doubles Your Power to Learn!**
+>Here at last is your chanve to make such an overwhelming difference in your child's performance in school—in as little as five short minutes of your time everyday—that the teacher may actually call you up to see what happened!
+>Let me explain..."
+
+This offer is instant. The first 4 words mention that you'll be asked for money by guaranteeing that you'll get it back if you're not satisfied. The main driver in the success of this ad is the guarantee and the very powerful promise.
+
+Most successful offer leads share a similar formula:
+1. Immediately focus on the most emotionally-compelling detail of your offer
+2. Underscore the most valuable benefit of that deal 
+3. Elaborate on that same deal-benefit in the lead that follows
+4. At some point, include a compelling "reason why" you're offering that deal
+
+Step 4 is what a lot of copywriters overlook and can be detrimental because the prospect will almost always ask, "what's the catch?"
 
 ---
 ### Chapter 5: Double Your Sales With This Next Kind of Lead
