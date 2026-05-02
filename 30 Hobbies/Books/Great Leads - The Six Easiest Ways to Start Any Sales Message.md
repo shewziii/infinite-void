@@ -183,6 +183,12 @@ Most successful offer leads share a similar formula:
 
 Step 4 is what a lot of copywriters overlook and can be detrimental because the prospect will almost always ask, "what's the catch?"
 
+One of the most important things in an effective offer lead is that the prospect feels that the benefit he's about to get is both valuable and a "steal" by comparison to what they would normally be willing to pay.
+
+What makes it a "steal" might be a low price or discount. It could also be that a higher price or more elite price will get you the sale. 
+
+
+
 ---
 ### Chapter 5: Double Your Sales With This Next Kind of Lead
 
