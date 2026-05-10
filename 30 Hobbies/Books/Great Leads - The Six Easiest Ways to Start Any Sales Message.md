@@ -187,7 +187,9 @@ One of the most important things in an effective offer lead is that the prospect
 
 What makes it a "steal" might be a low price or discount. It could also be that a higher price or more elite price will get you the sale. 
 
+Sometimes the copy also throws in a gift that adds so much extra value that it melts away remaining resistance. This is called a **dissolving bonus**. They can be things like adding a gift card for a supplemental product when you've already given the prospect a discount.
 
+Not all offer leads are explicit.
 
 ---
 ### Chapter 5: Double Your Sales With This Next Kind of Lead
