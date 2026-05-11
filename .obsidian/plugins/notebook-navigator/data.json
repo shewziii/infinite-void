@@ -114,12 +114,14 @@
   "showInfoButtons": true,
   "homepage": {
     "source": "none",
-    "file": null
+    "file": null,
+    "createMissingPeriodicNote": true
   },
   "dualPane": true,
   "dualPaneOrientation": "horizontal",
   "showTooltips": false,
   "showTooltipPath": true,
+  "showTooltipWordCount": false,
   "desktopBackground": "separate",
   "desktopScale": 1,
   "mobileScale": 1,
@@ -211,10 +213,8 @@
   "listPaneTitle": "header",
   "noteGrouping": "date",
   "showSelectedNavigationPills": false,
+  "stickyGroupHeaders": true,
   "filterPinnedByFolder": false,
-  "showPinnedGroupHeader": true,
-  "showPinnedIcon": true,
-  "optimizeNoteHeight": true,
   "compactItemHeight": 28,
   "compactItemHeightScaleText": true,
   "showQuickActions": true,
@@ -235,11 +235,13 @@
   "showFileBackgroundUnfinishedTask": false,
   "unfinishedTaskBackgroundColor": "#ef000050",
   "showFileIcons": true,
+  "useFolderIconForFiles": false,
   "showFilenameMatchIcons": false,
   "fileNameIconMap": {},
   "showCategoryIcons": false,
   "fileTypeIconMap": {},
   "fileNameRows": 1,
+  "useFolderColorForTitles": false,
   "showFilePreview": true,
   "skipHeadingsInPreview": true,
   "skipCodeBlocksInPreview": true,
@@ -271,6 +273,7 @@
   "showFileDate": true,
   "alphabeticalDateMode": "modified",
   "showParentFolder": true,
+  "showParentFolderFullPath": false,
   "parentFolderClickRevealsFile": false,
   "showParentFolderColor": false,
   "showParentFolderIcon": false,
@@ -453,6 +456,7 @@
   },
   "customVaultName": "",
   "pinnedNotes": {},
+  "collapsedPinnedContexts": {},
   "fileIcons": {
     "Work.md": "briefcase",
     "Library.md": "book"
@@ -521,7 +525,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "2.5.7",
+  "lastShownVersion": "2.6.5",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": []
